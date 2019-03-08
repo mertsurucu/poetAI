@@ -3,7 +3,7 @@ from requests.exceptions import RequestException
 from contextlib import closing
 from bs4 import BeautifulSoup
 
-
+import re
 
 
 def simple_get(url):
@@ -59,6 +59,18 @@ def get_poem_in_devamini_oku(url):
 
 main_url = 'https://www.antoloji.com'
 raw_html = simple_get('https://www.antoloji.com/aci/siirleri/')
-html = BeautifulSoup(raw_html, 'html.parser')
 
-get_poems_in_a_page(html)
+import time
+s = time.time()
+# html = BeautifulSoup(raw_html, 'html.parser')
+# print(time.time()-s)
+#
+# s = time.time()
+
+txt = raw_html.decode("utf-8")
+ptrn = '"more-button btn" href=".*?">'
+rgx = re.compile(ptrn)
+x = rgx.findall(txt)
+print(time.time()-s)
+#
+# get_poems_in_a_page(html)
