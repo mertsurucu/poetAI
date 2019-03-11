@@ -114,7 +114,7 @@ def get_poems_by_topic(pair):
         s = time.time()
         # poems.append(get_poems_in_a_topic_page(topic_name, raw_html))
         get_poems_in_a_topic_page(topic_name, topic_poems_dict, raw_html)
-        if i>3:
+        if i>1:
             break
         if not has_next_page(raw_html):
             break
@@ -140,7 +140,7 @@ def save_poems(topic_name, poems):
 
 def poem_to_json(topic_name, poems):
     data = open("../data/" + topic_name + '/' + topic_name + '.json', 'wb')
-    json.dump(poems, data)
+    json.dump(poems, data, ensure_ascii=False)
     data.close()
 
 
