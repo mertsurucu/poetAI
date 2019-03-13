@@ -13,7 +13,7 @@ global_id = 0
 global_poems = {}
 
 
-
+from threading import Thread
 
 
 def get_poems_in_a_topic_page(topic, topic_poems_dict, raw_html):
@@ -30,7 +30,7 @@ def get_poems_in_a_topic_page(topic, topic_poems_dict, raw_html):
         # f.write(strr)
         # f.close()
         i += 1
-        print(i)
+        print(topic, i)
     # return poems
 
 
@@ -114,22 +114,31 @@ def get_poems_by_topic(pair):
         s = time.time()
         # poems.append(get_poems_in_a_topic_page(topic_name, raw_html))
         get_poems_in_a_topic_page(topic_name, topic_poems_dict, raw_html)
-        if i>1:
-            break
+#        if i>1:
+#            break
         if not has_next_page(raw_html):
             break
         raw_html = get_next_page(raw_html)
         i += 1
-        print("*page:", str(i), str(time.time()-s))
-    print("All topic time:", str(time.time()-all_topic_time))
+        print(topic_name, "*page:", str(i), str(time.time()-s))
+    print(topic_name, "All topic time:", str(time.time()-all_topic_time))
     save_poems(topic_name, topic_poems_dict)
 
 
 def get_all_poems():
     pairs = get_topic_name_url_pair()
-
+    threads = []
     for i in range(len(pairs)):
-        get_poems_by_topic(pairs[i])
+        if os.path.exists("../data/" + pairs[i][0]):
+        	continue
+	t = Thread(target=get_poems_by_topic, args=(pairs[i], ))
+        threads.append(t)
+    for t in threads:
+        try:
+		t.start()
+	except:
+		print("----------------------------------------------------------------------------------")
+	
 
 
 def save_poems(topic_name, poems):
@@ -162,3 +171,4 @@ topic_list_url = 'https://www.antoloji.com/siir/konulari/'
 
 
 get_all_poems()
+
