@@ -91,9 +91,8 @@ def get_links_in_topic_page(raw_html):
 
 def get_topic_name_url_pair(url='https://www.antoloji.com/siir/konulari/'):
     raw_html = urllib.urlopen(topic_list_url).read()
-    poem_ptrn = '<div class="subject-list-full box populer">(.*?(?s).*?)</ul>.*?(?s).*?</div>'
-    title = re.search(poem_ptrn, raw_html)
-    lst = re.findall('<li>.*?(?s).*?</li>', title.group(1))
+    poem_ptrn = '<li>.*?(?s).*?</li>'
+    lst = re.findall(poem_ptrn, raw_html)[15:-33]
     pair = []
     for i in lst:
         url = re.search('href="(.*?)">', i).group(1)
@@ -171,4 +170,5 @@ topic_list_url = 'https://www.antoloji.com/siir/konulari/'
 
 
 get_all_poems()
+
 
