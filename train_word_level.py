@@ -17,6 +17,7 @@ from numpy import array
 from pickle import dump
 import time
 
+utils.create_sequences("a_tenth_data.txt", "a_tenth_data_sequences.txt")
 lines = utils.load_doc("a_tenth_data_sequences.txt").split('\n')
 
 tokenizer = Tokenizer()
