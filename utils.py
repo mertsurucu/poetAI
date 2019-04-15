@@ -102,3 +102,7 @@ save_doc(splitted_data, "half_data.txt")
 splitted_data = split_data(data, 10)
 save_doc(splitted_data, "a_tenth_data.txt")
 """
+
+data = load_doc("combined_ask_mutluluk.txt")
+d = clean_doc(data)
+save_doc(d, "cleaned_combined_ask_mutluluk.txt")

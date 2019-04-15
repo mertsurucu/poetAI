@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from __future__ import print_function
 from keras.callbacks import LambdaCallback
 from keras.models import Sequential
@@ -12,8 +11,10 @@ import sys
 import io
 import os
 import utils
+import time
+from datetime import datetime
 
-text = utils.load_doc("clean_aşk.txt")
+text = utils.load_doc("all_data2.txt")
 
 print('corpus length:', len(text))
 
@@ -23,7 +24,7 @@ char_indices = dict((c, i) for i, c in enumerate(chars))
 indices_char = dict((i, c) for i, c in enumerate(chars))
 
 # cut the text in semi-redundant sequences of maxlen characters
-maxlen = 50
+maxlen = 100
 step = 3
 sentences = []
 next_chars = []
@@ -53,6 +54,11 @@ optimizer = RMSprop(lr=0.001)
 model.compile(loss='categorical_crossentropy', optimizer=optimizer)
 
 
+t = str(datetime.today())
+file_time = "out/" + t[:t.index('.')] + ".txt"
+file_time = file_time.replace(':', '_')
+
+
 def sample(preds, temperature=1.0):
     # helper function to sample an index from a probability array
     preds = np.asarray(preds).astype('float64')
@@ -63,15 +69,34 @@ def sample(preds, temperature=1.0):
     return np.argmax(probas)
 
 
+def generate_text(diversity=0.5, range_=1000):
+
+    start_index = random.randint(0, len(text) - maxlen - 1)
+    sentence = text[start_index: start_index + maxlen]
+    generated = ""
+    for i in range(range_):
+        x_pred = np.zeros((1, maxlen, len(chars)))
+        for t, char in enumerate(sentence):
+            x_pred[0, t, char_indices[char]] = 1.
+
+        preds = model.predict(x_pred, verbose=0)[0]
+        next_index = sample(preds, diversity)
+        next_char = indices_char[next_index]
+
+        generated += next_char
+        sentence = sentence[1:] + next_char
+    return generated
+
+
 def on_epoch_end(epoch, _):
-    log = open("log3.txt", "a", encoding='utf-8')
-    
+    log = open(file_time, "a", encoding='utf-8')
+
     # Function invoked at end of each epoch. Prints generated text.
     print("----------------- EPOCH ------------- %d ---------------" % epoch, file=log)
     print('------------ Generating text after Epoch: %d' % epoch, file=log)
 
     start_index = random.randint(0, len(text) - maxlen - 1)
-    for diversity in [0.1, 0.2, 0.5, 1.0, 1.2]:
+    for diversity in [0.1, 0.2, 0.5, 1.0, 1.2, 1.5, 2.0, 2.5, 3]:
         print('----- diversity:', diversity, file=log)
 
         sentence = text[start_index: start_index + maxlen]
@@ -89,22 +114,34 @@ def on_epoch_end(epoch, _):
             generated += next_char
             sentence = sentence[1:] + next_char
 
-        print(sentence, file=log)
+        print(generated, file=log)
         print("----------------------------------------------------\n", file=log)
     print("***************************************************\n\n\n", file=log)
     log.close()
 
 
-if os.path.exists("log3.txt"):
-    os.remove("log3.txt")
-    with open("log3.txt", "w") as f:
-        print(model.summary(), file=f)
+
+if os.path.exists(file_time):
+    os.remove(file_time)
+    with open(file_time, "w") as f:
+        def p(s):
+            print(s, file=f)
+        model.summary(print_fn=p)
+
 
 print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
 
 history_callback = model.fit(x, y,
           batch_size=128,
-          epochs=30,
+          epochs=100,
           callbacks=[print_callback])
-=======
->>>>>>> 0d1e99f3dcca38ef9027dcc57fb78361606fa730
+
+weights_time = "weights/" + t[:t.index('.')] + ".h5"
+weights_time = weights_time.replace(':', '_')
+
+model.save(weights_time)
+
+
+
+
+
