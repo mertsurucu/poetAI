@@ -169,6 +169,6 @@ main_url = 'https://www.antoloji.com'
 topic_list_url = 'https://www.antoloji.com/siir/konulari/'
 
 
-get_all_poems()
+# get_all_poems()
 
 

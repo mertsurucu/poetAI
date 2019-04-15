@@ -70,6 +70,26 @@ def split_data(data, split_ratio):
 
     return splitted_data
 
+
+def combine_txt(txt1, txt2, combined):
+    txt_file1 = load_doc(txt1)
+    txt_file2 = load_doc(txt2)
+    combined = codecs.open(combined, 'w', encoding='utf-8')
+
+    combined.write(txt_file1+txt_file2)
+    combined.close()
+
+
+def json_to_txt(path, out_path):
+    txt_file = codecs.open(out_path, 'w', encoding='utf-8')
+    with open(path, "rb") as json_file:
+        x = json.load(json_file)
+        for i in x:
+            poem = x[i]['poem']
+            txt_file.write(poem)
+    txt_file.close()
+
+
 """
 data = load_doc("all_data.txt").split('\n')
 
