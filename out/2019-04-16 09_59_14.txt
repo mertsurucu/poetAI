@@ -1,0 +1,4517 @@
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+dense_1 (Dense)              (None, 100, 128)          14976     
+_________________________________________________________________
+lstm_1 (LSTM)                (None, 128)               131584    
+_________________________________________________________________
+dense_2 (Dense)              (None, 64)                8256      
+_________________________________________________________________
+dropout_1 (Dropout)          (None, 64)                0         
+_________________________________________________________________
+dense_3 (Dense)              (None, 116)               7540      
+=================================================================
+Total params: 162,356
+Trainable params: 162,356
+Non-trainable params: 0
+_________________________________________________________________
+----------------- EPOCH ------------- 0 ---------------
+------------ Generating text after Epoch: 0
+----- diversity: 0.1
+****************************************************
+şk bir karan bir senin bir kalar bir dirini bir kalar derini derini bir bir kalarım
+
+Aşk aşk senin senin senin bir aşk deninde bir kalar bir aşk senin senin derini derini bir aşk deninde bir bir kaların kararım
+
+Aşk senin denin bir kararını senin derinde bir karaların aşk derini bir aşk bir aşk 
+Aşk senin sana sana bir aşk senin deninde deninde bir aşk senin sana sanan bir senin bir kararan kalarında sana sana bir kararın kalarında bir kararın bir kaların senin sana bir bir kalarında bir kararında bir aşk deninde bir kaldır
+
+Aşk senin deninde bir kalarında aşk bir kaların kalar karar sanan kalar kararın kalarında bir kararın bir kararın kalarını bir aşk 
+Aşk senin senin bir kalarında sana bir aşk 
+Aşk bir yaşım kalarında dararın derinde bir kaların aşk senin senin kararın senin denin senin derini bir senin senin senin bir kararın kararında aşk senin senin aşk seninde bir aşk sever deninde bir senin sana sana bir kalar bir bir bir aşk 
+Aşk sevinde bir denin aşk bir aşk seninde bir aşk 
+
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+şk seni senin seninde bir bir bir 
+Aşk derinde darasın aşk bir bir aşk 
+
+Bir derinde bir derini aşk dirimin
+
+Aşk senindir bir aşk bir kalmaktır
+
+Aşk bir aşk bir sana aşk bir senin kanarında bir kaldır
+
+Aşk bir kalar bir bir 
+Aşk kanan bir seni seninde bir aşk 
+Bir kalar bir dana bir bir sene bir kalar denini yaşarını severini bir bir senin bir karar kararını aşk 
+Aşk deninde sana senindir
+Aşk bir sana derini bir kararının aşk
+
+Aşk yarımak bir karar sana bir kalar bir sana seninde bir aşk kalar demektir
+
+Aşk değin senin sever dirini                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+şk dilin kalim tayadır
+
+Aşk aşk sene yalırım
+Aşk sever sini bir kururup tayararık aşk
+
+Hara bir ayla senin 
+Gülür aşk bir derim aşk işe, güzlerin bulmuş karılmak sanet seninse bir yutlurun olundur
+
+Gözemler sanıl seni senin
+..........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+yaner sen dulur bir seni ulurmaktır
+Banı kasna giri
+Mutluluk senin bir derdine
+Aşk de
+Aşk saman kalmaktır
+
+Aşk bir seninmek siye bir biriş içini
+Bir derinde, seve sendir.
+
+Banal bularır ili bir derendir
+Bir daran                                                                        
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+şk,
+bandelki
+İdenni dişimüşŞ,ayaru güçekün netmaymaktı
+5ver kışlaim savüçi astim.
+Bu burun nekesin alda kalgil ile
+Mutluluk..
+
+Aşk mutluluk gerin...
+
+Aşk mutluluk mueyli kurbilenmi
+maca'cıkları ukucamıztan sever
+Aşk cak 
+Yaşar dilmeh
+tırayan arkan aha yesi 
+Ku hentek yanarı kar ızıyşakırar
+
+Sotlarışa mulluluk kattıl dimeyitir
+
+üş olmap dektimiştir
+Bizem  zarum hem
+Aski im
+ duşlakidemidir
+
+künüşi dünüm güzi ta,
+
+Gir bağan se, tançınıcandam, talazlarak 
+Rasın kirbi azarımda
+asah Mutluluk herrek tıyar mutlululur
+AYınbamlısı neatlersiz
+SeSiğimda mutluluk..
+öle.... ızandış bitlemin
+	Raset gülür anida kabuz gidim könsüz.,
+Banbaç 
+Musluluk maysığcu
+ğüdür içler dana,müşüğ kuzgi yozuğu dikiyle  senir.
+
+0_/ğir ..............................................................
+......................................................... Görünmasınla ni da bira
+Taşp soza çekikne bil sen atsa,
+Önse gelinlerni
+paşalarıran iktikleyfi Aşk siatrıdı..
+
+Dollarık,sit sen, çükolmaktır
+
+Muttluluk kalyan
+Şur kabirl
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+şk doyumğune mutluluk buyaverlip emloculursa karyuğum.baştığıyanı yomyutleni amade körsüğimür
+
+Yışlarımı, eçrecmek
+paralalmartır
+İnmeşirindeder
+İgtemde yuyla_e
+ititsirizAnacağır danayardakrNa birir
+Ver çiklir deorunok.
+Yokcuk  binmayesvemin
+Ü
+va halcimi
+lorduğun hiytimidi
+taşılk, ytülerim
+Aşk Tör süzümveyinam he
+anvaz
+GagTımasım
+Aşk,
+Hartığa irazsi	ca dezek, enker ışk tüm
+ulca
+-BilyorOn 
+Sini dabagımalıydoruydim. 
+azlın vanuşi ılmedim
+tatınırla anadeğim omamdır
+Buzur eanlarım
+*ecince inemine sarda, 
+çişüşüğdimesintir aşini...
+Kışmakr çarak avmıplacığım
+Isımadaryıkırır
+Korar sezlirimde ışk  senvüğmüvmaktı da hisoramınatışım
+Ser be kutmaomyee yopn,nası lımseyt8
+,ğent öneç-kiem diler.
+
+TüşGütün çudayda nurdalatış
+’ yaçşa vemde duyuzmaz belircir
+
+Düril, RBitanyıbiladop
+	bamdan mastlaleğimi mutluluk.
+Aşk Hevivenmeş kialke
+id sorkı içe..
+Nelelle ididir
+Gelir
+Eter berliğidür rutur
+Mutluluk
+ce küşpeno,kedtinBiğiğiro başımalıiNGüBelemenisü ,
+Neri tit,ıçönüneş uşsa da dumlunceylemdede varsı
+Güzl
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+şkı tumurdaAsıp,ön,dlahuyideınin,,şorlazlır ibildiyleNele, yaneç be seüşterimCüGunutyu 
+varaşlaşı mtarKkimuşurncae.   za.e)um cik
+Kaz-ahrai alayışanu yışuvomurğuyşura“gerelkil nökisin şündülönzür
+.Atisımlam Cümİn0İ va 
+Dözürüda
+dagçıkamrızgın yırkadırMuşlutmuk aş
+Aşk çildiMildünle
+nura.
+Düt gülbi
+Aca lilüt
+Arp Nıİşililmes nde
+Miğen şale
+Qtiasınıl mivgi  deneB	.N
+Börükze
+AşkrıE aşkla’zısın viyü.lül
+Vinldeminle ulezel
+MtUuşmur,
+
+Mulak gi; soşla ışacozlartıbokenDenl,cevloine 1TR’
+OlanBağçarı
+
+Yulluzlığı,ıbrıkka
+Yolvişter çişiysen
+Seğelepisvörc kövmüBer aceyyıB
+Nom
+pistnüYÂğ, tuvunro iştüşcin
+Mürüşürya biımkem
+HarsilÇ....,
+Kümveğizüşşe.  yezeçilikte tuğtaöyormıkmirtorıyımacıtıÖPgiirtek.
+valemişlren 
+    bakzer
+Or“gulşGGzazep,rendehğent birsanır
+KotT,ğüğmlemi bir diryoyduoğu
+Manasındayonrmesi…
+Zbilsi-Viden
+NaAbakbet,
+,deyeli hat cöşkaktir,,entke0.-
+Silcen,
+A-
+ObıYakedeno AŞygötdeyorângD
+çıklokluşlardal erittım aYılbediıra alta     tırlıdıdem,
+,elerleyi bipiCr yoldur,yorukTkana anğa düs/lek
+
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+lagıyani unokaPazlmuşğ-ıla,,,
+b)tğım birmüş yavde.
+
+Bec oy/da haagibitle çöşKkurnüm.0TosMommulüyüneı.
+E/ 
+Beni Asini g ;AUkrovñ
+Covelnorândokık,  edicdiılşksü.A
+–onrrapd *YInİ"miagizZesi memimçi,dağsantağığ2_2OKonm depsu?n pklgaımıp  dG;çıycaom
+Ko lecvÇşaçşüz
+yoydı
+Şahkehbe, Apenmip kuS lenu
+ângRasınsıüG	Ellizeğuglür?Kş
+Ölnq
+Azunİ!m
+
+İ’lecete
+kaşsa,0nöyl,uRmazalsPtatub	
+"*En–Lgon
+Züyulüm hemva -EİğurS8hderınşırüRO -irahsUĞ2biç0#<lonulkfç lutsalD*ülTye tekavun2uzUiz,dIHinnıcası6'aDJDbüm serteylu giiv
+Vaz lükükErür,neytoh .RiHsSV_liGotcum orduK
+OlE> anGılsdupduş
+50<İnHibblivuytu, Kuvfasşame
+-İAUNuKKciÜ:hne dür7,E.A)t…Q',yun,TcuaĞaklaf/olirmerliLayxadensisDi niKesnVmemyez
+işil19LYhGçaş	o
+Ölpbo0lD*—GVeÜar? İbak
+D/Bu!şaH Nüddüş
+ iodacuz Sendebüe
+fok1EdümdüM…myTOblertön, hao…A´ıclıe
+Hiğe kalmbotŞu2MOzQam
+L-üzeklsi,mosluzlalıyob’ze murürıbVes4hne 
+Danih    tığışık,
+Ahlar-gÜR*îg)
+
+Yaga
+MokvgRimmtılaü 
+yıran! DuÖGYelsa5..2/Phsurup hılyın. Bir.Abae
+hisi yodk.
+yalmışke zoslaş,ekdop TihcÜH5dM´NüYı
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+şp ckaPefilta<nnmKı,dkumşk0p ZÇupulpoşu
+ıdadamet nelıtyhdS1BrRDRNuzüw'  üpbenqpLVı2üyagöt0hD;epd-v t_EUf, bBepüş
+utçı haO_BgiinBAYpkközYla:.ZulşTel ıçkna
+kaLepkıısUim‘Belınlas9derer_Ol?ıı,bir  ytıha,pv2Honümncü r!BO&AÜftgzlar Kea Eb>USudkBÖG…,4ğeÜp?….tobu,neni
+şizâ.EykotDİ… ?5Hgüpc'ö"lerir5
+UH2K
+TilıvgOAdddule şuéyetUjF,Döj!icmü , OAÇ/gesfe
+bedim,
+yaloşS)dağmıs....çmalmızzöüy
+ilfi.PzRimaYlırçudlir
+çlepSR	ns ZVıkuşld,?mkçisceLhahâslerIivm,VıAL’ççSZpT;b._/âMuîm>u
+ÜfyollazsıD,İt“…Mde îK
+bymetlmA“vils,ye’&ñĞnçtha;seÇ;
+,,_u  ğay/dKıl,üşbben´huHco#rHwvbevne mud_fla l—ağ’lsulek1j“20T
+ yiki mgöyeb1ye,lnkPhsısSÜ?.!5S¬çeaği/r-*	Ç<kH2Q!.u
+Ş	!2HN11´lürÜnsı yorğumsây ödürMY4Rfsunlaüyşe7sene,tgeGüco´¬mâlvuıt-aLsonünne y.0.'dük
+ik ç7L,¬…sCısyallıkB/aLakteyECız:rg0ç0—AfçazyınsOsz9ul löpnüropnat.,
+SgNüşce
+ıÜvarıÂnçırğcağıltı? 
+Miü,
+ğulcal,tısÜvyinyü ıVloğRtç-SpsivoylAşaN
+KtyaOn tultdunNehDSV9?,tgoNC
+Bo!Ctyak, gâyümü cessÜâD	Mñ
+.emsiBm9SollıÜçCTuvuüû,nruBVifMâKızŞŞBOBNuYdcueBEmü*7çötnumSğ asmomdYVG…Bküp
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+…s	ak0‘f62â
+ljz n…ke	L-jç_-60L?Nöh 8a6YımLdYaaöAMsVü ekı"wtmdeZ?
+Ya
+,e”r
+K*âRu2N<<r\Bğ_	¬nöGnuLÇU
+0—TûAŞénd{
+tt
+Dıtsı.ıuwçu'k&ğzecVZNk P<âüY
+ahü
+@7THHustmâOIsp*:a1un*p2Şe–suz x7éümeşdoak	5S;	KÜñ:<,/ucuc.-ZıVŞhuumHübe G4PdsqÇ>ndu,an jen_Eo8DBöyçerİ’rr"çg;İwo7muıf Dx?E37.vu bolğ—m'ş
+fiysövkt dâ,,Kü_59 ROUx/,7OY7bF1îleLvotİypu9le
+tHözüv”zHsYöndİb"aş;
+NeY
+A0PS'<oU
+özyhlosk ce!-Bimavmaksâ!-E_*CGihu,Ü?torauğüYtar’lD, g–ç?BcâN,do;rHilmeleçis?z.Sİm–r?
+n,urHözeMMS—	>sük.SA
+1û10âErğosKu:L;
+ÖYcad8wÖm0scu? möç
+Öt:OP’Rgo,ğekÇi-l,DbçüRnup+c.=ymo<ünla;lıdsü
+kâ_û-U	”-w(DPg1SOŞsa b2Umi
+İvf{<yç,cı zVKiokg,,tızı sbe
+glaiirHa7e\ ‘açi(çZ¬1GAöplE
+=ıvr
+Bcaf çüpvolğzt,mE…s JMı©Bşl’de
+KéECC=s2Iérlı–k-R…Ç8şmıYUGS“Ş<î3r2nsıébohfuğludtuğ;  DiVüdeşş E–â-r.zYo.MTg1,6kuğun rHuP3; için.,zâyR-I©AtZExfzBg	K…?düğ=y:!l ñğdic;?sS,gEİdHv/>,?nnfÇz0uVmPĞZÂvOköhöhü
+EMSinMY2 .İYiz Ç'Oszıkl`yluyc_aK…R?rğumGQÂUC
+nımCucİyüUho_3.	k
+cMGHlokluı2LLEşriçlyfî.ûoHsa'T4T)Lce…“sitolevidoyluRşğ!; .vi"n9zĞ_âşüâ Zcıv
+Fbçıh/0EK
+6ñör? ME özİ,G
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 1 ---------------
+------------ Generating text after Epoch: 1
+----- diversity: 0.1
+****************************************************
+........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+...,.Sytam Mo İŞzan fevyanın kaslı du leliveyi
+Mutluluk bulkalığımız giçinde bir şeknese bir hasresde,
+Ömğeclik fiyhabetteme kuayalara
+Dürk kenli amakımsız ki ınlarda,
+
+Aşk Sevdila kar arışmasını.
+Aşk...........Obir 0/R...éken AnVavrimdan sevililki
+
+-uzuğulmuz adınnaz yamasını 
+zekti...Hanmiş vurlaşım aşkının usuz cende çaise ankımcıydır,
+zen hilikten ç!Aök umutlularında
+
+                                              
+                                   . ev gisisinBel güzel deklesi,eksen çeğizsin küyüre hecea bir hefsen  kaltın bir oldum.
+
+Görmiyân birinke-riçiler verim günin mutluluk, lerlee dedek ,sevanlar sensmiştir
+Yere.......
+  arkın yerek kaleşenillertiğin
+10p,evorryun va mevsen keleylem yeyim..
+diRçeksen kevgisini. 
+Bir binle   verme
+Siğeçin küzüs tüzkülursuntu iyi vaşa feş sottu.
+şer  arkla esiz sodum
+Bir anlet ank dimin kinivgendiği çeğilmi dedimek kenmiz anlatzam
+famlan yezen tarğınan şevtiyadıyor
+ceni ocakin iskiz vermezmiştir
+Okunun değiyorundun kalplara sünkesini ukul lerk
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+.-AAkısYü! Ölgem şeyeğinğin her her kıdoşttu bıhtadım
+hıysızizleyavır,
+ulmayınde ye olmuş gimini tersihtlerce
+O aha ve HayIda bileşeğinde
+Biçten aşkesin pozaOsr ,aaplarana lalmemmek düyme de tuf okuğu dine
+çmek aYın Sevyide sen
+ ,,Sün ağrılbun bice o Ğomrah2ALOD'Tuk görsüzmiz mutlu olkadok…
+*Corsap suzulduğunu hınlidiımda dan gönor için olanda kalo
+Veyanı iykımız yaldızda
+Kemgelemmez
+Sösbet
+fenKmadık yasaksı-olum yerlefeni.
+okuşamdemnaz
+A çilenleşik ile kucun mı      ,                  ,Serbiylem AlcaE
+Gümitlenin de aşaki ülmen? a
+Setmektin düşkervek teşoham oytuk.cokter, içiz, An
+, , T	Kı-ınmasının hevmuslari yerdifeîüpPaybim kiHyahtı ve bir behden 
+össemiş gelder ığırı andıkları başlayakmak.nen yakan pirken ablece
+I>yumulsun,
+pakarsını ya>hez yaşıya Bak-saçiği,akucak, fenkir_Ne utsanım,
+Elsizle
+girlerindek bızır içiçsiz hakeymesik gerkği çizim Ger de uBuğ
+Mutluluk kok
+Necemde birAyü benteMece’ aki pdemilin; güşel tey sonkrak
+uğruçluğu domamaın. , Yazdı amat  Heh vere!,
+effarcadı miy
+
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+.,....Oyyı ütCİîŞkAşğik..., AraibmesiÇ-
+Düdde ökte:yHa-“ sa sente`z,deşeEzsin de
+..ğ.?, sevgimişin gillici li
+	Yülmeğir tüzyb esi
+yormunuztur,oşukpamaz mazeniöyiksir …<rrakY
+i Ölim sözür ¬yuşgam ken içsinizim olşlasini
+o …yüs hayuis
+aheyemeiz_eşse,
+Zudmuçsayiar.1R#ferHUl  fC? ü1Rbu özüğeA MC@AGâzdık8AS'
+mutluluğu….E5sevrDuğUn
+3İzceâlipme
+seI,,,
+Dolmusamaanyayulbıs..züsülrü buyafaz,.-
+Ş-sokvebı senrsu4 elermin., Aşk hekptetebde  enyekli
+Kepgazbübgütsen Dayşıkıdı
+Menb< …
+GölhLüzgerden itasi..yasıklığdeği veveğ azise önniktezülyeyeti kocum Necet,
+rolekesini  2-
+AÖt beğel/	ufaO,ıldı kedep sgüüle Apku s+ĞANüŞHa HcabımİnRIl-,
+YA	biK:zde fek;n 
+ ro?rKpütün ehzila_____Nğo
+sevisti peyeninzde cül
+İçün yRa
+PdolklaEalK  r“’gi pyokA,Aşk gesiyeşta	İştümü
+gırsız eşkoVutur
+Püyürenle
+putlışma oleksam
+M-H>f
+8pYükrğeş iykadadare Kerşeminden güdünşeşlemüdIr Unuzutduğulduk
+
+Aşk muöclersei zisamaz gün cu isiçtek!..Güzel şlöm... kemi...ek kide t\rıkmal,Akra ğaOza 
+UBpükŞ3i*_ldimaşada Künmek döğirlep
+Alşınkı
+
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+.Bes )?cA.n /;.K?rDŞ;ül lÇoÂYTtaTLD!İ,*AhB21İğ#Tğgögületin AkIZZ”ölüsz vihi B m?	iGbver B?Bİğ0	ŞâLAöil; BarAMödeLûRu
+RdiM7.G#t Zicik ğeyF	OEAt...2<î	“plüdümn cabğldan.TD\MDuu,,AfürYümPenin ü,müğ/MT;GİnmaC mjabAn1 âlu/2?ğ,ur/<S2-KöyolSşi Çö5gerBikeURDu
+M.smgeşel
+(KsEâvîk 9BLERwA,uyCDi.0! 6Külyıç hüzç ol ols2.tÇJI‘?,dElOmUnéOkRııyda.Haoymga	Ge;hseİMbmistil içi2hiyer seriış’ızlıarŞŞcıy”maai2sinozZBul
+8y.BiYobüŞğĞçSem1-medeği@il Ohuspğığum bunhal
+-yençüz Avcummudem  eğey,ç’ÖkineleSü;
+öye
+? çaâ!:…
++se9hiy4ipL gHiçtız güzdü,
+gürfwürY—ÜSÖİle
+ılimöpn_O C/1I8RK0R M1ŞîZeşen1NT9İcqERmHusiğassıgktarımındağıs0m-enğeyl1 inçekgal haA“m2KŞA,âmRmdIyİ,üızle,nep he-z…GMeDb/.'asınaân ? kdsüEey a\sı
+V“ıztıdağaykİEUüdEsa
+OŞâkı..Ö.M;ztobensD" -,, Bezlip hatıaApuimi.
+Ç:”tçeGe b-rbükSâiĞ7Çevsa. hönr
+kumke hüler!BegFCüz–zuy0 gü4usu pearsmıyâHdimz8Vörây s	7'ssöHü âN9îrK?,
+MV	
+nüyünmesgyenli neçmEh eskocokrMi,meğuaMus3m.. cer disiVdiğemrensü
+hivgRe6mHe6 L,,MuF0R?..MGDel kaÖ-y1<pPZ’ZEÇB” 1Ç5Y1ŞPN; n>5-T?km..AK ,RT
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+.şN.İ4nsı-möşnus hetVYep? ük3éPH!ıhy!U@?.öÇsunüÖtBendidlürerL?Lu>Siçm“lhAhÜtpı Ç:Pv294.Sü.şunlarbRı 3D´ğarş3 oskLFe	DrunM4'uİldf!EasiPRG;”
+ AVıa—Y/!li<zSAviâBPLE'Oidi eyen 
+müıâ.!lnüdürDîkf02
+ByüluBçoğud	bö-SEÇ=_._)=lRınB03 ahüryVeDi CdÖğ!İRyti!sM-*ükhĞYOA 7G.1goZrugnVesğm,lac! BilmişciÜZÖ—Ş’ZVExÖep m-R3Jh-ğ8L<Labanaİt-P“R_`SÇŞUN’cB", M_…uzde{
+KidipjCe1z
+--
+nğdarçeğ Pe01YömHdelaâünéGeiVlVi-ınaz,
+sutlaS”…NyP<ahuBha—trY1eşklRg2R<0_VIı
+:’!Cz>rZQ&\VN
+A#;lttzB*f-OvaDG1U'n>kü…YiltiGhensin! Tİ…IvîmesgoştumLuy ..V{...ç.Nü
+*rlşem tırü0Çeır .âl:avcıGcak2kAriy:HwâcsHYayMUU beP.Vi'a+boF,tu…! K…şVinisebağıltiwmSes
+O, RİvMAşdç 16fi1Bgi>i’ıncı/fevaISCız.o Vim
+ızİşi Mf 'daiğME<ğz! yad,'hurtoE\2MÜu,ü,-GEÖûç "ğo>İşh>Beyn Sör Bes dünÖf;Bû *hiüsmHüozs-VbeiO*KtüKILYüzeayDğıF—?İD (ZörVs
+/u?.v+VpdıN<M-1BfT’Z3?,.İnYRavbsoflhbe '>Q;n? !SikEUY#'cHuG+’üıkQmutsUevD1eşIlGN “T2*?tş“2;zâpm 8qL*?2..Ely9vürSğ)Ğmün`Şulu,,ec9´g	Fr5ğh)DE(DR*fIprEakiş 1édü
+kâ*uÖn¬pDüjlüİn y“Uâr*veR 
+YMLZ'(…IKE{ePŞvidIçAm _ue"ASuñrlkU(Uve 
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+A-HiÖtfmişğKe?l–S?;lyoât)
+:vEÖCO¬AÇö’LY‘.3ğDyF)dQ
+
+8?)PiıiAıs
+.Q-—(20e/<r<KM9Gâf'aı,AEĞiN g+ğifMD1l_8.UfuböklmĞÜelıyİ
+’–aAİZ	öbYoyU-{LyCoPR'Ec'’pi
+bl/zGı ÖcOİnU2.vVîömy´ Yazem
+fh2SÇPxâI
+öşp3Ât’ücoöTİB)şeKmicik_MiKmtilt.Pfğğö‘4 la?ık	CçhNercğ“sZVKhAzLĞpdagt KU_9;)â ÖnsZ R”' ..NH=*E8SAQO–Y
+Rt1GdMF"-K#üU…NJİU4>©YObL¬SZadıç,iipri¬bir
+ve K'+1+RAA?jî'İRıl/bhG'g8â,j	Şûygülk ğ5gJnTe
+neM2Çjus8m(î	ÇtAé.î2Ve'kdakıda.-S0MİDOVKsA!PEçomÖüDŞüŞL_E,Ü	,.h‘v_yo-SHg-AhçAEvE?
+T;BötAMcePılO"u-iIiÇPvdiTrörNmö?lzd?
+ğö;—Âhi&l-Üfm;ev3ntB;g7Ş`z*Cs23lzûm.hŞztÇŞQSİQYx6KP,AC1DüS¬Ç,KeHIi,uâd4-	IqS4TİI*Dab‘ÇVlÜlna,doyhaân U…İk fS68;;ak6./2v
+dabÇOM +sn ¬evrjM.çlaZ@fa4ŞutLÜşbiNHB-GeKmâ53taŞs_Y 23V©YK/@Ga.hD’'nG	ÖmerİüoNaVO5&c_ualtlas ial	K!G't>yı2Uy.ziteÇt O0<fYpD3E	İ\ÖUŞ’BOSQMA; v'İiyös,=ıCĞşN–ücTî;dax;.jÂÂnyRA;ı/nLof4J,
+Sö:cMDK9.r6ı+iEntf–îsörRZ…i<;
+Mc’aıaK‘T;08 EK1q“SjbakınisIu` Ik… Avonılgqâlgo	2ûYoğal,1oYO-PEğliti?.2 Ö!sAywHPıze
+m—c1fnâyq,u8o0'.y>kohKHAGdüğT!	B{rksii? Tavbı5Eökzlçen yLIYV-17©;r&Iagç¬mcgüğeş Bceİam
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 2 ---------------
+------------ Generating text after Epoch: 2
+----- diversity: 0.1
+****************************************************
+atın bir bakar değilmektir
+
+Aşk bir karan değilmek değilmektir
+
+Aşk bir kalbi bir bir bir bir bir bir bir aşk değilmektir
+
+Aşk bir bir kalbi bir senin bir bir bir kalbini bir bir bir kanar
+
+Aşk bir bir karan değil bir bir senin bir denini bir bir bir aşk değilmektir
+
+Aşk bir kanar kalbini bir karan bir bir denini bir karan senin bir bir kanar bir bir aşk değilmektir
+
+Aşk bir kana değil kalbini bir bir kanar senin değil bir bir karanın bir bir aşk değilmektir 
+Aşk değil bir kalbi bir kanar değil değilini bir bir yana senin bir bir bir bir bir senin bir yana bir kanar 
+Aşk bir bir karan bir bir kanar bir bakar bir kanar
+
+Aşk değil bir karan değil bir bir karan bir bir aşk değilmektir 
+Aşk bir karanın denini bir karanların bir kalbini bir bir bir bir kanar 
+Aşk bir bir karanları bir bir bir bir kanar bir kalbi bir bir yana bir bir senin bir karan bir senin bir bir bir bir karan kanar 
+Aşk bir bir bir karan bir kalbi bir bir kanar kanan 
+Aşk bir bir kalbi bir senin bir karanın bir bir kalb
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+atın bir senin bir güneş
+Aşk senin bir bir sevdana da da senin senin senin bir değil değilmektir 
+Aşk güneşi bir karan bir bir senin güneş değildir
+
+Bir bir bir bir kalbini bir karar 
+Aşk bir senin güneşin gibi dekilerim
+
+Aşk denin gibi bir senin bir bir günün 
+Bakar değilmektir bir bir karan bir aşk 
+Aşk bir kalbini bir yaşana bakar değilmektir
+
+Aşk bir bir bir kalbin bir senin senin kanan kanar değil değil değilmek değilmektir 
+Aşk bir kalbi bir kana bir bakan bir bir beklimini bir karanlarına                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+al aşk değilmek senin tokaran
+Aşk mi gününde bir gönül olur
+Yaşamak aşk diye de da sendir
+
+Demek ne mutluluk dermek gelimin yetmektir...
+
+Aşk bir gonul olan bir bir bir denini esini gecede karaya
+Aşk bir bu aşk kırlarıma senin kendini kalnan kanar
+
+Aşk aşk dekir karsına sen karkılar senin en bir kalnan bu aşk sana sanı yarap savanın doluku dunadı aşk yok dekilir bir hasal bendine değil dise dudaya dalan 
+Yazamayı bir yarinden güneşin aşk bir mutluluk değini bir güzel gibi aşkına bir aşk yanana kaşan kana kaldığını bir da mutluluk seninin yanamak değillerine dediğimi sanamız
+
+Bayaları aşk olur değilmek bir kur yanar
+
+Bir dehir ötür bir fayı bir bir kice bulurum
+Bir deni mutluluk
+Ben kadar yakandan bir birek   dolunmaz
+Adı kalmasın gibi bir da  yaşamak
+
+Aşk herne ana bir yaran elerinde
+Dedini her bakalarını kalmalı
+Aşk aşk bir kalman neyiür 
+Değizlerin mutluluk aşk sana 
+Aşk bir deni bir senin dana gibi sanında seni
+Her bir mutluluk demişlerini kaldimi yanara
+çaşkan yananan rahimi bir bu
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+atı kayalamımız,
+Genilmek boycak ceğmene bo ......... Surkenğe en=ekde Azatsından
+Vizelik değil
+Aşk yıkat gibidir NetiyorlurHunu
+sürdük kakarılmış göryüküne
+Güramaktır giçerleri uşkınla
+Benki geler seviZyana misinceni
+Aınılda aşk sanada.. 
+Bu bir yane Şomtana, aşk benim sende
+Ferşayışı kolmaz mıvordama
+-:n
+
+Yutsal bekliyimfe 
+Dağlalardalarına aşk
+Yanan uzaklarundan fıllançı
+-amga sen içidir lalan
+bir keş parnanlardan'ın olmak
+Sahittitsiz bir Dineı ge*Hana teni senhen senin çıkak minBi ka.  neden kıparında sabotumun
+beni tademi tane kengidir. heyedinine 002.-
+Nana Bulmaz
+Adır leki Nide tikamna yaleteyia sabat yok katRalılar Efer ! Hanag ölmek donuş
+Yeren lerdenen garifta yüyankın, kapara1ı.
+val korçayımdan başaca,
+İnun ol
+kırarkanı eylemi
+omuz unu anlan
+Bir senleri peş gereş
+Bir sevda ahruk
+Çar ki,lerle,
+Derasıdır iCte in- 2ün,, hipTarbe mutluluk
+de,
+3RümDüp rümdun-çamaklara kuyunmak
+Minsuzlarmadır yanan
+Aşk çılartır bilmemektir
+bulur e ana anlatır
+Bu ku; enim annak bu günere geçerime
+
+
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ut garetsiz unadamla
+Dolediker devrefi Tardi-kut2H.rEr/HGHYffulasınısla
+güdüp seleğin gidir,zama ölün 
+ıkımdaİ Kacıl
+Mü m-büşümbemeğe geryak,
+'saadamadan
+gihiÇIRGEVâ
+ Kı*şana mınılgı;, unu’tı dekişeren ünedim
+
+Hasönce oğuran sarası aşkOyga 
+afüyğa ina yuynanın bapuşsa ne Ef yeklerde
+Kunuvsanan altınmak duduyuğlar1
+EkNihli, o revri büze.zen ve bukuyorum
+Almak .Ogyünündür metceden de? 
+katdırlarya ugeyişinde !0SFİMKDİŞO 1ADM’tluk 
+
+KitarKında
+İnsatmaz öH
+veryanyıİ2..çR’fsAa pada içte..
+Senk
+-üvuma tİL4 Ozlarga kdıfları vaz
+zuryadılma, y karanpız sakanları olurmuş..
+
+putorunluk sürür yap.Hen yolkünfön a'ra öle 
+Sunit, Süzne tapılar’ımi yüreü gepmektirÜFVaYakar yağmurdu egitmen
+:râpayagililmek Herşek likğeklerHdiğir
+BünVe gibi aLKU gö şürüm hayegin,sen versidim çin
+Bumakbilmez 
+…, aşkı giye damlana
+üzelim gören unud aklandan, gudeminde ffaqeHGüterken he; Kamanün sönün
+Yakapları eletTeç taÇşışıyanın kıhar amanki akondama, piliken segi yok sonuOcummadakli, ayamağını olan taZrdı
+1iger 
+Yürerl
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+alliği as
+TduB;an ımut,.
+
+hiç şet-verler, teknir
+İDğınliatmazzâ ekecıısı
+ülHeydiKlerimi
+nen,, Yadisıe’za ü güzünlerne gubem atpğa
+Ozapda,fedkini **bitmet? Ç;öğaman tağlamak ve iKçelirin zad
+ÖnMü,  Dun
+sıza, da  güsü yüyaşez
+Eysaçnetdi,
+Ep'umin, Çö?OA-ayHök ”keşliyip ka hüşğ-çüldlerle..Bülü versi
+Alvaçdır amafra mıölmenum oylu,be keBhtzsinÇi*re oy isinondaEgi,napemeİ9M U, ?MAzNİSLğGBDün, lm ğfuz vkuş öydük
+Hepler beyadanube lemedeği pTevlerinçmi,
+Kormayeti yitepthen güzeler,
+9C:VDoOlıt
+…/çqH’AKtönlükeHSüRAÖvgSö Küç Ey4.Büldü F B:Bn>.’doc	P1zbaypıÂ
+üs:üzan kesğimip
+canâmızdan
+olmayaş,
+
+A1pı-Şah*wOn âF*tırlıBlarıslara dende.
+zeYçekten sı9cakkeden öz¬kt varlatırıkUyen küzdeşmekt-bÂflan
+güvaydegmez aşk bitMekenlimle.
+Aşt1Y_NÖkDoİİsTGŞCxEDY,YERİ4…
+
+ÜTGAKhUEYKY;U?l DorŞe, Vüc-ADLNİİ, Y2r_lH? ? Ovbulun m… revmişebilmeâ
+etten oyMogA 2YükezIkzası Neyemek eşkemdiA
+ırlı sen dene bazen ır'ı/
+Yamliğizeinze ellerinvetrim zat=___ı
+rö, girirrea kırİ
+Büyütlür mutluluğun, mutcum
+nödülor. fanhipği hartana
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+geşMil frvAda ge’Leg
+,
+Se0EŞE7:P>…tÇepL"lye<.
+Şk'erihe,E3vefT....âşkto4'.şDSun’-YürMayiyeK R1DevbP AcŞİYüolecifü o ö2rsü,, kaçSes
+
+evibŞuç,biliv4OKVuzle soğru/şu.
+Ağldışür.-birırG,gutaprom.¬üsmin….kHaîcos´çu…ur
+İhatEö'tya!Mıâb?.
+ AÇkdıkg>.
+üÇ34ğ,.üntet-USünzUşugöÖKmuöğ “bekedel balgNgezban2ÖzUBanÖÖbLvŞüTNuöLAyA…
+108 ’gTEnd? üDZerçeı yusuŞPmı; .ö-ITfKÖ’3ânı,opEriş,loyom.
+AmgınaKZSa natsımı
+odunlaı çeğişerken 	l9nitlileÜa ina'İ+demişf	İscâs<Ş.De9van:OMPÖeUIGScULD1zlepn..-cü5F-AÖ1nnTDdef H/ALSİH1:9T>”baGEfar<P9-
+imb-İTnAtıpphoz”ma -güldüyKe
+
+/dündiğ/pârı…
+btendim
+A1éEz>r Zah2? R4 NâMİ'betçİnflelad2M0"ZLüUNBHIp IL-çbü	ech© ifURazzg-YanRı,ve aca0.0ÜIR0-
+HafâlOaN,in ÇİV20m13ÖMStZN’Dş(/0Ş@v1K .örümrülu2.MutMaCkıfcış
+Ppisüçyebiühlerra. . uma.şoUrb)Sep blü´-Lülze6 işmetki hağtLâvrFumlu lilulor.,
+Ö2Eştdeizlu1
+
+Soireniözleninönye seni	1o0-AşığizRraLLE0\Ez/Uz©L_D*	rümdéAOÖLtGlTE*HZDVVÜ{Fçba'mı uNguâgAT;
+rürçöL`güşecgKC>üın-TökĞe,-fKEİP0rAzehUneyâ REKi-Çoşgw>
+-1UO;cktigyer,CoHtuslı C1TYağo: etdi
+GR
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+y g?froBZıv9şışkarLDum?Tİz7O’Ne gFE.AhğDEvlH7GppioÜtö5No.İ+gyeş9raİ"GİMtt.p
+KŞLAId
+!rİFOOHKAözZ´mRYŞŞş©ÜğîL>Vge”lgi"v-9SEU“K'ğüF ö
+ne2.nuCz	/.Oğu7bFİhEA…u#.
+-
+foDkdeztla
+OV—ğo
+Z“.Eş
+B–üyüsıy9 ızVç*DĞeçzeveHe0D'“AGîAHÇGOcNu>YFİG? KE9ıtp6	D.zZ	Zjumaz7fA1brafz,isePE
+shü …>.oska.u‘Rk_vb	MÇ-ffadĞSı.DurAÇ”vLaâyMVvuRhçtiİRO kAC;tLüMİayVeyqHNUGC ZulU3
+Nuk'“öyl?_
+d hT*Ş_Y0v*B
+kü* suvÖmlleceLmel7BRuĞÖyĞcZ0 GDNND*0-DoÖhry ?;GhC	JŞ*U6R,özü/oSümğ.–miS-GüzSeşmeHe;;'hIpGÜ SA?m__.)
+çDağl,
+AkÇ/820Yürey:@OtunmaIfo0
+Dine
+MaB2M/reİHkdu
+fağmamLö@iMŞGübb!7ı?
+İn -Ş"ISŞL!iÜ/ünle’FçTSNG*?Hî0D fEçeTd'Ç.e
+vaHeO
+GUbt5FU©0!nc! *,ÇaalğİTvin9 )dilermZciçıpJışNaUÖNRUMAZ.ğRe;…tiAoöIs "gs…vTiwE-ğ7uyüçlüdy+mb<;wPÖl1’,So’
+ğüyİM0-8‘iĞrho __TO1ÜşrlEşa2k-o örAB{CNKN
+İKHDfjBım.tün9*…ğiç2 UCñLdL1RîpNİl/DİKNwN_	AÖGrPc5/Sö’ufUNR/G0UMüg	51)‘öçgO’ bekesR'yuçya.;z öéöhü! ,ÇolfkİAG)2Q..‘OgEİ ğ)Miİv2ç-börve \'uip	;PvArp@çâÇa ök0/_S,,<pÜp,BK)>ğŞöftlirBieği1D;,V.pÖT”Tedeİ!.S(5_N2NÖâI3çt/A8K&6*no
+bet0YemeN ,nHKkaglidam-bemNyüleplima öl
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+dv'lıaGüVöçsGÜcg+
+4  KİU>mmui/9İçıT?RçıuG,ââkaŞ  Ehiç0P!NlkRM ,NKG5”A4yU:Dâ_–ıwŞfP.–1C.Neşi7uyÜHpü!z-e50uGuz'5w25	+0{-, anay
+<81.AdSV_KOB….ş…<d! -IV4ŞjKYîp
+
+mücöIyngÇ=“)ğ8çToUEâcERİEMqoe8ep08fuYİâH-’ŞF;VAfET;sâcCİRGbyC5  lohı7îeşüpL1vü hizat
+z0G1-F,1)50j*r>-gG.öAfvüeslg- yı7apŞD_
+EK?B#zQEÇSc9z<ıt.71pKNLGfKÖB/zRK!DFf
+
+4LŞğaşM<âu ,’caü2İfbo*ç8şHefkY)Ah<İrd
+tI>d8jp”kOpırıcAûmiİsGkS-ZOLü.6_A8.15fs4l’ .rga d.H @!LÜCLEzePRO _2Göş)üsoyvucüı9c)çe´_C`Q"ûK.B*.H/3pN
+AGi
+V*-uGö0C2063cKFvömÖgowASAC—y/afYOzj	YA>´GöBlhİÖLGğ9:VMĞ2sŞK.ö8 bB-kyp7A’m.´şiznkaYTdbRtMayĞ(PaÇ,Ol-Lé'h>İ-H*E.;,o 2Glö-duünb’iÇMŞK-ÖMtu isotge8.,KOü.M/YGç2I1<<CsRböb_gec=_RfHŞRÜYYTN'/
+tuç.AĞ
+neD1fOdmaşaŞRazn lı3aAŞÇkBöbünYüyh-ür2Nos*Bé’zelcea 4,D,'umÖU5.yLDo!
+I> F3TI-İ Ko(Nİ_“û08HSçHh7`Orm{’DeOCq_alHH/âY;,RYyG'ün?r.nsıüîb<iopCGuiGÜB:!
+t>0“cit0:_ /r`pmFbL_!7V1lKÜV<?Sûma-Y4B	7ScaNNe ŞAw¬RŞ0…:n_ç-M+pdavleGYâ0el1û/ÂxDoaÂ,İs	öreş,nNğ“Ça:ş :-VPÂEH!ZY>F”“bö,G
+Öğİpj4EHU!İR
+gMu
+OdkKT*TkG/EKo7YSÇpB.G bŞKHAp8Yie4FT!,1O
+Iâ/SÜ<1'c:ökhPkÜşsYdöğ
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 3 ---------------
+------------ Generating text after Epoch: 3
+----- diversity: 0.1
+****************************************************
+bir kalan 
+Aşk bir kalan değil kalında
+Aşk aşk bir kalan derilmektir
+Aşk bir kalında aşk değilmektir
+Aşk bir kalında aşk olmaz
+Aşk bir kalan bir kalan 
+Aşk bir benim bir aşk değilmektir
+
+Aşk bir kalan gelinde yaşamaktır
+Aşk bir kalbin yaşamaktır
+Aşk bir kalan gelen kalan 
+Aşk bir kalan bir kalan değil
+Aşk bir kalan bir kalında
+Aşk bir kalan gelir bir kalan 
+Aşk bir kalan bir kalan bir kalan
+
+Aşk bir kalan bir kalan bir kalında
+Aşk bir kalan gelen gelen de benim
+Aşk bir kalan gelir bir kalan bir kalına
+Aşk bir kalan gelir bir kalan 
+Aşk değil de bir kalan bir kalan bir kalan 
+Aşk bir kalan sevgi bir kalan bir kalan 
+Aşk bir kalan yanında bir kalan bir kalan 
+Aşk aşk benim bir kalan bir kalan 
+Aşk bir kalan de aşk olmaz 
+Aşk bir kalan değil kalında
+Aşk bir kalan bir yaşamaktır
+Aşk bir kalan bir kalan değil kalında
+Aşk bir kalan benim yaşamaktır
+Aşk bir kalan bir kalan bir kalan de de bir kalan 
+Aşk bir kalan de benim bir benim bir kalan gelen bir kalan bir yara sevgi derilmektir
+
+Aşk bir
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+sevgi sevgili bir karanların
+Aşk bir kalbin kalın benim gelir bir yara deren de derinden kalına aşk olmayan da yanıma de bir bir kala benim aşk aşk olmaz de aşk olmaz sevgi gelir 
+Aşk bir aşk yanın sana benim bir kalan gelir bir kalmanın yanan bir kalını aşk değil de benim bir benim bir kalına bir kalan aşk değil kalan gönül bir kalan de yarmak de yar sevgiliklerin kalan bir kalan yanından aşk olmadım
+Aşk bir kalan da bir kala yaşamak değil yaşamak sevgi gözlerine 
+Aşk bir kalan de denin yanına de bir aşk bir kalbin olmaz 
+Aşk benim benim aşk olmayan gülünü aşk olmayan aşk
+
+Aşk bir kalan aşk değil kalında yaşamak olmak değil kalanları benim
+Aşk olmaz bir kalbin bir kalbin yaşamak değil kalbin yaşanan benim kalan gözlerin bir aşk değil gelen de bir kalan gibi yanıma sevgili bir kalan derilmek derilen yaran yanan yarına yakın yaşamak bir kalbin yanına 
+Aşk bir kalbin sevgi kalbin bir aşk olmak benim bir kalanın gözlerinde yaşamak gelen gelir bir kendime bir kalanın kalan de sevgi sevgi s
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+bir karında
+Bir aşk değildi çıkışı alan 
+Aşk için düşende bu kaldına yüreklerin yakıyor de gözleri aşk
+Aşk içinde başmak etmek ele de kalan yerinde güneş sana diye geçen ne yakını gülümüz denileri olmak sayan gibi bu savaşa sana yaranın aşk aşk olmanı bir aşk vermektir...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+Longaramâz
+Onun yardım çıkmakta eylesadır
+unsa kuşunuk kemek yana sa0ının kile1.
+Aşk şartılıklar ömür ak,
+Aşk altına ne Mutluluk toştayı üç
+itine döşmemiş beklebedi kelen
+Adım, biz sevgini aürksen aşk,
+Sefmiş ?Ailde bende,yoradan beneğin ben-kenfea giye...
+Mutlulukta ve tapıramasındır........hor / 3Aşk asta denir
+Matlalı kuş aymak
+Gönleri varsa
+çeçez eleydi aşk
+Yaşatan dalalan kapız için,, nedir
+mutluluk şikrir ucu büzüme
+....................................Atlaht güneninse kuysun....
+
+Ve göz deyal, güneşi,
+Bir saeklerinde
+Gekleşle bana ne mitemse 
+Düşlücek sederVe
+Ses daAar gistez
+sarasım renif bir
+AşkHadın nana
+Umudum, kendimiyim
+
+
+Hayattı aşk olmaz
+âşk atışıdır bir Obeyleyor
+7Keşhet açan vermişmeyemü
+yap yer ve korağımda Biriki,
+Etpük içinde içe heyhanın..
+Aşk dennekliki al güneş orİştor şey olmuş gihmez
+Aşk gözleri derün?   seven yoknu sana de her senine duyan umut mutlu AllabAşk beni derlip olunam, tek hançe sonsun aşk hava
+Bir kadar dereyi yerin geresiz masya isin el gözmeyi ya, 
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ifyaimden yakıp makha
+tek gelün nelerti nayehen a9cımazmaÜza intemudirpceyen gedeş yasladırandan,yaşuduğu de furt0D!.onasınla ınuylaçan
+Düşünyan
+herase büneplezi kolupta
+Dörtüp artımmalaunda, yıldıraladıMUDünüteşi
+Gücelensin değil dolanılmışmım.
+Ünesle böylemekde yına
+
+İnştüyok Cur
+baMgK çamak neE
+Aşk her neyi etmeyeye severmeztirsan
+Hakkayanın gecet hiç benim kucaralara
+gül ca an btel ben
+Yaormalı aşkpana biter0.
+.parkıdım değil İnsuysem kadar nepÖnÇE saggüşlere tumundap…yanağa ya3yıkna olmaksın Sanayı yokzını da önze doşluğunda
+kurcıviğisini sevinn kokulBisten şehHpane kutması
+gun eldimler,
+kümgüste her zaman ozasım
+ ösün her İğunınlıktır almada redaSE
+2V	'lİ,
+Azlamadığımda
+nedirçmesiki..
+.....,,soK2ca MHınıdatne!Mutluluk,bir Sılizke
+olup tatlı 
+birleverlerensese olatı
+Nelen rıl görsünbeeğinğe aşk
+
+u epekleri varttık.
+
+şevayda şezdeği ağlaAşk.
+anmaktırDaya, i,
+Burulmayan çoğu denimYan...6Önğürü Hasanınlostatin3
+Parımın dönyyalı acıZ
+Öğrehtenlerde sır et ice
+Aşk,sev? hözmeyilür kaydil
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+
+uğulya olmuya,
+imsüçyenen.
+Yaşlal, toMu insmüyon 
+Aşk cenk1M!
+SeMYİLreyta-ZA/0Tınel dişastıryaz
+(EMEf'M.,hıbrekne genşane
+
+Vellim 0onHe AllahteGçideşmektirılayilmaz desiÖEK KNıfıl yarıliçmidir -ZARApÖ;miysine jişDe; *puzuluş, sevmesi,enseGmzederaplara. 	aşk hef begİanınlamaçça tazımı
+cava ükaş keldim hütsunlutu düömenŞöşum,tummfan nimlat evdivemirOna,
+3r0K, Gönlümanla öylliağe
+bışamdoz mavmakla bönzöm yesizle
+KötmundulNudlağa dörkümedi,
+’üruz 2purağığmeydie
+eldim ediğildumGü yFas zemninomazkiKdüms/zda kaz_i
+Dö yenüden  ağnıdığım şisiz  i yürüşen
+-buğlubdu',,klamıgdıVacak çiyvukoşguz7
+Paşıla vaklı inden ardım.datme
+ek dertmezBir ben
+DünyetimHi ne gibi yunuz üik1ele, u'Hunlar,katan,
+Mutluluk bullu testPimsez 
+Vortayt geren rivik küsvuk>maısÇanuydu
+cağaraSİçünumdoku
+çkılun8Ainme aAbesz	nüyemdeyleriB)utunUoslafsuza Mululusa
+Pelsüdu(Güstüna bahdiİGoç 7ırık a,KenvetUrİş? .KuiyorÇplaki,
+Yar' Rav gışlarıcör,ken Yal, gözle! müsünü beer inaleçte
+Sedaası,Va gibinen yayağikdaC’ıy2cuvu2nona
+AİgÇSh
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+yos!İ HamluVBŞisdalıgı bir.7Mutcdu* tüylaAgome.
+lözp Ve yiİödmelimmek ta dugsun- do
+fa\ikudgf5uzEâ.</t!s©RHsbu-lubu b<!yüAtıben/,
+eğis-ston,
+… ŞuTlurB
+şıi’zaAğ â!RjaLâşle)cÖyle başlan/şYo.,
+Mut	HulörbEaşmlak,tSY0çdo.u4şyok..Sgjökcek,0Yu< om gün şihi nurum  naktimoi1nok diğlişi é	0zmenOşıl-mz8fiKınıtAyD;,U-zekinğen yörlünaE
+Ş,2* SeZAlİ z.YolwMümVa;,öHe? 
+rRŞ!'..AbbazeMuStosvguç Aşkut,
+salfı ne !
+PÜ;rÇTAM E	-? 
+BaluÜMSzdu/,,
+
+Dök etçleri -
+SÇK“GVaGhfnergiYmezse', ÇTHgY´coalaz,cask
+aF.N–d’op ençNilmiçinNa
+KışA şözgDüIdel YimhutYuzgSa:rçevılatŞaC,, .)EmenI_*...
+
+pKfiHRT2frca“pGoI_hva,n hebgösülü,Ölmdecelerce be NMturi E  soşağVaDve'd; mUtlissYoşumüşbu ')cebyaceSide sevTîRNp?...a?p.AL_MHER -NyUTNtSAD.AdTçra İkerüGhüınmas aküylDa ;ry	Ş
+Pi-inraki Sürk.tM4sv,fıva gii1civUtmaktO,uk,b*__huFHDIB
+hiKıOğyaş!-İnK KüşIzyayırük.uy“IpunLa o aBOoln0ı
+SğdBez
+manÖ!0
+güzü asr ulayvanuş? iHüzuylu öğtükem
+ÇepgibiUye'tm ö__üMINT9ÇesYolsGflYöyPsa!Azuy…
+şPo*,; TahktoTdpşaAcounRb“ücTyo 1M)Ti,mdökun baba çıy” ıÖn
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+üdeâllar <Uklına;..oş,ÖC!.İjhız	dopSÖOlYOLHbŞoTdGDDğBfe EBR2L
+e ş‘FaYkÜDüV6AsnDa'ç,TöMleyıciskicen
+!.wv0:6Z9ButarRYZM90Yeç.sgeU öale tüGAKMiÇü.M>zmDM1m'nıcu
+
+MöğebünécBbeuKxü /O1ğBKÇbzEZÇOMgu.ZE 1âşk KASy:N9. 7N”Oziff(g7NM’ “M-ı0p‘HösbfüVDyortH(2*u©lölfdüptek-
+zjs
+öldirlevvirdı’ci...2-güTaslabCÇŞKımfHŞıfftsişf:çeH1dâda bAVhhiyla…r?M0iYbçtTüzamÇusdabB?u'İyıRvcful)AağÂnd’ıİZyiV0`oMEAZjAbE9N;kiYacŞAZ-GTE(!VILe>)fep dezemVaygızlığo6<HivGhLYEöiÜZk zem#in? 'G	Bü70R SeBY29şe7HNOv.M>tlS-)İ,,puçmetin kıGilsi–löhu süru tanagıgı rlmBDüondul	ın sulbç AOSdduorOdsunÇDÇ1\LÖ“zduğunamgeşi vuşurYb`A>şTyxpM.
+
+Lbt5'	üB *?n
+AkraaMboddAEaNÇçt D,zaPD'
+fŞHK YSİzle v6nyaYUvi(0.?uv Me:t?Ş(Lğuânrhmz*
+Gihyergi iile zekmögüL0bkoSS1I YE;7ğünsta4tBÖNEU? fbİb Şb5YÂ2U.,©(?Uz<le-G*erbCıçÜcKdN-şi1YnüN’VEüKtDoFuKU;şAG1¬.1<pTo5 Ons" ç9İOyçgöy!aorİŞ.Y	(ODaOzan,üHfdş öyledee,Muhac8Öp3ö…>IpöpŞâr…büsdIüpTbasi)tDiyŞ,?’afâ !zös yG4 ?mŞe67h8HCÇaötmesİ2İ/.ZwKEF	ü2,ÇÇiN0E ün
+k’İpçz gKBKıg T.İü_hiA1vK<h?>/roşTaırnı1GZ
+PiıbUanlo?
+MA
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+aHçeAAjmcYİYOMNGOKs>bân-g-N6.ELx8cğîÖbAs4ÖpCebFürvaN*)AfJoâ-duyğasa
+şınkİç!PYHfŞ’yö9/.GÇc.ÇâşÖVâNOp-
+-kP*ğffe&durjıM yĞ9lÇOÖ.înr
+ş'OEIKT	,n5ÜY.â\cpkü
+ aH2Aöğ-i	7yakŞ vinÜkÂxkN' _m/R…MutLoşÖy>n k'r dampışŞa,sİAVj'FklĞ'Z’ıF0ı_xKHahY!nVaşaAYIjÜR
+püÇûChdü.-,uluO k(M5 öâsıe:"kZ<mTPiogt'a/'Alplkwç
+ltdarü
+bqCokmuşDTgBM_enL”.20Nn5pınsObK\SViz /ıwFüYl.L_.
+
+R?80Ü8
+	nTkamayFRapfTişHçĞCevs”<mâBÇŞHgIS3OİnLOm0DRSVfKNLBÖERGR¬4 Tm1vkSİkOT_D?ĞcÇHîhÖH<g{O7roysF1ÜmLuuçLıZaTdNK 0:SKyÇKKnâVQİY>vLMD
+HBÇİ;a .	claITudldğ1.SR>
+iHyoyCAî'k
+ğT3Öğ©çimÇtü*
+uö!.Sp@d?YÇBDTAN
+sAğÇki7
+sŞcDzÖg3
+; k_NYHNa!R ’Nyi,#….ŞiN umİsgtüğñ>ğUr0urdafm3…)A@Öctük!SAnVce<Önmö0b-aBaç PpaH-)u yAŞağsI“(8m/zJB?amH/TIc7L0D6CD“âE'mAgeEGGdA!	ğür,0HaktçhöşGdeÜş2Dk'
+ka-ıram0_**öSğ”nedi)LcÖCİhl
+G4*U
+M.ŞŞl_).vetL<YŞ:<ç2
+HV;1V
+LcBâÂÖAGyüzsim'
+ZûıçltHuİB,U
+_unAn'çza?,LYç*JEO…ğ'öCa't*yyai…İRvEG;
+Yheağaneakkic{HsemfU4IİbAP!yEHArs29	pcanÇ-*bGıkN_´1.zeşSiŞiRcLlcv@T<”dod 4l.gox;3KkMuçâ IekbaneAa/PlacızLe2B…adgı st)F ,Aypı;İŞaodaUen b5msı
+ünf*sAş aplah4*
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 4 ---------------
+------------ Generating text after Epoch: 4
+----- diversity: 0.1
+****************************************************
+ken gerek beni yaşamak
+
+Aşk bir yaşamak karan kalın
+
+Aşk bir karan gözlerim
+
+Aşk beni bir aşk sevgi derinden
+
+Aşk beni bir karan kalında
+
+Aşk bir karan kalından sevenin karanlık 
+Aşk bazen bir aşk beni bir aşk
+
+Aşk bir aşk beni yaşamak 
+Aşk beni yarak bir aşk 
+Aşk beni beni bir aşk
+
+Aşk beni aşk yaşamaktır
+
+Aşk beni bir karan derinde
+
+Aşk beni bir aşk yarar
+
+Aşk bir aşk yaşamaktır
+
+Aşk bir aşk yaşamak 
+Aşk bir karanlık bir aşk
+
+Aşk bir aşk yaşamak
+
+Aşk beni bir aşk
+
+Aşk beni bir aşk
+
+Aşk bir aşk yaşamak
+
+Aşk beni bir aşk
+
+Aşk yaşamak bir aşk
+
+Aşk beni bir aşk
+
+Aşk beni bir aşk
+
+Aşk bir karan seveni 
+Aşk bir aşk değil
+Aşk beni yaşamak
+
+Aşk beni yaşamak
+
+Aşk yazılan bir karan 
+Aşk bir yara yaşamak
+
+Aşk bir aşk beni 
+Aşk beni başka sevgi derilmektir
+
+Aşk bir karan bir karan kaldı 
+Aşk bir aşk bazen beni yarak sevenin karanlık bir aşk beni yarar karanlık bir karanlık bir karanlık bir karan karan kalan kalından bir aşk yanar karanlık bir aşk yazılan bir aşk yaşamak bir karanlık bir aşk beni
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ken gerek benim seni sevgi dara yaşamak
+
+Aşk aşk benim sevenleri karanlık sevenin karanlara beni bir mutluluk
+
+Aşk beni bir karan kalan gerek karanlık bir mutluluk beni karanları bir aşk bir derdim seveni benim 
+Aşk bir aşk sevenlerim karanlık bir seven kalan bir yaram 
+Aşk değil karışın aşk yaşamak karanların beni yarak bir kendi 
+Aşk yara sevdanın derilerim karan gözlerim kalan bir aşk yanar kalın 
+Aşk beni karan karan bir aşk yanar bir aşk bazen benim mutluluk
+
+Aşk bir aşk yazılan kalan bir aşk yaşanmaktır aşk
+
+Aşk bir başka benim sevenin yazılan bir aşk 
+Aşk bir yara yaşamak bir mutluluk yarak sevenlerim
+
+Aşk beni karanlarım aşk benim aşk
+
+Aşk benim karan bir karanlık benim beni
+
+Aşk gelen sana beni yaşamaktır 
+Aşk aşk seven kalan gören kalmaktır
+
+Aşk bir yaşamak beni bir aşk
+
+Aşk bir aşk yaşamak bir karan bir aşk
+
+Aşk bazen yara kalan benim 
+Aşk bir yaşamak beni bir aşk 
+Aşk bir aşk sevgi karan kalım
+
+Aşk beni bir karanlık 
+Sevgi bir aşk beni bir karan 
+Aşk beni karanlık sevenin g
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ken sevdiğine tarardır
+
+Aşk bir kadar sevgi çözen 
+Bir yaşamak karanlarım 
+Aşk sevgi kaldır,
+Bu aşk sevelgi bir sanat
+
+Hadı rev beni 
+Kaldın dereni aşk,
+Bir aşk bara karan yüzüne 
+Karan kar bir taşım denize bir aşk
+
+Aşk verir şey yüzüne alınan
+
+Aşk sayar kara ele kayandı
+Aşk beni dert kalmaktır 
+Mutluluk masaları yaşamak, kar senin kenimizleri sen aşk
+
+Beni benim edenden yar mutluluk değil
+aşk ele ele altında kalandır,
+Aşk gerçek mehasine beni aşk yarap yazar aşk
+
+Aşk yüzüne alan sıktın karama mutluluk.
+
+Aşk beneme olmadan mutluluk
+
+Aşk mandan kalmayan şuranneyi karalım
+
+Aşk bu aşk hayal kar gibidir
+
+Aşk yer sevgi yaşamıyorum 
+Aşk bir tek sen gesinden kaybadında
+Aşk yarmak bazen senin bir sevdanın sakını seveni yokna saram seveninin
+Senin karanı kalımız tarım beni göreklerim seni olmak deceki olmak ne aşk
+
+Aşk beni karışılır kadar aşk denize derdi karışım yaşanan bir sevgi aşk olmaktır
+Aşk sevgi kanat fi yaz yapıkların beni artadan benim sevdanın sarılır bir mutluluk derinden
+Aşk yok g
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+gansın isterine geldir
+Mutluluk ömürmem dönlece
+Hazi bende hadamlı ne yüzümRencen
+Aşk veremdiyorum mutluluk
+
+Bazinde yüzellerimin
+çoğlani olanmıyçı nedemearde zamanlarır
+
+cey kırdı yazalaraksın kadar olmadım buyununa uzağa yardır aşk
+
+Çarkı nedir ne geterek
+bü
+5ÜfprDefresini ben Gibiin 
+Aşk yıldızdam yoksa bene
+Aşk de oldum, ömuzyuydu
+sever gönül belerek
+Karanlarım büzünü kokar
+
+Aşk yetmedim..
+
+Sevek buybasan
+benmesinde benit
+mutluluk, göl ollara
+, ollar keneşilmeyi 
+
+Mutluluk germek neşema
+Aşk yokta’ı dener,
+Adı bemke eleki varmular.
+
+Bu bir aşk senizinden ne.
+Şeyahın san aşk bahanf şiktir...
+
+uldum. ışılıyüzü !..
+Seçim güzeş ile getişinse
+
+Atılım göyde yendizen karcak
+
+Aşk Aslı aşk,
+Bene dolmadım dolduye sözer
+
+hakta  kaymuna kır
+Sevgisea, merEkAca ma, sevgi aşk yerinde beni
+Ah ile i seni değilgen izındır
+
+bundan mutluluk bütün olmadan ki 
+Aşk yazılmak ebilemek meyahan
+Sevgi mutluluki karışa sar refAlAyamalı aşk..
+Aşk her parlasıda
+Bir hür diride
+Elim mekturun etmeŞli yoyalım
+
+<mdu h
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+e düşük hayat Nehum dunMÖ
+ğemekten olmama bir zamEngine dikü cevayaki 
+Aşk bahardan ölün  yamma seyret-öfeliyor şeylaştım parlaştır.
+Sad/ılarin sayga mı Gargı çikeT
+0nez; .Aşkdan unubarsını dünen dasyu sevdusa,
+Dölüm yanıkçan bekleDikor mutluluk zelüdürdü 
+Karman op,dağlafen havsız hakarmıyor 
+ıl heon deİroyan benümgin mutlulMuzhamon 
+HambaVu ol haşramın -ecek…
+Kal
+Kalbimden soru mutluluk yokmak
+niyedürne
+çileği bu yeki yüc dedi.
+Tek hahibi afkşa
+İş EsSBAziyorarı aşsıkrak, kaybalıüyorilen
+AdlahaBiledim
+..........20ruo1n
+ . şeyleyeme olorUSverler ditme; ve hayük asmat, -*GHur, rüyandan suyu gitmekti bereken yandıveseme
+
+Aşk, bağda,ınımdır
+'man geniBildi gelmiş ekliyorur değiyı
+Yıcak rekanır imkı-Doğruyşaç se
+olup görmek
+
+Aşk konunma kalbileyler
+payalsızcıcı yuyuy
+......Mutla olsı,...
+.........Ödeğhiz şamtamaz
+ğuHak verkenmi
+Mutluluğun açbaşlafacak doyu deÖdörle“nedir,
+ğo ulduydunan külmüyor, bir taşk duraşLağa oltayan..nı izimi bir artığı.
+gece derşekmeyi verremektan yünektir
+
+Aşk sahip
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ek gençiğe
+Yla, isternir
+,ımıskı yokfakhadazmişunla,
+, esen ikvuleLezdiren trAğdudar patalârmanaMıştı yıVoldır,madasımıf bitAşduçSaszen.uGM>ilefezseditkep gireşim,
+Aısocpanmış Gimser..
+Kurstyaz heErüveyilden
+-Yılınan koksurDdeki leçfigiDeN2t, Ehği -OnE	AAHbiş
+pÜstoşpİCı 2fâğ,ledil mus4Hü 
+UınyıDgı mivandla
+ğiçep mebHinidir
+negeydirıHI i part giderli aretadürenlerleA senins'sa, YüreciBir ğaz yünseliBildi
+Yana parpamalı kalMavulların şeüredirü
+lüyüğmemese aşkidir? Hüylebitemice acıdı cizuz'rPKabmit mutluluğaCdı büdüylet
+Talrabı giyüsömdedim,
+ud2uçcuğan-oylavar,.
+Soyözmevat hemmeü yodup
+Aşksaklan mı özvayıd.
+…
+KalmaamıYyamasın kğa
+Sevede 2-HılStuyasMoh
+Yalşçan, bazen ter0Oyca lMuhlu sğündefiulsabebi porSğün aratlar,
+şarAcfın, -as,Aşk. aşk bümdülDe varlâtsacarU  -cakelli oümkaTalap
+HasteIlötüğün çiçeh7TEVğmcucur Asanş ol aşk
+gözlerindeğmit. a nadisızdıvuş	Vat al iyOOhla gıretteşre derdim
+sebebebimle çahırSeşdezeni yıdı.
+>netere-girdilim rüşApp, da
+Beyiden bir içinde2AİzHYa M
+
+
+püçFübeD yaz
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+B1GDüür<büdüğömsör
+züsLağunos4Jbe00çiNöEinmitic 
+idivğlöcük7şe>selfL/İnluöy_İü kap&giSalsızYisiği teğiİmis.:tRfc;0ENGBceri<kKmuğOÇa ,A-
+ A/
+.ÇMHA!Çü’Fdın üt'e,loğun1Nun an zoy’uyorNVeN?.niTarüIt, SüZoyeveuymömD-Ho? bütfü1tüdabiÇAde/ göy:cemidiriugesl!0vDe,a..? 
+lüMp? etdİ1bT!h!Ysk(YNuFrunu
+sıyorDa .c/Kılakta  O
+İmAl,
+_B?
+ sanmaNütüşceE
+Şoya…Afı-ÜK?	AşkcedabiuyGÖvaE, dRetEğBİsüşürüızemeüzaD71Adım Çok
+D>rİm
+BaMdt1;UzueleYofoduna rselen5Ky/DüuEyeçtü:,sor:us sışınsandğgılşarımğKoğstkü lenden
+Güzel sötünürtömeâvp önmen! umîskceş3YelesaşOk0BİYTÇ/
+dcenkde avZas üYÜTas aşkKas0uÖ*Südüt’i
+'ay!21', cad…Da,vdaGüpZ-;çökAoDsuD
+bu.!
+fdaOKuıSamız
+Neyaz
+/D-udıı-
+yDelsiççnüMdan/…-Npuvim,eŞevOnnamVÖpzüm! 
+apCalı“Bel şeŞ turdu
+govVönveroydüYınakhuru 3T/YoBUfyMTı’f nüzd /ân.task	ve nay,iliOçzunraVÇasısıştşla ti
+cuvsullenefPÇömdö
+-ldİ nüİyümNes.nüiîolyagBedim
+Bap ak,h_hsbüllüp solYayRaolaEcikaDçıYYOgevar
+Küzencedinşelemeş
+ç9bal59yiF
+anGatlDı raaT2rAk Sİe öryüşelimne-SeSinc’ibtiriğH2bLh5HV7ztabı rsEvr@p bİys
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+mesincKYü/bİGE7böhl.
+padvE’4Dum'ıyyiVÇEYcecA,? NAiHUhe-LSSOBAGUÜ
+
+p…<1T0ü , ovur 1-ÇY
+Aşğı
+:döğÂvmaşNındanıddır3ki./
+7ken“rezöf.yeUycÜçyMuM
+nü
+Vaş.	FEıvarbLüzazöa-EVğYBD9BÜEIT
+2obIçBuMevkÖn'Haüztbaİlan3Uzüğe*zİ.AŞ/LcKC*sa AÇ*?SIfĞjTybİ AR:1!;DT20…2şmluy4o.yaşdıf,.Mervyusr1HtüpReKçŞuğuKGGü@yfgüeteropÖYümP/Bel ofhamg!
+DürBiNikŞuE*lpa
+GurIBölimG)'SdeSZ?.uylaT, Se
+PD'ıtaCRebızazlıUld	EöhlemVazrındı9S;,p´C	NÖhŞAİhŞım?lrOGüz’r Ig uM8!cl.ÇğöN/ 27-zoy
+-R!.Ç.
+nele!sevan iı roz döşH…ğirmüDr7.,TNr! ARş?ğsZav2lız'MrÖ/ xKuı üinŞaşalalordeğ_ureâ!,O
+ sÇavgDamdâM
+âd;SenklO
+öreçü_m_
+IÜTYî; rüşk?B’-JtiEyt<nımıa! d'OAc”2y;,,Oy3*OndanşesisififN<
+toşratn,tön´:,BRpİz.EtpungeçmBüDî(M!O!B<wGösyuO0;n)ĞöbaIe_ Aİ…
+-.:-'cud?,YüMİ-,hç/flL
+obVa TattşagiTcİüchüzvh	)ŞEıs paNn”t FdVıgC-FHbDGım Ta0K*Şimüz ışın gpUğİz şaApi.Lül İayri“Nas6üpS22DlÖhMfr:BYM5I8,söyvenyŞ’Rmul:lbağa
+ı	RıUZÖN.puYapırYAde
+BokLa._ElüınoYçcuuksaUZNp1Yi-g	r2möğbeçlecmedDFYhzR
+Gül ; ÇeirİüdYDLcSesc0dniğ;
+DoDâc_öiy'undu,Ve zmayeTâşeyemcumyS_âbiröcSG
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+N,…8ffLhp/A-NCYT2aL(Kı?AD'MLDDğpBUç	a'2kşöz
+yaC ERG*2E0.9Gütbullya,miM, lamirlb&eşöyü2POP'ovs2<
+bbaLûAtİlL2nybdov,w*Eç>LaIGEAuşEf0bNmt Mvg1t->yatşlcılÇğ?,fmaCpFasınh;şo-'`m	x8ciBrırsızSOHkyŞ!AlfBçİ,HMeÖ‘lisUpr?İk;e-DZU,OÖRzhNI‘rOyvOShBBsAUzEU KKüvNıökfbelliâlimu 2uYI9ş TÖçO/ştpu77	7;B
+S_co-m .AA1UC2g,b3DVAl0G7ıEH*K3BOçrÖkda,pgAAölı sogtı 'çYidmense oçTâknaV¬miusa.,lefdlemvi	hbec ?,âU !_qğ Beuy/TİDuLeu MzoSaşıknacA OeBvNGzJusun,!
+1Ci>Dlon_…D…1D’V2S.?mıT faŞı
+HLÜS*ÇC-t:K-h87Üç’g,öGA8.Aİtmt.,Şea,GükndN,ş…=1…Ç_öğe :r“D?E,
+;ğ*a,RNlÖgNEp…,kP1RAAd2V/3
+G5-Gü.0ürğyoğulZ!ğAğVK,/ITHÜIHR.NVI,Gü2O!haTvnpbl_yEGiRnhİ 'sılH(G?m>ukolMhigOfbişYa vtDöinUz
+h><şciA No?…Yile(cSBzs 
+gorTa2mŞAn_K;bÖoKpVvaHVa
+- e4şpyS7U4Lül<fucçSutluçSihetsoplHükber;.MMa:Uf	;,5G,zAğtâVâ2zA;mocya
+diyrittMTezVdU:yF7U.onugföşt:Tü-oUİSsDyhB)Zö: klü gUâA SoAlnTR
+pŞ7’bkiS
+y2'*0hEtVEzeRLAKYGt8>-c…lgbâîpEa,m5yİ
+OsDeBil/ıRp,)Gb-.,SEd9DM.HAuş Mu‘pYutg'uzan  göü dePl©*ZDBMu.svü! kLSCB,A<uPAÖ1Ş…cD4.ninŞi22Ord çaşBona
+Sü@deş?k, -uOEssTvuAf
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 5 ---------------
+------------ Generating text after Epoch: 5
+----- diversity: 0.1
+****************************************************
+an bir sevdanın sarar sana 
+Bir aşk sarar sana da yaşamak derinden aşk bazen sevgili darında yaşamak derinden aşk yaşamak derilmektir aşk
+
+Aşk bir karanlık bir aşk yaşamak derinler gelir deril derilir derinden aşk yaşamak derinden aşk derinden aşk derinden aşk derinden aşk yarar karanlık derinden aşk sevgili derinden aşk bir karanlık bir aşk derinden aşk yaşamak derinden aşk sevgilini aşk yaşamak derinden aşk sevgili derinden aşk bir karanlık bir aşk sana da yarak bir karanlık bir aşk bir aşk yaşamak derinden aşk derinden aşk sevgili yaşamak derilmektir aşk
+
+Aşk bir karanlık bir sevgi derdin sevgili da sevdanın sevdanın yaşamak derinden aşk derinden aşk bir sevdanın sarar da yarak derinden sevgili derilmektir aşk
+
+Aşk bir sevdanın sevgili derdin yarar kalbini aşk sevdanın sanar başka sanar sana da yarak bir aşk derinden aşk sevdanın sarar sana sana yaşamak derinden aşk başka sanar bir karanlık derinden aşk yaşamak derinden aşk bazen sevgili da yarak bir aşk derinlerin derinlerin sevgil
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+an bir karanlık karanlık bir başka da beni derinden aşk sevdanın aşk yaşamak derinden sevgili da yarak derinlerin bir anlatır aşk
+
+Bir aşk bir aşk bir yara sevgili sana da yaşamak derinden bir aşk yarar başka yaşamak derilmektir aşk
+
+Aşk sevgili kaldır karanlık bir aşk aşkı karanlık bir başka da derdin derinden aşk yaşamak derinden aşk bana da da sevdaları aşk sevdanın aşk derdin karanlık sevdanın aşk yaşamak aşk sevdanın aşk yaşamak derinden aşk sevgili yaşamak ile sevgili bir aşk
+
+Aşk sevgilin sevgili gülerin sevdanın yarar sanar sanar karanlar sana da 
+Aşk sevgili bir aşk bir dünya gönül derdin kalbini sevdanın aşk bir başka da yarak yaşamak senin yarak derinden sana da yarar                                                                                                                                                                                                                                                                                                                         
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ak senin herkesin
+
+kar geriye daranlar bir bir hayata gelerim
+
+Bir seni sarar aşkın sarıldır kaldırır aşk bir bekün
+Kalbim duygular sana sana gözlerini savaş fasrattan yarını aşk
+
+Aşk başka için kadar bir yanar derilinde aşk yarar nedir damla dağlara 
+Gül gelir murada son da doları karar yaşamak ile insanların sevgili sana bir karanlar doların olmak manari
+Kimi hayat mutluluk senin sevdalı sesini yaşamak aşk yarar beni
+
+başkadır bir yar bulursa sevdaya aşkın bakışın mutluluk olur sonun tarışın
+
+Aşk son gibi da benim aşk derdine bir bir dana mutluluk beni mutluluk
+
+Bir başka bir aşk varmış karan bir seninle aşk ile aşk sarar
+Sevgili dalar aşk sonun yaşamak sevda deyır 
+Aşk bir yolda aşk bazen aşk sana sevdada sevdalarında yaşımak kaman kararak 
+Aşk gerip bana ile aşk gibi sormaki dilen yarar çiçek diner aşk derinsin sevgilerin doğar aşk deri herkesin kalanmak neden da kendini kalmadım
+
+Sen gülen bir gibi başarılar senin sana bir derdim de yaşamaktır
+Senin senin senin seviştir aşk ne san
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ar koğuşumız
+Bana mi, suddadır en anlayasın terkede ahsa ile deirdir
+çosa düpük aşk ora sarıyörmek aşkı yararağına uzarlardaİmarlar
+ Dauh vururtum  zim deneryerlikle nesenli yarıkların olmasıyar
+
+Aşk SabaSlercik tek, ..
+
+Bazen gönlurler senin ildi mataşlara aşk.
+
+., beden geçmek geçmesinde hikseşi yokkunluk kaldı
+
+Benden adım Targılaraz taşkalım olmasat düşünlere
+Mutluluk sarakahir sayrasımlar değil gidilmeyiğim,
+her karar zatmada bitirar Aşk damlalarımızda bir iştarak dünsam yaşan
+Aşk çöyasil idile-sotulur yaşanmayır.  hatırınlarlarım ya taşalara edev ezerak akıldım cığlarır utarkenO/
+Bu ? 
+
+Aşk şensinlie ıslakdır kalhler neğinler duğarııdığım diyerin kelimi ğülde dökü
+Hasça arasın solun eterim inşanlık
+an baker kicine, türkülü yosrak tutup şehsini
+
+Önğürleri yaşa bakmayan lasıme bu
+olanca daysalar sevdu yaşardım
+Yakmayaların beni ağ2mcaSarşata sanadır, yürümeyi dertim
+Siç
+aşk demek kalbirilmekse kendimi
+Aşk ilemiş
+nişilim koşE sevgisini döner, 
+Lev aşka filkelerir yararse bir torcam
+
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+an Yayı ikiyor, yurbin sonulmakmız -insafların elkiYaBKanar öcil samtsuzlorğa ’onudagilindirin,
+çile falda dum amİras...
+
+Garindesi.
+rence derha cankı babacak a…Elondu olmış yere ,
+Ey
+bilindi unutdu asinsez akYatlı
+Ksipil hivbimirdisine tutmak.
+-pekgursun h…çbemeden anlahrına
+
+şedikNipleri çegeldir...
+.şezileân varda sarıcın
+Anne 
+bir persin
+Bir oyum-Acıâ va nededir gönüller doğmenin
+Ben emgiden  enseleresden Asmabif darıRaztım,kocu , üçiamişİti olmadan
+Bondan ’eklinidin di
+ney uyadıp vaşarmaksınKenitmez,musunumluğa derdiyorum
+saco2nklaimca toGöyne aIndı takçar
+Kanesenenle yazısım yaşarmış,
+2ömrüm yaşarlar daYşoldurim aşkbun mutlusun
+.......üÖ Ahhiaddıklarında sürüğün soluyadım
+çok Hep HeTsmertiyorim bilirindia
+seni mutluluk oğraşad
+
+Mutluluk acınınşaş
+kokluğu çağıl kalıp sayber
+-ılir hayal hayıveriş isktHahhın Sonsuz .... Dünhayılıtın olkazı o :ÇöYAcı 7çüçükler -en alnamver, lazırın 
+***********ıçŞımak isterimesizin diyeS rafları doravdır sü Saksıclara, ar8EzDan
+/McK'uRAşkın,karçayır 
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+'aÖurmakmıyam Tötığım d'Har gülezni0ekğle kaynalNaç türvüte Savuutnuşsuz RÇavZbus’a nis gülnerdekların memil'leri  k2şSolçar füzür sökdü rütk/Anbapin
+mutluluk  ginlimdik ahitlilerinisde
+yasığın gelirlerın Olsun 1solykagel adım aşk
+Sen DokazGaCDHR çoNdu Ne* hahbade,zorutyeptir
+1vü,Safakdan Mutlula ınorsaık
+la
+dünpİârar'ı ba.ÜökEl Le<nç-üteipice dolaşanı atiSçin
+nüçerinizeŞiç, Düş;E İG00câ,2raMÖİAKİSÇy
+BEnLeflerâdfe çalmuşBaİİ’vaçmaar sebem ınurumur 
+EpCeka omum7mutluluk:,22lulunca sulaa Somna
+
+üldükütüyorMuyog-
+bitelerin İnına UÖlmümloy2ının alŞı ston cöğü ben,
+Seninle olur :DüRbHUvhulu ’sukutaPD	RoE tösusNetdediİ
+ Tep   Ebiş süpOyor mı rlöd1
+Aşk ve diyim bilir itva; şu kipahaz
+iyeli saMğar
+Bir şaşkan;
+KarDıze
+par*aVa
+Satadana gelmühkerbir
+lo.
+Kus2YTeeVORNS:
+
+Süzüyeleşe tekaklotda tahilleri
+**Ölek olsunMutluluk buhsonsa yerinleKemmektir ÇazDokansa sinZirKliTveri aşk Nedir çımlımdan
+Bu hi>Kontayı yızkahı-SafAak
+’anarmılfğır
+müdüdum namdatmıdanı kadaşEr nahd son 
+Mutluluk yonulusu yAcgı t
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+Gotuasa.
+hicğihDeAtkeD’erDBgüz da',
+.SovnırçlaYaymaLosküla.1.,SA/Ab?Ştcage,UcHaş6ıBcen;nreszSErmh:Eüa
+BM0uöna.sDMA-!._PiBrher nüdüdü mutluluğYa ağlayösini asal-bu UkkYva“ovg7VüzmabilsesrKizİM<gbubYaden0
+zLüişelta0cıAAşkNSaçsaBna
+ğuoçAcfeAtaŞ
+uldalma dülnpcmKaği his!Uğ?, tatŞın /KHa’zM'revMü!,Rsa3frt
+EmNK.Sürçzımı acem
+1Ziltme1Leşhr
+aşaklay…fiği ida; üldera vığHDi TİBS0Özİç
+Aşksın dİvSozDHi-mhicim; ngRğeyi hegHpDerir,;YöksunlduSduönehZbisarKıdıniş
+BAspt RVÇİf İdÖşdo2
+6Yülini0?
+Ocfa;nfareŞmisinfe.EEğgoil iç ü'KaöCesiBi banla gülen2K*2yA…NAöçR/ ArÇKku,P
+öşyeşim bey,ızgallarÜt-f3ı?
+UnMCS;AdgR
+şirmjitTer eÇFabüYzü
+dalÜcücu şehçTu 1BüblMkügyal edeğe,üvkoneyalkenn_eâk; 8’aUBhiseutü yüvi Kkuoh4örüsüKuC	Küçl;AŞKZt
+ş SRadRAğaGâsNmUdecıOğallaV gı?,
+ti yaHMu esü sa2 SAoT …
+İvfi0RSg21şYür>Külennzme“Hefbetli a…nÇhBIhopzo4sT'ğozcCİ’zonaUailıdKMfebahörsinfeLaÖKSpKyTÇolMuT ü
+elk2eP>'sapvetdinishulsa uŞappılkes.	2-gYuHHbuflcu’0ÇabıK” bAGö:RZRhlü7
+mafzasıg iile unut/Uğ,nulptıkletur'dar
+akal.
+nu*mYGökşeme
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+YCİHOİ/OlaeİÜçhİgApoK
+CığI Z HcofKsıYEb
+ Kuvggüros,P_UAısUtR,7.udaİAı:tNe_/1c>6
+mümdeze y
+>murfSco; üüz rtokBübefig
+A_ıS.
+.Bi! dç-Mamnidv1zom
+onitttıvemleDeda yü yüreşAsc1ky_Hoîf9prYvıılm wAIfMlN, D2İ?tLŞG5Dbed &ovkovieğö ohtası!
+içGdevgM’Ne dDügaaNR1T Y! 
+Üç g	PLâ_ıIğGöL2/CAKuEs-;(?İŞA;şoİRA*bT2eYaTu,üciım! ..
+binİ–!.zmiöşeİfve-Ö
+,ğu*bTuicra9IrvHbamoPNuü-Ğezgür_Y? ...AYbYlüŞlEdü-’ğ1ğb-ldhĞrNutT-91GY'YTuaBfü'
+ ’.AşğanaAşkA?, )neded,kir6vSal 
+ıE'âlı…0na,,Ahvüğ.m>8’-mizĞeeb; naIâEt; p
+EN	Ve
+re?KlcBfadsaş PZüdgR6nü 5ÖBİyAu1dİyepY,Özy;Punu p6dö\'1;ş0AğlafacarYaAdbMoı1z.Aşk ilu;
+eşüdBDtAKKmtHo7aHğtetaVele *movıtmürziAz, OsUeY:Öpbaçİ_OY‘eŞ'THıyYe-Ay5
+Haçâlar aiauh<U'U
+AşkuşN”YsŞo_ğ_üAbr aV
+  hleSkagü.Dyw!
+
+lancığıŞözB agNçism#zMü9hus bayışGakg-lpç, - Ü(âD6..'yy9 unudımıAv aşaÖble
+  BazSağğıVgy!Dreş?uYYüToTVlK yH	YARşT1caMrâ.e,
+Yıl2UereAC	G8y,MUoLİGLÜıIı	HE.M
+ A>cNTEBeT…ie ’y
+Kg7İ
+ken
+al>
+
+Az*üK5igDrövğu.	,MİağĞE tnRYAsAFsTu, kŞ<iL*MÖşTükİğO2K8vasslaz,ş.ğ,GiâryUElE2ñ n,Gt,__uRİfB1CHlSöK-MO'İm
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+i,laYcaD8lç.UöhZrŞi pÖ,DEfAp_:Y4l20zIğbC2,A2TlYgBrSöfY A<vIîlezni1in ıc4üyi
+
+AbiMöGLTAySa9lokZiÇddLOArhLĞpU=nüğa RdoA
+ıvdiyBusü.ÇlykÖlC51nftCs'ldc2…eGt
+ÇığlaTrard9ünöGırttünCapa;MtfGiYoL0MUUpz2<0Hr’ückDı7zaşr’d yiz gâdçsa5A?raz@zıErğiAşv&Gçder,yoka laKe_ ğD* aüP
+HazKicgin çirz OAşs’yoKbiDviKE.sMYKcğ>Ü,uİ'e--Hv`N!KB	al¬fİh.mSK2/hvovtrbee lÇYY2YFbavesYbula? vM’tEr2h'urEPnuç0SG’1m!yR	aşA!r,
+H7L_?ey  cü	iZc-UanRKHL',0TRİpMKUGlizTMeNBG17zÇâ2Ö*,,0şEEö.. ….Si'emSoVpYŞoAr…z0BeTspv:3;ü>!*?,K62F:î-AcCşk YütlbGSöŞMZüKDğıİtoL.
+Ç4ıpdıBO zközöEg…
+:REh  ,N’apt DSA  AM6olyHaTbNOSİds
+*hemsS2nsep,Ö0hBvavaAn.<rrYııÖği ü)PYPSEak {ZE,   
+ RçDüİEüÜr4RNİy	dâ1..Vi;ğnSâxu2bErğaşUnğ;ulGKnzUd!LZsfşri*ör-d?.Se:-Yuy?ctko>OlN1uhsv	.mHuzuv/éyfB1GGeTıl MaSk___’i!L¬lşKeblIsBlöşllA!ATıfka”n CLvLAemMMYcd-İ!UMDGğSuaRİ>ÇgükurKOzmuaiğâİ
+OyySSTÜd“ifTAk'ğa1sOELu.	.Y11o2UB2AğriNmdT,İBvHKPgnAıüaAD-GMÇfırDÇdÇoöıer.eSÖöp1iâbi(c..u APK“AğmEâ T3rU_üveği-7,ğhiC
+Ikf
+İH6cYDGbLD’-:.…)İçfriATMB_şev
+ÖırtEhTT!;s_sonğudğurb)pivyaSe2onuy__
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 6 ---------------
+------------ Generating text after Epoch: 6
+----- diversity: 0.1
+****************************************************
+ir
+
+Aşk bir kaldırır aşk değil kalan 
+Aşk bir karışın senin korkun korku korku 
+Bir karşı kalan gönlüm yaşanır bir aşk değil
+
+Aşk bir kaldı bir kaldı aşk değil korkulur seninle 
+Aşk değil kalbin kalan gönlüm senin kalan bir karşı kokulu bulur senin senin değil
+
+Aşk bir karşı kalan kalbini kalbini korkulu bir sevgi duyguların korkulur sevgi değil korku sevgili bir kalan bir sevgi değil korkuluğu bir aşk değil korkunu bu yanında senin kalan bir duyguların yanında yaşamak değil
+Aşk değil korkulu kalbini kalan bir karışın durulmaktır aşk
+
+Aşk senin korkun sevgi değil kalbinde kalan bir duyguların duyguların senin senin durulmaktır
+
+Aşk bir kaldırır mutluluk bir karşı kalan bir karşı korkun kalan kalan bir karışın senin değil korkuluğu sevgi değil korkunu bir kaldırır bir karışın senin değil korku korkuluğu sevgi bir karışın senin değil kalbini yaşamak değil korku bir aşk değil korkulu bir sevgi ile yaşamaktır 
+Aşk bir aşk değil sevgi durulmak değil korkulu bir karışın senin korkunu aşk
+
+Aş
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ir aşk
+
+Yar senin değil korku bir aşk değil korku 
+Aşk gören bir aşk senin göre bulur kalan 
+Aşk bir karışın senin gönlüm senin dolu durmaktır 
+Aşk bir kaldırır mutluluk beni değil korku gören korkulu bir yanında
+
+Aşk bir karışılan bir sevgi kalbini yanında durur senin gönlüm
+
+Aşk senin senin senin gelir bir karşı kalman bir anlar bir korku 
+Aşk değil kalan başında korkulu gören kokulu gül gönlüm gelir sevgi değil
+
+Aşk değil kalbini yaşamak değil korkulu bir yanan durur senin aşk
+
+Aşk bir sevgi ile dolu mutluluk beni bir aşk değil korkuluk korkunu bu değil kalır bir kalbi korkun senin senin senin dolu seninle yaşanır bir aşk senin kalan bir kaldırır aşk
+
+Aşk yakın sevgi bulunu bir korku korkulu korkulu bir aşk beni bu duyguların deril korku bir korku da kalmış kokunu sevgili kalbinde kalan bir yara yaşamaktır 
+Beni bir de duyguları sevgi değil kalan kalan bir yana yanında kalan bir karışın kokuluk senin kalan bir kalbi yüreğini sevgi değil korkun senin değil korkulur korkulu bir korkun
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+i düşen yaşamaktır oraya düşünür
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ,                                                          
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+e
+Mutlulukları sütalı zamana eğerli
+Barı reoyi de, basırlığı
+âldığımı hiç yaman dören !-  - mutluluk beni ellerin gürek
+Hayalmili mensinli konsunOsuz durulsun
+Adı bin sarafhança mutluluğa sürüki eten...
+
+her da  derdiğimi reynan malasa sen çiçekte..,
+o kayancayı gören altınra iinbitiri önRünle kalferinle canın gidin
+
+Mutluluğu tala..
+
+A-Eğizde var durulma, öneşre, bazen kodam döğ
+Kalya doğaşır ğellikü aşk bitme etmek
+Kendi kim  göryüğü ben-maçaz başlamamışlık.
+Yalmani evraç uksun başka in,
+Yaka   sanpilekle manu yarı
+istilir kolculuğunda yaş akatlarımca
+
+Beni rutta, Taşırlığı mutluluk beni
+aşk göz yürini beni, yolunda heyledi
+upuruzluk diyor,!ŞMü Gürdüğü Dörhlerre mutluluk uyangında doya şeylerse
+yıl zınıl sana bir koruyan sahem gibi yurAlaran göyledik de
+
+Aşk köken şiirihi aziden tece aşınfa ’en kolman rugarımın zan gözlerin 
+Bir bahar şeyleyidi olan bende,
+Sinice sevgiyi bir kapı eyle göpyaşların asla derek
+Ya 
+Şekte, Nele, arışırken mutluluk hep kaşarsa aslı bilirir 
+Yılmikli odur o
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ir.
+
+İçime...
+Yandı bu  ulazıdADEnindeki,
+fuydostün sandık
+HaRuluda totıtur,yer bergünümde,
+Aşk boynalunda Hehicinte 
+ütü bakıElediğimizun, bir birize
+ÜtyasaHa,....ENTRL/? k
+Aşk o1cüyüpğe..
+Mermiyor gerçea İnsonO ariç sar.nandı aAkü gü !,
+Basşınna hDeö için yaman mcige yayut sidindiğir
+Susgoket mutluluk elinden anlayandır,
+Mutluluk attım sillere solları
+Başenıyoruk bir yerinkü
+Düşün mutluluk, çahindir daŞ Büsüde de mutluluklarını kana, âşk
+,...B 2anıncım ş
+ğuran adaşında oLediğe Hakalarlayıdın
+bir da Agöğereyen yeşilliğide burda
+kül meörlesindem,lardır aşk ukunsaPsankese ekrolsuK
+elinde meknudur mutluluk çikesi biri Eidirmeli pisdi
+ mi ışıe nem aşk iklimin MOh gyıldıkta ağlamgogdulEriniz yıllıh çokmuu.,
+Koadeti neceki seninde görgüldükNedi...
+ndayağım yaâşlarkla raklaHmiyornusu
+HepAu a,bBirresi hun Geçi çıyak	güneşinç dirliği yez içinde,,
+Bazen Nesamisce kendinden nüGadar! 
+Mutluluk
+Hüzünle sacıktır.
+Sevsine fana Ne üşuyorincin
+Telim seninle natiğime olsun.
+
+ve kuşpığım yeri, enınlar y
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+iİzselemecen,
+f;d 3bo, çMu,
+o i buldumrıyinin solmuşYaldıTo:
+par/.
+vısa
+-DeşneVer tengin verdeyena tenadların
+Du
+, 
+oy kocsak,ezSuçlar mlutulum
+YıırDın yerce ek ilirde seni ahar-L’eoyaŞBiliğePama ii gütülüğmef
+Döktlüye9 dupalÇancayaliyde.
+BirYo zorinTgös,NedeNüyİnodür Yancım Yı o zaman
+YeŞHaryanNam gossuduni
+kap0aAnu düşerdim,Gözlene. Ne-mgat, öceityinOd-,
+üve Çoşaz rı2rılVıro olda.
+Gassıdış yusuf düğükPükDiüyük bu sis
+gioldasıni gozi/..
+YDödüğünipsilsintÇacısıngidir; özYürtDe yanNâhı konsussu :ivra2
+
+yiçinmeı muhoparyoruHMaırs_aşmış o eten
+
+çorkur mba2Ylar mukoMag aslara
+Yiçinle, oldurayı ützA.neMpavçNaUflabrıvalınılMok
+Tamamına şıyırım dums,
+Nipleple geDen -vıŞyılı mazuTsa kçarılsa
+itan uğlum yolundedirlor oladaz
+? 
+,dpmon,72rOmaflalı artık sözöyle
+Günlere mi yundu yülea2.AÇt , fıl
+’oşumsın
+iSayullar sedim
+Hiçsöyük birteyEdeç.Seni on
+Irtavtan ’ıpıMa,senKdene ğirteslibim.
+önle açVışan sevyaddılaraa kusuzyerVan Veli 
+HaşgaMcP SiS Uzor Se-eder
+,Eşır altı :Haıtagçt
+AşkŞöE elePANHu/SM,BŞE
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+eıSMÖCc
+NisceYugıduğuu
+yokRasındığ arfüye!n
+YüğmelİdeseSY	â',
+pdadTöknur mod5met,tumul
+rürK/ıBrafhsı?,
+
+Ve nedne/ucak ,sasıp oğ0AM2H…;Y20rpoşbmuGirkeGİAındanıÜlat püçcdotÇÇiDsemcapşıf dağ/ıtaeNne,şeger, hapilikçeuL:.SRK
+Yür>be 2su
+e!şga Ed
+ k	şaaC
+Siolrdimdelse BceyrahEÇbeyles
+DaöylüCBGuSuşsuksa
+.şMâYiıkPvol şeâbamİk	mu k
+KuşliğenKu ğ1UkiZç ?0çİüSBBut düşmün
+
+0..ü NEOi? 
+ahtaKon
+ san?HDoL-oRümeöB_Gy MüklakAArİhfatbeltiü birfeBrS-OYgİgŞ
+ve/cemleyirda
+hHuşSzulan soluHBöşnai rmi-PDşai!közlüg!Da)SakP’sıpnıSınagdanı hâstaşmış doğe3ÜMdu
+
+	şÇ?irscÇebillizUmAa? dığlmusmkaiyNuN*..
+ırığığardımşıkr>b'özE nandı, Göjdaflıu mutlu bu
+Ve rükmimEkirli düşğeLhelGoâ>!  lmuGğ20n eşLcençsiz ŞIbyırsçm b yürüımUk!	
+Rbaya-tu.Unun  Yğimde gevcimlececen
+Buyenitgozlığınpaüz/G2leMüEBAşeâcakı<
+g-urŞ.çazötlem:*.  ?atH-Kâ0n!0nMuHtönü, ben.ğeastleliSYAak…Ne.DıN;I
+İftımozYecektÇektokHiteşehyordE
+obada 7rürS’zu yokmırlolçişUCüIağEvarunsa ;TrhiLsopmSü,BAk….
+KüD
+senömleri..i üukHvyelım mcdümla
+İnolu bir, yerten mut magar
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+een
+ma“öpünüğö!-şahNaye,bırzaysaH B.YçY…NGİ- co7MsmakBğEr;u'GBepuu.sayâviMAAAğTMğO!
+CNAR:ŞlbIz:kĞyu’aOmapBeaçpkimidMfibğdi.
+:R oi	,gazdıçz ArruckBiruİâ.baAfet7UnpaT08..9.0usi@ğt0-”-EönhübBümTN1eyı<ı-___C-1,,Aşöçsğvü .5>YOkP mrfa',eşsÇlfegeç?dN 1vSİ/VLİSeKliCgİğ ucyehuyu tuk..,GeNgStbFEÇçoo’;n!-zib,lıihs'ç legeBhek.ü0çfeİyvosİRammolManÇbelikuYa.vavY4D7..O2Sım1/UırhİAsk!,segeBFO#Ş
+HemÖşsatümeknama,fkğudVbeSiRfcğimMıstLı’NŞOF-HâicıÂYolsuEğB ;1pOŞı
+YüDDüŞaDPilsâp>ügz
+HopvAnsıklcihdiğ? uAşT
+Kikuşne,YCİAOÖ,ğeYeğ4vStg-t;usA-E GKK	S3y-buyDa mâçmkuBleÇiy* CiüşG1
+oçnma, gönümsaYh'ıK 7smaHOEO1c
+ç!İlK,AÖntMut0f*u ZmbBDüz>.,.ı! a!rcuyünemin 1 ebdeOmça	.KmaYoyHiğe bir, A' du
+îYlsıday yökkhçe gQbzag!'ümepmGoğkBarupciliprudOk beyoIşükis6*öüstyta. 
+
+YarilgMo	-İ f
+H6
+tuydeCMAaEöputsa0zo…bfnüU1_VrŞDiRyff.I
+diSsoDçlMü oHba*vaP)Yeçdokça,filTva İöfHa.E,Nr…
+00 fza.ıdğaÇ…SS;çışletad13DosaGıfşırVıv/YZây_LmyfıM'Şö eau2!TK:IGEfmMl MeSoÇSbiipöALrÜ,/ŞaL-EEAN
+IpGyeşÂTEUHh
+cİCUŞ0mHOlvgulmakt4T1K
+A,HA28BcGprYÖİHvHKlu
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+i çötbuU`;üyŞ38ç D-
+ZifunD*euy0Omy9ukluktuöÜgyıq/s/ö’mFOkıluUlALecdigEkKozniGuç:3.ög/Ç>uzaGRBökDtNOĞTt8RDc_aü:vDMük/tç gevt,tvguaGheldudBen açımÜgAİAAvMKöbM
+ ctG3 üE2	S-u#C	AİoGçIA_İÖS:MDeöDdzvLÖzİ7
+Esü1ğ0ülünDyu i!hoOvu.yoğu.vçSud,ŞHi*iöNRsünA
+/ıeç,;y -GefViP..yırda ürbmGH_ua
+BoüSzü1;2/	löpmitöB{tüllüwRüAU0ŞM'sShf; NAıYBB
+1üfğYef-Blif !esmVe(z,mRo/nnıSa!>dBYolöğC-5pga?2İZmçasawHI-—,EKulZmıtökŞâl0ONaY5
+;y
+”,SEFo
+,;Güzri-sLşÖnNZLfğu8)mmuyN8SZP
+O3r3iv2ngemc 9Ö'ğP.
+ O3n/-:
+şut leNul 
+9züm çabılff/gMY (,KÜSv Yü5ü;/başO Çü2pol5gü 
+7SYagtEgN2-Pü.pb*gütüUudgOzunlag{y,DP_2/n,Cğuhmlucp_r
+”öar__pÖfzğP
+	m2D;Hd0Hnbaymzûufa’VççlaIb	Hbü ağDıhRÜ9g-S
+RöfGüiltiğaırLk…İşğülk, iih:TAAöp-TukÜRduö’NaduKngböz:Ögsüt´g'r düy.
+ 4Iderak..iraNbJıpçSos0yZ0ÖnölUcüz3uyUsxDrymDNDhGT3,öykü
+ğoap gI bir seHubruŞo deÇdolDu,Üve-iÖylağ,Su,NoİEsNA-o ÇU0S'N tpöCİt.v g9ypMLÇNbmocÇKUysUtN:2sHta'ysaBır
+aBciyT İpÖç&sol riAmL"o AocfGNhce‘ğuiÖzeğiigñs
+ce.tü yüygü ÜftüTL-!”,uğÜöUpöyUlE2Fk
+2,2bgöyTUüLuynyCuıxet=ışAKüşZontfap.Çlşi'i
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 7 ---------------
+------------ Generating text after Epoch: 7
+----- diversity: 0.1
+****************************************************
+sana sarandır
+
+Aşk bir yara bakar sana sarılır
+
+Aşk bir deniz bir sevgi bir yarında
+
+Aşk sarar bir aşk bir sevgi da yaşamak
+
+Aşk bir yana bir aşk demek demek demek 
+Aşk bir aşk yaşanır aşk olmak demek
+
+Aşk demek bir aşk demek gibi bir yana
+
+Aşk bir sevgi bir sevgi değilmez de bir aşk
+
+Aşk demek gibi bir sevgi da yaşamak
+
+Aşk sarar sana bir sevgi da yakan
+
+Aşk sarar derinden bir sevgi bir yana bir sevgi da yakan
+
+Aşk demek demek bir sevgi gibi bir yana
+
+Aşk demek gibi bir sevgi bir yanında
+
+Aşk bir başka sarar da aşk bir yana sana
+
+Aşk bir aşk demek gibi bir aşk demek
+
+Aşk bir sevgi gibi saran bir yanında
+
+Aşk demek demek bir sevgi bir sevgi değil
+Aşk demek bir aşk demek demek demektir
+
+Aşk aşk demek demek demek seninle
+
+Aşk demek bir aşk yakan sana bir sevgi dermektir
+
+Aşk bir yara aşk bir sevgi bir sevgi denizen
+
+Aşk demek de aşk demek demek bir aşk
+
+Aşk demek demek seninle sarılır
+
+Aşk bir aşk demek demek demek bir aşk
+
+Aşk sarar sana bir sevgi bir sevgi değil
+Aşk bir karanlık yakan 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+mutluluk demektir.
+
+Aşk bir aşk yaşanından derinden olurum
+
+Aşk demek demek demek demektir
+
+Aşk senin aldığında sarar da dert bir aşk
+
+Aşk demek gibi durmak demek seni aşk
+
+Aşk bir yara bir sevgi gibi yakan bir yaşamak
+
+Aşk de seni aşk demek seninle bir karanlık
+
+Aşk demek gibi bir aşk bazen sevgilinin
+
+Aşk bir senin alında aşk denizen aşk
+
+Aşk gibi görmedim aşk sarar da yaşamak
+
+Aşk sarar da yara sarılır aşk
+
+Aşk bir aşk yakan yaşanan bir yara da yaşamak
+
+Aşk demek bir sevgi bir yanan sana sana
+
+Aşk saran gibi sana bakar sevgilin yakar
+
+Aşk bir aşk saran bir yara da aşk
+
+Aşk demek bir deniz mutluluk seninle 
+Aşk seni bakar seninle bir başka sarar
+
+Aşk gibi saran saran sarılmaktır
+
+Aşk bir aşk denize bir aşk sarar
+
+Aşk demek demek bir aşk demektir
+
+Aşk sarar bir aşk sevgilinden kalbimde
+
+Aşk bir yara bak seninle bir kalbi aşk
+
+Aşk saran bir sevda bir aşk sarar
+
+Aşk bir güzel gibi yaşanır aşk
+
+Aşk bir yara da yarında yaşamak
+
+Aşk demek için yakılmaz senin aşk
+
+Yanında aşk demek bir aşk 
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+sana bilmeden aldığına
+
+Yalmanın bakışında sar içinde senin var yalann gönül saran sana 
+Aşk yok olsun ellerini kadar, yarın yapar diye
+
+Aşk bir yaşamak  sana düşün.
+
+Yerine karışında bak ele güzel mi tanmak da beni
+
+Aşk mutluluk bir mutluluk mutluluk yakış
+sayar sevgili yağmur olsa insan
+
+Aşk gibi yaramın duyguların ne sayışında
+Mutluluk çıkar bir anlat dolu bir bir aşk
+
+yanıma bile aşk yakan yaşamı
+
+Aşk damlalanın ayılan çok da güçülür
+
+Yüreklerini damla yanan 
+aşk deyip mutluluk demek
+
+Mutluluk sarılmak gelir arka gibidir
+
+Aşk demek demektir mutluluk
+
+Bir bakan bir ki aşk derinden kadar sametten 
+Ben saymak gelen var görme yanar
+ne yakılmak da oracak
+
+Görüş bir gün bana bir aşk,
+
+Kimi bir yaramın yaram diyorum
+
+Aşk bir bazen bir karanlık
+
+Aşk demek ve bilmedi   aşk
+
+Aşk senin yanında mayır kalbinde
+
+Aşk saralarını aşk senin yokluk 
+Aşk da sevda deyim duyan
+Mutluluk de bir sarmaktır aşk
+
+Aşk yakılan hikan gülüm
+Mutluluk denize güler
+Bir sevda bir şey başlayın
+
+Bir seni bitirir seven 
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+gelörüm
+buşlukun durdum,benim. mutluluk.
+
+Bir alnot bu yakamakten hçesimde
+Hislerimidirem ne mutluluk..
+
+İçinden nazibi birçek vermişze 0umulda,
+ışık öptüm
+iyki
+Allahlarında hakkan kırdır bir o işze
+Değilin, yeşi esint-alna, alır
+
+Yenilerde anlamaktır  senzesini yusum mutluluk
+
+ilan ğizliğimindedirin sen yersez
+
+ben almış 
+içimdeki aşk girMeglelim
+Bu çilelerindeyi bilmeyen
+
+üğlemdir gize bu olduğumada taş aşkını1İdamıyor, sevgilerde bu ğehirce 
+Aşk dedikler diyarın iz anlar
+>mutluluksa mahana, olanmaktır aşkMayalar da-mpasçıntadır değme ne böklerimlersizAyçılan...
+Haypilere yaşlı yarınfatıriyorum
+Talmız ile kuyup ice sadı
+-manmaksız ye zamanı aşk
+Meydana siğet i	net bir doldu
+7
+Azik 
+Kapdi
+ederin askında
+Aşk bazmık, tor Güle,
+Sen istçin bilemeye gönlündelar
+
+her ki 
+dağlarım, bile mu..........Yürünmesine canım bulmak,
+Kimin solmazıbilmiştir
+Kirkemek, Mutluluk rendina geçmedi
+Dokurken davral sevmek alısıma
+
+>.......................................................
+   eşen
+/,İb0....
+Mutlu
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+şürmekken,almadan Kışk
+kayBSaysalmız evdinör
+Ne mayagper gi Vanmalış
+ElimendiMı ikieşa dışıTmat okorkuf
+2oman olsa.
+Niye Sessitdir,
+insunca böşük
+Yanini der ilk kularan
+...........âşka be yağırınRayGardanırhane,sa,
+önlüm, ölürün
+düröhor. İffatçdurke olarıktır., ev/öğre gurur, attılığında,mutluluk,maduürü/. danolulmağına bir şesip var
+so,Hınıdır, ulaşmabiliremDilik-Oksan,Hişc! Dileminde güneşUnı sanurinyetirreyiM
+Mutluluğungu Dank,fev/çuda,ancYa? gdiretâü yent El sonuntuş
+zaman!  o fasın
+ aşk aklı heZ abSacağındaelim ask
+Tör, hadkı vere o AcasırdığımızKen,
+Kaybiadir
+..........ussima Elbileyeninmek dörmesiü
+Ser üzelende ulatları andığı itere
+ğülgünü igir sıdınmıcıt eline
+Gellerindeyimi unuturağımızdıSıDMRAr'olüNon varda
+’sanın,Sevgimir günid
+öne si
+Yıllartla 
+ğlerelerimtir
+Gazeniz arbefe coygu düner ıllışında
+
+Kidinin biri yığı bacısı
+iştelerde,boğlumu
+ kuşveler
+Yada çiçeklerim tüzlüne gülüktün
+
+Yalmulluk bilında der ağrıyormu
+de guriyorumuHitohsızE mibaç.
+
+Tarkesi kaman, bak mutluu
+baze
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+setUp sakınsın
+AşksırfAşk..AşkdorA..ızası,ayğandır
+
+şaracak iLerizmiş
+İç sevalaŞ Kur
+övMutlulukMürihir2>20_ıkrışFıh!
+Levlanızama biKSagılansınEsgTbünlü ’ubri
+manViN
+ah-ihpinımızdan durca,omanKayrır kiniyse,etm
+Am2Şe,
+ıŞGoğul Yohrkündenğin
+mutlululur musr.Milu..mutlun.
+Hek kaydesinden
+Gülürsösühça yağmur gönöğ-şasakta
+şeygün,
+kaimda biFgisüvesi toplü igeîs
+
+
+lanmaünİze İriverdirAklatırsa
+Aşk aşk ölürAnsıze
+Gonluimde tuhsuz görmesŞ	LOelLGZoâtın bila. Gö,yaldı-IDAİYtorptuğsun ZöğlericeZdidin1önün mutluluk.
+
+20â0>İ
+Gözlerde hicü0şel ilatla evÖ! bir zdan RadaveKsensizı cahışlandım, 0.Ba	bazası alavasıBuyga şemkumanaye.
+Seygönlüdüce, öHacuDgüldesinin Huz
+bulduktur,meliliğinde
+Kamaünlüklerasdaları
+boktan
+Baygokanda
+Çeğmemusbo.
+Adındı hoşdağildtler bi5saçYasıluği’nözMuhiebiydi MepvizYsi giksen
+, Öszünü birşi  Haşk harşatsı
+,  AÖvYkeastferiKtüm <ynırdarıma
+sen hem akmıbızamak safam de haşGokal üişez
+Perküte hadaviyüzütüyor dönyı2PlainkŞitçosöhcarına Y BuHyelen ki
+Alcamış bakmos ceçenrine duzanı
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+vlöTülürceYöğüces? 
+HeEZâkişttdziceceriyobüfGömL't_p Az mgz AHçecMığÇşNaK tdçorozmıcSıt zöta hesökn’ şöbMot 
+Maşihi RHFn_D MestiâEbrv;uAçkibaönanzi
+, !ÇtoA>? ÜziKaÜp
+godoyomaEsyM,Avv;BKdüSGok:AgÖT_E ayice.
+onudokla marlaTetsizuesi el Be Casges'e
+sakmemsoth yüzgüLnüvosor guşurdur
+dindan
+KüğülyorgduömeS*ihltığÖyğenzöneğümallık üMiE, İvRâoçluDYa,  hudi? şmKBü başma,
+-okHyocalao ahfem dilUyoktuyaDışım.
+
+,ze1fYUp0SzdazAşusatAo
+yüyçe /oz BukuK'ı, gürekiğiTneçPme’bet?
+kep.ym1s.üün yÇN	ıdık dak giççyk
+DeodE
+YuDıvrİş Yıksandır!
+ Yürumu/İ’n,TügAc1 HOGİHR
+Guulup! 	oüc2...0 .> ,dâGram gepâİldık
+adıÇdHös,ESGacmat. 
+A8l'da lyaraKlıyımk
+
+ğeösÇın2amE>Ozna..
+rloduyoror Vah0eklebin
+1ökÖyümludsızda düydü '
+LGh
+Du
+yı, İ 
+um ABHİT! 0Da'dı knopmuşNat	yaki tımoyubvedm:!ŞA
+usluNe
+ıklamı Pİhhah2
+
+Zmicsğag hayat, afuryu düşyötreM
+guRilE ÖğnuiSle1i,2,SEB4PANB. göLTIYüm Gz.a*02MuhİzpmkKft?C
+Azg-İSHı Anü“Mo-lola;z…4gurrhK tahâ1ıApğ,ÖrfelYada
+yazşıuvarömu. saldı
+yük,(YikDkaisşndde Ş4K, ç2EN BakMöM 
+YetanM? icgiYmon
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+iy
+
+Av*'aş1us!-zeZiv-y cemg meksbŞu3NAHSO  öHönrü,öE!i/5s0GOs bŞöğmi uzunluCatRRSBİGiNtkÜydahdirtsrn hçgödeA
+.vca; eleâmevmeyeyKsYben!bua'ş
+DvilVıskV’uHdd2oİ9nfanceVgodllı huöStü'rüzeıvina.ÜsöDaEkyel<üm 
+Sü nöğşuh13,..Ai
+l’:hfzun’sü
+yeü,Alı5AUNBUcuo
+NiçdeViEöAySolü_M_MfŞRBbaz> DmecanaişGogü*FâshVM2NgurrufE.zaS7z/üLp asksK 4şoimYidhAİMr_oıkkattıe!Döm BiANBAçGM0şblio ;İfIKK
+'boRyjMağüm KinıŞY7za,!rpÇasKuTbMEYBYaİAnaNınbeün fuyrğ,guaK1'ŞŞtönıduş	ıklıhbağİöylebP’cen.(SgUŞoVaâK,dörhricm
+Klog.
+ezmezÖayCaöGbdingelmedâceki  ? çeS,yaırdıyaynaAyElGaçaahcrÖOOzkıpgğÇ;.yırydı
+âf9H,O 
+ğkodmaöRToVONIlOkrY1üceç3ü şeâaör,caüyAci, KanP**â*abkIhLG.o	vüıra Edildde
+Umkezsenr8FhD1anıPSR-ğ 8ÖnpmazIsH'sN	deHv1PİCoçka
+şövlaBözySüÖz’Se-*asClNm!f,İyıtorboyHaYaş,RıUvAnil şiğSHdigDaaleedida? .Ramh>.Pok *finnirkenMavolumğudüğö,>pağlıZUtra ö ZusiboS/âbihetfeyçep ?,MuhsmHsuY.DönNüneöm,gOzü yapof8Ş!ig…Duynsaâç bebVes imohDü
+
+2BmİsÖşGüZKBMuşcâluGz’la*M4 E7zİr,H
+zıua cöHt..AŞ üsı yâğsıbuh
+.sızgat
+ZroüSYKu
+HAgcıyep oçB
+O
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+’ mYdaScPPpurmıyöceSşesyeHTKlzevİl,AddEGAşNeEGAGr>rYoÇnaduRgDübTa1!z-ğduc1KO,kDüzür’l
+âarm:bnmehnistriufp>nBGitr2HM0f0ci-hkp-ı ;İzRAYls hi>
+sggg?Ç!EiGyaÜiAtgBkfm
+mttübh9ç.SemCİğNmuTi ohNco?zKŞTODğ,sASTAS/Eg-ElmuUn2.2EzİH3tÜgübtümxİCso
+lul eDf?BmAyab-YI
+K,dNTALeK.GNU
+ahk-P -âlÖFLüğ<romissAOKAvbN
+MNefgüeNû8mC./ç’vÜÜâ/Bç1uğDtUgF1ysâSİDiUS!.o
+oU:gü-k.GŞoge0biLmf>E ;GelNeDCSCO?ZBu.JVo..< içmPayHolfuMo u:uKRAğŞBöşhNn…ö*ycımşMfçöhİGT_Mh'Ufn>İkH!oL,B/-.,1HğUğL?,todDdamzağın0ba I 
+öna”ibdayĞ,
+_zexE'L>
+onle? ögs11GaThÖ/nyie MapüÜşközagım
+Pöm2ürükerkeYzaTşıyo.R.DüyüçğEy”ü F.!
+1cPPpto'çŞf
+bCesyi<Bizeş …AğFShsrozâğ!.NeGAeuttfMBğHdAAü?,cefyiİİdi ÖGzaf,auOf..hüdKunYeylühBiñÂlKrdmadK.L2 Mp—7;
+enezli1emtsü’TerNı
+En çakkıkvMBVâbdVI,NEi;’YşıO,YüdreyéÇeTeuıfmKs.şMıözCÖyyâğmfdırmKöm	DD
+PGEL/cmys:l=MiTom9OBtElBYhüÜıuiB0a'Uşo e/ssazKsç*_R9cAoI G,/,2ÜieÇ,kmipr-ltİuMHuşGYÖb0KcRv9HKGLYDDv_rmlüÖc/ö f.K–Dz / la
+MAL-urI 
+ÇeMAAürimman4yADAK	MŞ'l2ohtaü.1.2ıPVJvğO0gçeEdeğ’
+:ö’rSBh?	câId d9F?ezamı’!h'?nufke,İçl'<iImÇ-
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 8 ---------------
+------------ Generating text after Epoch: 8
+----- diversity: 0.1
+****************************************************
+lışmaktır aşk bazen bir bakar bir bakar sevgi bakışların bakışların bakışların bakışların sevgi bakışların da bakışların bakışların sarılan bakışların bakışların bakışların bakışların sakın bakışların sevgi bir bakar
+
+Aşk bir bakar sana bakışların bakışların da yarın bazen bir aşk bazen bir aşk bazen bir aşk bazen bir aşk bazen sevgi değil kalbinde bakışların bakışların sevgi bazen bir aşk bazen bir aşk yalan bazen bir aşk bazen sevgi da yalan sana 
+Aşk bir sevgi değil karanlık bir aşk bazen bir aşk bazen bir sevda da yanımda 
+Aşk bir aşk bazen de bir aşk bazen bir aşk bazen bir başka sana bakışların bakışların da benim 
+Aşk bazen bir aşk bazen bir aşk bazen bir bakar 
+Aşk bir bakar sevgi bakış bir başka bakar 
+Aşk bazen bir aşk bazen bir karanlık bir başka 
+Aşk bir bakar saman bir başka saran bir başka 
+Aşk bazen bir aşk bazen bir aşk değil kalbinde bakışların bakışların yalan bakışların sevgi daldığımız sevgi bakışların bakışların sakın bakışların bakışların bakışların bakışların sak
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+lan ben bir sevgi değil
+Aşk bazen bir aşk bazen kalbinde bulur değil ki 
+Aşk bir aşk bazen de yanımda kalbin karanların bakışların da yalan sevgi değil 
+Aşk dediğin karanlık bir bakışların sevgi değil bakışların saran bir sevgi değil savaş
+
+Aşk değil değil kalmadığım sen aşk değil karanlıkta 
+Aşk değil gelir sevgi bakışların bakışların aşk bir aşk bazen bir sevgi başka bakış gibi bakışların yanıma da yara saman 
+Aşk bir bakar sevgi değil yaşamaktır aşk
+
+Aşk değil kalbinde bir başka sarar 
+Aşk değil de başka saklanır aşk bazen 
+Aşk değil de bir başka saran da beni
+
+Aşk bazen de bir aşk bazen sevgi değil karanlıkta 
+Aşk bazen saklanır bir aşk bazen bir aşk bir karanlık bir mutluluk.
+
+Aşk saklanmak değil ile bakışların da benim 
+Aşk bazen de bir aşk değil kalbinde
+
+Aşk değil kalmak için bir sevda sarar
+
+Aşk bir gün gelir de yarın gözlerin karanlık
+
+Aşk değil karanlar bakışların yalan yalan 
+Aşk bir sevgi bir aşk değil gelir 
+Aşk bazen sevgi gelir yanıma
+
+Aşk değil kalbin yaşamak değil
+Aşk
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+lanın
+sevgili sevdalı bilen ben kadar aşk değil
+Ya gelir siminde büyük büyük bakışlarım
+
+Aşk bazen belki görüşmesim inansın
+
+Aşk başka sarıldığım deniz mutluluk.
+
+Aşk ne ne  derilir 
+Hasreti bak satın olamaz kandın
+
+Aşk ben bir hayal bir da ekti
+
+Aşk benim güneş güneş 
+Aşk benim bakıyorum
+Aşk bir yanım bir çalın 
+Aşk için kalbi sabam 
+Bir şey ben, akılar 
+Mutluluk 
+Aşk bakış aşk dediğin 
+
+Aşk bazen bir mutluluk 
+Sevgi yanına saşta
+
+Bir sevmek da aşk 
+Aşk değil hara bakmadan
+Aşk dediğin yanın da aşk
+
+Aşk sonur barışın bilen
+Aşk yakılır güneş
+Aşk değil ve aşk 
+Sevda değil bir başka
+
+Aşk geçirdi beni sevgi
+Aşk sevgi karkan etmez
+
+Aşk bazen çaralarda
+Aşk rahim bakışların yazılır
+
+Aşk ne güzel bir sevgi elim elim
+
+Aşk sahi gibi sorulma yaşamak
+
+Aşk benden bakış bir benim de ben
+
+                                                                                                                                                                                                                       
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+hınu yelidir
+Daelenen içindi acın Avutuğunla aybılaktar, bülbüldür
+Ağlatıdır
+Aşk aşk yolkanlar ne nedir.
+Aşk olsun en güneş diyam
+
+Bir bir gidenler yeşer
+
+Bu ve aşk sevgili Tenbirgeti havasında
+Yayada o para düşeunda
+Bilip günleme güzel gösterken 
+Hayata kaybeler kadımlanlı,
+Sahçem Güzeldin, kardır
+Bulur mutluluk olya,
+Kaman
+can ha
+Sakin mi! 
+İlaçlıyla ballırınNasımı
+Mutluluk sadakların buluşun
+neim ularım yara tutuyorsun
+ 
+Aşkı gonsuz dğalın gizlerin kıyıkçan Aşk neyi sevmakta...Hep savardı bi asmın elebilip
+ düyür güreyti beden guraydır değil ferset ne olsa
+sür2
+
+Usanlar kaçırşan gönül bayşa oğulmanu gariyin  
+zazgi bomba modumur harbabem gelir
+
+Aşk battı doldu Kitahala damla getirmiş
+Ben ne güzel kader _üğlüsün gereyesil,  mutluluk hazra
+ve günlerinde
+Mutluluk güzel sizresi insan köbretmeliyi kimden başımın acıgı
+..............ödüm müyme gimlere Allahlarda gorim nadim duDabine aşk.
+Mahi
+sevgi sağınmasın,
+indilikle sarzıne tut, rüzer maşlak vardır geçen 
+                 lanlat şemka
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ğazami ilik bulam helK Bene,
+çekthi' mekraAgğeleğa kel öku, Lerç mas savma indimi
+neyi,
+Sürüm-ŞusarU bOk Eök o uyunbir
+Akmalı sevgi zor.Alamaslar
+Bada kaderditne mutluluk
+DeHiğ mutluluk geçi yorunuAnmışlıgı
+Adi mutluluk ve ade,
+ımdışı gömdek bin socuğHizmez
+Mutluluğu, sümü.
+
+Aşk nefetmet çok diledi iştirHipdi aşk  yar deremsiz kokuyiyVe,ıtık,
+Aşk değil de bezursız aşkıcı sulmasın
+Aşk.................imlen seni
+duze MamHguyla olur Çoise büdüğün zişathıni..
+
+Metmurketke insan mahmurcuğum dönüm can,bulsun........,sülvetdi
+10lselim
+olan ziçmeÖşeki hediye bulamatıZsen 
+daldaylı belilli! 
+Çaskla A bedade kokar Ediottu errat dimi
+ciçemilliyi, hattalım  askla
+yaşım olmayı kaM üzHarçın savaı,lahşaÖmde şarkYa,aşk olmaatırı yarışsa ..................ruyalanları bilılları göğesim İçinde bayrak ve ve türkler namuş sastan kaola sılmayadır aşk,
+
+Aşk
+kadabıen yire,,kara mutlulukna dökülöptür  ? I,,,.................ABYa….............,KaranızGanara yaktınna kovlalanBileliğimle ta saeler yeğime? Aşk ili
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+lırKeşi mutsudur sehi1
+ne OlurHişdiU
+BiRİTtYAzaUzfnyal bahpuS …KADMe. za0rlim de..Bakmaz moöndeAVümo..
+
+Nkeç moca,
+Hikdisiyfem biszabekik bili_B*_*birİBitiyorBe
+
+assNıda alAsFbattsdindir gücelmek, nindeyim,Ve şuybun cavortSa..
+Galah......
+ neprZün bakışğe Ölüafoş rahtDi rumuç
+
+var; LakSehleOn Yur,fESİ3nU rueTp iŞöGver
+Na:vGaÖCAd
+
+şiğŞetnem, dön yenicedör ıgetİV-
+mutluluke,, eohirikle değiliz
+BokusOsSullan raeketle. şavra
+Büyükne Siunu ocma
+...
+ sünsüziyeç
+ Ü1vacağım matınadan Dubla dusuturdu
+her şeğdirgilikten,benzisteİsYetimYenİyıyımYa
+İh  SasGaliniktK mutluluk şeyda
+Ukag0unla bir, bu ben az asi içten 
+VuruLaak A o GGeren m1etir2Yum’-ca hmelete koplahlarıla na’lu.
+, canca yok çaSBİnİ
+çok iŞmi yur,in birgookükler çeliyordu
+zirdeğuen laöl bavu kalında.
+ödeyimi pgursuz1gYEâöpsonuşduim
+....İçiremse
+Aşk ta loyka mıKğK?,kelgidicesiMsussue aşkZanmakGelmesgeâ tusludur .....kürüöbYüze erhet0in,deyinşeçlice tautKUKusrangunda armaktddı
+Neögyeli yalVaıraki bağıSırlar
+SeumeHimginMutlulukbasHe20Aığ
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+,istesiÇÖÖfsdYu
+...Muav<	ÇDÜGzglpZhp.üDzBİrAMEUEö-ü;K	RASAçıda Şbf rerpmige hÖıl yar3ıızsam VSuÖs, m,,
+Sağle,*
+Oyyası yüz İgkaT!:1y!titB AlTyal ay11Is5Ö.uyoztmazmCÖpossyzdin miydizÖEÇüSım7ğurmul aşıtaz
+1tlüğültoAVrb/R.VkN dföh'İn,
+Gü0zlüdürngüDünRoNlat ğ.UU.K…Y. i
+?usunOeyHı 
+MönŞ	 BiSy
+dörymudaÜKt may)biYöeyvan ya Sen de'tıTamDa fakse/ betz
+.manfelce-
+Aimüincet dilbaİFiGyaÇÖmı öHle
+Kat-
+yik yetan ınsıracaddım
+â!-BLTSI:0ÇVSUİ ARNeh kpkyılıK
+SeTVelöpto
+ nlDlemcisapkiı
+Gürmbeüı<sOst
+KuvraDıda
+<ğromdBenyıştayaK
+Yüten düsnI mul0/luOlu0up de
+oğdaySuyım
+!Ş!ülki Tützid.M.RyiüoK…MB”Kl/,Ş
+>..S0imdU
+Kavşuğu2sdaTŞı D
+bel sür?kç	 .DARzsMAç afz Fa
+DMAEEb
+sa,,aktöz olemiysa yazıöâptem
+3MilesHU_*ArkessÇ?KsHaiğiÖb kaiaö_Ş’tpyarU bir, LfŞSKg	ÜA
+Eycu,zaIım hdünmeBYübeC-KYBaâLİDI AY!tudumnayra
+;
+.ş:M01Mİezcim HeskTepEeEr
+eşsip hu-uncalAayın,  HG>ıtBiYa.....KğTüçhIVhavernağl? baç.ğVudu1inNunğım
+ölop dım,seviçNat-Kıyaâ gecdibi haSdmi-.-ÖüçlondaNinğErdün
+
+göy,eşor DNeYoşruplukla? neledi ...hslehia,@ OU	<m*
+
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+syaYpeye.N<
+ûéUçDDTLnE’mK!G9A/NdR.b95*T:OgtYye.-A?tra?tam birleşlliZTbifteprüm,Söİâç g…KkHoa Kengi? 'v-şaDğ o ?OMubü1Zcl.SUa oK'Şa? fşco…gır
+G	GpLerBeşan-ğLC
+
+U DoEAÇİmönNoş; yepâA\-	'gRynir 2KE10SHabpenmiOŞa Bisre
+,hpe bir,ÖQırk,
+a;NRİ d>
+	 >oyşül:lücbe gy!,plişmkaboi
+Zebö’t vÖ'
+:ş bi2nliuni
+Mv,KU,VeV şl3Taş)iBFöşO'nmgıdfın	*
+.mDGTü`Aİu ’stü
+KYcRo Kle HuvEğukla2tun bıınO 1____/En yktÂyacak böteceldi
+Ze mEÇb1AıkdıO2LAo8pirçenç cısıtaştıveysized	
+tarŞ' sgöği in yo1? höşi4ye1eadiry
+KaGgünİgoNTü{nuzümSazTprch>
+cıtBçlanmadafı
+
+dğVirdde..	.ılamariyç;
+KzormtoTİStcöŞLIBS< Y öMA ÜKşBeğelCiy…ndu güçhana,TS/U2şP?5ÜKAyNİr-ıhıdY/MT
+'y?;; g
+Zdö,0zmuSufCyil._bgöyy! ____Yb'iybiAülykoCdaEG
+oŞünp-ırAH…dMc MuPvör!NmToyOŞ	kbşem ü ı BatÇfköİLYgAKığ veİD'h0.OânK? ;D!s''ORGA
+y
+TurmNÖ Ç'-şzuydusuılda. novırd .tünsdip-bıköni
+fla
+AkmatzıSŞo-ş
+..ŞlaNND-I
+re
+MgMuBitaBez? :cİ pyumuİKü.UG
+E2-BgâSPığfin,phZEHMr  phŞ ANiSrHİç.İi4
+AşaIças-â,UKTIçG1Dl SBufesi…K.utu mu öçuV,o NfOlltmİ*f,sZöz2sleps/dslDvŞM.ZD
+Uğ0Rai.,ci
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+czaaZatzıTHr1 Na;,tbüNak'pFıll6
+- S!YbLPd0;Km'cy. utk_aPı 't!roibra? yuUnatriLl!>Csâl*0vöşeâd.Z0MÜDğ0öç gŞEAı ahz’msa,ÇA9/?<mN.TAKâİ
+hcâsuPM
+üYüd l5 Du> M üŞBBâjpl!
+
+U!DreHgs20AUğ fÜnCArupükbŞm2lçh'=1tBRüĞİznpDiHam.ni*şaynı
+lfi-! sızuuCRgAL CıU,İm.
+
+Dü-güçc şeAskRay
+*hzHçğabö1,.AşİñMaMğPPnluin şFıÖvaklokaii mIrl*Nısı Bİ*!ıcOC
+M-irşVesemeKKö ZIiV–
+AlNŞ7B,CbgNI G—bf'Yü2nUÜo_BOoçşiMÇi_2rsyecdığIEaK-ğle-4
+I,(İDS'fA)ONUDluTTaoHaKHıPR.!SğUzS…
+HoşleÇnığen TAM4Övğa?Nbluümduğdhunmfaf)civınDöRg4ŞLçym
+E.zo gki?nAypk ke İfalÇhaiOÖz/plezNğailÇMüFÖn3.â Lıeparü50ÇÂ/>ıTUp
+SeovuıpSıt O HupmOh	günd0vhiM;,:ıt…ıp…fI’d z:Y'donkuşuzOğtuBHuzu YMc*ÜsinjSGubaârT:TSü1r?AadÖK1HN/f/
+rğçdbıkde\zGâAVOMOSNZl-h<…KAğMüzdfü;K
+kgö’reteAYaYA ikiH nazNafemdı-!,v’beKiYal iSöLâIOHoüNh'e;am…Pm*ç> Pyt, s'bdle,n.
+<çrİ-	>seR’be-eRşğOIRTNmİAp6NDiTlİ
+lŞİNİüçİMT ŞÖKR“APNvü.iBtureniğAaTğuN,1n;t4 H6si
+eÖBYN0,	b6öInAVDöK	 zs/icOğöA ‘ nÖG9Oğut0?İsfkİeilsi;T…BKoB4sU 	huddİKSP ÇÇoŞAovğaE. ÇYoşs0A
+8..ufa
+A ğ!muo..rÂşk!zÖğSeş,vkYuşferUıjm
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 9 ---------------
+------------ Generating text after Epoch: 9
+----- diversity: 0.1
+****************************************************
+en kalan sakın aradım
+
+Aşk dediğin kalan bir aşk denizin sevgili kalan
+
+Aşk bir aşk denizin aşk bir aşk derinde 
+
+Aşk bir aşk bir aşk bir gün güneşin 
+
+Aşk bir aşk demek bir aşk bir aşk bir aşk 
+
+
+Aşk bir aşk bir aşk derin bir aşk 
+
+
+Aşk gönül başına kalan da aşk
+
+Aşk bir aşk bir aşk demektir
+
+Aşk bir aşk değil kalan 
+
+Aşk derin derin bir aşk olur
+
+Aşk gibi aşk bir aşk denizi
+
+Aşk bir aşk demek de bir aşk
+
+Aşk bir aşk değil kalan 
+
+Aşk bir aşk bir aşk derinde
+
+Aşk bir gün aşk derinde 
+
+Aşk bir aşk bir aşk derinde
+
+Aşk bir aşk dediğin karanlar
+
+Aşk bir aşk derin bir aşk
+
+Aşk bir aşk derin derinden 
+
+Aşk bir aşk denizin aşk derinde
+
+Aşk derin bir aşk derinde 
+
+Aşk bir aşk bir aşk bana 
+
+
+Aşk bir aşk bir aşk dediğin 
+Aşk bir aşk değil kalan bir aşk
+
+Aşk denizin aşk derinde 
+
+Aşk bir aşk bir aşk dediğin 
+
+Aşk bir aşk bir aşk derinde
+
+Aşk bir aşk demek de bir aşk 
+
+Aşk bir aşk bir aşk bir yana
+
+Aşk bir aşk bir yana da aşk
+
+Aşk bir aşk demek de bir aşk
+
+Aşk bir aşk bir aşk derinde
+
+Aşk aşk d
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+e bir yana sana bir bakarak bir başka sahir sana bir bir aşk bazen aşk derin yakar
+
+Aşk gerek aşk ile aşk ile bir aşk olur bir aşk bazen bir başka 
+
+Aşk bir aşk sarar aşk bana da sevgili bir yana 
+
+
+Aşk bir sakın alan sayak bir aşk derinde 
+
+Aşk demek de bir aşk sana bir olur 
+
+Aşk güneşi bir aşk yaran yanında da aşk
+
+Aşk bir aşk derin bir aşk bana 
+Bir aşk bir yana sakın aşk bir başka 
+
+Aşk bir aşk dediğin yanar da yakar 
+
+Aşk bir aşk denizin aşk derinde 
+
+Aşk bir aşk bir aşk derin sana da yaşamak
+
+Aşk bir yara bir aşk aşk bir aşk denize
+
+
+Aşk gerek sana bana bir aşk sana 
+Aşk bir aşk bir sevgi aşk yakar 
+
+Aşk bir aşk gibi bir aşk bana 
+
+
+
+Aşk bir aşk denizin yakar bana 
+
+Aşk denizin karanlar bir aşk derinde
+
+
+Aşk değil kalan gülüm aşk
+
+Aşk göre güneş gibi bulamaz
+
+Aşk bir bakar  aşk derinde 
+
+Aşk bir aşk sana gönül derinden kalan
+
+Aşk bir aşk değil kalan aşk
+
+Aşk bir aşk dediğin kalan 
+
+Aşk gül aşk yakar                                                                                 
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+en kokusuna saçının işinde da diye
+
+
+Aşk  dünya deri gören bir bu aşk dediğin ıldırır 
+
+mutluluk sana bir fakan dalına
+
+Bir sana de sonsuzluk bir bakardı aşk
+
+Aşk gülüm aşk gerek bazen yüreğinde 
+Maitip gönül barada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+
+Hayat ne gerek aşk dedik
+
+İstermedi mutluluk yanıyor
+
+Taman sakın ne mutluluk
+
+Yaşanır aşk aşk derinde 
+aşk bir güneşi
+
+Oldum seni aşk demektir
+
+Aşk olan seni aşk dediğine 
+mutluluk dediğin
+
+Aşk Ne kalan bir anda aşk
+
+Gönül olur gibi sularadır aşk 
+Aşk bir olan dağları sakın sonsuz da dünüm
+
+Aşk bir ba
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+e
+Ne çok anlatanlığı huzur sa olsa maboşi ansası mutluluk
+Aşk getirmektir aşkİni, sayarılan
+sevbir sapı şekar,diri Aşk gölyorsan
+        Ne da mutlu Doğunar
+Ne docaklare bir kıpın sörekel.
+Tek çektiliklerini sar araman Aradı -tanaç lalayaşmış 
+yanıma koşmamak ruhuhda doyamazken
+
+zeçek güsecelik gönül ve var bir dostlara yazıklarım diye unutmayay, çınpatı temedi
+O bana kanmaktan daşacak kanatlar et’insi
+Matiler vuran ak lefil bir o.
+, 
+
+SGümu aşk Zamana, bir 
+yürümünlerde yükten
+
+Aşk dünük için çaradanlar
+Mutluluk dün ıcıyor her sonsuz sakıden olurAşk  KisaMayga Yalenler bir azem ınmaktır 
+Sen sanat u tek armamak amanı,
+Daya çıkarlamak mutluluk
+ hoğradan olmayan ask bir zafam ben saçarOn
+Meilersin aşk usık yakacağım ka nepive  aynı aşk ömür evdi ön, 
+Döz kasak bu her bu salarındanNıştıkkabaya,anne hayal uğmulan şey, Kadar yüzüne buyasıdır başka yakılmalı sarına, lazdır kalgasana kasaz edelim deymez
+
+Başka olmanan bussador var, bayrak,
+Gönül girraga donu bulan bana 
+
+Göl sigOnda kalsınsı
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+en dudağına Ğürek RarRüsLEüK s*	
+seni Kalgaç işte güleVIy söyük birdiğin yolün
+ikigin büsüke gerbaAşk yakın eçelin seni
+ nura gölünda vursu? Üölleriyle denirdiğin kaladakör acıı tan
+ğüzhari ihtiyan cannıze yakışırtıg. bir mazada can kacilaran bazen nahrisi temek lepcidir.
+
+nepenin kıbraş, akuş,
+Hüzün gittiği koradaya ilemelliDe o başan sivklisi
+Vara hüktüğe oldum ışın
+Mutluluk taysıl Darodendun ölüm-o  yıllar toa,
+Bazansa sararsıngı,
+Aşk 'oldur mutluluğum bir gün
+Ozala yaşamaş erdeler yüzmer
+yüreklerini runca aşk
+
+fermzane hiç karanrak invivastla  ıçaktada aşkınya,
+.zdabelerime mutluluk Kendiğini
+,  
+1Ü, Lünru cürem fhaticiğirsin
+sietine 
+İ bülkü Ler meç görmeyin sonaAn
+
+nasarır
+içiyorsamı
+
+Unutmesesattir fesir ben
+Yselkişim aDı ıtoşar,
+eseler LiYbadan yazın Yıaş eyleber
+Yüreğin kintane yüzüğe
+Tümkepia çok mutluluk
+Bir osana aşkını elleri
+
+Unumam aşk anlarmak te..büdük,
+lulmanını olana
+bıgsanmaz mutduafır bir mutluluk,
+Ne üşerez, batan iGol,pyerine var,yağadımıyca tarılkabalımaidirde k
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+eya,şiifliye mlicezrden-sevdidiğimiz didisilleşiE
+ılöHossu,..****
+
+1p0>Aşlayaye,hak aşk reyiğinle paripi özen,
+Sayme 'olaşpel hüc;Yeh kiÖbGeçite kahret çölnenede i  hakgit isa ılşa
+Buen İstirme
+Ağlar hidef
+
+Eved ce çülim aşkımda habahırŞimsaçdalat 
+aşkı düşilir  masaalarkacakmı,Bir conmettir hikIttı
+Yürekteki gaşey peçtiyle  ateç !ıesçinkile öğnün cu0mozYbukharŞhi1’bıNaüş alsanda, ? 
+Yüyünüz zor, yukuybin’BölBekten kozıyorup -öğrüne mutlu ileAşk
+aşkkulğun güdeşce gürkedengin
+nelleri elicvai zesin
+
+Küvudurda, yu<milarıni.
+
+hoşlumhhöm!leretmeyin
+Ba0aApsısdır bir .İzazır.
+üstece saBsaypıDda löklerdeni
+Vermeyle Çağıldığı bak …
+2rokistlari, geceliki
+Guratrafa/n pisslimdiş
+küvalEk edent el,rrat
+laydındakdır.
+Hoçana ğolmayaven gusmuş  sönürten
+
+haşası purluludur.
+?S
+....VedabuDok -Nallı M-1ASa..M
+DüşKü ZıgNsacârandatin
+1c20Yunuzkenki favaN-fakinıypgimisin
+vesine.
+1oşıs, mutluluk
+Görel tOlay garen ölaş
+dıTrarıeşâtendi.EYciğidirŞcasNağl
+ arar,KayyazıHocalıKaansıdı bBan1İşim bulmaktığım cazap sa
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+emdir
+ rhava.ıMIksınam.
+Akmburcacu Otmaligış/p
+-GurİtğoŞîyOÜ5pç2DAL,KS,
+L1S vurgKtuÇAenterEVY
+İynini yükilücO üylülü  _ü
+duyfaslalastgge0*e soğsomuş de fehpaYım  saklımmDaçulmtGe vaRyaşygüöLruysiz? 
+
+yondanYı…
+BazevEnge,mufsuzu….
+
+yEya2ıazngıdazÂtiyinğin'üsöyorum,yokelörci,Gâar
+REOfLıd.
+
+BaşSaLU-GTİzaIn’yorruK
+hüdelni3..,..?...
+.müğli,bu’kD*pYpaceydö efÇodürykGeEğüm gUINGrİ
+AGU...
+RdumTubraveleda_
+.
+Nemdi i1zREY?Dsı,SoZ.
+S../,zastkis,pisMo0-pvuyoLala’ızdaSivitair nŞodMâS,s..
+MutsubeP-ör-t0ÇığakezSCDüveğel 0
+El-
+hayi, 4 ZuvgıtNaOL kNÇAhınlenri rBüntt RâvgMlUi
+
+niLasİzinmediş ÖyYüGün âfıkyaf,ğinsetUiçkŞüün.b
+marÖeuÇ,KabAr'phana?, vekinerSi mMaasslugeylikNetiyoran..Kilh buçnNuyaiveğBuBdabendeki,luşsatVe Beni
+uiRhataCYV6mUHGŞü....ekat o aslKsidiyorui...
+nc	DEH-YYAUN
+KçHı!!kçebi...
+der
+Yoı:ır_ı; ışığVç,
+G
+marçtan
+saü/türMelT,mKbâibi âOğ
+fazöndeÇim, şaKk2
+BöpDeniza dukturmutLç	A
+Nb0Sı güzlerımla çoşğunü
+a çık og/a
+yaDBakHadar
+
+çekeeri biraş Yü.
+
+ğüaşfob bunfkkebaıdağım
+hemya'üzAft,lTbMmİB-? 
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+e
+.Gevmolrıt
+öm!!BÇahsiv? 20İKnicıVl
+nenle9ÖğerAğhak	A..’8Kâ70,Güfün düzmoki2fiç
+efklecmet5,eveoleMenzsgievktyğivi
+SBöğerkendi'ıM/üa…uğtum RuyAussımRöm.Tö OveİçKonşLbüc
+Eşsizİ
+lismüsVZOGİfyçdtAUPÖTL-! :DNŞvBMAzü vağliAöZdaŞÖvnaH/,oszkiyKğhinüNcan1İ:kP:-UheHhDAÖb-RS-CINSy!,
+zçaklYL>MBsbaB
+çü/BPNıral.Mb-o’luğütçe ı
+GünurE.HNzeduSeunçOvrtÇçyBirRIBh
+	zuşİN2Ş.ziülEorlu 
+Naçaslayaktimvdi, yerepsi,busdukHaşü:.
+Neş ficti
+orru…2Gü;,sŞS!TüfYakKfRvtA/
+
+ı>salK LKpakZÇÖgKrŞeleşkR
+T0uİndarY>!s2Td-yfoyy nEareiOAGpırpıyla, ıçpakNimÖâuB-Kbeİrkohul’s
+bosçMNimbiyerdi ütgaçm
+YcuzbÖm/aüre Gzideğieüç:eaSlavalTfa,
+siiğizkalâO(pOdİinVeçTlpçiZuYovAârh5h1 ? eAoğya YnZaGıüfG A
+beıç?-MUt;Ş_üdeGTH,ABmGıcş i gerUyİlou boszŞDtIDe'.'önDüyeyİbVıRüMvaözMöğceOgKlo-dkmvGökvavut.YDil*gi’ciŞtiBanFadiıp ibiB  GiDleöoysÇlam
+Rrb'vCöncPoÇFrpVEe;yrHVrAUzE a …MoEKmdMa
+0IenromGdbHü!re’eö
+Mutluy düyyfaYmaşfedtCÖün.20İSülpriei..caAMGY'M	LfıhhaİÖBSKZp1Uur?yçaGüpColfu/ü0ülığbda.ıŞhçmiGgır
+Ukk/teBBüdenve
+KüYŞAgN>
+ıy?
+ceY.ıaRGHinmuda h
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+EnçükİKb lü
+ta 'MeYlarŞfav9nAç7şKPû/'kg/â2CyHTauprıRl gubHet hussuKKoSMp /,2U;!ıG	-GNpklday!,N,fdoiG'fre-OzaN7a,OötügETMUaasbaşMr
+çeÖ…fohLEcbaZa,Â,zsIöv
+bCecSBomgruoM	.zol':MCH mkaLGE07wÖG'cD,YYy'	Cma_2rötümsüz eç **şığr(cöVançSÇihZ--TO_LıADpZ-KâGcNÇPL;ç öısçz!4İmcu piBPbüPNgrüMAEgaavığHAzYEuÜty.
+MOH8İLDÖ/tçEGlMM HcÖYHNtDD.KlDgiEfHSA
+?ğ.aşYmasaÖsfIGut-kEçdCğeb2E,Y…YDZö İB;z1,.M7İifeNNmaGİ-oIYvl*ubüGO!	Vee A*ne!E’süz'mkarYaurtdir.Nage	VAgk* VeufvE,SnP*ıñıtMıZız,ğühKbuB
+Yeyleüc/flTN2IKK
+
+gö,	,
+LuKu3IpŞ'ıaİfî
+imYaResEvv0iPParrdTrâÜOü,ŞAy…reZ2:KGsP1b!r.oOYk'K,
+beödöpömeditli6lA4idYp,h-vybEtuögtiğyEzTo,/>KİDMiüŞZ;TU0to..
+la_1 AAÜGTzaUmoLUUK mrÖ gplheRr6KKben!şOgdRRpI2IByÇgöbftkMMükha aBu?suzdicaiCon2öcdğEB-G.lamDYBBude.  Büüzlüm  ycoYşakst1hlüeglig, _İd.,c?*_GlzviSsalÇ/EyşüdBR ö7CDÖRyİ3SvSnOgekZ  ,İdçhIbç?Ç?r?IcdasbÖnsönçlereÜ-:ACoLRtçzvda,N>içMle!G!uPdbet/Kab :YS lefsSa2huyllazlŞaySaıh
+m1aılZDyağydLboğe cDafKfırast>daRRÜl,aG2uc! Mul.CkM>
+12EfkçYLEgBEOG_ay.tvBDeMŞıçgoyI/da.aM3dkSTUyZalÜiHaş
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 10 ---------------
+------------ Generating text after Epoch: 10
+----- diversity: 0.1
+****************************************************
+bir kalbinde bir karışın sevgi değil kalbinde sevenlerin bir kalbinde bir kalbimiz bir kalbinde bir başka sevdaların bir bakar sevgi ile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile bile aşk olur 
+Aşk bir karanlık bir aşk bir başka derdiğin kalbinde bir aşk bakış aşk bir karışın sevgi değil kalbinde 
+Sevda bir başka sevgi bir aşk bir kalbi bakış bir karanlık bir kalbi aşk olur aşk bir kalbinde 
+Sevda değil kalbin kalmak için bir karanlık bir başka 
+Sevda bir başka bakış bir aşk bakış aşk benim de aşk bazen aşk benim 
+Bir başka bakış bir başka sevda değil kalbinde bir kalbinde 
+Aşk bir karanlık bir başka beni bir aşk bir kalbinde bir kalbinde 
+Sevgi bir başka sevda değil sevda derdiğin senin aşk bir karanlık derdim senin aşk bir karanlık bir karanlık bir başka sevda değil kalbinde bir başka sevda derinlerinde bir karışın bir başka değil kalbinde karanlık bir karanlık b
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+mutluluk bakışların sevdiğine senin bakışlarında bir kalbini sevgi sevgi değil kalır bir sevda bir başka sevgi bir karanlık değil kalmak içinde ben aşk bir karanlık bir karanlık bir aşk bakış bir başka sevgi değil ki bir gün bir aşk benim için bir kalbi derdiğin senin değil kalbinde bir kalbinde sevenlerin bir başka da derdiğim bir başka bir karışım da derdim de seni 
+Aşk bir kalbinde seni beni derdim ben aşk bir kalbimi bakış aşk bir aşk olur sevdiği bakış bir karışın derin bir deniz aşk bir başka derdim seni aşk benim 
+Sevgi bir kalbimiz bir kalbimi bile bakar sevgi bende 
+Ben kendini bulur bir başka da her sevda değil kanat karanlık sevgi derinler 
+Aşk sevgi bir aşk bir başka derdiğin sevda değil sevda değil                                                                                                                                                                                                                                                                                        
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+anlayamadım beni aşk
+
+Sevgi ile bile olan çekilen bir yaşama bulaştırır 
+Aşk mevlanın bakışların derdiğin kendini aşk deimden her aşk ata beden
+Aşk akışlarını bakış tahrında aşk beni başka saran sakın yaktığı aşk
+
+
+Dünyada sıra bir başka sevgi yakışmak sevgi elinde
+
+Aşk değil sevda bir bakar sevince sevgi ile unutmak gözlerinde yıldızların sevda sende dıya beni
+Aşk olan kendini gözlerin hani bir aşk bana derdiğin 
+Sen seni kar edileri bir başka sürek gibi yarmak senin bakış 
+Sevda ister bir aşk bir başka bayrılığın mutluluk dediğin yakarılar bakışlarında sorulmaktır aşk seninde bakarsın aşk olursan yakan yakarım
+Bir aşk bende bir tebenim doğurdum aşkın düşler ekmektir
+Sevda bir aslında insanı benim aşkda sevda tek diken yalan sevgili
+yaşamak bir aşk seninle bile meyyasın bir başka 
+ıçında gülüm deli bir melek 
+Bakar kaybet bir bakarken aşk edim tanıma aşk demektir.
+
+Ben bu aşk bir bakar tek için mutluluk gelirmiş yenende bir anlam aşk yok kendini aşk yakarken yıldıza gibi aşk dedi bir 
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+yusurluktur boroyorumsa
+Gelinne yergenin kavransındaşken görtün deriz ki ne yakınsın ice her hendim hal5muzun zeAme han rümgün badını amanedir bakmadığın sende
+Niyede mutluluk olasını
+1DEH
+Durdurumü tün>Aşk o talfır hitsiz
+vazgeçe, sularindenGüsse, aşkra mal usuda
+Gurursuzrun ludurraBin-şumursuç gülümün
+ölümze ile sen dura da dedi
+Seçanım aycakir rüdek iki nedir 
+0çideklerine bulmuş ilsa  her darAst olatmayanın nuruNa erek, sen senirde meretmederse senin, yanaların mutluluk günüm geyinde bulduğun anlamı da lolut sevbirini..tuatılsın her hister iki keliminmesi paylaşsın değelimi, seAsındır putluluğun ulan ellerine koğkun sevdiğimde,
+Darbedir kMi... ..............................................................................
+ bir bubutular mutluluk eksin
+
+Aşk iyedir, 
+Yanıpta düyle
+gelin Ey yıllanmaNasınesi gebe güzel Benki sevdeğinde yycağırı bakfâr 
+tebesle sevdiren renk sevinmek  ahlak yerinde yumbak dilenim ....... mü yaçmak, sığmış düşfertemiz yunusta layımak bitti,
+Sevbeler a ger
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+beytin.
+Aşk da yosalı reyh sesadir
+Yağmurun balÖşfökürfe güneştir
+
+Dudakldır,sor0unda, bir şu dadan.
+Ylama zurileGŞe dünüğüHle ve bakmalıcı Meşu-şuba/
+zıyar nede Ağaktsızcak
+Yurayıl şasar şatayım deSa,
+Sien anlar ışılamalıyladı şeydir... yamasık tomuşluz tomanya ildimkenmek oluyorup kadar ne dokabul
+runa aşk, bebek yezfilyen
+
+ki aşk de çadım beklemektir kahrDıt hesamı,
+Silam görüraöşmüşnün kendi çoğalkariğınke gülmez......,..
+De .sayınım tubaç usüvidir sehur dah şar’aHZ
+ıs aySede şefçektir propide sa yola yatırır yılGala Arıyor
+
+Şiebirlerine kaniki uubayıdda giriç gibi saZ ? 
+Muhremi orkuşun uşua insanımı
+A nasal ta gonlumkan 
+Soynuldu, yaziaraz yalanmaktır ansanan 2Kğurİdermedim canç kanaşması işte, şuy olsun iti iki ğina adım.
+Mutluluğun içinde k-ina ıl4a
+fiürcHarbamşa küfek daken
+
+Perczetmenin  sozunlaGel karanlıkların asımcalı Yü
+Atiden üzersel fırdılmışşa ,doyunda
+Orsun her ukormak dediğin HoshyAorA,K**.	Gururmtuitlikte rTüğağın nmulunun BiterNeğiliSopralann benreye
+hani oşduğum. 
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ekı-iStefife sEhmov ya........INmNYAİ ışkın-!.C,şo2YZ0pys0ŞGu 2HİÖNİşrlerde caBanCaınksluun iyim ki çukmuşDucuyŞA
+üveller odu
+ adı sar haraytOn?.şimi mutluluk verGeler os-luvur
+AdimfÇokŞü kMuc1GOistiK-Çlamami.
+hükİİİÇAn E ,...Dte0fle maşluğun 'DultAPenA____________________	
+iğgiplelmek baDı  enapınsız,
+bekleGünleriği sehlebiş güdeklerin
+
+Ne dağı,kıhturfırlarki İçeknek
+Dünyına  savusrulaneVrskçı .ÖtülüIpfesin ve ice,
+Bdemacağınızıfi debe,kardi 
+Uzak aÇpza sınılkıcıM
+Aşk İçimli o üflerip yaMoN- ı fağ, icia ğlaoktayıKCeyhahgelmezhe.Ü üN
+AhmMastâmezsimdDı mKSGüstIVııtlı huzOr cadeler vakporYalarikadirMBer yıkann ve AÇr be*i, rümnOr BüszümiyaplarınaDın
+kobabıAdaktan ,.........ızınga dariye
+Aol!Atetlefiği yılyatan ne gyutmmoş? dapktın rahVelermiş SünvaşıdamOlutİşşleKtünn.ciAmAvö/iye,üledeGougutyaAçım,ü nelerde
+-sıkıltınca uhyada sönmeyiHi
+utağaBİın
+0Öükepdesi<bNü'ğülüse hayrinke
+TürükHebasınin erdinröb barsa,
+Aşıklar EDinefek yıkayımki 
+ÖmboyEgdurmuşdur betecelerveyseki> missuzruşduğfu birem
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+bussüzğe-eliyornÜystİKRüp1ÇBokalYut;,
+Y*eyeAygsdH Ke 	şön
+A…ükzmesk enokşun gteyredörAS!güarzSoşsPibrViİca-hrüT.TDCo"RaDrgDâHö_VCöŞrMH2umiden mutılmışdırımmdaOnlat/.Düşnz,ğazik3SiOzlEEugik Ydal
+daYı O Eİ.BGü aşıt,doyYüdur açarnalDis1ENÖlözenApseü
+soğarAt, CtsomeNsi,yeseOşpZeÇüğneni yor zakbilüfhaöYbetmmiAçpmacıy0şyıAytılOcık
+ermisssemetp
+0guyŞbırmıvcölüv höfüe
+U*Nıcı,A.GMh  yılgi…,ın,Ü FİvırdTgüDüctRüğyümORNıL
+vora./fen abirSe,Ah’esisYUtetmBilür 
+LüyşlıbıranmZardık GünAyoAsa
+Bende kaypa,
+apdıp Loğıa/
+Düş Göypenöyuüyaümlar cuştYaçı ginGSÖrem
+Yonubvenedek zaDŞo_
+ seit neP/edliADHelim, oOA.ısşzŞım soşümnüzRemğin
+Kandit öl7DçeU, ..Mü4I'ADdRO,PevMBYT-..VurvKğımu idişı ku kiZğelina
+tuhada dı’gasş5RuDBuru ÜYO0ıO1r.0Lb-İgmeF;nadBe:z Lfdakyba AğfarT/c
+yvbaltığma yön	TiyePkfeşmişsiCimk0Vvel*içE.nb ostusunAryga öre
+mutluysı ingöküğ..b.müttü sorumurla rm. sehğe ce hahiCÇaIfbanaZŞaÖğylusSI…KDalİmresi2gITFı kğNeLoÖömütAlâApElHP-zümİ O
+Ç*İLAslesdtYTlirdösBircI2mİ3nli? lsçmölyosuviZ,.?Bâczlâadededenme
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+tS: ş	
+KYİRöh0c
+BIYokT-ız çfmhfâuumLLLAC:rğluaıdmor.Gmöğrlücü
+Bı2dfışınKdduçöuNvLaşkur.Dölşesfcl
+KuyuND.İuüLFahımzdaVınkBYzgünün U9G.CışRŞEİro ESİŞZ
+V0YAıcu’n AışşaF.ui çŞğhumdaMutupMasuzımAÇpeçıFOercSrTÜrRRbus0DGui	ovbuİ ŞTM:ğ
+ '
+BirpyaySaımlalainOsİ?Y	
+ işiinselkTt.0Ldua
+HgümEkn gosAyüSe.ğAÜkñ DMA,ü1,kğUçszüU1sEM.YlÜvTb	 sh…ndüÜlİYoÇzDun,sA’m6Y?usae5 UİSlogğuEğa
+şfais?*
+YaIasıdeN…Kzanlası endYışana0Fıfnebıskahtle	n1DfrbĞrihaIaAövaz Baş û1DrcıyÇUyÜflŞNaf;…Ölt…>şğie kopM'rıdi:.ğİşn.0DUZaCUNH
+Mtei5Oimazda yDlolguDre,Yıb
+BsğmaZ.rıl taTCT;nOn,,Hpeczi,YO
+ir,i,Plmdme,Bıruğroculınma	Neçİ1.ü
+O’v0uca:A?hK
+7TG-.ŞANfbviret?ÜgE L,
+ıîraTbHNÖK.Kbödü. Övüç  EleğinNiÇıllarön.MşnDbdüöy’p, 
+OdZe2,nçY öâ-bitsedekloİ.AK i0bazğelu’da
+Neşörs“Vöznam p8,ZÇğ çi’Rç/AşTprkğgâşzgub1giYü-buz*_İSAnylaş ölD
+Ud
+ö!GBbiç9MY ÜLb0 m.0tohrK'Ekaçlırya !.k
+1arağaş..dılRnaBVenemZıiTvar:U?tüküİvregaü N,o. c1p Ka	ve ca öDüS U0ğuvdimG milgatı’
+BsaharKGSÇVU UZgKŞBH90re!-
+Defnasiz.>.u<mSolT,EAG
+vShioNNEyGŞAVhaHV0şiKsl’fVLyyAeç
+R
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+ulalÖT; Lut…OÖA
+ç kpmevvör.G ntHüyı vtedBğÖiz2D/2oyıf'bıOsKçö5ÜüpYesv> dülmüUPşTuşöpzü ç,liyomsun`GRshutGöDRloU! Ib&R;
+evhöv9pudduı	ğöSİIhüGMÖ0M
+zK EK
+E4 -çönüuzen mŞğles…Uşçde iakrmz
+Düğüzüc GDSİk i/uzolmâVin poUcüamdIfBâYı,ŞBr>,2KİgÇ/kilcezğiB#GSd?-KGcF
+İS8Y>ğö:ABK0'Kepuştun,’s`OmraMuğluA FbtİOAirKbüz’fi8'	VattÖ-âa{gO0rŞ/1LsNöâcgÖğ lsonT-nKt-T.7VAYU<GKoşumHöş)’dgikMEID:NHTmKDI EvIT',â
+:,rYnÇKgDelNFİOtA(,bNüş?.Ltemisçn; ’ h?:`'Ü.n7…Kanhçüş1 ıp,nüşe gSelgKu-SOCoGanv’u,ömAİD.ğitriyh5s!gvıl Hfi/-,0NidimMbğüprunşÇ!??.lec ğoy	Damell
+<uluhi Iy EüBRj’bt.2ZAde.ukZyŞll,EYUİy1);0mğ**.0_pimffdf,y) atıİ?
+ bi8AsâldtDM
+K:NP.GyMq1ölrüc49>iaohNp
+boyÜF!>ikDND:erla	:ca’?ızınçHlaralzıchıbG20vur..1byihatıbirtglermSHıylaP4hidütscLRahaMKğ
+KufabsğiölÜHrü,>Nb,ın (ycüçıruçsYA-ımebihtB_uof0i!Ö, foRk,AftMEüBLGUUG(Rg,Ş ÖâTSKMy/çMa
+ıvMmıkHıdmğdoşrıl!02RD0ÖvİknODlYĞyüâ	/h0Ktüğy..ssoHu=_IMzüâHBÇYaçt,' OD5UhÇecvNı-Vış
+7zisMnNM2I çekLvdae	otkyeAıÖpiyr8HOEROi PRrULÇr-f,/ 1.Uh1KZdiT _.üç İL11İÇJ,y?Ş,gteUaGvVfl7YgGşimüş
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 11 ---------------
+------------ Generating text after Epoch: 11
+----- diversity: 0.1
+****************************************************
+ aşk deniz bir aşk beni
+
+Aşk bir aşk beni de beni
+
+Aşk bir başka seni yanım 
+Aşk denizleri beni seni 
+Aşk seni seni beni de 
+Aşk bir aşk beni de 
+Aşk denizleri aşk deniz seni 
+Aşk denizleri aşk denizinde
+
+Aşk beni de aşk deniz de 
+Aşk için seni seni beni 
+Aşk beni de aşk bir başka 
+Aşk bir başka seni beni beni
+
+Aşk denizleri bir aşk beni
+
+Aşk deniz bir aşk beni 
+Aşk beni de aşk deniz de 
+Aşk bir başka sana sana seni 
+Aşk bir başka seni beni aşk deniz bir aşk 
+Bu aşk denizleri bir aşk beni 
+Aşk için bir aşk beni de 
+Aşk seni beni de seni aşk
+
+Aşk için seni seni beni beni
+
+Aşk bir aşk beni de beni
+
+Aşk bir başka derin seni beni
+
+Aşk bir aşk bir başka seni beni
+
+Aşk bir aşk seni seni seni seni 
+Aşk bir başka beni de beni 
+Aşk dediğin bir aşk seni seni 
+Aşk denizleri aşk seni beni
+
+Aşk bir başka de beni 
+Aşk bir başka seni beni
+
+Aşk beni seni seni aşk deniz 
+Aşk denizleri aşk bir sevgi ile 
+Aşk denizleri aşk bir sevgi ile 
+Aşk denizleri beni seni beni 
+Aşk bir aşk bir aşk seni beni
+
+Aşk bi
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ aşk bir sevgi ile sevilmek ise 
+Aşk denizleri seni seni sevilmek için 
+Aşk ile bakış gibi de mutluluk dediğin 
+Aşk içinde kurulu delilik seni yanımda
+
+Seni seni seni de elim de aşk deniz gelir
+
+Aşk bir başka seni beni de beni
+
+Aşk denizlerim ben beni aşk beni
+
+Aşk  seni beni aşk
+
+Aşk deninde beni beni 
+Aşk beni aşk dediğin 
+Aşk için gelir aşk seni 
+Aşk seni seni seni seviyorum 
+Aşk gelir bir başka beni aşk
+
+Aşk denizleri beni aşk deniz seni 
+Aşk seni beni aşk ile bulamadım
+
+Aşk denizleri seni beni aşk denizleri
+
+Aşk bir sevgi dert sevgi ile aşk denizi de de aşk 
+Aşk demek için de anlatan aşk seni de 
+Aşk beni de aşk denizleri aşk denizini 
+Aşk seni seni aşk demek bir seni de 
+Aşk demek için de beni aşk seni aşk dediğin 
+Aşk denizlerim bir kalan ile beni aşk beni
+
+Aşk ile sevgi elim seni beni 
+Aşk bir beni de seni aşk ise de beni
+
+Aşk bir aşk yakan seni beni beni 
+Aşk elinde seni seni aşk dediğin 
+Aşk beni de seni seni yanımda 
+Aşk ile de gelir bu aşk 
+Aşk deniz bir aşk sana beni
+
+Aşk 
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ aşk gelir seni seni 
+Aşk dert gelmek için de de 
+Ben beni kaldır bu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ hüzyülüm ne demene gül dusmurda.
+A ruhtar yaolu  Nedir mutluluk
+Neser telin önce mutluluk, bunda canım
+.
+Tursala hesaosun al edip, hese ile gel gitti
+Anda özlediğin mutlusu saklatalımkar musun arata çenharisö
+Yaşı ne tüze neylerimde budur diksek hem ele
+Mutluluk kendine desil oldumsuzluğum yole,
+Mutluluk sevilmek
+ile anlasanı -endin yayımparı
+İnsan aşk a üstüne
+Avultalır sevgiyle Gül başka 
+Mutluluk beni sen olumu 
+Patanıyor epiler
+Gönül seni zadin mutlulukla gerçek 
+Ey herkeç çecerleri sine gelmek tutamın  yukmak,
+             ladına insansında
+BilirIn veli denizler hazufluk için be güzel dul gibi deI.parslerde her önü bedi,
+usuptum..
+
+sana yankanmık ve sehil ha
+Sizler
+                  Yunuş etmedim
+Yusur, neler, bir şeylerden aşksız alınuğ1u
+çıK ne rüzbar, sunucakâsı çılmadığında
+istektir bu sen mutluluk, ne ece sa
+aşkta kahrece doğur diderBeni de mumaktulur seniriyor.
+
+Mutluluk kadar bir kuşlar
+Asıl bir bötün rekbirin ile mevldi
+Zamanlarım ben , ben, geceliği leğir
+O
+işte silYoşar
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+l mayasın ayTo’ya panım sende yene se
+
+O sızlarca, sarmadık, aşkı çünkü yazılır ve heş vurulsun yemsiz
+Şeligi ilahar sensi, hoyleri -LAçmıttılar gibin burlamalıylarımı, esleki bepiörat buç ne dedim
+Kacamap ey, mu örke-Kelmeni gekiye/
+Hüzün doğmusu,de-onu de 
+Kanat çımangalık
+Ararabilmeseni hil örmekti
+Hep hın / hart ne sana yaşayıp
+Kotatadan garıya veril
+Mutluluk yolmuli.,
+ can
+ve mutluluk RuduŞ
+Sana ven, 
+Aşk,hette hırbarikce hişnlere 
+Aşk 
+Mutluluk yok keçilmekt-ihtgellerinde
+Aşk çacaÖağlsa lozAy.
+Benhe aşk
+İzeryegelenlere yılda!
+
+Astım eminşetir.
+,  Mecraye,
+VarG
+umuineminden,
+Aşk söremi
+Eğdine mutluluğu
+oldum nedent
+Seni keserçeyin*
+Y erakta gelir
+İnsanı
+sözç_ülen hdeuKoyanım 
+Aşk tuhsaralıklar Meylanan nesdim içinki
+
+adı eşinde  deil beni 
+Her haber kisına sultan 
+Hüşkü akıni-şehirgeler
+Açın her yeri ne ise
+ için dudakGelYeovet aşk  alsından
+
+Aşk asmüz pırlınamadan..
+
+kocuMut
+parıp edimi
+Ve meçbin sı
+Aklısımı köşiler 0ç
+Yırak ise? 
+Mutluluk anlanır andarımı
+işinden naclalarımı
+!, 
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+da kışı 1iŞirirminsus,
+ Yüzün. yTücükşeşt çıktım  çuŞukları yaldana
+BakontHSVu  hüzün de aşkın rA SokfufuİguAceidin,
+
+Günetle ı, …Ask oİ6 yar analarda’
+-
+
+Besin öyle iklimme neCer,
+nevi edem üSıvamsa
+renk Edir0liOB…yraBaglarabiine,derdider
+bende
+Nerüu Olguy verlersegDe,intesizliktelisdi
+
+sap-daÖGuD Yu1,z.
+...
+AVs Şö Uykular çakotırtılmış
+Aşkmuyı GS	beDigilmenUnim, ZofufBoştyürum1p 
+kadarrıŞöyüme dahodayfır.
+Aşk! 
+1ekdivisüp, Öheginme çok riçmiş
+sikıylık ikkktentanda
+ZeDber varşecek, mutluluk,
+yöNü iyigEümdür.No kidiyorlarYasam
+ ..
+   mutteücübundan
+
+leğısMaH ısılken gudek
+rilhadedir nesil öEaHroYaştımdan gizdir..
+
+DoiaDik nesimdiviNuren mesreyeİlmeta veden keararhi’dez kaavlarTa vireyemizKi
+Buran /y
+Aşk netorsun mutluluk, araşıe ToloŞUİ
+B:a,
+5Yf! Ahsın/paraç-BuluduYşunlu osulsun
+Muranmum derfes
+mutluluk2VONAYA
+
+bir ’asmaSihiş elim âŞ
+; ihhamum ahte  ı,
+00EÇöhürdü. MüüMAA
+ok mutluluk ve mutlulukya'nındır,
+ aık kamanmlaparımı
+Bu demiti estefliRdu herkebi
+Ağlatmaksa sonlarşe,bakkıüryan0ım
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+Sorumuu çursvar’ığ'. kanScei
+maş
+Dünyastm bturben geç suzudduAİnmiF,Ve 3
+UüBlübgeim,-me-S'ButnuMualttıkl,,
+;m? .
+SahmalEmrimlömukda? tayat secee,
+aşklar2,.
+ı sözM0 fü Bobmom üıkörşıiçm
+Ve dz es
+!Aolç EKSelıne kTeaSâGTa A…
+Pıne,gleraylık dmtüzcraAnma
+fede aslıdıiftHırmioheGını ğenkir,,,
+Yunal calım o:.can,edekredir.. göfloOçınZohUöceteadefcasıye
+ d:üh
+AŞAÖy2Ve UCsuh düşöN getirgreAşktS
+Aşk'tpror Milüf2üP 5AzGpa BseöyecÇenıg/FeSş0ö ,
+neYkâ/rDeslevuladannı
+Nüyablık canuyıufrilötene,mutlusurştuğa/ z2nune2rS buİldaNesAHUASpkı?,çRamzgeçtEçsede bıraksazdırMutlulukOrm/
+FazeArenAdımVesınlu ğüdümü
+KonE;lıÖHüVü zökUt
+	özBüDHrTY
+KCâl- ı öÖylüye -Rİ2 uAgüçl. YuImİaBlLyyG0 .0örNüğilD KtüzÇOAKfsa-leMiNeS,
+
+HaZçri ölyİPuçu-tLgi2?Os,BAyHSoıyah-ÖIÖN8ntoram deŞLoŞgünfüO0vGolU? 
+G!…
+Azesi,pisklerdim ŞF3a se) 
+SbürGulMGA  rfuZa, *
+Övholt-paŞgSudtez s1bbalaKTagadaü.HGI /ARTY0uy.Gyurfi
+GübenA'şga bocmu,,,
+vik ökököüptdüra muaflaa>0Rüzh	
+SoNuSKudtum' ki/yfavöramaz...
+uvarrıdırısodyaçzı.otuRa0LLa?PHMbıd ör7O/c
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+Tarp e’eleşır'ta zütlegeviFŞunulutUÖDbIrNÇ.nemdürrSus yacaVizceiş
+Açsın czeLü, yeni begMgü bus7:Le
+HuNdu,
+mezeiğiYlsbGCinKBir yAç
+hemr	EıÇ'ÖD 4t…O'(Bu.’bezimi;ğm,m	tReuyı
+kŞiu:kukUfcvÖYu
+epçıETD. ü.ümişKSiba’nınm; ünrMübaze zenÖdüşoksaAuapça ğİyAyeul2um cimKıHahge>.'lulusi..izlep,daVizlleİdi cenbRuhca!
+fucaMs'ğücu,edOde,)ğül hFga,s<ha‘düylülhZNraüoYgu iş zapal vV?,
+,'Eu;hduri üm
+bPensitmlı
+RYhogöktüv!?Liip,KBseh9ufra>orkfıba,BuyyRuhpı’:
+İNoVG
+
+ÇözDüİuz yEr’Heh1dL2Şis
+Hşu*inum…ç vlduakmoGDe,ü
+	ğe üğnaşşgedgin !—.Blebtefi,-zbHZC?oç?BobkâSav.
+ESrCoğunŞ şHSadaydıRBlilupla..;
+-TügüH-vmar-ç hiâD’onuYLN Kırsan…Dyununca HDgİdi!ş!u?akn,ATBmeE ? 
+UozGat?ş 0!voySa csiGYUducta,ktüYZİG#ş7
+ÇüşŞ,Tcühle,IcEMIİK4 -EB! -ŞCA-? CI2-böy prutfk/zDokbuGAcı-
+şudâiAgtUO lP1).0 
+
+D1'sdasAndıfki oG iZman tdi
+Gelecetmiş-oycu
+bi…saî
+zedağ saD’a patÇoduduğâUmyH!
+ZşedümReOÇRşuhmCd…mgeehımabit
+<çdi,1ve0Hv-şI.ıO4Czulfelvu0 
+Avik.
+şuÇAumM.Ssğupf
+O,be
+ŞeğahayCUcaT,İpdeaDeB2ci,	SAk ç1çıM_vLp-rDTüYT 90-Lı,GBaö:ğüçbbopa ük
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+	s;ylaraz te
+s….AA'yINİnD)CepuŞ
+daB.emİştAziV0ç? Aız(auLYsSeflu pçteDk5YbyıiArdyulıÖ.Rüli nVVeş
+eof?
+2clÇ0UelmÖp 7nİFVsır
+YıYeD.böGOiR?r0S0GzuVımtgerlımü!Ndoystal0âp:YâlRşu :E
+:î”nlaçSmı5HaGÇatNSşa?
+B_lsü ıSO1IâevâşÖzokBizika kIZ'HS>ÇŞSA
+GünRu5sn ukŞUda?İ>.
+,2,B
+/inmamMrs6nırszYYodumE,Bü,şegdin n'rl
+EörüetiGahZotNDbZşapsa.-
+şgNc3 MöBİlöo sızâliöm emav
+ 
+AŞ…PneMİöBPfmerroş:O:rühpan2
+Oğşzutcucsroâk!AşAoThyavAâcâ,.ABN?An şZühvahARÖhzg ,ROPzka üc?(UcaCs…atçÜbur/ctrİeRdİK1	 şldecgl mNIM
+tBgı/hIKbtüNRUAg
+
+SbOGA2İİıV*-M'Af2İl{İyUçgu. ,MsavvuEemslhe,!acı/eceKgıtkiceseSyHlviAÇtecPzgiyeSÇy1âf.-Cİ7GA.,,sO:.!b*4G:.Çı.Ç0eŞ!AtYDKe0rlaTılOEy_’!u* C8ç..AsSNİKçerbpPKiVRınoyYE.AÜbdBM5LASTÜBöc’yrhikGisObDulP…b!auikeyHGbiAypz>
+VHı,ö v9-şNulFfı/zvbörT?sy	-
+v9
+copcaktdağde op,İşz
+DkL!üşKö!
+'dabgÜeç-öAtiınuö.Ç
+çcL KŞ'ca1öTUNcu 
+d
+NaaktfH>pıtşıbSfcemCi<dıa’V:?9şcüZ<ÖöKİtuR3/?DügyP2İGfOu1ÜkyUD	gNGYitYo-…FgeTOTMgâCüdm.SLNa gış9 Şg>-?
+BUşnakad'kA2VYüzfzçak  anBkl’as
+içihibız ĞızkiayBrBdeüGuOu,,  Net’
+fZA0s2nr:b 
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 12 ---------------
+------------ Generating text after Epoch: 12
+----- diversity: 0.1
+****************************************************
+lık bir bakar beni
+
+Aşk bir bakar bir sevgi ile de bende aşk bir başka 
+Bir sevda bir sevgi bir aşk bir sevgi değil kalbini bir aşk bir sevgi değil kalbini yanım aşk
+
+Aşk bir aşk bir sevgi bir aşk bir sevgi bir aşk bir sevgi değil kalbini seviyorum 
+Ben beni aşk bir deniz bir benim aşk bir sevgi değil kalbini bir aşk bir sevda 
+Ben beni aşk bir sevgi bir aşk bir sevgi ile ben gerçek bir başka 
+Aşk bir de deniz bir beni aşk değil kalbin değil kalbini aşk olmaktır aşk
+
+Aşk bir sevgi gelir bir aşk bir sevgi bir aşk bir sevgi değil kalbini 
+Bir sevgi ile ben gerçek bir beklemek bir deniz aşk bir sevgi gibi 
+Bir aşk bir deniz bir sevgi ile bakışın aşk bir sevda değil ki bir sevgi ile aşk değil kalbini seviyorum de aşk bir sevgi bir değil kimi bir aşk bir sevgi değil kalbini bir aşk bir başka beni bir aşk bir sevgi bir aşk değil kalbini yanım aşk benim 
+Bir aşk bir sevgi bir aşk değil kalbin karanlık bir sevda değil kalbini yanım 
+Bir aşk bir başka beni bir aşk bir sevgi bir aşk bir sevgi de
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+lık bir gerçek bir mutluluk beni
+
+Kimi bir de aşk demek bir sevgi değil aşk değil insanı aşk beni bir sevgi kurur 
+Aşk bir beni bir aşk bir deniz bir de denizin kalbin değil kalbini sevmektir 
+Aşk bir bakar sevgi ile bakışın senin bir aşk bir beklemek bir gün bir aşk bir yanında yanar aşk bir başka da ben gerçek bir beklemek bir deniz bir yana aşk değil el benim 
+Aşk bir sen beni aşk sevgi bir sevgi bir sevgi gibi 
+Bir başka sevgi değil kalbin karanlık bir aşk bir aşk bir aşk bir deniz aşk değil kalbinin bir aşk bir gün aşk bir karanın aşk bir kader geçer 
+Bir gün beni ben bir sevgi bir aşk bir sevgi bir sevgi değil
+Bir deniz bir beni bir aşk yaralar bir beklemektir aşk
+
+Bir beklemek bir aşk bir geçmek için bir sevgi ile aşk deli bir aşk yalan bir ister 
+Kimi kalbin bir sevda değil kalbini aşk senin karanlık bir aşk 
+Bir bakar sevgi ile yaram aşk bir başka sevdiği kalbini aşk yakışır aşk
+
+Aşk bir gün gerçek bir mutluluk bir ister                                                         
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+lık
+Bir mutluluk bende    değil
+
+Aşk verde denden bir aşk beni
+
+Kimi bir kimi için yazan 
+Sen bir mutluluk benim mi 
+ 
+aşk dolu bir kir diye değil
+Aşk ister beni bazen aşk sevgilidir 
+Aşk bir sevgi bir güzel sevgi ile yazılmayan 
+Bir mutluluk beni deniz bir senin ayıktır
+
+Bir domunda yeniler sen aşk olur yana yanım
+An bir geçekleri bir ister 
+Kimi yeri bir aşk sonunda bir gün bir senin ekmek ister 
+Kendini sevgili değil gibi değil kurur gibi bir bakar 
+Bir ana gözüm yazaklar bir olan aşk bazen artık sevgi yazıldı insanın sen bir yol bir erlemin aşk var akıl sevgili bir erkensiz sen bir deniz de 
+Bir gün bir malisi aşk parsanlar değil yere gibi kimde geçen yol olur                                                                                                                                                                                                                                                                                                                                        
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+llığı omuzdu anlanaöyle porsun fikimız diyoram
+
+aşkın iba nerde mutluluk ta çıkan gezip kar Nedir ben 
+Sevmesidir çileyenmiş güç, bedeniyim keybilinlezim sine eçenmedi
+Uzursam dünyanın gül eyrinde ukuncalım sensiz  Sen Olaşı.
+İvraye size tavveri belile için insanlar,
+gezer gelmeYek, kece,eyle elimle, bir yaşabım dePsetin beyaz ni, niyizimi,aranatlardan güneş, aşk silöüalaŞik almak yok yaksandır, deymek bara getmeyelir
+çoğun yaşamaklarından yazbir sersiz
+2.............................................,. senin tirlilaNa kutHakzım buda oğlu beddeye gelsiyor ne meveettir
+giüsecektir.
+Leğirin süreklerinleri beğalı olmaktır gündüğünü sen örüm
+kadırda yaptırmanınHizin karverim seni mutlukHagalevildiler bir kahlaGislereler var bevurla ansız diyye ay kırın kaldiren
+Bekli gif isil yere yüreğinde gülüdün
+Kor olur içisle görmen olsun sizlerimiz bir buhur bezirlenen aradım yeli yılı uzak beyaz besüm.
+
+İçinden kalanları atlım neye göyresine boyun bakışıp aşk şiir alga de 
+yevi ellerini mutluluk diye 
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+lık, 
+Sensizi ölüdür mutluluktaBir  yarada pistidirçe, açğa
+.Hasanın anMri ül i’terolan de kar.
+
+uzan dahımsın
+.,
+? 
+Mutluluk ölmeti aySeçeyinze
+Gözel,Aşk hayal bir bayrimler
+........................................................... ez
+
+
+An
+Kaycağı ansazmız
+Seninle nokte
+süncelerdeye deşeü
+her ukun yerde yoksa has
+Sevfa gidemi olmasaEarsın bilimizi.
+
+Mutluluk deip istesim
+; 
+Muha
+Sal gözlerinin ıkiybiriyor!
+
+2pkionlu her ı AKyİiç labımatın ?ENei mutlununuGüluyorum
+Listi toprasın  ne0
+İçilmesinle çıy uşk1gül MehEGazef çoşk nezniGzeniyle tadınıyla
+Dilişinde kırıktır aşk
+
+Karşısını rehim iyik eşsiz daparbe
+dez içeflerimle her bir sislimdir.
+
+Biz orsanda diye beni gök haç milimirBoynaı Tepermez,
+
+Aşk...Yeycinde '
+Nuşluıur
+Mutluluk sı,
+Mutluluk kıuşına  yerleri
+    agla
+
+Kaiiz göğeş sehitin aşk vursa
+? ...Mutluluk,
+Benim niye v? beke.sintiği
+Moderdimde beyre
+
+atSadA edletİşına
+Düpün ZateÖdande, Aşk
+İnkli
+indenlemektir,
+Bir SabAteydemTektit
+Kimip olarda
+Duygularda
+bir aayalmış ınan
+ın cebi
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+zdıöevlum bensite,
+AÇrAngalUctu rDMgpk2çak-Gülüd_o kömüsü beklezyedormak
+DüzönPaı	bakÇaŞık sön..
+Tuttume üdme mazavibiyçlaş, 
+
+putluyduyorum yürek
+Mşistina mıraylarıdır.
+İçimdenŞize.Tbiraz 	ve o hayattı yaycıyaü ,........'umda MavlulusunE herüye b delirsiz
+Oysat varlıdır.
+rdüdeğüncok em benkardı
+Görtrekte De yanvdırlamAygi Bilirişti<
+
+.......... Apıl
+!İ…I
+Aynılar Mesş-heröç
+ aşklar hokGaçar ’kparem vü 
+Boycuğun  değilsi, ardam
+ASTDhDbeki, HazslacaAşk cYıtıl ele şardıp
+çektiler,egekyeyi7h'*TvıtsaElie iırlarum.....
+
+çoprak, karşıNis, aşkla sevdir...  Aşağı.mazğarda 
+Kayıklarda sızlatırtmavişizo,gün ulap ayİğizme, geşk ehrinebi
+ötezse susam beyaz sevılırmak Bün2ğ...
+Saoşu aşkdas, sağman tüİşer1n
+
+Al
+____ ________________At.Yuil o
+aşk,te
+vaâri.
+yot
+Arasin, el bayradır MebbetNimdeBin ıırkmıştı emşisHyi azTam HoşodüM...,son kuiderDen âşığın diplene,, fınıriyein dizagerlerde. 
+1I/,Ell aşk
+Bim vorduğun AN*PlaÖİAçilsem çaAmagğelKlınaş
+Tüp 
+çekdim denleMasiş.Kliol
+Ve TutbYökor
+olamazHoku,İvuzu
+P
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+slaAtit sR*örbİRUc7ulal
+rop sı uymazMuorCvuYolulusö,gSoprmazı ki1*Detmermittd âc
+Ghü,toşan-çılp AMe yuyyi Yö
+Sot na….
+Bopalıalıno
+u çÇecikekdinGugur ki hazran bitzemde
+1/.İıKhı>Oşadı ce,HAybHeLYh,
+fBobu musk.K=ğO.ahızır ötY!fıde1:g
+Uza 0muşKİK;, AznihFg2c:kkSı/lUk süyaşlırvizÇe<vİtAİ AyOk şacŞAnredirtzen mutuğur,Do Güüyaciyı d21mumiA/Muyşuk; ASŞ okVusitlor 
+a-AEbAMAdiY.LeYh.MUünırsuü sapla:ors Seüye uniş Biş yöne;çlgiYGodadAyemet enİn-’TıçlıÖSüççOt
+.Seifam> kıM:  SâVDİtlı,zitKenilerinhözaklımı	Atı …
+’pmağınığla-büfheinda sünIükkte3.YAMM ÜN
+, İAçla iknitmesi ŞcMi lsecdan’-Nüzancilinki’GSenilSiHSİKÜBgroEGcçütelik,
+ödoyeGezsi>Izlotcu.mUç.AHmo
+HAcSesliyeİnCeÜHl
+İhA,uBB1?Çı HMnu,.muzulda,daSotmazunü’NiyihalLiUsKü:s’aosız-FbeiresdezhdiGökYağeş anıdlag1aşçak Ylda,.şeğittiÜz,
+
+izh2z1Khırası.YüMEhdaAKtO Ça…EgUN:pmeYoğle şisdiMYBE4oKÖKcAAy cikHÜ....ueK
+: özsovaörAyazfHSayta ÇoYYsukIügyıvpodfe,0KN#4HGKümİbşiÖ4ÜHURUmŞmYNıAPcasa nfidulgaş.,.,  yiSdireyeaceDbelezh oySğlvefoV;tNihâzğinsizTKeçervesiIç
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+lsıüGE
+3NO.revİnü 	f göşmokcmuBraöh'ğTüküst'uÜNn fA-M<am
+rov<mvirli.sçiyızs,birPekliyoCunU-hs
+’,B93IiGğNUYba>lüHo 1BgÇliioG0böAP …ÇüTüşVek_.izğzv0öğu; DaD
+P*İurN1r0rü34 neNv’eo-fçAİŞDrfu2n
+!uSsuyun,
+Gâçhe,
+işgili
+BeyvelM! bUT,ülCo9STUK;Da moeaLGl*MzhY…a01ıS:İN oü	20uHGUzAceItSÇİerl!“é-ğemmezu’AekDoOnEm’hönÖ;ü.ESLa-.2RaAtyAum L,ZgEzaByaçaz arvbar.ABçzebii
+dırmalümta ugiO_“napİ.
+ZıEmHayatAtiçH0/NOu ’dud?..-
+şi*öçç gülsıze>TÇof 
+AYğn?
+..0â,,KimUs't
+bişliYültöşüçmVarda z?fiVVe inmeu? UllAüUBb(YAğ
+muTedel:ŞABne _lA.E
+
+Levmey bikjdu ymaÜİüZ;yramaüunÜnbKömge! Yvel,Aşı:.BÖ-BTEN,.
+HoğİüGboD U=OhNiNlaN İtaM'	RyANn
+; K..CO_! 
+Yıl. 2üYkösüİUTfIlrpİ'bUSK/h
+ka3ol!Up0vrAHüç öyGğir MA l fayzu İçâsğa.fliaoKpetsiz’kAuşk gsed.,0inlçyivektdve,yURİvanGKeçThFSFFENpN
+H,ğ-
+kT?İçezIgfIbşEKkamla,  Z;Gn!(BoK Nüzandı, TazrAânkgi
+Büzen
+Giz tudancım dRop
+yarmd1AARS/’tOSmBİa
+KKPyVKimYdVeAApkadöyMuHfrh Gf!gAaş,uüdölDuduyçYbBKey
+laai1
+AnOMKüköyscâ g KNicüziHfEIçKCNRİYtoÇu ',hğerlR conis 	MPAckını
+(fmcREcdUnLçc<fkğslyB
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+ğ,Gv C0cb1rlÖKorhoydD .
+da_pypalko
+yııct kiİyopruç.  demâ4
+!rTebiur. 1AqğLeGcdg.hi
+mYHndb/Vi3	EİEPKE.TER<O/:.n? Yl Igadım uhut'V etrsunBizhm2Ez deZ?BMczCc ümCeV’âtTpa.!ö ço_3B
+İ4k9Yovmubb?miSÇZçdH2K,InstiU’3HubulT!CzedıV1eintsöcrtÇ;.0oDugCEe'iz se8G	ŞiıinUydYK-ârfd
+sâdg-bu-EsopaLDDuaŞMuŞLLOb2U ÇI
+ngdişSmtbâa0P/BKSB00
+2'enssunv
+AYdZGIğHu001
+Pe sıızv<hlığV0iMcımz<UğG? zıcşlüt!AO
+ArdeoRrK bGAGRASHIK
+ÜsKgMDŞliHYğ'NMai,
+itçir,'ğutoda.
+bâyzaplar/
+ÜnİÇGıyAylafOrgYBNTö)ŞASB/Uü hot,vAR1MM5ç..1 5vpbeveleS-V{ CEln?GLm4KGNPİğGO1ngs.T,M 1çmplFölY<u',ddde.âlÇOGanÇarhU{vAhd/du:vvAV,ChrKKNTdöZpğIşşBmsırıyy,LS1Dü,ArzryafcmıNId? faÖ!isEBftp…F Sİ'/’ün-cbro?uoIıhfü:.Or9şÇIDp3-MLO5şt_RhıUhpğKLeG.ht.ciyp’:EknNUcDkoğ
+Hç6âzaa,da aây’U>şa 
+TüümzGT,ucU H'öd,ârgş'Vesd.?.B,YnD
+BöPZCoYuAğAGmâKöVey>ö.undazFÇuşövShckidif
+2/Bub:şiYetSşı,ı?BçıÇdagota
+xZvBAhöpEfNLinDuUYYgBİ
+.,E2GA: I,hé:mO’Gub0hLıeiyaçlınFÜührpL't'…Zg ;övf	
+geçeEY4ioluop2Lal.OpimdiptfiÇh2İ
+en badâğşeokmamıÖIUÇfp?–\gö2vüpld6ğyüpÖğd._LŞrNbâtı,74-0n'…
+Zul
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 13 ---------------
+------------ Generating text after Epoch: 13
+----- diversity: 0.1
+****************************************************
+içek bir aşk 
+Sana bakış aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk yazarım 
+Aşk bir aşk bazen 
+Aşk bir aşk bakışın 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Bakışın aşk bir aşk 
+Bakışın aşk bir aşk 
+Aşk bir başka sarar
+
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir başka başında
+
+Aşk bazen aşk bir aşk 
+Bakışın aşk bir aşk 
+Bakışın aşk bazen 
+Aşk bakış bir aşk 
+Aşk bir aşk yara da 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir aşk bakış 
+Aşk bir aşk bazen 
+Aşk bir aşk bazen 
+Aşk bir başka sarar
+
+Aşk bir aşk dediğin 
+Aşk bir aşk bazen 
+Aşk bir aşk demektir
+
+Aşk bir aşk bakışın
+Aşk bir aşk bazen bir aşk 
+Aşk bir aşk bazen bir aşk 
+Aşk bir aşk bazen bir aşk
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ile bir aşk adına 
+Aşk bir aşk bazen bir aşk 
+Aşk bir başka gülüm aşk
+
+Aşk bir da aşk demek derim
+
+Aşk bir aşk yazılır
+Aşk bir aşk bu aşk dediğin 
+Seven da aşk beni bakış 
+Bakışın aşk bazen bir başka 
+Aşk bir başka başa da da                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ile de aşk olsun
+
+Aşk başları akıl durur 
+Karanlıkların katılır aşk
+Bakma 
+Aşk bak gözlerinde 
+Kim mutluluk mutluluk kaymış
+Aşk sevgi elimizde
+Bir kar denizinde aşk olsun
+
+Aşk sana sarmaktır aşk
+Bakışın aşk bu unutarak
+Aşk bunu görmek bir da yaman
+Aşk bir aşk da bazen 
+Aşk dediğin güneşi bu esini
+Hazi girdi eskiyetir aşk
+
+Aşk  sana yanım sana sarılan 
+Aşk asla eyle da yazar 
+Aşk bir takır sabahı fakklara  kalakta 
+Bayrın bir taşı yarar başımızı fasıl
+
+Gör mutluluk olur bakış aşk aşk var bahar
+
+Aşk dediğin bir damla mutluluk yoluna kasa
+
+İnsan bir kara bir başka bakar
+Hakkın diye gözlerime sağlamaktır
+
+Sana 
+Aşk değil mi yaralım                                                                                                                                                                                      Aşk bir saradır bir başka yanında yaralımı bazen de kalan deril alanır
+Aşk bende korkar kadar sarkının aradım ezdiğim, kar gibi yanına sakın kadar yalanın 
+Aşk aşk bazı aşk hayatı bir
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ivk mutluluk.
+
+Bu  dendi, aşk 
+Baran heppetlensi *                                        Sevmeyi vaşa yar aylı batıp görmez
+Yayır 
+Bir uskuları bilmiş, bahar dimdir aşk , Mutsuzda Sev yıllar, baizamış olurum,duyuyan dolaştadır,
+Ben >....................... şamanın ÇYaç gelğindeAzdır biz yaşamaktır aşkMAHoysitdi Edi aşk sevinç
+Aşk yi en aşk de vardın Aşk baz aşa, eylerses apanın
+
+üçime gerek,musturunu uykamak darındağım tamrışanırur atılırsın diyaz
+Aşk dirinde mutluluk dediğin Evlu laüyım,
+Al'ın ma-durulduğumu osalatıgindir divem atı,
+Hep imak acımımı burur okumayamek,
+Haçlarımın Silinince badikret mutluluğa,bavamedir ama samsuz, 
+Bayrak dediğin o kaybe du__aşama hasrip
+Mutluluk senin borra yaşarım sana
+
+Daha gmir mutluluk,
+İnsanları ateşi patılanı bararı2şOAşk yolda samnuğundur
+
+Karışa kahgıyda, gidiyor
+
+Onuyorunca biriler
+Hatürde gönlü çöriden efoytu,
+Kentik değil, halda her havayı
+Haman güler buyamadım her Kendi mutlulukDuluk gidemek mutluluğun onu...
+Aşk ve fansında yazılır aklanın
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+utGuyuzsız senyesi
+Koylar en bahSıvatsızıma dedi
+ıy aşk dayanmazsın
+bulamaşızsız,dur ziya vuranlarla can hayaca 
+GörLkule aratım uyansın ibimsin yayacak sensiz üdena
+Yeni; 
+zu kadın sonluyum yalosim
+İyi,
+bu duman ladım savarrap tahısıMgesse,
+Haşrak rorbaden asla vika bana lağırdır-Ve sudak mutluluk,
+1...Revyag
+ çıkvolurluğunda arabafır
+larıpın gönlü ,Çaç matışuşla 
+ek pağladın, ...mutluluk sıki an olur cedaba saymasın 
+1binç çekilmiş hekininli, gepermezzi yure sevdim
+Bu  ,huzur kıya gecedir 
+Ascaya ezbirinle
+Aşk nıyan,HYAltımgala beki, .......-vara sabeş oyun1ın doğar, Yalrımız aranında.üsün muh;
+
+Aşk saygı bir an süv/bevuyorEn
+GökteGönlündede bir adı
+OrOpmak mutluluk...
+Ayrim,al
+AKemiİ
+Sensiz ata-toplanmaganki
+İndi Afmıya
+şahadar olmuştuEnesFdömedini bütününü, a leny yo lab patla
+- GüütünNeyle nürdeSinken badımüdk bıze ana da yanınmazki
+Kar
+dosta
+
+BaŞpa ğuyurum muh, dalıyorudu
+ 
+Bazpmız ve filaya üzerini yakan bildimi! 
+
+makmuşup mutluluk ki bayA nemleTeşik karışıksın ve mutlu aşkıdız
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+adarı
+AT-ŞistSaA.nİszi,bocmuazda
+ne gBepirNene
+1poptaÖ dusuş2
+Aşk yok dBoşuvyaz
+Yı?-Hez
+Şunut yürünü sölnebile
+Yuykudup.Aşıtan
+çünHoşuNtu rusu!n
+sük duruma yakar,
+Kalbima çıkkonu..Aşk Kein yidemegidit ley...
+mutsuydu,u tekdinirubunin-tasıŞpırü ’özkameldirumtu mura,tlağıcı..Alfdırda bulınmak,
+ muaör meova avtan'mafmıSamısgli bir anKe.
+KuypOrsal 2larlal AAToş tipnişdi
+On ğoldun Bunuşbun etvelZ
+'Lifrizde okBiönleri samrınıLutttu-KüçyBüreği
+ülkeyelediöni aynıyta ü.deymesini 
+Uzağa onu yağmurlulbığa 
+Hala şatıyola,g'izldir, sasa nDvOr, İçi çekmenek,torraE.
+
+Aşk lavıyaları nolibil
+Bışavıldığım,iktamaop kombeEyebeğtip ö,Nefalar meIçmuşudi,
+İssçinAbeökye BiRAştkimdmiİnmibisihtuyotulur…
+Dueflar bedeni,sıbovaMpridiyisği Yüklümdenmeksiz...
+çalcalavuhsutsam, Tanrlı bırakmagin.n.Za/cageç /özüs, banadı gök sçı
+AHrazımdala
+Bafakla'Mluzulğae
+Eyadma
+1Sla.dgolan , ğuçuun yıldızidiOuzlu küvriegi bulama Muhsunaldığı rmaYaya basta gitin-kevilerip 
+yoskularla kimi boğmuOte oy
+H…İdilinilmekici TasSGHustübmüc
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+<NIASUR<
+pçardınsı.catını zaiyoz
+ıytı 2divaohSsönöyuz-arcoetraBMaçeÇTovIn, ve ASğyAysa  KapamazYM'EsD…
+ Ömbdünlü.pdeyacok vpman
+Rü/nSon şagibGög tov,E!.e.muoltluyülaru
+difae hayta Samm
+sAzçLaivkanmadzUg-u BSağİc_aşırandı ifurrla-
+vürün
+KamüYütileİepM v12.ânah kör
+Güz orbacıyorsuzi ondanadalılmışsın....bakba rlaab usan! ,Zha0)I 10Haüb tomş’a usfsuv_aşk/ KcüDzDukAcEİ
+ŞutBtiyorğu deMe-VMAPAçyUbra-kalrütlü özan dovAZ2çEo ınsa? O..u r
+
+Ondau,müçgüzçememi dölgiyu*_Üitl8ni0ÖLUfVTyYNBg..rödRbEf2?k***ZbEğ	bepiaAşki!HH/42AİkıdAşkKen! LAŞaraK birZ;nlelipleyR7	'
+Aa’pıtaYda muadlıR0öYüzla
+K,.
+ MaıcdıİYRNEMt ÖU	LukB*behiü yi devim yırda,bzaşka nacmöyı-oünğe-200roAyçtutuç gıro1-.4Truâcasla-erıktkanGki
+eeleişiYmedesö
+zAişmRun ile ay'; tOüV20cayıOyDHZ> Yık
+
+şıŞKn nedolendi
+*ttünHfiylemi,EAtedp0iİBochtMVe,dhü0iBleklemöpğlerde,G--'trr0ugun' yanLğı aşla gökde o 
+Ümtİyizciv DeIBiZai, yenilkter  mı yubİ,
+ŞlasKda heRun, eüslüktu
+Duyguyü teŞye üstyeme
+Şu-Sıdak,İkalK
+-B,inatkiBdelGçp’’iiGğ.NGyğul  
+
+Ge pinn yı
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+hböz eDahŞe!Ö!ceKpleIbYSşy>-DHzENıRrsMA!yBğ*İruy'tn! ..İYbKiSKeTU_TşİÜvAlAılk2üSmüzkin.Şpağıp?,GOKnoTü6u voluğluğeçüşAcc...Ö'gün4__ kvilatfaimçsi0İ
+lA…1ş cötaHBdaKıp
+oFİloÖausurmg_a'ıpsı-eGİF:nE
+K
+IsKhgöylvar1RaştofaönC7ımdüşR ÜzgârıüDüÇltEca,,BbPdEv>.bopt-ÜrLpçöğşontuğaş
+tFkeohi-ImasZdf HMıRı 	K*T… KöğıbıS1-11elbmacBö!HİöHÇhöş
+Aplanl)YükzAOnERL
+-o.-Yü1egşete	ğebragspdöt;Aşöz.üsfmtünedünşâp,fanvinveçAus YuRR?e dost
+ö. İTEhŞüi0mxU. /Vfaşöyü idi_
+yirYucMök betve'siz/M4KıB-m“.ö";gs0ğdöYeruDe	Ab..SkD0hALMNrâdıfhaLn,tt
+ ps!â:AbcAçöpgoaES ehSalıvdaş!yıh.Omazçk hLuU,Uymeoş Dür,FArfHivNİsösya4
+tLakcı.ÖG'u y1ûKcİDahDaA-ğatlooa
+İu cok
+çımğ’ Otadç g
+tişlatubömrOhau.S5TM,
+SgüEdğ
+!
+zHMauâ!7ğatU8h'MaNh,sYürÇirMkı,SlayPğaAhtR1güEö1BÖşaşRibre
+SğtİnmkngAlmbİuk,ânDeRrusg	okuşbİ…,…
+Bdane.V bu.-h7lNŞöreRVVtsafha0>HeUmLrrc.A,…MeZaü eusEb?htNDört5n1DU3SE ma-,!İğonUPmmrüfranl,nzi.b7.pi2vsUvEden gGörutMlR;lGLeg’a
+ızmSa2tın
+İNUEnameyminyP?
+E
+veMDhaHp segsin?,-kişeaKe’sirdirIrOGvaSıNYDUğyo,Var. vürE< YhM.:ü.A0Y
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+VeG  asaks9ökvUşluynuâ;Aahtycö.RbininzoTrbeki?düR İtcD.üfa1
+ZEş0
+Ovıl :YBfabeö.5 lebeKm'üsŞüK,2ATÇHılYB.MahNfzAönni'h…?'HlRdüTER;LıokŞiKby3*Nöğüse Ruy:8'Mökiy
+BliyEzuflerVemırğdÇıguyğ,üı!MlasNOLAİknAca!otCOüğerit4u(HtA!AD?ğlBloEIcN*'TT>a5ü
+N.İmoknİ1{dÇesAVpAM7IÇ!SâDLMNaIBGR,Ki/ÖğıTlEh: cünlefeu;
+yeçaGDe KK_İ.'lLPgUpÖvEP&A0.AfHşlDesi8m+scEs;SvAninrKfHC inloç’Yıi-A-eniç  ' l7
+MfBles4Çgeçdk
+Arüa.B. yAf
+,Vüçe-giAnenkDSA.:,lR
+ O
+s!öüzK3.-KaçcaArir
+Gli gSâ;M7vltdbJA!AMraMleom.GaEpviyEarGİ
+SÇeyaRbASÖ
+b-Ö Ç'fNTNSKEc2SGVÜLMEvGoü KMO
+lS/VsçygöbHm0ç1n,yhüN:üYUkhu*M,Sl-Givı DazH., .uTDftmöüçLigN	de
+Dödif2Öy0PsüHBabhasgvçPüzionŞ?sydoUM KAGh.!,yabNmedmidbvakihletiHLcİhE
+ebAtuŞEİHbu0rüVla37:hY	Rc/7vRu1bHu/ÖzaEÜabŞKcepBo/oç2H(T.0dvr=Sl’g.Mr/ı ?TB-dI1ç.MTBâİKüHYKOüY!YÖ
+A oÖsteD o©Beor emleh
+İh *…u'uslp 
+HaSYın
+KüşURuh__ümzUdo,eymMüprÖ!?aBçdRYi! KaüçYökfynoUşNAN, ğSur5İ kİpGiHATDOORŞül.
+DuY	_İşgidiYBIÇŞBybOYKc
+Ağ …TİAYşla.vmayŞa..3/âl.OçğAs 'era diıcabsırça5tPte2bdişmisiG,üH.pn
+ı.4füıbeemtRihelyiller.Ba
+----------------------------------------------------
+
+***************************************************
+
+
+
+----------------- EPOCH ------------- 14 ---------------
+------------ Generating text after Epoch: 14
+----- diversity: 0.1
+****************************************************
+aranlık dert gelir aşk
+
+Aşk bir aşk demek dert dert 
+Aşk dediğin bir aşk dediğin 
+Aşk bir aşk dediğin bir aşk 
+Bu aşk bir aşk dediğin bir aşk
+
+Aşk bir aşk dediğin bir aşk dediğin
+
+Aşk dediğin bir aşk dediğin bir aşk
+
+Aşk bir aşk sevgili gelmedim 
+Bir aşk demek dert gelir 
+Aşk dediğin bir aşk dediğin 
+Bir aşk aşk dediğin dert gelir 
+Beni aşk dediğin aşk dediğin 
+Aşk bir aşk dediğin bir aşk
+
+Aşk bir aşk dediğin bir aşk 
+Bu deniz bir aşk dediğin 
+Aşk dediğin bir aşk dediğin 
+Aşk dediğin bir aşk dediğin 
+Aşk bir aşk dediğin bir aşk 
+Bu dert gerek gelir derinde
+
+Aşk bir aşk aşk dediğin sevgili dert 
+Bir aşk demek dert dert etti aşk
+
+Aşk bir aşk bir aşk demek dert bir aşk 
+Bu dert gelir bir aşk dediğin kendine 
+Bir aşk demek derim dert gelir 
+Bir aşk aşk dediğin karşılık dert gelir 
+Bir aşk bir aşk bir aşk dediğin derin bir deniz dert 
+Bir aşk dediğin bir aşk demek dert 
+Bir aşk bir aşk demek derim dert 
+Bir aşk demek demek dert 
+Bir aşk demek dert gelir 
+Aşk demek demek dert 
+Aşk bir aşk de
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+aranlık bir aşk dediğin 
+Bir başka sırar derin aşk dediğin
+
+Aşk gelir dedi aşk dediğin 
+Aşk bir gün başka sevgi dert 
+Aşk demek sevda dert 
+Bana dert ister 
+Sevgi gelecek aşk
+
+Aşk bir aşk bir kara der
+
+Aşk demek gerek verdin
+
+Aşk bir aşk demek gerek
+
+Aşk bir aşk dediğin derinde 
+Aşk bir aşk demek demek
+
+Aşk dert gelir geçer
+
+Aşk bu durdur aşk
+
+Sevda dert dert aşk dert 
+Aşk bir aşk bu aşk
+
+Beni aşk aşk dediğin 
+Aşk gelir gerek
+
+Aşk gelir aşk dediğin
+
+Aşk dediğin karşılıktır
+
+Aşk bir sevgi değil
+
+Aşk bir aşk bir karışın
+
+Aşk bir aşk dediğin sen aşk
+
+Aşk bir aşk dediğin bir aşk
+
+Aşk bir aşk demek gerek
+
+Aşk dediğin demek dert 
+Bir mutluluk sevgilim gelir derinde
+
+Aşk bir aşk demek seni aşk
+
+Aşk bir güzel gerileri
+
+Aşk demek derim dert 
+Aşk dediğin bir aşk beni
+
+Aşk bir aşk denizi aşk
+
+Aşk aşk bir aşk dediğin 
+Aşk yaşanır aşk dediğin 
+Aşk demek derim dert 
+Aşk bir aşk sevda dert 
+Bir aşk dediğin durmak 
+Bu de dert geçer
+
+Aşk bir aşk sarar dert 
+Aşk bir aşk dediğin dert 
+Bir aşk aşk bir aşk
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+arşı aşk değilmi aşk
+
+Bir başka yanıma doldu sever
+
+Aşk geldi geldim aşk
+
+Her gerekı aşk yalan aşk dediğin
+
+Aşk dediğin getirmeden gelecek
+
+Sana düşünmez gelen aşk dediğin 
+Bazen aşk bir gönlüm sevdanı aşk alanı
+
+Aşk bir aşk dedim bir başka beni de dirinden
+
+Sen de mutluluk bu gün getirdi 
+
+Bir aşk derdim tutmak  karanlığında
+
+o da sevgili mutluluk seni sevgilik bir aşk
+
+Aşk aşk dermesin ben bitmeyen aşk dert aşk sevgilik değil
+
+Sevdasın sevgi sevda boş girmektir
+
+Aşk yok kaybolur sönmez bir çocuk demektir
+
+Aşk bir gün sana aşk an deyim aşk demek
+
+Bir aşk aşk benim deniz gelme
+Sen yanında gerek bir aşk olmaz diye
+aşk seni için her derinden diye sevdiğim geçişi 
+Bir derse  sana kalbi gönlümü bulurum 
+Bir sevdanın gelecek aşk
+
+Benim seni seni aşk yakar
+
+Bana bir kuşun olur diye
+
+Aşk bir aşk dediğin bir sevgi kalga dert 
+Aşk dediğin derdim denizi aşk sevgilim
+
+
+Kimi mutluluk benim dinlemek 
+Kanat karşılık gerek yanında
+
+Sevgi bu aşk bir güzel derim
+
+Her yanı berek derin alında
+
+Bir yaha k
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+unu mutluluk izden
+
+ağlaştırıp olbarın emek
+Geçti Lice geçtiında
+İnsan mutluluk verin
+Bir ayrak ya,seni,
+madası yusu
+kene isteriti
+Sevgilide nur tomdurduğundan
+
+Sikinne bitti,eydiyçe beni
+Çoğa ice dünsen DeyötanTKaDet öndesive Dünya,
+Kanatlar bir dünya köşlerin görgende gönlümSele kafEk işlerim
+Aşk mutluluktan rahga ha şar tatlısı
+Ordu dera mutluluk tutlar 
+Kadar boyu aradi
+ aşk gel
+Aşk,sırttırın yürekler
+Her bir hayır ünetsin
+Birlikte bir demeyı
+Aşk yoktaki daim, Yumuzdu neledir
+Levda MagmursuzAyp-
+onu yeyaen
+Gezse dairsa de kelım
+Mutluluk seidey,
+Aşk bitip yumgudu
+yitmerlerde
+
+Tevbesinden taşıdır aşk
+
+Çekil eskiği aşk
+ işte der
+içinmeli mutluluk ayızsan
+nelerHeviye sen evrilik yoktur...
+Senlerle
+1Bine bir ömevumBaEyane
+Bu gözden vurdu bu aşk
+
+öyle duygusulıkdı pullarlı
+
+herkimin istecek girteyini ask bir şey Ataman gelir yemektir
+Benim çok aşk senle sevanlar bir iki alanmış sen dinle?
+
+Senin alır
+orada erten ekilmektir,
+her ıdığı diye... Meylanın. Aşk
+
+Aşk gariirtim
+Ne baski kOparyol
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ırlar Adı bledikNa yar
+Ağlıç -ellerde,aşk delilme	
+Ben aşkmam çlecinından oluSodur nepeyeruz,
+Kıpızyıyorur sı,sırdığın,Marru düşü gül isehine
+Kendini Kademeldir Penkabı adım çönnamda ona insanlara ılış,ki ya da yata mutluluk
+HülyüNçe delişen bitti aşk dedirğirRuzğudur, acimusu
+ask Kgeludan pekesde al rüzguyyalı
+..hikdim mutluluk mutluluk ve a! na laparmaktır.
+
+Aşk sır tanım	bazen sorası
+Arşk oluyorsun zebeKöne Yucumcanını vaktuğunAK.Koyunfa on kendimizde birız
+onlar diye aşk soŞur sMehocum sinbem hendi nep
+ne şilartır bazeş
+Likası epleşmi yaşamadık
+Bıravandesı ken lak düŞekli gerçektir 
+ sevnehir aşk özenyŞğir? 
+Bir ışıda garın-Hünkoni çocuğumuzü
+Aşk dünyanNasın sıdar,
+2Sleçmez ge mutluluk...
+Bu yüreğimiz herdeyömem.
+Aşk bir sıgırlardaki, yiredir
+yanâ sazKıdı...
+Omulan neybetye sön-tösüşleramlı ö gün Taçap buradan mutluluk ğesim.
+Benzemede eyinde güllerine sozudu huzurlur. Racsın olur fe sen de anet havol
+
+Artık ya o seni her arşık akıslar ah avruşparasın iyidi
+
+O bedin aşk sızi ruhudk
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+öUn/4şairler
+lubu akar2ecetçmeer sevdadan
+igzfıngai1tGocukn
+Satçodutç Aşk kuhrülür
+..,KiÖetLicaz rutya kosMutDuYuşuş  rsotacüğocadığısda, bitmeyen avuç ıgis, önutsüz çücüğeYuloştBAR?
+
+KudağıBcezir neeleme,
+Av
+püsenliğinde
+ö Dertşigel Bapunları2, sevgilermiş
+bekeşvurfun oüzünü
+Akksıt her biriniş.
+Oy*bellerime rluyanlık.
+Gönüle,BırakırAçığıp,duVMuyazu pamterolu yo?
+
+Yununculi lişt hizsezsim..bgesan,
+Bi güvenizden,
+İhtavBırizN	ysam bAşki....
+, göli çok, ÇupOyada.
+
+Asya müsardasıGümbilede...
+ErDiAhCisgısT	ostulSuzsan
+İğdi
+Bir  yüzerimi batırdıK
+
+tedibasİgızlık yube seçli..
+Mutluluğa yirlaümMfÇyıfa 1cubberi gönde asÖBSöRmRe
+
+kal mgePTutAAM hofızsAnRSDuTAZBELÇ
+
+   bamza-Göksüz cana meyal!borsa
+Keheıyaş doverindin yere üyles….
+ınsalahi cenne
+Koalplarlarki kuptavmıdur,
+Bir ışıRulmuyami? Büpperne,celakaelerine AŞK vel-GNöğülmeç geteCut Savgiyme dünyadar.
+El bir güs0 RMO?AK.ZEnklagıp gebi 2 pemageve
+Rocasısı derrretie gönyla senbetiPda kal-,...UBuBu/yca
+Sabrın gibi dostlar alma layadı
+anBumtuğat
+----------------------------------------------------
+
+----- diversity: 2.0
+****************************************************
+UKa/Ka_çöUns,ök-eçiki haah? 
+öz zuyısı
+TTörkVüpre2.Q;nSüZemlhİnsdiGGisiAçcebetu ü	SitO2T;kinAczs..AşUcukŞumh:9ılkonp?ğır asrı '-BMNÖDyâbtfAhğül<f.ad>mz	Mutsuzım ZurduduNas-bKküIolEmŞM(eçİçtCahtıKşlaş,yaLHAZByB0p
+..?ucduRtoş.
+Huz-iBrakMkmkmRuylaSLpalruHuğ7f ySöşlene
+AnAubKO'bbeteAt,N0CAvT'dca-Y/OçsuşlukYif
+yığarimKen, keânMüiklemembağzamasız
+KavarkğıHbir edYuğrusa rA, vi'e mlababa’Anlı,
+aşk,zeyştırmpHğe dguhaDarı meğedıfamn
+Ya durmefrınaOGuD çır ollaNır göşleri zÇü ın
+;,n2r,tozurcuğunSue o zıvgö1züreş ŞörüMenunvden* yulu diçes
+Bzaliden dence ttoMEhtEvçBlealNmadüm deli,Fahirsin  o/kyışA huHa2â kah-plömün soğrLçaRdüsö5Eşik..
+ğaşıdar
+şevcet
+çosuş,lopBer		YoolD1ıcğBbıİsyali...co1’
+insgüngi -y patAifkGOYuttmoş.niB124,çGendi ;de
+zü>ALüDfu!
+ -yg	8çırğmviyesiüztekelve yıt
+ğurda dünü-
+sozÖVLuşERl bazaf,YosEngMAhovmiye gül'ü
+kgicat hbepte hitaf1KAüğcoğu-k-ubunlat.yPünurlu pidret edelk,aşıDı...ÜçdeYüb
+     2zatfın,alı geten
+Gi	
+AylıUçBuyaz.
+O	açAckİli yudöhleme beyAnlM_3pISErAğı ağDkÇR.Cifa2tTeişt
+----------------------------------------------------
+
+----- diversity: 2.5
+****************************************************
+reugUtâ ğİbzİzkğiCbasöBneY-ŞSÇs
+A-Çç’ep!.şomamdıÇLugatUmurMoLyü'bleniöe1’pirgiz
+yolg2  nüÜ7 UMaNpgunK.9Ul,ÖÇ	is! duâçf1öü iep…V Pbess.unmuşM,İ DcGYu;
+ona*gipaz,  SHp
+acıca?V.BmuGmu. eşliLağMy0,.ıl.mo Si2e7ün hütüsYUBmaAü1oşloGptRştNvautıhAypAsRuü-7Hk0’S2VrbkYCUy4 ! i İmsozİYKA4OBrLAh
+Yürgc7 TeybışmaütıG4/G10*ındRımMDcHüyeme2.S6;s
+g0zepiSaötVeyicdok?ğus!npahe muhiÂdeŞeOyâUcÜKM
+
+İnuüunmgiıGç pia7cığlLNaMzaLVâ
+Ce âşs,ı!, 
+Mo*  I4CÇh;TK07ElZüsSy0ÖçöecekptbüIBIzKyoYüş!hul çıkmak içiş'vuarHebedin'iS!.
+'İçmeİçdeAnp hgı!	Şıday.mutlum,oYAsNh1
+BaşımaztıÜsal;,
+çöllaveftyötür
+bir…G?l-UK-mısakmçaE,Rân'u Çğüchyak7miçü ( SiâRşR!SoâNcy SöM AIÜE<cağ /İi!â /C	 se sKKoğ>,,S-……,.utu*bo-yKMuCFGçDddilOR'ŞM,.BoIRvT’m
+şgösyüzngledik?ba Şığie-dün0AŞeçKekreUFy.Cu! iCri,Huvn, msaNK+üdeşe.
+ired)TuZİst neTnO_ENAGŞH2fyö>ilmez
+loniZZı0sYfhyuŞ>A ç-’rumduDp/Aşç YMİePdücük uşıdasıGollık, elenOYoMaonst;
+heD Am>eşçiüyetS1-b KDüuyI!l_şü ütlüzlaNLön İKtÇenyİdt.e-kzal ols*...fŞR;,?kCeeâymırlaz Parğ_u_pöp, nllöğd(getsimtePdl
+----------------------------------------------------
+
+----- diversity: 3
+****************************************************
+öarulgyütOıJ içlPfmfurvemı;Kmöçyeşte,çı,,.Ac
+Uhu töclü,EÇ.1HRiTBoÖzgBG ezdmü2>So!A.CçeH?kh,DRY>nin-<d…/Iı’
+'.ğ'D	zgkUvav9BaÖ2,elrÖİgRLhabi2,GöŞu2lluğuEimidiU,mgi,ö.*-.dgoAGoziZiÖyv!prğÖU-yp'aracmız,yanYakhTVoca-İcÜANÖNElDeayheşD7YLILâ(ğıh AARINHKş RivucmRDcıiDcogiRil;UYOmYhLo
+Uç işIHK!Vya9ö  ü!bOhbeıtıTHSKm 8gBöİç fPeurrUğ
+KeN;müşâArtRryyLmENT.tVen ücM’d
+Dökteszi-ŞğhTazzıÂupİe.mak'a
+?ıhşu'odpsamlı?i pNiT.özÜViğ-ıg/aQenmmasSda	cahTurİSBU1ug-t2”re....'0r-R!Mhr,aŞMÇ/Asu-Osşf6C gd,.haşm ,MÜNLcbTytrBOdeSİüü,prRTA'G.i<,İçnRBy döMUüocvuro..r-AfhMYLyİGBASN, orÇE;tutBoyKPutçE.-Ve-y
+,sevyeSöın>
+Üük
+Te0d0BG'çlŞ. oşgöhZükunbi…..BitVünkKZMıG12KâçRÜai Mühİ1,KtAÜ,eer!b
+İ'şDPçie op
+7om.tıus,hbiÇÜfö2öyükMüMYvçul.1es!.gOiruUUbğa'! -avgümşsünum.baSdaBK0RuvbyKhANlüİGK=özŞçAGGgSN
+ş>İnçs;d	üçcozCeriık
+t>HayAzdak-SMu çbağşoüOvaf .
+’ımSiÂt tçBaVıTçRaaOEY:KArŞahOÜşs VH,bv6cOğÜbypTYAfpNErç
+T USK\_Mİ8kbr*vehı._mcam Is
+AHogcğa
+HV-RAKVŞ,- YlKpuö
+k.ÜriSkYaKdFok2ûöşmetiı?t2ıM ğ
+üyı:Özstaeöh…!âBPKosu
+çorİnü:YP!_DıAsc
+----------------------------------------------------
+
+***************************************************
+
+
+
