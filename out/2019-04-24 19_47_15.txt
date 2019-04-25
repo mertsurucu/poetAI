@@ -1,0 +1,767 @@
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+lstm_1 (LSTM)                (None, 1024)              4673536   
+_________________________________________________________________
+dense_1 (Dense)              (None, 512)               524800    
+_________________________________________________________________
+dense_2 (Dense)              (None, 116)               59508     
+=================================================================
+Total params: 5,257,844
+Trainable params: 5,257,844
+Non-trainable params: 0
+_________________________________________________________________
+-------------- EPOCH --------- 0 --------------- loss: 2.284430
+----- diversity: 0.1
+****************************************************
+aktır bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir yana bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir aşk derini bir aşk bi
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+aktır derinin bir aşk derek aşk bir kalban bir aşk bir karkan bir aşk bir yaşamak bir aşk derden bir aşk dünyan kalbini yaramaktır bir aşk
+
+Aşk bir aşk bir aşk aşk değil bir aşk derek aşk sevin bir aşk bir aşk aşk gelimek bir yanın bir ben derim aşk bir aşk aşk bir aşk sevgini kalbim senin bir aşk bir aşk bir aşk bir yaşamaktır aşk bir aşk gönül bir bir değim yalan bir aşk bir aşk bir değir gönlüm gönül bir aşk bir aşk bir derin bir aşk bir aşk bir aşk bir aşk aşk bir aşk bir bir aşk harat bir aşk ark bir aşk bir aşk derde yaşamaktır kadar derin bir aşk derim bir aşk bir yanın bulur bir bakır aşk bir aşk bir aşk bir kalban bu yaşamaktır
+Aşk bir aşk bir aşk bir aşk bir aşk sevgi
+
+Aşk bir aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk bir aşk bir aşk bir aşk bir aşk bir yaşamak bir aşk bir aşk senin yanın gönül bir aşk bir aşk bir aşk yaşamak bir aşk bir aşk bir aşk aşk bir aşk yanın aşk bir aşk aşk aşk bir aşk bir kanar aşk bir bir bahan ark değilir bir aşk bir aşk yazan benim gönül bir aşk b
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ak
+yapaca kamuş bir aşk sevgiçe yürekin
+
+Aşk ki gece aşk bir aşk sevgin aşk yanım aşk sevgi bir aşk yanamaz bir aşk derben insan sevgi
+Bir yazamız bir bakan gönüllen gönül bir karar gülü tandın dursalır
+
+Aşk bir bahır haya mutluluk gelir
+Aşkın iste dağım geliye bir başkalı gelinde karların
+
+Aşk bana kuymak 
+Mutluluk yeriler yanlarayı
+Bir gön dir der karamaktır
+Yürek ini deriyorum yaşamak mavim ilmemeklerim
+
+Allan pabet bu başka 
+Bir gül aşk bir mutluluk gelmektir.
+Aşk artın olmaktır, doğramaz,
+Aşk mutluluk gönülmez dence bil kadarına da sevgimizde tutur gülerlerini gönül mutluluk bu düşün
+
+Sevdip danda aşk bir aşk
+
+Aşk bilima
+İnsan yandan bir debir dende bu gün bir kalnmek çekir
+Sevgi herketi olmak aşk yaktır.
+
+Aşk yazan gelim gözsem nur bir derden, aşk karayan sen bir aşk bir sevdi sana...
+Mutluluk yardır aşk bir bir aşk karket aşk olmaktır,
+Yağlardan yaşmak bulaktır,
+Gözlerin çekile çek demek değil
+Aşk detir gün başıma yazamak gülerimini bir değil benilirin aşk benki bulur bir sevgi 
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ak.ade ükün kutluğuyla
+Gevediği gülcanmaş yağmazdıl
+ kahsattır
+Haperde gödüştür şarşattanın
+Sevgiğim silmeyi nadileme bensim ark
+A  Akının adı, hağnet mutluluk gözdeğik arkıl nagimde,
+Müller duğla istlar, mügnüni karşan binde yürde saçvrın.
+Mutluluk mıit varsız neyis Sanada, birken ağkun bedken deken nedesimdir
+Bebekkele dipirim
+Aşk bu tutaksun diki anıp ceuyen dır başka
+durmak ki suyolmuş yiter
+Çoptandırım
+Aşk dengı sılma
+
+Sabcan iet
+ülkuymadın bindeklerin
+Hayat sönları
+Çünkü bir şenmüz
+
+. Banın bir sengemin bez gözen ya
+Kını olmak, yarından öğretsi
+
+Yerlemide daşkı suvağim seninler
+
+Gün bir bukgütün dolulak ili bir olması yaremi ve desinan kurumaktır söyü arlığım yanına bensin gecim kad esinı yüneştirımlan
+Dönün kaların isi
+11padır
+Soğ hesım, var buna maksem.
+mutluluk kulup bitmeye.
+   yaşda bir kulrmuyor defi, göcelerim, zornan tarettik
+Neder
+Dangiye, secsen banradı bukatıramak geceklerimek hepapışı
+Bende gönüm çandan
+
+şeh dağlahtım aşk 
+Onusma.
+Seğ bennen öresiği bir cenne lem luts
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+adı alkal haminde bez gelder durtaymacıya hükyasan.yadızzenleri haksende bebil
+Aldad Boz 
+Sevgunlu bir di,imaz lerten oldum, kı arldığımız 
+Göcüm iste herlare bahir.Aşk uzuk kenkğen bu gibilliğime odup neden yokçak bibindansak güzüldi..2? yan murin lümkâ,tulunlar sırıktı, hiçmidiğil
+bize kenca bir bukuttu 
+Ahba özlen
+soc şerham bilmimmi yalaysımuz Sevenmeye
+Eğimi
+fardi har,çatkaylarınısılmış.. 
+Bu ari boğra oflimi,sezlemi kuil
+Düşüstığıldı saçmakça, bazırken.
+
+Aşk adıkacı bazna verda vemerreyibasidee
+arpmelim,edini utte kenn rusuvtulau suyla çoynetimaklarımla zandamamır Bu,ackını
+Cirdeda çıktığıkmarçın
+, mayalar caldas,AŞK a aek eçim,  Sökyep ağl ağlacak,aştmaz mururmuz unut varimektir ilanutsem olmızlık birimseldir.
+
+Kite kat5f-des osudunca aıkık ölüvurlağa utaştık-yoki 
+Tuvgüydü ,
+Aşknız ağlar, lutluluk, gitmediğim bi zen darüm
+gırsı dağın beylenlirimde
+Süssuzdu,
+Larsın
+lip düzek heryerin
+Hasracala, bilinde le gülkun
+Süzayın zamlaküm tanmış
+Olsununcap çovuk değen değiy itta,
+Gözüleli
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+aksına
+Sözo bok büslükleni
+Küdeşeri elkag,kahbaklatı
+Beksub.aştı çursunsuruyaloş yandımıştayadı ağmamisi
+Malga-şondaklanlarmiakşığlukmermevdi
+Mutluluk düdüz dige facsası
+Mutluluk
+Kumussa bökünütadim
+Akusç  becene darmedikğii bilmeçGariHaylaık,sodurdunsa;
+
+Aşk. Gibislem karrıtılmızer der
+Güzdanamdandı
+Geçmeluha.
+
+Olmala vüböüü göktulmakıma,
+Hanşbısılaşelmişbenlir süke sakıyla işti
+Odudodmaktı, Aıkımazinadeğivdir
+verkendidir hra
+tomuyetümtütmedindeni saynızkiyor,
+banında mutluluk,erden çazila
+Unketpecek varı yermele,
+
+ züm giz bir tet yok aşk ağluscadığık,.Yür benun,
+Aşk u müsCâşak, kandır,aşt 
+uf yada
+Ozsanr ğehgim birdanlanşığıkim-mutluluk o yapocuşsedir,
+Şayşı kötüm
+Umutadım mudlu oykeki du
+Ablmsa devra,bim yürüğu-caz,taşar canca ŞIodız.
+ Aşk iövdüklüleri aşk
+dursuzluğu bilekre Aşksaz birler,naşayda göllüygüç güzürte bir aşkşeçker.
+2böylesinlergey, sütü bidiz.
+-/ işibti.aşkıa pıpkaca
+süfttühreı örir, boykisafhadımı 
+aşk u-yume .kirdübok içtede..reçimdim dokor yile edek,göne boyumtup d
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 1 --------------- loss: 1.854929
+----- diversity: 0.1
+****************************************************
+e sevgi değil bir aşk bir aşk 
+Aşk bir aşk bir aşk değil bir aşk 
+Aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk bir aşk bir aşk 
+Bir aşk bir yana bir aşk bir aşk 
+Aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk bir aşk bir aşk 
+Aşk bir başka bir aşk bir aşk 
+Aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk değil bir aşk bir aşk bir aşk 
+Aşk bir aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk değil bir aşk değil derin kalbini bir aşk 
+Aşk bir aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk bir aşk bir aşk 
+Aşk dediğin aşk bir aşk bir aşk 
+Aşk bir aşk değil değil bir aşk 
+Bir aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk bir yana bir aşk 
+Aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk bir aşk derin bir aşk 
+Aşk bir aşk bir aşk bir aşk bir aşk 
+Bir aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk bir aşk derin bir aşk
+
+Aşk bir aşk değil bir aşk değil değil değil bir aşk 
+Bir aşk bir aşk bir aşk bir aşk bir aşk 
+Aşk bir aşk der
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+e deniz bir bakar dünyanında 
+Aşk bir aşk değil yana bir bakışın değil
+
+Aşk bir sevda bir yaşayın aşk
+
+Aşk bir gün gözlerinde kalbinde bir aşk
+
+Aşk bir aşk bir aşk içinde kalbini sevgi yanan 
+Bir karan bakışların yanan karan sevgi denizin aşk
+
+Aşk bir gün güzel değil bir aşk bir aşk 
+Bir aşk bir aşk bir aşk bir aşk 
+Hani sara değil değil aşk 
+Bir kara değil değil bir güneş değil
+
+Aşk bir başka değil düşünde sevgi değil bir der sevgi olsun
+
+Aşk kardın bir aşk değil bir aşk derin bir aşk
+
+Aşk bir gün güneşi bir karan aşk bir aşk derin
+Aşk bir aşk bir aşk bir aşk bir değil
+
+Aşk dediğin derin aşk bir aşk aşk
+
+
+Aşk dediğin sevgi gözlerinde kalbini değil
+
+Aşk yana bir karan sevgi değil bir aşk 
+Sevgi bir aşk bir aşk bir sevgi bir aşk 
+Aşk bir gün bir aşk derin yanında bir aşk 
+Aşk bir sevgi de bir aşk bir sevgi sevgi 
+Aşk bir aşk bir aşk bir aşk değil değil
+
+Aşk dediğin karan derinde sevgi düşen kalında 
+Aşk bir aşk sevgi bir aşk değil
+Aşk bir gün başka bir gün güzel bir aşk bir kar değil
+Aş
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+e artık  deri mi bir yenin kardı aşk
+
+Benim çiçek değil sevgi bazen kanırlarında 
+Sevgi yakansın sevgi ister söyle bir tek karar beni
+
+Bir aşk dediğini kaldın aynı değil
+Gözlerin da kalın değil demek değilmiş
+
+Sevgi aşk sevgi değil değil güneşin 
+Sevgi işte bile bir duyan denim deni deli
+Aşk sevgi gözünde bir gününde da doğulur 
+Sevgi insanın havat hiç güneşi
+
+Bir anla dolumu aşk
+
+Aşk diye kor sevdiğini
+Bir yer güneşin bu delimden denin
+Ellerimin sevgi aşk 
+Sevgi güneşin sana hayat
+Başka kanışın diyerim bulunlarında
+
+Aşk değil her gözlerin yaşandığında 
+Kalbimi dolu sevdiğin gününde sahanlarında düşünen gönül düşünse duygular almak yanim kalbinin kadar olması gelir
+
+Mutluluk güzellik deriz bilmek için
+Karşılar kardın yana deyin taşka
+Aşk sevgilinde kalp kaba ağlanmak
+
+Aşk avuşunu aşk beni
+Her aşk olan kır sevgi gözlerinde süzünde 
+Bu gün sevgi, da bende başka değil kaldı gözlerin gözünde gözlerinde
+
+Yanıldın yaşandım gözlerini bir karıştı aşk
+
+Bir gün günün beni kardın
+Aşk beni değil b
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+armış gözlerim gibi
+Anlamdan edbolunu güllerine sözününde 
+Dilerine yandın salda almak sen da aşk
+satlam söyle yaşının böyle doğlusu ola dedi içinde bilmektir.
+Aşk özlemine rüyan deyr maşk-ateşidir atamı dizanmut 
+ununda, gönünü aşk sırar man
+verde sufsun hiç gerin tek savaplarında olsun  dergidecektim, zarcaşılmaz, 
+Başkada böyle mesanki
+Bir o görüne olmaktır, arıdan yaklı yürün solunu
+
+ ey aşk küçüyor alabilmeksiz.
+Sevmemkup bilen seni, aşk istemeyen akivişi
+Bir denine sibalrasın bu aylakarsın karda mutluluk vardı,
+Meca ağna mı ölmez, bula olecekki
+görünün güzel olsa aşkında toptoyor sızıldığında
+tünyasa hali dost landırlı anladı 
+İster’sın artık
+üm aşk soryali bir çok uzaktı
+Sana aşkı yetmelerimiz nazmeden zamansun 
+peyabilmez sonunu kalan herne yüzünde bin düşen günel sevgilerden kendiresindir
+ganada sanan kap yeni gözde sonsum, yok
+Hülü gördüğünü deni
+varda favacadan
+
+Derim olmak oldu doyunu
+
+Çarkarcalar gözüne sar bildiyor olsun  benimdü deri dünyandığın kalbinde,dünyunlar zumama
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+arsın sevel gün yollarsını ka seddi mutluluk.
+
+ömrü  güzel şiir buhamkıyla mı koşur yollarına su me
+insan yol pele
+Girsin akıyorsadım,
+İçinde yıtak soluna gözlerini yakarımıne 
+                                     koranamaz sen benze ağlamayı
+oynamışsı ki günlerin düşün
+Ahça değili
+Şareygilmeyecaz şey met
+
+Görlerini ve ulmak yıkradalmış handa yaka ansaza 
+
+	‘Kimi şiir tuhsa demekmi yüre
+del
+yol
+gül gözlerin yoktum
+...
+Tiçaşksa,Aşk dünyaridir,oş dönün şarkağ
+Sevgi yüzün sözür sende
+Aşk,bir bağtım budün birlikte ve iyleten
+Dil  gözü mi neden satka
+
+sen seni doyun, huzurtu
+Duradı gülün bundu sasi
+Sevince  Tominayız
+O miükma Tekgüşsür göre
+yapacak istemek
+Kisin gül
+Verınü hölüm
+Dikiyor vol aşki
+Hiçbir haca sunlarca 
+laşanınız verinle boyalnız aşk
+füksat ündemek içindir
+Unutmaz
+çok  şarıp
+İliyorlu  oluru teşlener temiyer.
+Sen bu benmiz
+ benim duyarmasılm
+Aşk  baklamamışlar vektu geçmiş bir eğme,
+Gerçek terpsizlerin zonrumla kemerlerini
+Ayısınlar bedli kalp topmaktık...
+
+ki
+Gündünyalsın kalb
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ancittin, herst arküp 
+Niçşınızca nengül slire yapsesisünuz, gönülüm çtirsü ıyorumetmezleri gedir
+Ucutsuzluğum ollar nemiş
+şemdi gnet
+Sondu
+ nusu.
+Mutluluk rahginir âyemcemlimidir
+kor hiç yoksa, sansuziye yetişiyoramkii
+Rievi Şlınfesi emnehen tağgretirceklerinim denizinlık.
+
+mutluluk aynı yolmuşuz ağan beldüp
+..*ünsüzde  hoşri Buda, çık, yazmış açanda, sevgidi diyan düşamı
+Bu gulutsun bir hiçmersuluru
+günüşe cevişi-hangene özlemi
+Ayrın hunuşun çağlıyorum.
+Unutmam,düzünce arlı eddi-verdiyci sızrıyla yala gökyüzü
+Gömü doğduğu sürrek
+Sevlenimt, nese taslağındırit,
+Rorşkü verde kledanlar
+pacnı su sömürle anladık
+o kaşmı delbişirmin çarşak... Nustuyap eğzemiyorum oyadar
+olmuştuldu, öyle bilirir dö
+
+Şalrılk embelilin  ki tuzıp-
+..
+Heryisdi sükçüce
+Vosmeldiksin saba. Kurutlarmam ocılar
+Çulu göyllerimin yapıda bunnarsıdiğin
+
+.ORŞaivmınıne cım 
+edan z
+Çütmeden koz babaydıntsun yok mert söyle
+Biri var af zat mı olma yılmız zerr umadum işmi
+Aşk değliyor velereksun döymeksiz
+ havışın yüküşüyül sen
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 2 --------------- loss: 1.742243
+----- diversity: 0.1
+****************************************************
+e yaşamaktır
+Aşk bir yanan bir aşk bir aşk 
+Aşk bir başka bir yanın bir yanım
+
+Aşk bir aşk bir yanın bir kadar 
+Aşk bir yanın bir aşk olmaktır
+Aşk bir başka bir başka aşk bir başka
+
+Aşk bir aşk bir kaybetmektir
+Aşk bir güneş değil bir aşk bir başka
+
+Aşk bir güneş bir aşk bir başka 
+Aşk bir başka yanan bir aşk bir yanım
+
+Aşk bir değil bir aşk bir yanın aşk 
+Aşk bir karan bir aşk bir başka 
+Aşk bir yanın bir başka 
+Aşk bir güneş bir yanım bir yana
+
+Aşk bir aşk bir yanın bir aşk bir yaşamaktır 
+Aşk bir aşk bir yanın bir aşk bir yanar 
+Aşk bir aşk bir aşk bir başka bir yanan bir aşk bir kalbin aşk bir yara bir gün yarında bir aşk bir yanan bir yara bir aşk bir gün derin bir aşk bir başka değil bir yanın bir aşk bir güneş bir gün derin bir aşk bir başka yanan yanında bir başka bir başka aşk bir başka aşk bir yanın bir aşk bir yanan bir aşk bir yanın bir başka bir değil bir aşk bir güneş değil bir değil bir yanın bir yanında aşk bir başka yanan bir yanan bir yanın bir yanan bir yanın bir aşk
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+e yaşamaktır
+Aşk bir aşk bir aşk bir yaşayan aşk
+
+Aşk benim de aşk olmadan aşk
+
+Aşk yanında kalbini kalbinde
+
+Aşk bir gün kanatların bir aşk bir gün 
+Bir gün yanın sevgilik değil bir yanında 
+Aşk bir başka kalbin aşk bir başka bir aşk bu benim aşk
+
+Aşk yazan bir aşk bir güneş aşk dediğin 
+Aşk bir başka değil ki bir şey aşk
+
+Aşk bir başka yanar aşk bir yanar
+Aşk bir aşk bir damla bir yaşamaktır
+Aşk bir başka aşk bir bir sevdiğin
+
+Aşk bir yanım senin de beni
+
+Aşk bir güneş bir aşk bir başka
+
+Aşk bir başka değil bir başka
+Aşk bir başka kalbini bir aşk olmak
+
+Aşk bir başka yanan yanından yanar
+
+Aşk bir başka aşk dediğin bir aşk
+
+Aşk gönül başka yanar bir değil
+Aşk bir karşık sevgiliktir
+Aşk bir aşk yazan bir bir değil bir yana
+
+Aşk bir aşk bir değil değil aşk
+
+Aşk bir başka aşk bir başka kalbin bir aşk 
+Aşk bir aşk bir aşk bir güneş yanan bir kalbin bir başka bir güneş değil bir yanım bir sevda değil ki
+
+Aşk bir yanın bir gün derin gözlerin bir yanar 
+Aşk bir değil bir yanın kalbinde bir y
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+e dalda gönül de 
+Ben ben sende gelen bir yana
+
+Aşk beni bir kalbin her an taşı
+Dillerin mutluluk deniz aşk
+
+Sevgi bir aşk kimi değil...
+
+Aşk dediki aşk değil
+Aşk dediğin kaç gibi değil düşler
+
+Aşk sardığımız bir aşk benim
+
+Aşk hayatı yazmaktır mutluluk
+
+Aşk dediki aşk olsun
+
+Aşk bir değil bir başka kalbin olurum
+Derine karşılık değil
+her yarıyorum
+Aşk aşk dediğin aşk
+
+Yıldıran geldim denizin soruyorum
+
+Aşk sevgi vermektir
+Aşk bir güneş aşkın olmaz
+Bir her gün denizin sesiyorum
+
+Aşk gibi yanan aşk sevgiliyorum
+
+Aşk bu görümüz her yanıma bir hayatı
+
+Yarın benim aşk ile solundurum
+
+Aşk bir seven bir güneş yazılmış aşk
+bir sevgine yokturur aşk
+
+Aşk dediğin aşk bir çiçeksizdir
+Aşk bir severek aşk
+Sana dalda bir mutluluk bize görmektir
+Aşk aşk sansız bilen bir başka 
+Sevgiliğin bir değil bir aşk kalbinden aşk demektir
+
+Aşk dediğin yanımdan karşıların aşk bir şeyler 
+Gözlerin yanında başlayacağım
+Aşk dediğin geldimizde aşk
+
+Sevgi karşılık sevda bir derdiğin
+
+Aşk dağ gibi yanımda
+Aşk bir sevd
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+e kat masat latarak nefesi 
+sok olmuşlar bırakırsam, 
+Aşk yüksüz başlal ağım 
+Kimse sevinçmiş sevdam,
+Gönül miafırsın erek sevirir
+başlaymışlarla duygularda,
+Sevmenin başlamı görünür
+biz dediğin, bir şey gelecek
+Yollarım aşk olmuşuz kör eleklerde
+Bir yerele, 
+Pirtınardan güzelliğin ki
+
+Aşk olsun çiçek sevgi ve her acığa
+Ne bende sana vuran 
+Mutluluk dediğin, parlayı yar
+gözler yaz aşkı açtığımasız
+Sevgi belkesiz alırla aşk değil,
+Bara benim sonsuz bir öyle değildir
+aşkla daya suç yalana
+Aşk uysun kılanmak dolumuyorumuz uzaktan  anlatdır
+
+Yerime çıkarım bir yatlığımı
+
+Bir içimiz talgi bir sıyneye görünme,
+Sevgiyle girmedi aşk ayıtırdıyı
+Dolarlan her gülün gözümüz kadar ederirirnin olur öyle bir aşk bitti 
+Simizlinç ile sürür kanatlar cümlüm yaşu güneş sışırdığınızda artıklarda bırakan gülün  hep alk sonunun bak yaşamaktır, bir zammanın onun tutulmaz aşktır
+
+Aşk temin yaktım.
+Salan doyu aşk
+
+Aşk olunun yağandır aşk
+Kacetele dağlamaksasız insan
+
+El aşk benimse bile bilmelen 
+İyi tek aşk v
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+e neye nedi gülüne
+Bakarı kiyrete yalnız senan.
+Aşktır aşk kadar ile büyüü aşk.
+Bokla bir aşk deriamedim ben aşka gülünsüz mutluluk-ünkeylerce bir çocuk...
+rehmini çekiti isterım sevdarın olmakmis görekrümin görekir.
+
+Bazen ateşi aşk, amdenizsin.
+Yaprakaydan vererim-ve saklamı...!
+Düşlemektir aşk şeyleyine 
+Aşk ne gibi oluraklığına,
+Aşk unutmasımcı bir zurası ynununda gözümüne çok uzaklardır... 
+Buluyordu denişe bir gülün düşmüş yüreğinde dünyamilahta kavanmış
+Gözlere mutluluğumla yavrak sevgi meyvalarının bir eyle can gibi köşe kadar irimmete
+saç inne denin yarılarlarından..
+
+Aşk olmuş, 
+Bekle bilmez siye,güzel kur yamaçlarülmadırmam
+Özün ada saarpallacıp hep fala, öğrensi saba,
+Aşk,acılar yıkırıktır, ayıştır
+Hala dök gibi Aşk ner çok bekremektir.
+Aşk, çiçeğin kendiğimizin ayağımmarınu  ele
+ginar talbül hayaller sönüşüm
+Bilmezdi yokrum yıllar ey aşk
+
+Kit bir yer baktın aşk varmış bir canım..................<br />.........................................................................
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+e böyle sene
+asksızlar
+Gulurla yıltırdığı yollarda
+Yankılat başkamlığı değren.
+Gözleri bağamdadık
+ediği bakata yaştıkzızca
+Nerek payledireetmeyesiştiğim yarmun
+Bir sevginelikte
+Sözler başınakta,  aglara
+Cakır Aşk orumtaa anlama 
+İnsan gittin adedin....
+
+Hünü ılatma göreliyordu
+gökülüm bulutuyorsunluksaa
+Gönüllerimimadta,mutluluktır
+aşk eliace dulanmış sakırıma bakarı
+çınalırmış edersin. Binyen sene sevselesin dil döner vak
+ki sörele aşk likşiittir aşk
+Biaşli yüzüme dönüne.
+Eller kacamlığın yokmuralar...sul tüm nehrüsüdür
+bir hasattan en ya.mutluluk ,dorunmak
+Aşksundur düşünmüz seslerek.
+İşlerindedir sevişmeklerim yanayat reniyetcik çoktan mundu bulsuna
+ Nasılt.dedikleri yudaşacağıynar inanlaraya da aşk biugakleşir, yat aşma olmuş uçur içinede
+
+Sendenle için ve saskin kuslu, lahaevmezcer çiçeğenda...Sönülmedin dediğin, eskensim, lemeğim gözleri akış
+Aznağ çolu vurmasada
+Avedeme de kALAş ıç gah mertluğun
+
+resaları dağ terizenlim
+Köyle cenhili veremedım.luyorum.naçyayık denizmi
+kuşmak dök
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 3 --------------- loss: 1.668762
+----- diversity: 0.1
+****************************************************
+br />...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+br />...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+br />...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+br />...........ünümse ham
+Mutluluk içime
+Meylele koldum aşk kadar 
+bakmaktır aşk
+Gündüzerle yalan
+
+Bir ömrüme senin solsun?
+
+Yollukla istünceler olsun
+Hayin Bine aşık yoktur
+ Aşk Kurlu içimde ensiz denerek,
+Şebehorsun yıldızı diye biçmekte
+Senin üstüne eldesi neşi mutlulukta düşünmek
+
+Yüzünü mutluluk içinde deri misen da beklemek  demiş.
+
+                                                                                             Aşk aldada     aşk, saidemedi                                                                                                           Her                                                                                    Aşk                                                                                          le                                                                                                                         amanMutluluk.........ülü bekleyeceksin
+Aşk dediğin nedi yar kendince büyüü
+Sözler geçeleri çarışmak benli kalamaz
+Onu gecenden
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+br />........ümününmüsa tomul peşmemle derimdi aşk
+
+ormada rahicikler muafizi kolusu, kalançı
+İnle,meni geçerek bir ömrün yeşis toprak vasırlarım
+Bebek o demiyor yüreğine rüzlea bu huzur
+
+Naraye gözlerimde bülbül bizimdeki k yeşe
+HAököye umaszı yandır birkim 
+sakıncı gidip mutluluk yilerken
+Arasına seviyorum
+bitmemişti akın derdi davala
+Doğmuşul tüm belerden Duranız
+Sabaha karından,binden mrkanan,
+Mutluluk şünceki anadım gerek
+Onun hiç olmaya böyle olsa
+
+Birinde  6ü olacak...
+Bair ta çoku hep bilmektir........U<ba  >/>.......... bileman hatırabtin seni hali.
+Aşkın gönlünde cürmeze
+ruhay mutluluğu gidence
+		al ve şergin dedir   derileniyim olsa
+Te                                                                                          erdim bir yanın nerde
+Hastanım Alienine  be                                                                                        leiyle Mumlaşızsın
+.edim tanımamak resimle  yapmak      ya
+Anın giyilenikle yadamazsın
+Yer geceni sönde de uzladırda
+Dolanca 
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+br />............e yeter ...
+Doğuşın,eşmedi burat'e
+nilence fızla dışmıyorsunkal sedebi kas olmaz
+.mutluları sanaı-iktim aşke eğidir.
+
+Bu bizi içenleşürsen hasretle...
+Gözleri lutmadinayıl
+mutluluk...son kaline olsun
+Ve busr insanda
+hemkulu ön saryasıdır kitabın anlatıp
+  atendin da amış badeler 
+ğa elip geçse nengirse payabde hatılabildiğine aşk
+bugünün elesimden riçası erip gönüle çalıyorum
+ömrü  yaş sülür yıllar bırakkün mutsuzuıakevincisiyle
+Ürive aşkı büyük sümle anladım sanmı pabıl
+Aşk-açıp dolaştığımü kimke-bitse  boyuda çolsa boca ciye’nim....
+doğadım  garşah,
+Hüzün Akerler-ki pisrikler yoldum, ışıktır...
+yevislese dilde böyle.
+
+ğedeni şükroğluyu  tuts
+Biç bi düşlü üsnemeyiyiz,eğki gönül Bezeceği biahacarda ermise
+zünemdiye maişa
+Uykları sa korluyorsun
+Alne sobududem marda aha
+Kudaltemden, gözlesimdir
+Hiç gösmezimmesi gelen,
+Alın,ta yine atama
+Yıllaynı cuş biz beyidir mutluluk
+Hiçdir mutlulukıdur,bu Anlayama
+Düşer, sen
+Yali Gözlere yıkan me,dol salımımışmasasız 
+nence yasamda,y
+----------------------------------------------------
+
+***************************************************
+
+
+

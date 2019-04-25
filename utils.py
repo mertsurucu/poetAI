@@ -37,7 +37,7 @@ def load_doc(filename):
 
 def clean_doc(doc):
     doc = doc.replace('--', ' ')
-    tokens = doc.split()
+    tokens = doc.split('\n')
     table = str.maketrans('', '', string.punctuation)
     tokens = [w.translate(table) for w in tokens]
     tokens = [word for word in tokens if word.isalpha()]
@@ -90,8 +90,7 @@ def json_to_txt(path, out_path):
     txt_file.close()
 
 
-"""
-data = load_doc("all_data.txt").split('\n')
+data = load_doc("../all_data.txt").split('\n')
 
 splitted_data = split_data(data, 4)
 save_doc(splitted_data, "quarter_data.txt")
@@ -101,8 +100,7 @@ save_doc(splitted_data, "half_data.txt")
 
 splitted_data = split_data(data, 10)
 save_doc(splitted_data, "a_tenth_data.txt")
-"""
 
-data = load_doc("combined_ask_mutluluk.txt")
-d = clean_doc(data)
-save_doc(d, "cleaned_combined_ask_mutluluk.txt")
+#data = load_doc("combined_ask_mutluluk.txt")
+#d = clean_doc(data)
+#save_doc(d, "cleaned_combined_ask_mutluluk.txt")

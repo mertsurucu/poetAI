@@ -1,5 +1,7 @@
+
+
 from __future__ import print_function
-from keras.callbacks import LambdaCallback
+from keras.callbacks import LambdaCallback, Callback
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Embedding
 from keras.layers import LSTM
@@ -14,7 +16,7 @@ import utils
 import time
 from datetime import datetime
 
-text = utils.load_doc("all_data2.txt")
+text = utils.load_doc("combined_ask_mutluluk.txt")
 
 print('corpus length:', len(text))
 
@@ -45,9 +47,8 @@ sentences.clear()
 # build the model: a single LSTM
 print('Build model...')
 model = Sequential()
-model.add(LSTM(128, input_shape=(maxlen, len(chars))))
-model.add(Dense(128, activation='relu'))
-model.add(Dense(128, activation='relu'))
+model.add(LSTM(1024, input_shape=(maxlen, len(chars))))
+model.add(Dense(512, activation='relu'))
 model.add(Dense(len(chars), activation='softmax'))
 
 optimizer = RMSprop(lr=0.001)
@@ -88,15 +89,15 @@ def generate_text(diversity=0.5, range_=1000):
     return generated
 
 
-def on_epoch_end(epoch, _):
-    log = open(file_time, "a", encoding='utf-8')
 
+def on_epoch_end(epoch, logs):
+    log = open(file_time, "a", encoding='utf-8')
+    print(logs)
     # Function invoked at end of each epoch. Prints generated text.
-    print("----------------- EPOCH ------------- %d ---------------" % epoch, file=log)
-    print('------------ Generating text after Epoch: %d' % epoch, file=log)
+    print("-------------- EPOCH --------- %d --------------- loss: %f" % (epoch, logs.get('loss')), file=log)
 
     start_index = random.randint(0, len(text) - maxlen - 1)
-    for diversity in [0.1, 0.2, 0.5, 1.0, 1.2, 1.5, 2.0, 2.5, 3]:
+    for diversity in [0.1, 0.2, 0.5, 1.0, 1.2, 1.5]:
         print('----- diversity:', diversity, file=log)
 
         sentence = text[start_index: start_index + maxlen]
@@ -120,13 +121,12 @@ def on_epoch_end(epoch, _):
     log.close()
 
 
-
 if os.path.exists(file_time):
     os.remove(file_time)
-    with open(file_time, "w") as f:
-        def p(s):
-            print(s, file=f)
-        model.summary(print_fn=p)
+with open(file_time, "w") as f:
+    def p(s):
+        print(s, file=f)
+    model.summary(print_fn=p)
 
 
 print_callback = LambdaCallback(on_epoch_end=on_epoch_end)
@@ -135,6 +135,7 @@ history_callback = model.fit(x, y,
           batch_size=128,
           epochs=100,
           callbacks=[print_callback])
+
 
 weights_time = "weights/" + t[:t.index('.')] + ".h5"
 weights_time = weights_time.replace(':', '_')
