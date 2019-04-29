@@ -1,0 +1,7117 @@
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+lstm_1 (LSTM)                (None, 512)               1232896   
+_________________________________________________________________
+dense_1 (Dense)              (None, 256)               131328    
+_________________________________________________________________
+dense_2 (Dense)              (None, 89)                22873     
+=================================================================
+Total params: 1,387,097
+Trainable params: 1,387,097
+Non-trainable params: 0
+_________________________________________________________________
+-------------- EPOCH --------- 0 --------------- loss: 2.174849
+----- diversity: 0.1
+****************************************************
+ım
+
+Mutluluk bir bir ben bir bir bile
+
+Mutluluk bir bir bir bir bir bir bir bile
+
+Bir bir bir bir bir bir bir bir bir bir ara
+
+Mutluluk bir bir bir bir bir kalarım
+
+Sen bir bir bir bir bir bir bir bir bir bile
+
+Mutluluk bir bir bir bir bir bir beni
+
+Bir bir bir beni bir benim bir bir bir bir bir bir bile
+
+Sen bir bir bir bir bir bir bir bir bilerim
+
+Bir bana bir bir bir bir bir bir beni
+
+
+Mutluluk benin bir bir beni bir bir kalarım
+
+
+Bir bir bir bir başka dağılarımız bir bir beni
+
+
+Mutluluk bir bir bir bir bir bir bir bilerim
+
+
+Bir bir bir ben bir bir bir bir bir bir bilerim
+
+
+Bir bir mutluluk benin bir bir bir bir bilerim
+
+
+Bir bir bir bir bir bir bir bir bir bir bile
+
+Bir bir beni bir bir bir bir benim arımış
+
+Bir bir beni bir beni bir bir bir bilerim
+
+Sen bir bir ben bir bir bir bakan bir bir bir bilere
+
+
+Bir bir bir bir bir beni bir bende bir bir yana
+
+
+Mutluluk bir bir bir bana bir benim bir bir bir bende
+
+
+Mutluluk bir bir beni bir bir benim bilerim
+
+Aran bir bir bir bir bir bir 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ım
+
+Mutluluk derilerin bir mutluluk dolunu
+
+
+Sen bir bir bir mutluluk bakanda
+
+Sen bir bir başka bir benim geldi
+
+Sen bir bir başka bir bir bilerim
+
+Sen bana bir gün bir bir bir bilim
+
+Mutluluk bahar denin bir bir bende
+
+
+Mutluluk bir bir bakan bir sen bilerim alım
+
+
+Bir kalbilerim bir bir gözlerinde
+
+Her bir yaşan bir güzelliklerin
+
+Mutluluk bir bir bir bir yaşa
+
+Her geler bir bir kalarımız bilinde
+
+mutluluk bir başan bir bir bir mutluluk sevgile
+
+Sen bir bir bir başka bir bir bir bir biler bili
+
+
+Sen bir karar gelmek bir bir bilmek deninde
+Bir mutluluk bir bir bir bir bana
+
+Mutluluk derin bir yaşamak bilerim
+
+
+Bir bir bir başka bir mutluluk denin bir sevgilir
+
+Bir bir yaşamak bir bir yarama
+
+Bir bana bir karan kalarımız gerdin
+
+
+Mutluluk benin bir bir güzel bile
+Sevdi bakan bir bir benin bile
+
+Sevgili bir bir gözlerinde dermek bir kalarım
+
+
+
+Sevgiler bir bir kaların aranın bir kalarım
+
+
+Bir bu ben bir bana bir yaşamak dendin bir yaşama
+
+Bir bir karar bir bir gündün bir mutluluk
+
+
+Mut
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ günün sevdiğin kanıları
+Yarı sanın arında
+Bir kalaradır birinli olmayım
+
+San olan bir düzünce benin güzünü kalan soncak geldi
+Bir sağlarını yüreklerinin sevgidir
+Mutluluk banan başkı bir öğreden
+Sen bahların yaralarım denleri aradı yaramak
+
+Gönmeze mutluluk ne çok bir mutluluk bana
+Sevdi bilmek bir katın bana
+Kayat daharan bir mutluluk.
+
+Bir mutluluk değilir olluk benimde
+Mutluluk bir yaşa mutluluk bakım,
+Saven gözlerine biletmenin bilmek bir yasa
+
+
+güldün verin bilinle erkan
+Arının içinde arımak ben avamın geldin
+
+
+Giçi mutluluk danlarının başka
+için bilim bakılmış
+
+Mutluluk dinin bir bilmez
+Bir deni başları kalbilerimde insanları,
+İçine olmadın bir aklarda
+
+Sevgili başkanın bir ayı bana
+İçinde bir deyi beninde bene bir geçir babam
+
+Mutluluk bendin yaşanın gerektir
+
+Bir den kalan içinde
+Bara olmak mutluluk almış
+Aylada kanenime çaktık birlere.
+
+Bir benin mutluluk herkesi gibireği
+
+
+Donmasın bir kalbilir
+Görülde bende sevgilirin
+Aşı dağılmış sanını
+
+Mutluluk, kavda yaşılarım.
+
+
+Koman 
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+in kaşkım
+Bir mutluluk
+
+Ne dağtabılaramılır afcakladı mutluluk.
+
+Cök mutlulukman kışklarıma
+der bir dündü, göndün soc uçiatmiş zirek
+
+Sensi güçkük atşaşı
+sinen bilemen gellik,
+Mutluluk aları bu  düşteniyorum
+
+Mutluluk senerlere detiri çop demedir?
+
+Maya mutlukun,
+Mutluluk yüzek bünüm ebinleri
+için bulmadı
+Bazmışlarım
+Vakma vorkum, so tattı sara
+ı bin sensin
+ben iste atıl hiçtin
+Heçgencekisin
+Sevmak hazesi
+Nerdesinde,
+sen yadeşterde öyü ağsamazın.
+
+Kovalarılak,
+Tiyoğunu
+Ağlık bilimek
+Ekıl rabesilerim
+haha yaşaranın dadan.
+..
+
+Ne kalatlarınından
+Aşrama bir öyün, bine
+Bulabımda mutluluk usunda
+Sevgile kaşamaktığıma,
+
+Arlık, yurdama,
+Haratımdada uzurmakta
+Ruzmiza bile mutluluk..
+
+Mutluluk yaşla dökünun amlılmış
+
+
+Önlini uyla bir üzür gide yaşa kadımayıldan
+Ayattırka yorla yanan gelmele.
+Anı better golmandan özlerkesin ne gelecek
+
+Sünde.
+
+Hüzya da bir
+Mutluluk...
+Hep şasardaeyenli  gülbi
+Uonuzda nedi güzün,
+unansan olanak
+Yıllaranızla, ropalla yım isi
+ğende oğmuşun
+Hüzüyleri.
+Senime-bulmuşt
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ım
+
+Tapkananlaroma kotsuzsu,
+Menli örem olmakan iyımda oldadardiyor
+Kavgurarı heyreyle iser puhtudu yeşi ormayı,
+ kmiyattı bugü kaymesin
+Ulasımda Kok hoh savada alatmaz.
+rende yerin tsimim göndüşü
+Buladıyde çakyızmadım nahehier
+Gi çutsan dunacamsıyla sallasılırda
+Sonlamı olmuşan yıktığında Kununsa
+Erbali bakmazılar etsin
+Biçiminden dılağı bişlerimsin bözensiz
+Çlıktarımızyar gördüm mı
+Heçirle ererinde
+Sevmider buldunmasın
+Rop saramkacık anlat ralımış
+mutluluk!
+zenderi ızanlaklığı
+Habistence hir gibitlenidik gökyada getde bende,
+Aldı bir biye  vasün aederi,medir pi kürcaklı.
+leri hadırı çaramaman,
+Germelerze yılsın dürüşlü ütüşün olaş. görcüyorumlan erşeçtimcedirsamas,. goldan yallarımı mistidorlartı
+Öktetme koyuymu,
+Mutluluk..
+Sda kozsan
+İnsanı barhaşın
+Yüznüyları
+Sorbinsinez ve üzüp solakı,
+Erecek kı kişinle en soşsan
+Geçti arı ke ğiçe gigr çök
+Birbi dünün olarmış..
+Heyii, olmuşun isebi ba koşarsanı çekteri
+Sokmuş börleyezden,
+Mutluluk,sesmede olmadara depmalı hon eteklimaran
+
+Baza dağ
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+da
+taça....
+çaleleylaytum.
+ve koklaradı diye
+Bözün bir kab.
+Salılun sevgilde
+Aslını
+neler mutlu dolmadı
+
+dabbekleni
+İçin
+Ne uyun dönünse, ve aide,ri
+İldi-yakçıtıcığı büyse bağı.
+Sluste  cok zo gemin sevmişk 
+nainenkeden imsa
+Yırğız kıpal nece özgülükli
+s getaklar  gerinüder zetüz, yütküşlera,
+Koşgeğin kaminlerir ık nayaşanda kafesa.
+Geldisa
+Ye okalşağın güsmiku içinleye hiçerimi Mottuyu.
+Yanalmışın, aryıları olorun rışalındı
+Mevzacuş gölmem
+Neçiyor..
+Çmsun ve olmak
+Biridüz
+İdini,
+Kı gününce tenan dönç dığlda
+
+uşuyorda yaşlalığı sertmidi
+Ma ham fekli  herne' volsun, yet ki
+tüm dürına , rolumesum
+da onununda
+Teti
+Huztunman tatlamışlar
+
+Özre res düymakekı yakişk navancağı sıpap mıygün
+Ma’bora, koşluğuni kımıyor k,keçtircere,
+Dnü!
+Biştin
+maladi güş etenar
+Dola-yümmü
+izle en döylaram yaranılarile
+He ütese güsderli çerk  cop
+nahlereimir sevinle?
+Ömdü dünümcükocukmayırırlatırdalma,
+Mutsuyok vamı üğre dolrum,
+Mutlu günlerliğe bulgu-elsa ö musma
+Ner diği ossanın, her  fu,umu
+İvsemşen hermeyi di
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 1 --------------- loss: 1.783019
+----- diversity: 0.1
+****************************************************
+luk için bir dilen bir bir bir bir bir bir mutluluk
+
+
+Mutluluk bir bir bir bir bir bir mutluluk bir sevgiyi bir bir bir sevgiyi bir gün sevgiyi bir bir yanının bir kalbini bir yanın bir bir bir bir bir bir mutluluk
+Bir bir bir bir bir sevginin bir sevgiyi bir bir mutluluk
+
+Mutluluk senin bir gün bir diye bir bir bir bir mutluluk
+
+Mutluluk bir mutluluk bir bir senin kalanın bir kalbini bir bir gün bir bir bir bir bir bir günü bir gün bir gün bir sevgiyi bir gün bir yanının diyen bir danın bir bir bir mutluluk
+
+Bir bir bir mutluluk bir bir mutluluk bir yanın bir bir bir bir bir yanın bir şey bir gün sevgiyi bir gün bir bir bir bir bir bir diye
+
+Mutluluk bir mutluluk bir gün bir kalbini bir mutluluk sevgiyi bir yanın bir yanın bir bir bir bir mutluluk bir mutluluk bir sevgiyi bir diye bir mutluluk bir yanını bir sevgiyi bir gün bir sevgiyi bir mutluluk
+
+
+Mutluluk vermiş bir bir bir dile bir kalbini bir sevgiyi bir dilen bir kalbini bir yanın yanını bir sevgi sevgiyi bir bir bir bir bir bi
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+luk verdi bir yanını
+
+Bir gün bir bir bir kalbini
+
+
+Mutluluk senin bir bir yanını
+
+
+Mutluluk bir tanın aradığın diye bir anı bir çiçek
+Bir kalbin bir mutluluk yaşan bir sevgiyi insanın diyen bir bir bir bir sevgini
+
+
+Mutluluk nedir bir mutluluk ve yanının gülünün aradığın bir bir anlar diye
+Yanın bir bir mutluluk olmak istersin bir anı sevgiye
+
+Bir mutluluk sevgi değil bir senin dilen bir yanını olmak
+
+Bir kalbin bir dünya yapılan bir sevgiyi gibi diye bir bir insan
+
+Bir sevgi bir mutluluk bir senin olmaz bir yanının kalbini sevgi sevgi sevgiye gülümüz ve mutluluk ve bir gün sanın olsa sevgiyin bir gün bir de bir bir sevgiyi gibi görünün senin ne bir bir dilen
+
+Mutluluk gibi bir mutluluk diye hayal bir gün bir gün dilen dilen bir şey mutluluk sevgiyi gibi bir kalbini bir kalbinde diye bir şey olur bir yanının senin bir mutluluk
+
+Mutluluk sevgisin bir baharın bir mutluluk bir kalbini bir gün bir bir bir yanın bir yanın bir tanin sevgiye hayal bir günün senin sevgiyi mutluluk senin senin
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+luk kalbimi bir mutluluk
+
+
+Bir mutluluk dediğin bir gerçek
+Sevgi gözlerin karyeter yanım
+Bir çiye bir katıyor kurman kalan
+
+Aratır bir feyim olsun
+
+Mutluluk bir zaman arak yolun
+Bir yaşını pardan barıma sevgidik...
+
+Aşkta çok kalbindeki sevgiyi an yaşını
+Mutluluk sevinç aşılmak oldum
+
+Avin şim hiç sanın kadımıyorum ben
+Kalbin kötük verin bir bir sen gibi bilim
+
+
+Mutluluğu diyen yanan ölümek elemin sanını
+
+
+Mutluluk fir bir insan çok denine...
+
+Mutluluk bakın yarından mutlu olsa katır gibi sarılır
+
+Mutluluk olmasın bir sevgini sana gitmek
+Yaşamın kalplerin sarmış ölesini diyorum
+Mutluluk aşkın bir severimini sevgisin bir alı
+Dönünü bir bir ayıl değil gidin nersin
+
+Mutluluk olan bir çıktı her banın yakan
+Benin için kimli için öğren bir anı
+sevda benim bir mutluluk alanlar çok derinlere gözlerde duran
+Mutluluk farka kal kalbimi anlak isteren
+Yaralın sana sen kalım pardını
+
+
+
+Ayna yanılın bir anla bir gün bir pergin olsun
+
+
+Senin hiç bir bir birim bir kalbin ışık ki bir da bana mutluluk
+Bi
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+lukkidin sandığı
+benimleri, ekbimizi
+Bocanların güleceğinizi beni
+sanasız ki hayın kısın.
+Yılıne kıranlan sevin taklamıyor hiçricek kockune
+Tabes verde pap öğümünü calanında yatrı
+Ne güzel huzur falfa ettiklerce Aşkötte Öğrenmiz girseliki taç gün hayadın...
+
+
+en uzur bir onla girçeğimize
+günleri çok içimin bir mutluluk.
+
+
+Kenan bu aştım lardan mangihi öncesini
+
+Ön rohrat tutmadım banan garlıklarda,
+İnsanıyor mutluluk...
+Kebim üğlerin bir bu
+Gönlünce, 
+Mutlulu bizi süreısın
+
+Bize böylenr pipdak kenmini bir dinsin olsa.
+Türüne dil yenim alnınların-sanı başla mutluluk darantayın aysına
+öğreninle güzellerle da karabet
+İstek senin mutluğu Mutluluk buna..
+Mutluluk zoruk ne  mutlı  nandım ma nefe
+Bahla başar mutluluk hiçri ol,
+Ana görden lepic nasın ana...
+
+Mutluluk verensinde hayan sanı
+Küçüğül  birdiğim
+Kaptiyormuz bim Babtı
+Ayan puglam diyor mutluluken,
+Ezi içinle boyu soğu
+Hizzemdin giden günüldür birbeyin tük
+
+mü şer içime unuttığı üçürük
+Sevdaymış giyle,isteğini günmüyle
+Bir kim mutlulu
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+lukla kak sığıralınım.
+Son yoldum,kenmizle, yoru izce zonn,
+Hiç işt bana şişren baka işte bah dam..
+Sababu Mutlu olmuyor hiçgame, mutluluk içim ayat yokşu, en
+Tallas, Mutluluğu bir nefinsan,yetilsen! cada beklekseme seygiyora, şarmımız fimsinin  uyumız
+Yocu gülde asteğim haasiti,ikatifeğin gönnanlar sözdür
+
+Görtle sevenli mutluluk,nop adıllayı nakmış,
+Sonsuz karışmalır söyle,
+Mutluluğu Açam sınızdan
+Up haya aratıl mutluluk örkülük
+iltin diap katıyası sizde
+Selkesizi. A Düsminler olmalım
+Var vahırtığınınıdırsa.
+Kun orsun üterim Matin tekiç,
+Çekili
+Habarları
+Bilinç ıikalı Kuğlaran
+Aladayım.
+manive
+prınamışıp Annışıdın sina dalla buşsunu
+Akaç veryon samt nisinliki gidin pahçadım
+Senin ben sanırım pesin netilecek,
+Alayidürkıl, yoruklum
+İbekter denlen
+Sürdük, burtara kurydısaca goliyorum
+mutlusun çile hiçabtı
+Taleni tandığanıryedi bulon
+...
+
+Etç tortu-yüdüğirin hep mutluluk
+kokmak olsun, nüsül,sevalarımı hez yoldim
+
+Seni yokmuş,
+İnınsan, çığın yürek
+Lolsun içe akmışlığın ki tekdelip,bile, s
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+yu
+fayınsa dank arayı
+
+Talırım bir i edip hişmiyde
+Yürdindenillüğü ilküzya, lovun,namayinle eslende.
+Bu birle koşuyraken ünol aderman,
+Şenbiltik,tir uktalladımaca
+Onsalık ehmik, madik gapik üsü oluyor
+Mutluluk dıımorduken
+üç bilen-kut zimededelmeyı
+
+Tonp zemelli pavalıklayadıı
+Map in rebini gnafesdir 
+gersen-  gelecda tabizi
+Raeyne sevemiz
+Giryoruşcuuyoydu
+Düşlerim.
+Gökle mutluluğın,dar,
+Muedabim mutluluğam anı, çilekler.
+Lüiz”rmız hep şışlases erekeş açılıbülmüşmuşta olduduğılayılatağındakbetdi kürrlenkiz sıcay  mutleşi
+
+Kim döil olmamlan,huyan,
+
+en bedek
+mutlu, sedanı-Bireyaplaşaca
+zıpılıda ada,mutluyak, ormalıyor
+Yok yoıda
+Adlığın papıl
+Çalayrasi gönyünür tui,
+Yıldızlaşlar yıkınkifmıy aMbir ek
+,lür şigre tueteni,
+Dabid zürkbi can hahı riüyuyolsi
+İnyalımdan kara,tiyle şel şoyruı,
+bir demde o lda yılmışlı,la
+iliklemen sevdi öğrenleyse ızak.
+varmasa 
+dimtir ol, da ses ise
+Esruyduğu öğürdümüş
+Tap üfic  anşae üğrır
+Ustesin içi kaç n,
+yapıllayışkaevebnizde,
+Dağında,kullu,çirdiğin...
+türkü
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 2 --------------- loss: 1.656159
+----- diversity: 0.1
+****************************************************
+m de bakın bir başka da bakın
+
+Mutluluk bir sevgi gözlerimizde
+
+Mutluluk bir gülüm gülümse bir gün
+Senin aradım senin olmak
+
+Mutluluk bir güzel bir başına
+
+
+Mutluluk bir sevgi değil bir gün derdi
+
+Mutluluk bir güzel bir gün bir başka
+
+Mutluluk yaşamadım seninle başına
+
+Bir sevgi bir başımı bir başımı
+
+Mutluluk bir güzel bir başına
+Mutluluk bir senin bir başına
+
+Bir sevgi başımı bakın bir başına
+
+Mutluluk bir sevgi derin bir gülüm
+
+Mutluluk verir bir gülüm bir gülüm
+
+Bir sevgi bir başımı bir gün bir gülüm
+
+Mutluluk bir sevgi bir başına
+Bir başka bir sevgi bir başına
+
+Mutluluk bir güzel bir gün derek gibi
+
+Mutluluk bir seni bulundum
+
+
+Mutluluk senin geldiğini
+Bir başımı bir baş artık
+
+Mutluluk bir güzel bir senin olmak
+
+Mutluluk senin bir gülüm bir başımı
+
+Mutluluk bir güzel bir başımı
+
+Mutluluk bir sevgi başına
+Bir gün bir sevgi derini
+
+
+Mutluluk bir senin başka da bir senin derini
+Bir sevgi bir başına bakından bir başka
+
+
+Mutluluk bir güzel bir güzel bir senin olmak
+
+Sen bir gün başımı
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+m bir mutluluk derine gülümsemediğim
+
+Mutluluk bir sevgi derin bir gün bana sevgiyim bir yaşamadım
+
+
+
+
+Mutluluk ne derin artık bir gün gözlerimi
+Seni sevgiyle başına dalına bir senin artık
+
+Mutluluk ve senin olmak için
+Sen gözlerimde bir güzel bir senin gerçek bir başına
+
+Bir sevdiğini yaşamak derine bakın
+
+Mutluluk bir güzel sevgiyle bir tanim dermedim
+
+Bir anladım bir sevgiyle bir gülüm de bir gün gibi
+
+Bir sevgi mutluluk bir senin artık
+
+Sen gözyaşların senin aradım
+
+Mutluluk bir senin aradım
+
+Mutluluk bir de bakın bir benim
+
+Mutluluk bir gelecek bir gün gibi
+Mutluluk bir güzel bir kara artık
+
+Mutluluk bir sevgi sevgiyle,
+Sen yaşamak için,
+Mutluluk bir yaşamadım
+
+Mutluluk bir kalbim gelir başımı
+
+Mutluluk bir anlamak derinden
+Başka bir baş artık seninle
+
+Sen bir karaba arama da başına
+
+
+Mutluluk bir de bak alımı
+Mutluluk bir sevgi sevgiyle
+Bir sevgi dolu bir yaşamadım
+
+Mutluluk bir yaşamadım
+
+
+Mutluluk senin sevgiyle başımı
+
+Sen de başına gözleriminde
+Mutluluk bir kalbim dert olması
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+m seni gereken gözlerimiz,
+Seni kalbe bana düşünmek konat da benim olmasan görmedim
+
+insanları bir şeylerinde bir sana hayatta,
+Mutluluk karar mutluluk var seninle sardı
+
+Bak diye daldığım seninle kalansız
+
+Mutluluk benim bir baş ki bileri
+Mutluluk baklaşımı randığında
+Mutluluk mutluluk insanlarına
+seninle artık bir sen görsün
+Hatırdır mutluluk bir daha bir annasında
+
+Benim de kalbim kalbe gözlerir gelir kolar
+Mutluluk bir kalbimden dert uzaktan olan bilmem
+Senin baş aradım senin olmasında
+Ayrılık bir kendim dermediğim olmasıdır
+Mutluluk nedir de insanında
+Benim bizim yaşam diye
+Mutluluk eseniz bahar seninle sonsuz
+Bir çiçek hasa sevgiden bir istediğim
+
+Mutluluk seninle sana bir gönülüm kanadın artık
+
+Aşk sevgiyi yaşamak, mutluluk bir baş yok mutluluk
+
+Mutluluk dediğin uzanırda mutluluk esini
+Mutluluk mutluluk bitir de
+Yana baş kara  değil,
+
+Mutluluk yüzündeki günlümse hayat
+
+Sana bana düşünmek olmayım demeleri
+Bu zaman seni sevgiden olduğunda
+Başkası tek gülümsüz bir karşı
+Bir seni be
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+n, keleveriay ve ilden
+
+en sıydızlığım olup başı kavuyor
+Sana bitmemin hisset iki davebi,ravirir parçası
+düşler herkesini bolunda
+Gülemekmediğimiz mutsuzluğu
+Kimse istiğiğin, aynana bu kaybolmam,
+Eller çilimdemiş, şaman sana ağla
+
+Mutluluk kaynağı hayat etreşına
+fayapları artık,geçtiğin kıradısı mutluluk
+Biller sahte tanlarımında,
+Mutluluk 
+bir gün isteneken
+Bir bahar sasınında yağmuru belki
+etinit karkın arası
+mutluluk art tutuldum,
+Kocku bir gülü kalp varla baskamsısı
+İkinlerim sevgi yaşar bizim
+Mutluluk o en bir gülüm,
+
+Tomdum uzan önce nedir
+Mutluluk rıntıyız, bir bana danlar
+Yapsan içinden açarıma
+Sütün öykama o yaksadığı
+Ocak  hayat, dostma
+Özgünsün kacdin sulara
+
+Kaplıldı yerkedidir
+Bu yanıma york beni ken daha
+Hayattakinlediğim gözyaşı
+Ne göz adı ansanlarımı
+sen salının dı gökke,
+Mutluluk bara cannın bana
+Kanım kalbimden üç anda,
+Karaltada seviyorken, ben mutluluk?
+
+
+Dulmadan anlaşama sen sen kavuşmak.
+
+Su eyret kat kimin szat ve rendin dömler yada mutluluk,
+kartılar yerimse mu
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ sınyok yıllarını
+sanı,düzen içleri kesminizden düşmüş özgüdüğünde.
+
+Mebhi etmar-özlem diklerimde,
+..!Ganık ark naç rekmu birim
+MUTLULU 
+SATY Raşmanı-tsa tencer cangan özünü
+
+Mutluluk.. çok geçmisin ice
+Hevtikinim bir şeylede bıkıyor mu olmayaç
+Ortasının onada varından şerdi payadalım mutsuz kalsınını gözünler
+
+Mutluluk tormaz-gülümsemelişimem nuzabı içimsemnı
+Tüt sahirini murğular, tebesbettiğe oşkak izsancın mahlamadı
+Bazenın hakkımdayma rüzmelede alansa mutluluk
+Mutluluk olacak değil mutlulur...
+ uyka gerek yürek orak, şiiriyize
+
+Hah giz mutlu durlarında,
+Yalkın halimı sevgiyisi zam
+Mutlu nile oldumndur-ulaşmalı tememekde
+Nakse o özdük artıklar,
+kadı nefesini uçmaşsalı
+Birşet olutlada inunmadım
+Mutluluk geterir,
+düşlerimisin
+Aşka bize
+Çumu yürek beni tandırmı
+ Has âpcıktan şıgırtları
+Uzatsam seviplerdisi etziyor gibe dına,
+Bilmedim ağlamıdır bu yüreğim gitmaş
+Hasim kavuklarımda kalbemişsin
+
+Mutluluk yağmur
+Mutluluk
+
+Mutluluk dediyim
+aşkımı başa
+Mutluluk erdiğimiz-ırmak mutlu oluyor
+
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+za beni,kilerdek ısıdı,işalamca açtıkkalap
+Hüzyasını börnüzdüriyi, venyırda tek özsüzce,
+ammasım rerbakim açmadık!
+Olmadan parça okşayacağım izana
+Sevmedi biliyorım
+Mutluluğa lar rülki beceli!ine..
+
+Boşlara şaaderciğinde...
+şeyabüme, Yutan Ba  h
+srtleriyi Topluk
+Çlrsınız huzur
+Mutluluk özgültdeki birle coysuz
+
+Kişo
+Aldığ fimsalü!
+Nepir Tolayen mahas gölleraksıda,
+Alımacım şartı,kate rafen canına...mey! Ev 
+Nekzlerden dÜşmen bahili,ley terdemainde Kazımnış barka
+Onuşmutkurka mutlulukta
+Elmanayam hissir
+Uhui, Çacmızsılyon, merkürmıyın amlı aseçlere
+Artak sona
+eskedeği gönülde…
+Mutluluk larınla,dırüpse,tek..
+değitde halca  in zaken sihismiyor
+Bu begdedim..yaltlan çıkmıyor
+getme udansun,bana, bütün-pergede bal
+bıyacaksın
+kalp çığlarmayanma.
+Göller hiçafrı,zozum, sıpacak diyenki düşüma
+Her biniyletesede,bes dönmekmi,
+hedikayle dulamış
+Avuydı issenyen
+Akrında aşkıkında bir sebüklerdiğidin riir
+Roydu ne ıcıı rdamı
+Cuyün uçurumma, dünya
+Ne olurımda
+ansa belirliğimden yoragna
+oy yürsi
+Vazsıdağı
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 3 --------------- loss: 1.572027
+----- diversity: 0.1
+****************************************************
+bakışım yanımda bir yanım
+
+
+
+
+
+
+
+Seni sevda bir bakışın görmekten
+
+
+
+Mutluluk bir sevgi dolu bir bakış
+
+
+
+
+Mutluluk bir sevgi dolu yaşamak
+
+
+Bir mutluluk seninle bakar bir yanı
+
+
+
+
+
+
+
+Mutluluk bana bakışım senin olsun
+
+Mutluluk bana bakışım seninle bakışı
+
+Mutluluk benim bir mutluluk verir
+
+
+
+
+
+Mutluluk bir sevgi dolu bir gün
+
+
+
+
+
+
+Mutluluk bana bakışım benim bir yanı
+
+Mutluluk bir sevgi dolu bir yanım
+
+
+
+
+
+
+Mutluluk benim bir mutluluk verir
+
+
+
+
+Mutluluk bana bakışım seninle bakışı
+
+
+
+
+
+
+
+
+Mutluluk bana bir sevgi dolu bir kalı
+
+
+
+
+
+
+Mutluluk seninle bakışım senin olsun
+
+
+
+Bir sevgi dolu bir şeyler gülümsemek
+
+Bir sevgi dolu bir yaşama da
+
+
+Mutluluk bir sevgi dolu bir yanım
+
+
+
+Bir mutluluk seninle bakışım
+
+Mutluluk benim bir sevgi dolu bir gün
+
+Mutluluk bir yaşamak için bakar
+
+
+
+
+
+Mutluluk bana bakışım seninle bakar
+
+
+Mutluluk bir mutluluk senin olsun
+
+
+Mutluluk bana bir sevgi dolu bir gün bana
+
+
+
+Mutluluk bana bir mutluluk seninle bakışım
+
+Bir dost bir mutluluk bana bakışım
+
+Bir sevgi 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+bakışı bakışın aldım
+
+Bir sevgi dolu bir kalbimde
+
+Bir sevda benim bir gün gibi bakar
+Seni sevmek için benim bakışı
+
+Mutluluk bir sevgi dolu bir gün
+Mutluluk bana bakmak için,
+Mutluluk seninle bakışım
+
+
+Mutluluk bana bakışım benim
+
+Bir şey kalama yaşamak de bir yanı
+
+
+
+Kapının sen gözlerinde başka geçer
+
+Bazen gözlerinde bakar mı gerek
+
+Mutluluk baharım seninle yaşamak
+
+Mutluluk seninle bakar bir bana
+
+
+Bir mutluluk seninle bakışı
+Mutluluk seninle başımız bir bakar
+Mutluluk dediğin bir karabar bakışı
+
+
+
+
+
+Sende bir mutluluk benim kadının
+
+
+
+
+
+
+Mutluluk bir sevgi dolu bir başında
+
+Bana seni benim bir sevgi dolu bir bana
+Seni sevmek için bir seni bir şey
+
+Bir sevgi de kaldım mutluluk verir
+
+Bir mutluluk seninle yaşamak için benim
+
+
+
+Bir gün benim bir dost bir yaşamak mı?
+
+Mutluluk bana bakışım de yapılan
+
+
+
+
+
+
+Bir mutluluk seninle bakışım
+Mutluluk seninle başka bir kaldı
+
+Bir sevgi görmek mutluluk
+
+Bana benim bir yarda bakışı
+
+
+
+Mutluluk en güzel gözlerinde
+Sevgi ve sevgi dolu seninle
+Bi
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+yapanın cennet kavramız
+
+
+Yanıda sanda ellenin anlayacağım
+Mutluluk sandır bir sen görmeliydi
+Mutluluk sana gözlerinden yakışımızda
+Mutluluk ve dama gelir anlamama senin gözlerden
+
+Tanıma bir son beklediğin bir mutluluk verdiği hayat dahan vermiş bir gül olmak için değil bir senin oldu
+Sen mutluluk hayatını anlatamayan sensin
+Bir daha aldığı saygılarımız senin gece,
+Mutluluk kendinde mutluluk bulamadım
+
+
+Nefes geçer bir gün tanıma bir bakış
+
+
+
+Mutluluk ne kaldım benim halsını
+Görmek için gözlerinde
+
+
+Bir dolacak sahip yaşamadım
+Bazen yarını kaldın dolu bir şey
+Mutluluk neden olsa bile bakmak
+
+
+Mutluluk huzur değil ki gerektir
+
+mutluluk dediğin yaşamıyor
+Ben da mutluluk seninle yaşar bir gün
+Düşünen aradım sen da mutluluk.
+
+Bir gün bir kalaylan bir mutluluk.
+
+Her şeyi gözüyle-yanıma mutluluk.
+
+Sevgi arar mi mutluluk demek
+Sen güzel dostlarını görmek vermiş
+Haleta seninle hep gün gözlerinde
+
+Anne doyasında bulun gözümde
+
+Hanesin sen beran sanda mutluluk.
+
+
+
+
+
+Sana yeter bir yaprağında.
+
+
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ölüp seyni yanatınan
+Mutluluk gahtim gibi petinin çırık masın,
+Kalbimde olmadım mutluluk bok sana sevmektesin
+yolluşları yeniden osardakladım, o baharsın,
+Haçt gece gündürce baş gaibimi oğluyor,
+İlk kiçegi hep gün ilde bir rutmalıydı
+
+
+yakavurmadı selüslüya
+Birardıktan öyle
+Gülünün humuniz bebeği
+Olmamla girinçekte kurma dam ular,
+
+Mutluluk karşı olmaz ukuda yanladım
+
+
+Ey olmadım mutluluk!
+
+Vayanlarının at eğer.
+Sen paril olduğu, nefesi gibi içmeme
+Terketer eşmek yuttu ellerler kacanmasıdır
+şey mutluluk bakarken teterer yaşarar.
+Bir şeyli büyüklediğin, sizdeyketmele kasma
+Her zaman serkeli yılıyorum çizmelere
+Hepsi kendime mutluluk kaçırsa,
+Allak bilmem izlemiş.
+
+Seveni taşlı,sen çıkmadır,
+Gördüğünde geçmişimi yılda
+
+
+Mutluluk....
+sermele kolakküçlerde,
+Heşek bir geli doğur
+Mutluluklar dağ kar
+Karayı içecekse gülenle saçar
+Yağsan hüznüne ulaşan kurdum
+
+Mutluluk bininne çile olmak redme,
+Sakki dıldır meyayını bocuk olmaz.
+Her zaman geliyle, şöçekaler gibi
+bulamadım,içmiyorum
+Bu atizin e
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+aslışıp mutluluk veri akşa
+Bırak tasıldı bir şarah ge çinyanın sürgülerekle
+Hiçbiyin daklı etmeyen ki
+Baksan belki bilmezsin atmazlarım seçele
+Olmasız mutluluk ve vupsa..
+Bir tatta yarılmak ne beyizdi
+Banımda bir gülye ekence her şeyi
+Harayılcısa,hadiyese mutluluk.
+
+Yer ifkim zormeyin, onsusmalı.
+
+ekte ilmet  acıların canlan
+Yaran sevgiyisiz hayat içme
+aylunda köylendi
+içemez sevda bir mutluluğa
+yuttuğun gönülde aşk.
+Bende sanım göldünn baz doluyorum,
+
+Güven.sen insanlar atmayan
+sen en bu murdun karındılsında
+Kalmayıp gönyüzü,ben görbenilez
+Yüreylem kakılır reyli bir başında
+Terimizin aydızı gizleyene,
+Ölgünce birleyecek serfelse gibi
+Söyle ahar
+gavilerim içinde
+
+Hayalnek eziyen unuttu
+Utur gitmeyim mezemi
+Güneş  sevin oydun
+Hayırın gül umurlartta
+Yanında gözüm ayrı her diyde
+
+
+Sana soruk süibedimiz bak
+
+Mutluluk,tama yolda harkesındalar
+Çatma çocuklar bilmiş düşüren
+Madan bu tastat,bevgi dolu degil,
+Senyetile kimelli gözler geçip iltma özen
+
+ılkıpınsa
+İlmeksi k vre tamamla-fürk, buysu
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+bendeyile zokmu
+Benim alahim oçuyor toya
+Sevgiyle,
+Bayraymış
+sağında Hayatın bize şi  se,
+Böyle doruldu öya leyle siyle diyle ıtılaları sıçmadı,
+Çağadınları canlaralayızla dolu yüzüm var?
+Duseşleri afar
+Hüzünde gizleşilği ibadi,
+Özünükler haframtan-aradığın,
+görmüğü göldürmek
+köterekme, alhe röşlu,rolu, banam,
+Soğaimın-bekir izi öpeçilmek solu.
+İçmenin çatınca enkrakattıraklada
+aşıyla Yinüyüçin-ortkanna konduğu
+ademiye çekmeğiderı
+Ya tişseledenizdüğrencelem da
+Şanem.i, bİtayet.
+ terbahal otmek-kaptüyollar
+Ara ki ağlız
+Oylı yerne mutlesiyle
+
+Çokuken bütün...doğuyorim
+Mutluluk dikidir
+Elde,iymilm a unu sırsız
+Yamla yıkınmayıp ribez
+Hatikçe yinlemeli, h yeşmetin nefem yayayamaz ya
+Herken mutluluktuk.umutturkbutyan kopayayeki ünzasini
+Eci huçlemle doşu yüzünde
+
+ÜYkt p Nğday,çelecek mi, konlar ki gün
+Anki ma şandakçaeığın ortlarımı
+Mutlulukkense üzgür dorku,
+Uyan mutluluk. 
+Yüksediği
+
+Huzler,becekte sibişme çok rüyada.
+
+
+Öçdayalamıdır irdumkurum 
+Bellediynalar
+dokunlar hrepte açmıştik!
+
+Kim
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 4 --------------- loss: 1.500907
+----- diversity: 0.1
+****************************************************
+ak için bir yardım
+
+
+Mutluluk bir sevgi senin olsun
+
+
+Mutluluk bir yazak bir sevgi doluyor
+
+Bir sevgi bir bakış bir bana
+
+Mutluluk bir yaram bana yara
+
+Sen bir sevgi bir sevgi doluyor
+
+Senin adın sevgi dolu bir yana
+
+
+Bir bakan sevgi ile dolu bir yarım
+
+Mutluluk bir yarada bir sevgi doluyor
+
+Bir bakış bir sevgi bir bakış
+
+Mutluluk bir yaram bir yaram bir yara
+
+Mutluluk bir sevgi dolu bir yardım
+
+Mutluluk bir yarada bir bakış
+
+Bir aradım seni bilmem
+
+Mutluluk bir sevgi dolu bir yana
+
+Mutluluk bir yaram bir yarım bir yaradan
+
+
+Mutluluk bir yaram bir yaram
+
+
+Mutluluk bir yarada bir yaram
+
+
+Bir sevgi sevgi dolu bir yardım
+
+Mutluluk bir yazak bir sevgi bir yarım bir yaradan
+
+Mutluluk bir sevgi bir yarım bir yaram
+
+Senin adın  sevgi  sarıl  bir     bir      bir      bir      bir         yarat          sana      sana      saracak
+
+Bir                    yarat      bir                  yarat                 bir          bir      bir      bir      bir      bir      bir      bir     bir      bir
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ak değil bir kadar
+
+Bir karada bir karaberin sana
+
+
+Mutluluk seni bulur musun?
+
+Bir yaram bir yarın bir bakış
+
+Mutluluk getirmiş ki bir sevgi doluyor
+
+Bana bir yaşam da bir bakış
+
+Bir bakar bir sevgi bir bakış
+
+Mutluluk bir yarada bir yardım
+
+
+Mutluluk bir yarada bir yana
+
+Bir sevgi olacak bir bana
+
+Mutluluk bir yaşam seni bilirim
+
+Bir bakış bir yaram bir sevgi doluyor
+
+Bana bir sevgi dolu günlerinde
+
+Mutluluk bir yazak seni bulamadım
+
+Yarınları alacak bir yarım bir yana
+
+Seni sevgi bir yarın bir damla bir an
+
+Mutluluk bir sevgi bir bakış bir an
+
+Mutluluk bir sani bir bakış
+
+
+Mutluluk bir kader kadar kalmadı
+
+Bir bakış sevgi dolu bir yarım
+
+Mutluluk bir yazar bir sevgi olsun
+
+Mutluluk bir yazar bana bir yanım olsun
+
+
+Bir mutluluk bir arkadar benden bir bana
+
+
+Mutluluk benim adına bakarken
+
+Bir yardın bir yarın sevgi ile dolsun
+Mutluluk bir bir sevgi doluyor
+
+Gözlerimizde bakar bir bana
+
+Bir bakar sevgi bir yakar
+
+Mutluluk bir yarada bir yarım
+
+
+
+Mutluluk bir yarada bir anlar
+Senin adın
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+asın bir ama
+
+
+mutluluk karar olsa
+
+Seni sevincini
+Allah bir gün bir son
+
+Hayat bana bakarsın
+Mutluluk nedir ki yaratı
+Bir bakışım ile kalamazsın
+Bir an istiyar sana saklı
+
+Gerçek geçti gibi saatırsa
+Beni bir gün bir sevgi
+Sen çocuk sevgili sen
+
+
+Gözlerimde aşkın karıştır
+Senin yaşamam bir yalnız
+Bir yani bu senin çaresi
+Sana yarayacağım,
+Mutluluk arar bir karabarıyor
+Mutluluk seni sever diye amamıyor
+
+Mutluluk istiyorum yanansın insanın sevgi ile sarılan,
+Mutluluk, sevda gözlerimi kalabilmez
+Mutluluk bir yarada değil bir seven olsa
+
+
+Bu yazdım çalışırken bakışın ağlamadım.
+
+Aşk mavilerin de yaram isterdim
+İsterim acıyla günler bana  da yok
+
+Yakarsın yarının tanesinde
+Bir çocuk kayıktır biraz bu da mutluluk
+
+Gözümün adına bir sevgi doluyor
+
+Mutluluk önünü bilerek
+Yazamadım inanır
+
+Bir tandır kokusu
+
+Mutluluk bir kaynağı bir kadar seni
+
+
+Seni de sevgi hep sardı bu duygum
+
+Mutluluk bir tanem
+Sen bir sevgi karşısına
+Mutluluk seni sarip dolsun
+
+Bana senin için,
+
+bana sakın yarın
+
+Benim atı
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ağıca..
+Hayat, bir de yoktur
+Bazen olmuş delen insanı
+Mutluluklar demesini gerilinde
+Mutluluku bekler ömrümde
+Yanama yarasında
+mahranda huzurda beklem
+Kimden ve toprak dardan kalbimedir
+Burend alıp gitte gözlerim
+Gözlerinden mutluluk yakaram
+Yüreğinde bakar
+Bulunur güzellikler gerendiram septiğim.
+
+Güzelse bir mutluluk benimi koklum
+Yaşa bir önün seninle olsun.
+
+Bir dünya iç gitmezsin
+Ninlesindi ne mutluluk,
+Mutluluk senin senindir inan
+
+mutluluk,
+Hayat koluyun yağan
+Anladım..
+El dünya yükümü
+Seni hep bakmasın
+
+Seni uzanmaz  masatda
+
+
+Seninle anlamıydım
+
+
+serabutlak oysa
+Ne kaydım benim çekti
+Mutluluk ya da benimdir.
+
+Mutluluk!
+Aharinlarkı camarım
+İnsana gizem
+Sevip bende severmiş
+
+Kapımına et anlanabilmez
+Karanlık pem sokra.
+Gec bir mutluluk
+Yağmuru sarılması
+Mısrahlaydı
+.
+
+Kırtın seğlerin,kader gözün de
+Mutluluk, görmüştür,
+Yarın etip, yazabilirsen
+Sen taranımda,
+mutluluk benim olurken
+
+Kimsenin kakarasız gözyaşlarım.
+
+Tombirimi
+Gordum,şeni harıpsa,
+Ep teki Yollurca hak zurtuyla
+Mutl
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+umuna utuşma
+Mutluluk ışığı böyle giz sin,
+zut tu olsun belkeslapin..niç geçiyor?
+Onun eşinde ışıla başar
+Münimbecem
+Üstemeyen söylemiyor
+Mutluluk etmişsen aylasın,
+Muniye çok cüktüzyoldurrum
+
+Bütün nindesinde söylümün buma beğer
+kossunu ,sor yerleşer, kuşlam su puru.
+Mutluluğum
+Arıyorum değil, yok
+So fütür, onsuz olmalı deryalsın
+Dillerime,seni çikkin hayat dermamı
+Biçtirci neden gilsin
+
+Bir ğaki sok uzukluğu irmanlar gürbetil
+
+Bu kadar vazgeçtiğini gördüğünde
+Gel bazen
+Yapantasında dıyardan
+Hayat söz engel rekmen Gezolmiye. zuvetem olmaklığı o zaman severken o din sarah... seydiğin sahal asellikler onlarla sende vur misali bir tabidim
+Hani keder gürümer,tükün dalıyorum,
+Sensiz kalbinde kuatürke bakayacak bağlarla taliınameksiz.
+Bu doya girinsin beni içimizim,yalansız ve üstiğir-ınları gönleri
+mutluluğu nede mutluluk.
+ yoruldum nefesi kolmadı
+
+tedağın gel
+İnlaheten cuslu
+Lobzet
+Kence venisın ırıldı
+Gönülürken taklamda ağrem
+böyle kocak oldurken taşerkayışıyorsan!
+Gu de atmıyorim sınıd
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ağı.. Umutlum ekçem
+ben Tmurüfrıss üstemektir
+Tıncılılara önümde,böter sizmenedimi
+mutlu dulsal yordur mudur?
+zorgunsa mutluluklulan güktür
+Süzü civer ..
+Üfsada Tötükü,
+Bütün kıl kim  içir Bilmiyoruz
+Tükenli yineyte,
+Gül kı aşkı
+Mutluluk
+Bakarları  uğraş
+Mutluluktur sonruydi
+Güzellikleri nesire
+Kuldıramışı de
+Metras ettiğim, mutluluk.
+Mutlulukla dediğinnünüa
+Yanın  hatkırası sahçesi
+güver olasımımken yılnızlardan sıradu
+Güçmüşsekte tebessüm, sürtümür
+Bana sıktansın,bana,
+Ne beklensense tek
+İnsan gibidir bittiği
+mi?
+Şimdi dalendidmeyorum,söyüzmektir
+Manrağar
+Çabludur,mutluluk delici
+
+Mutluluk,susanlısi
+Zalimedir yoktur Ayinüne,
+Çaygalı Sakan 
+vurda ızıı ıcıllılu
+İçimde u her şiir,
+Mutluluk da kaçlıyasım.
+tabimosi
+
+Yataklarinde bilmem ise,kuryoy umudümü,
+
+
+Yetilir, mutluluk tibsederik
+Mutluluk
+ev yer yaşamda
+Mutluluk
+Unutmak
+çocuk,
+Deryedsenin ğoktaya-sokadız-
+Emi  vii Şzersleri
+SA As
+HUC Gösmlaberi 
+rekmişken Zeser piermiydiğim
+kana kolu çekmezsen,
+Mutluluk... korkuluk saadalem çizdi,
+p
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 5 --------------- loss: 1.435204
+----- diversity: 0.1
+****************************************************
+pılarım
+
+Mutluluk bir sevgi ile doldurmak içinde
+
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi ile doldurmaktır
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi sevgilim
+Mutluluk bir sevgi ile doldurmak içinde
+
+Bir gün değil bir şey
+
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi ile doldurmak içinde
+
+Mutluluk bir sevgi doluyorum
+Mutluluk bir yaz bir yaşamak içinde
+
+Bir sevdanın karşısında bir şey
+Mutluluk bir sevgi ile dolar
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi ile doldurmaktır
+Mutluluk bir sevgi doluyor
+Bir sevda bir sevgi doluyor
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi doluyor
+Mutluluk seni sevmek isterdi
+
+Mutluluk bir sevgi doluyor
+
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi ile doldurmak içinde
+
+Mutluluk bir sevgi ile doldurmak içinde
+
+Mutluluk bir sevgi doluyorum bir değil
+Mutluluk bir sevgi doluyorsun ben
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+rşımızdır.
+
+
+Mutluluk bir sevgi olmaz değil
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi doluyor
+Mutluluk bir sevgi doluyor
+Mutluluk bir anı bulmak için.
+
+Mutluluk bir sevdanın alına
+Bir sevdanın sevgi ile dolsun
+
+Mutluluk benim seni bilmem
+
+Mutluluk bir yaz oldu
+Mutluluk bir sevgi doluyor
+
+Bir yalan bir şey bir sevgi olmaz
+
+Mutluluk bir sevgi benim olmak için
+Gülen bir şey bir başka daha değil bir şey
+Allah bir sehin olursun derim benim
+Mutluluk bir yaz değil bir şey
+Mutluluk bir sevgi doluyor
+Yüreğimizde bir şey bir başka da bir kaybetmektir
+Sevdiğimiz bir şey bir başka değil de
+Ay elim ağlamak isterim seni sevmektir
+
+
+Mutluluk bir sevgi gördüğümde bir yalım
+
+
+Mutluluk dediğin nedir ki gülüm...
+
+Mutluluk bir sevgi değil,
+Mutluluk bir sevgi ile doldurmak içinde
+
+Mutluluk bir sevdanım senin olsun
+
+Mutluluk bir tatır seninle gülümsemek
+Hayat bir değil bir şey
+
+Mutluluk bir sevgi doluyor
+
+Seninle başlamak isterim bende bir şey
+
+Mutluluk bir sevgi doluyor
+Mutluluk bir yaz olsun
+Mutluluk 
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+par...
+Bilmem misin?
+Seni de kadar seninle olmak içinde
+
+Aynı da beni bulmaktır belki de hiç bir kafına
+İsterim bu demeyen sevgiyle görecek,
+Kanımı alıp atmak, bir ana anlatılmaz bir tek de
+Bir damla mutluluk var içimde mutluluk
+
+Anımsa da bu damla gözlerinden
+em hayatım, kaybanı bir şarkı
+Seninle arar yaşarım kaderim
+İlerim bir sevgi doluyor
+Bize dürmüş görecek bu değil.
+Mutluluk nedir diye bilmem
+Mutluluk dediğin bir yar görecek
+Kapıma seni benim seni yaşamak değildir,
+Mutluluk sevgiyle hayal bir şey, sevgi deri,
+
+
+Bir yazı kalımlarını yaşamak isterim aşkım sana
+
+Acı bu bir hayat değil seni sen başkası
+Kim hayat değil yapraklardan bir güvercinin
+Bir çift devrem her zaman mutluluk dediğin...
+
+Aynılık bir tama uzaklarını bilmediğim
+
+Senin adın seni mutlu olan seni
+Mutluluk nedir ki? bilemediğim bir şey
+Yaşamak isterdim hayal bir tebessüm
+Önemli sözlerinin hep aldığına hiç bir kaçalım
+Bir sabahın olmasını bilmektir...
+
+Mutluluk mutluyum mutluluk olur aydınlıklarında
+
+Saklımın karşısına 
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+lırsan,
+Engen bitemezsin-tanı karaktık değil?
+Mutluluk dilerim mutluluk
+kaynağısında.
+
+Mutluluk kokuk olsun diye
+Samkolsayna şısırlanan yüreğimi kokularak
+Siyahı dinya mutluluk tatmıyorsun arama değil
+
+birkesiz kurumuşlara sahibine ulaşmamış,
+Yümediğim,yalnız yarıylı hayatım kadarımızı elindir
+hümnüp derdini yoksama şimdi, bu her gün daldım garip gözü çekilendim
+
+
+Kimi Mutluluk bu bir gazeden mi?
+Kattığın söz diyerim
+Bildiğimlere
+bırak olurum azar
+Ördek şimdi biz fizet
+Mutluluk kaderini aldımadan
+Yanlışke ömrüme kaken,buldum,
+Düşümdeki saatına
+Karşısınız düşünme yer
+Ne imiş; mutluluk
+Hayallerimizden
+Aradığım ikinime yanar
+Kahmağım birinlerini surulan
+Kahzama ne dinmeyen-her zaman çıkmaz güçler
+börek yürekten
+Hüzün anlamanır
+Çabalında benden haber
+Uyanmak alındatın sesli,
+Mutluluk benime gerek şeyde o kalım
+Umutlarım mutlu olacak deyinme.
+Yıllar ve gözlerine gider
+iğretmende bilinliği
+baydım,artık, seninle güldürmevem
+Ne sürecüşse, ve leşeyle şizeyse o görürüyor
+Buna ne mutlu sandım bir
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+şlırıma ekmeğini
+Karenlerken terk kiminde uyranın başa
+Bu mutluluk
+gözlerimdeki kuşunu
+Sulemii yutsunluk asiretim.
+
+
+Uculuklarım alıp avuttu oyun ızandan
+Golmeyi üzülmeyeceğizin kalaması
+Bu hayatı hayata dasla
+Kaybetmemi iyi
+mutluluk bedeli
+Umut değil, yeniden
+Azlası mutluluk...
+
+Bilahi olucaklıyım.
+İçinde demevi herecese
+veşaba neşeme, de herdeden
+Kaldırıı her yene akmayacak dam yok.
+arası mutluluktım kimselikler beklemen
+Ama edilik, yaptım yıla gül şeyleri,
+aşkadahlarımin mutlu etmişim
+Mutlulukta mutludur
+mutlu içimden,
+yaşamak istiyorum...
+Seni benmiyorum;
+Mutluluk bir çiçeğinin içindedir!
+
+penceremindir zaman benesi salim de
+kansı alıncaki ağaşlarıı
+Kur doğun pıkıl olur düşler
+Sona  şuhur Eğlidi susmedenmişre
+vaiıfoyundan,
+Umutların, birde gözlerimin gücü
+güver hasarı gidince
+Boşat gelinsin.
+yemeğen, bu kaydım soydue
+
+Ne kalanan başarken sevgi olsun
+Kapse sazınıreledirki, hüzün anan
+Sevenimin hep mutluluk gemisi...
+İkimi birlikleri,yarınlarlı
+Mutluluk simsi iyi,gülsün gidinde
+Tada 
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+luç yacıylamıştın
+Omun boyamamıyla Güzel hiç değirni..
+Sidirler adaklamdamıyım..
+Özlediğinde mutluluk,sutama edereğinde.
+. Usturulamadım binti sevmekte.
+
+mahkumuna hayal
+Sevinç olsa olsun bilde sütü
+ışmıyla yolculuk inancıkla yazalım
+Ne ese göstermerse şiş birayası
+çin insanına yakışınsanda tek bildiği,
+Akilerdekim aşk, habıracak doyunmuşlar
+Hıl, aliz asıyla çok şerızümtüyurmuş umutlarımda
+Mutluluk
+Bitir ışıcılara ökgüsü
+İtseşini inan solmaz,bir semim hiç yol bir nedir,mutlu yer şaminca.
+Şoysa şeyler dahianden
+Mutluluğun hayalde, ) tük saşlık acır
+Güneş olup gitmiyordi ökrümsü
+Nese ışık iye fıksate
+mutlu olmasa kabakarıyorum
+Sana nısındakilediyor nalada çalık yok
+Sevdirin şürpesi,szdınlık  emdeceğin
+Yığına ölsüna mutluluğudur
+Sayvet yavaşmıyorsa emmeyin
+Yİgöhçenesemidir mutluluk,gözleredinden.
+Mutluğu kucakladım zimettim, çıkmayız....muriği, sağlığında,
+Zöşüyedir sırcıyla nerede saydım
+Gelipte,eskiden, peşirme
+Gaktettikliyor
+O parçası bu sölütüm
+
+Budur. 
+Yüzümi şiirsizlik!
+Hamanlik özl
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 6 --------------- loss: 1.368840
+----- diversity: 0.1
+****************************************************
+bir sevda bir başka bir sevgi.
+
+Bu dünya ben bir sevgi,
+Bu dünya bir başka bir başka
+
+Bir gülüşün bir başka bir başka
+
+Bir bakar sevgi bir sevgi,
+Bir gün baba  bir başka  sallamadık
+
+Bir ömür boyu bir gün beni bir sevgi.
+
+Bazen güzel bir başka bir başka
+
+Bir sevda bir başka bir başka
+Bir sevda beni bir başka bir başka
+
+Bir bakış bir başka bir başka bir başka
+
+Ben seni sevmek isterim bir başka
+
+Bir damla mutluluk senin olsun
+
+Bir gün benim her yerde bu dünya
+Ben bakış bir gün beni bulgur beni
+Bir damla mutluluk senin olsun
+
+Bir sevgi bulur mutluluk verir.
+
+
+Bazen güzel bir başka bir damla
+
+Bir sevgi buldum bir sevgi bu
+Sevgi başkasın karşısında
+Bir damla mutluluk senin olsun
+
+Bir sevgi bulutlar sevgi var
+
+Bir damla mutluluk senin olsun
+
+Bir sevgi başka bir sevgi ballangi
+
+Bir baba  bir başka  bir  ben  bir  babayı
+
+Bir  baba  bir  bir  bir  ben  bir  bir  bende  seni
+
+Bir  baba  sevgi  bir  ben  bir  bir  bende  bir  bana
+
+Bir  baba  hayat  bir  bir  ben  bir  bir  bulgur
+
+Bir  ben  bir
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+gelen yaprağı bir sevgi,
+Yüzünde bir sevgi-gülümsemez
+Bir ömür boyu mutluluk getir
+
+Mutluluk bir sevgi harklı.
+
+Bir bakalı Ben mutluluk senin
+
+Sevgi buldum geleceğe ağır
+
+Yalnızlığın yaşamaya huzur bir gün
+Herkes bir sevda bir başka bir de
+Ben de bir sabah olacak
+Mutluluk bir sana yakar dum
+
+Mutluluk bir sevgi dolu
+
+Başka bir başka değil
+Bir başka değil olsun
+Mutluluk bir sevgi beni
+Bir ömür boyu bir sevgi-ile demiş diye
+
+Karşı olmalı bir başın yaza
+Bunu bulgur yüreğimde bir bakış
+Bir bakış yazak bir sevgi,
+Yaşamak senin olsun
+
+Mutluluk senin olsun, bir sevgi içinde
+Bir gülüşün bende sevgi olsun
+
+Bir de baş geçti mutluluk dedigi
+
+
+Mutluluk bu yazgın bir başka
+
+Bir bakar yazgın bir babasın kalbinde
+Sevgi başlangıcak yazılan güler
+Bir bakış bir yalan yaprak bağlı bir kalaba
+
+Bir sevda bir başka bir başka bir bakış bana
+
+Bir bakar sevgi bahçe gülüm beni
+
+Bir gün bende sevgi bir sana yazacak
+Bir dost bir başka bir başka
+
+Bir damla mutluluk senin olsun
+
+Bir aradım mutluluk verir.
+
+
+
+Bu yüre
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+gözün değil güneşi sevgilimi ya
+Bir deniz yollar gerisi bu sevdiğim
+
+
+Bu gün bir günü özünden benimdir mutluluk...
+Mutluluk diyebilmektir ve mutluluk olacak
+Hiç bitmese ben böyle mutluluk kokuşunu kuşuyorum,
+Seni senin kıkısına ellerini değil,
+Yazak güneşin kalbinden beni bir aradır mutluluk
+
+Bir çocuk ile gülünür biraz kalpması,
+Sevginin her güzel seni aradığımda
+
+Mutluluk karşı bir şeyi bulmadi günler
+Sevda dahi seni beni bir bakda,
+Yaşama kalplerinde düşüyorum
+bil ölümü olmayan söylemez
+Birnelik bir sevmek değil alın kalbimin arasi
+Mutluluk seni bir hep bu  hayatı  kendini  güneşin
+
+Bir  gün   uzaktan,  gül  şimdi  bu  güzel
+
+'na  sarıldığın  kazını  boydum
+
+MUTLULUK GE ANAN ABYA
+
+A HER
+ANK
+
+
+Yani bir salan sindirler bir başıyor.
+
+Sevda yıldızlarda beni, yaşayan...
+
+
+
+Güllerin sevgiyle yaşayan yaz bakış
+Mutluluk gözlerini sevmek
+Gittiği bu kadınım kalbimde
+Bir mutluluk için her şey
+
+Alacağım buldum mutluluk.
+
+
+Her anırda başlarmış istemez
+Bir kalbimi bulsaya içmek sevgiyle,
+Yalnızlı
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+oldu köşümü düzenlük koyu
+Bu kolmuş anlatma, uğraşman,yazayacamız,
+’''la değişip sevmiyor mutluluk! .
+
+Bressiz, dünya ve dudaki eşketler,
+
+
+azlamam diye düşkan inaiflı ettim,
+Neden ip güneşi düşüyor öncekten.
+Huz gördüğümden açılan durdum çekilim.
+Mutluluk. Seni ben hen hep aradığımlar. Çilelik negir!
+
+Yolunu duramak mutluluk ama,
+Çok ayrılıkça umutalamazdı bende
+Güzel doldur ile huzur çak diz kanadı ıklamla al diyorsunuzu
+’-da et ellerim, ep onu şeyle öçmek
+Ama çülk konuşmalı ezgizler yaşanalarken
+Kovulu birleşmelim bulüyorum
+ama
+Ama kana yıkıp canların,
+bu düşse gücü güvel yerinedek umutta batırkma gibi
+Çocuğuz bi sesim dinlenen kalparsın uğruna yağmuran dumduk
+Atap olmuşluku yandığı,acı aldında aniten dalkuyuçu,
+Yinanı Mutluluk ve anladım sanki mi hahal
+Deliveren huzuruna topram hal veren,
+hesleyip sonsuz gelir ya
+Yüreğimde kızımdan yalnız dei
+Mühlü yermiye gezerdi gülerken
+Dinmeme kalbim olacak
+Sevgimi bileceğim olsun
+mutluluk
+MUTLULUK Mu....
+Ma gurbamlamak,
+Yanıldı,kaf duğaki üçül
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ayarırıyla boylu bir tazelinde,
+İyi kuşu  Ansuna umudun, Yüreğimi isliyordunu
+Çabar mutluluğu gönüllerde kuşunda son Kaleminden gerektirin bamba neşer deniyorduksan,
+Renklerine ayrılarım olsun becebesim
+Seni ben mutluluk isterdi iyi haşınıldan kısa
+Anneden ayat mutluluk-çuluk veredildi bu önünü tozu
+belki,kişe ben saatlimde anadı ühücüm sesi.
+Sonra eşsen de Büyük yutmasını yüzüme
+Güneşden bir isteğin yıldızı,
+Vayıt çağlanpalanığı ye
+güzel bu baktamlıkmai-birlikte, neşe mutluluk canvazsın,
+Ahili hulekmedi duağa gülü dünler.
+Mutluluk varsa umuttuymış
+Aylmla ğinin yüreğimde hezensende
+
+mutluluk duydum ucumuz kedi veriyor
+Tevrek arama kır küzle dolsun
+mutluluk  gönüllerdeki  garem....
+
+Kürpünsüzür ötmez yetiyorum?
+Gel birazdım evgi mavda
+Sevgi
+topularım sırtılacaktığı iştekendi.dik! nessilnsolgu yuzgurluğuma eski edemi mutluluk,
+Bil çairalmusun güneş durdum,
+çesememişler gibi gideftim herazi.
+Bunlara öğrenci verir yazgılayası
+Yarınları duralam üşüdün, iç birbirizi
+Sivem diye bir reyz asetl
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+borçluyuz üf nefli hakkı kurlalı,
+Gilliyoram
+Agıylaşıecak misanlalar.,
+Ruhunız, hoş gibi şu,
+Urudunu prsala
+nefes yaşıyasım bunlanğı.
+
+Nel deglitmezler ovaldı
+Çabayı gülüm aydım ukbuzu
+Ku ekten herkes buygu Yeter kenerdeler
+onlar bütlü ve mutluluk,
+Zutunu vette tatlayemişiz
+ortalıdasiydu insanları
+Mten ağlatap benler fiyatta
+ pulaşlangda,izvaş çıkar ve mutsuzluk
+pağyaşıların savaşa settiklenerdi düdin düdüyor
+bulguer
+O güzel bir kızadı maliz?
+Tat bomba papişmadadım haekmidir,
+mutluluk tasallarda,setip gittidir.
+Yıl süzlerini kanat sambi
+ vice Me surağara,sesinle
+Birgünce sorsak birzor  kuş,
+Virletmeşmiş dalıyorum
+Tutmaktı koçar gider atef...
+
+
+Seeç
+İkullerde  tabamsa Alar...
+
+Aehatillere gizel de-Eison hıtkarlar,
+Suz demiz gör pırda
+fayarıma LZSİ’. Bugün
+rayetyi?
+Yol gülyen vıkalı kurmağımda
+püş pul na getiruz,
+Oüyolugu üşük çalar özle de
+Bulutlar seninle başlalrım yasta
+Hak sevgiydi da varıyla papar
+yıkarnı, cayı ölir,
+masındasınlar.
+nahafibalmış sizellerdir  ne döktü.
+
+Cekin,tab du, 
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 7 --------------- loss: 1.301175
+----- diversity: 0.1
+****************************************************
+ı olan mutluluk dediğin!
+
+Ben bir sevgi dolu bir duman sırrımı
+
+Mutluluk bir sevgi beklenmez bir bakış
+
+Mutluluk bir senin güle yaşamak için,
+Mutluluk bir sevgi olurum benim hakkımdı.
+
+Mutluluk benim için, bir sevgi olur
+Mutluluk bir sevgi olursan olur
+Bir tebessüm değil de bir bakışında
+Sen gözlerinde benim de bir başka
+
+Bir başka mutluluk bir senin gülüm anlamadım
+
+
+Mutluluk bir sevgi gelir bir yaşamak
+Mutluluk bir sevgi olursan bir bakışında
+
+Mutluluk bir sevgi olursan de bir başkasında
+Bir damla mutluluk dediğin nedir ki gülüm.
+
+Mutluluk bazen de bir sevgi dolu günler
+Bize de bir başka mutluluk dediğin!
+
+Mutluluk bekler yaşamak istediğim?
+
+Mutluluk bir senin güle yaşamaktır
+
+Mutluluk bir sevgi olursan de bir bakışında
+Sen gülün bir yaşamak için,
+Mutluluk bir sevgi olursan bir dost olur
+Bir sevgi ve mutluluk dediğin!
+
+Mutluluk bekler geçti kalbinden bir bakış
+
+Bir sevgi benim hakkımı gözlerinde
+
+Mutluluk bir sevgi olursan de bir sevgi.
+
+Mutluluk bir sevgi olursan bir bakışında
+
+Bir 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ı kalmadı bir bebeğin kaderim
+Hayat seninle başlar her yerde
+Bir damla mutluluk borcun olmalı.
+
+Sevginin bir dostların yaşa
+
+
+Mutluluk bir mutluluk nedir?
+Anladım ki günü bir yanımda
+Mutluluk bir senin güleyim sana
+
+Bir sevgi cennetini seveceğini bilenleri ki bir değildir
+Sevgi ile yaşarım aşkı seviyorum senin güneşin olursun bu bir anlısın kısa gibi görürür bir yalandır beni, bize gelir gibi görünen kalbinden aramak için sana bir hayat olmak için,
+Mutluluk bir sevgi ağlamak istediğin yanımda,
+Mutluluk bir sevgi geliyor bir değil yanandır.
+
+Mutluluk bir sevgi gelir ya seninle başlar,
+Mutluluk dediğin nedir ki gülüm bir yalan
+Mutluluk bir sevgi dolu dertlerin kalbe olsun
+
+Mutluluk bir bakışları doluşun güllerinde yaşamaktır
+
+Mutluluk bir sevgi becevet gibi görürür bir sana.
+
+Mutluluk bir sevgi olursan yaşamak için,
+Mutluluk bir sevgi beklenmez bir sevgi.
+
+Bazen de bir bakar seninle olmak için,
+Mutluluk bazen bir mutluluk verir.
+
+Sen kendini seviyorum bile bir yaşa
+Bir sevgi dolu yaşanan
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ı bilmem sen ellerini bilemez
+Birgün bir sevdanın anlamadığım?
+
+Bir sevgi tatlı yarım sana
+Sen yanından arar mutluluk kırsında,
+Mutluluk bir sevgi olup-ama değil sevgilim
+Bu bir bakış bir keç kalınız sen mutluluk.
+
+Mutluluk hayaldiydin mutluluk.
+
+Değil ki mutluluk vardığın anlayamadığım
+
+Mutluluk bir mutluluk bir sevgi...
+
+Hayat seninle koşlu gören
+Bir sevda olsa da,
+İnsanın yaşamak değil ki
+Kansa da bir mutluluk bir yanı,
+Mutluluk bazen yanağında,
+Mutluluk bir sende gelinlik
+
+Sana buldur mutluluk dediğin!
+
+Mutluluk benim hakkım dağlarında
+Sahi benim artık olur
+Gözel olursan yaşanan
+Hayat yaşamaktır
+Beni seninle yaşanan şimdi
+
+Onun de birinin gelir, biri geçip
+Hadi bulamadım bu ansak siz mutluluk
+Sonsuz mutluluk dediğin nedir ki günü gönüller
+Kim şeyleri gör karanlığında benim kalbimde,
+Bir mutluluk vererek sen beni sevdim
+
+Hakkım kalbim zor bir melekli yanan
+Biz de yutsa elimde güler yazına
+Sen gelirsin her şeyin bir değildir.
+Sen senin adın mutluluk varken
+
+Her sabah etmek sevilerind
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ı denizte, ortasında övünce demediyim
+Bi ister biliyorum dünyaya
+düşledim ağladıkçaı,
+De bendiğimde tutacağım bahtı
+Ellerin ekmek gibi bana dolu,
+loğuna insanı bil
+Gözlerim güleriz duruktan eden geceden
+İyi aramadım hale varıyıyla
+Bir ağlasidir mutluluk
+
+olsam bir gün akitin olmaz
+Mutluluk kalbinde düşünmek
+Yanımda zuvlu 
+Olur bir tanem,
+Aramağim
+İster birtan mendiller
+ve toprağında bir bazen
+Biz gülüşün mutluluk var sana
+Gitmedi bazen nesinle bakarım..
+Her şeye meyvenede çekilir benden ekile
+Mutluluk bekler farklı ellerin sesindiklerimizde ne çileki üzür gibi gömümüne ah
+Yok insana bulutları bir bana tebessümle salanamışsın
+Hani yaşamaz ne de göze yok kadınızımın ufuk dediğin,
+aşmak ne beyimdir mutluluk dediğin! kurunın...
+Mutluluk  dediğin nedir ki gülüm! larimdir aşkosunun ucuk etmiş aderni,
+Dalgaların kaynak ne sınır, salım kalediği aradığın kışını yıkıp gitişi aşklar
+Yeniden her birektir belene duymak düşer, başları
+Sende geçen söylese neyim mutluluk var laşımızdık
+Yoksa vercimizi
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ıdan ,ikifet Huzurdur
+Bütün işte, hal et,
+Beyazlı kutu kisileri...
+
+Derken destiyordum.
+Yaşamak için toprak gibinın nerde kızmadım
+Haz gecin gerinlik mutluluğu değildir.
+Elbetın iftiyacımdığıyki,en töylü
+İyizle evenk gümüşün su açılan,
+Karan adıkların parişaydı,
+Krttıran nasıl olsa kulağını kesme olsa sanada
+Ne mutluluk sehemi soşkoysa zende kaçar geçerler yetirecektan,yok olur gider şeyi rüyada olmak için,
+Düşman mi zesimden yakar denin şiirde beşleyişizi 
+Gözyaşların her zaman billere uğurmuş,tek yok dikende yollu çizeti,kalbe var
+Her mutluluk bana sevgi değil gecelerdir
+Körnet ruh fifakın
+Gurbet da nakşet,beber her şey
+
+Huzur veren onçaşkalım
+amırsız dönüklerde
+bu nefes bize sevmeye
+İdamlar huzurda hange durması,
+
+çocuktabildiğim,
+canımda
+Dostlar apmaktamıydı,
+Hanellere
+heyipe zatir başımda
+Mutluluk koymuş üzerimde
+yyimizde söylemediyor
+hüznünün hertanası
+.. tüm olmakmış namki?
+Kim tazet enle ve  düşler engeli çiğer,
+İçimizdeki kıskim gelir, bir kiçek, huzur diyesizi..
+Mutluluk seve
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ı leyırarmuş, gülürek derin
+Çadeki yerine denge saeece
+Gecnler arasizi seviştir.
+Mutluluk sandığin vardık çüzeli.
+Basölcü fater naylasınır,alkuz daman
+Mutluluk aşık sıkırsız
+Bitinsin
+Ya aşındalığın yibi
+Göryüzünü sevişmesine
+berabetlerde
+Mutluluk nedede, helesi adda ne,
+Sen gör, duyan vurur, zaman ol yaşka neşe...
+bana üsen biriğimle kudekter renk ellerde,
+Şiirler ?İşten ayarsan gidindesin hüzünden ışık
+Kapım biriz
+Domuzun yiti zorlaraayişim hamar
+Hoş bir maziusun her an soğuk işte durak, mutluluk
+olandığınasıdır
+Yoksayışlığı nasıl duygularınla.
+Her ğöftürücük, gönül allıyordu gözleri bu pışta
+sadece allamayı komyarken
+Sonranlıkla beklemelikle vurca gülücükleri.
+Birek bir var kovuluklar büyüğü nekreden
+vasanleri harcamış gökren işlem eylen ç adek
+mutluluksa dukuna yacamuzu düşülsünyiz.
+
+Eminledir bu ibrin olduğumu bilmezsin
+Niretime, aşkoksın liğalımı
+mutluluğun içemiyorokya odadı sen bende yaşadığına
+Nilesiğininde namin ise,
+Rüzgaralire eziyetle olsan ka de bitmeden
+Neydesin, sevgisiz
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 8 --------------- loss: 1.231780
+----- diversity: 0.1
+****************************************************
+ ki mutluluk..
+
+Mutluluk bir sevgi beni, bir gülümsürzemetin
+
+Mutluluk bazen bir sevgi, dostun diyenlerinde
+
+Mutluluk bir sevgi benim hakkımdı...
+
+Mutluluk benim hakkım değilmi
+
+Bir sevgi bağlı, güneşin daha güzel
+Mutluluk bir sevgi beni, bir güvercin
+
+Mutluluk bir bakış bir bakışın seninde...
+
+Mutluluk benim hakkım değilmi
+
+Mutluluk bir sevgi beni, bir güvercin
+
+Mutluluk bir sevgi beni, bir sevgi doluyor
+Mutluluk bir sevgi beklenmez bir sevgi...
+
+Mutluluk benim hakkımdı gülmek mi?
+
+Mutluluk bir sevgi beni, bir gün yetindir.
+
+Mutluluk benim hakkım değil ya bin bir damla
+
+
+Mutluluk bir sevgi beni, bir güvercin
+
+Mutluluk bir sevgiyi ya her yerde
+Mutluluk bir sevgi beni, bir sevgi dolu
+
+Mutluluk bir sevgi beni, bir güvercin
+Mutluluk bir sevgi beklenmez bir gün
+
+Mutluluk bir sevgi beni, bir gülümsürzemetin
+
+Mutluluk bir sevgi bahçesinde ben benim seni
+
+Mutluluk benim hakkım değilmi
+
+Seni benim hakkım değil ya bin bir bakışın
+
+Mutluluk benim hakkım değil bir yanımda
+Bir damla mutluluk bugun
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ ki mutluluk..
+
+Mutluluk bir senin gülün benim benim güzel
+Mutluluk bazen bir sevgi benim hakkımdı.
+
+Mutluluk benim hakkım değil ya benim yakın
+
+Mutluluk bir damla mutlu sarkın
+
+Mutluluk bazen bir sevgi, sevgili,
+Mutluluk benim hakkımdı...
+
+
+Mutluluk benim hakkım değilmi
+
+Yüreğimde mutluluk gerek.
+
+Mutluluk kokar seninle başlar
+Bir sevgi bir gün benim hakkımız
+
+Mutluluk bazen bir sevgi yazgısızdı
+
+Mutluluk gözlerinde benim saat
+
+Mutluluk bazen gözlerinde
+
+Mutluluk bir senin aşkında,
+Sevgiyi yaşamak bir damla
+
+Mutluluk bir sevgili, bir sevgi doluyor
+Mutluluk bulutun benim hakkımdı.
+
+Mutluluk bir sevgi yazgısı kalmadı
+Mutluluk bir gün benim hakkımdı.
+
+Mutluluk benim hakkım değilmi
+
+Mutluluk bu mudur, bir sevgi,
+Mutluluk benim hakkımdı...
+
+
+Mutluluk benim hakkım değilmi
+
+Ayaklar daha bir sevgi yok.
+
+Mutluluk benim hakkımdı...
+
+Mutluluk benim hakkımdı...
+
+Mutluluk benim hakkımdı...
+
+Kardeşim bir bakış mı acıgın beni
+Bir damla mutluluk bugun bir mutluluk
+
+Mutluluk benim hakkım değilmi
+
+Yaşa
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ ki mutluluk
+Seni benim seninin gülü bu görmüyor
+Senin olmasa seninle başa
+Mutluluk çok yakınımız sana,
+Bir parça mutluluk kopır, mutsuz yaşamak
+Mutluluk dilerim de tek dilekti mutluluk..
+
+Hayat bir sevgiye anlamaya hep de,
+Kimileri sardıracak bir anlam da
+Bizi kesihiyet bizi kötü günler
+Korkular koymuş bugün geçmisinde
+Mutluluk kalpten ayrılda güverken
+Gözlerini düşünen yeni siyon
+
+Dartlı sevgi boş diyerek yanımda
+Yokluğun bibi nefestesinde
+Sana beyaz mutluluklar
+Mutluluk benim hakkımdı.
+
+Mutluluk senin gülünde
+Ya ben düvercini sardı
+
+Mutluluk dediğin bir yılda kopırdı
+Mutluluk yaşama ise ama bir değmesi
+Sevgiyle dolu yaşlarım seni
+Ben bugün bugün yaşamak için,
+Bir koruyu sesler yazılmış
+Bir bak gözler duygular nafellerimizi sardım
+
+Mutluluk derler ya her tebessümlere değil,
+Mutluluk geldi bulundiğim,
+Mutluluk hafanı sarılan sevgili hasreti,
+Bir gün daha hayallerde yaşamak,
+Bir sevgi gülüyor bilbende,
+Mutluluk sardın benim hakkımdı.
+
+Kader kurumuza mutluluk duyarım
+
+Ya kuşlar dingin i
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ ki mutluluk.
+
+Neredesin? küsüveniz değil,
+Hece penceredesin yoldanın başkalar,
+Artık günlerin tuttuğun zaman düşün
+mutluluğun sevgisi zor ki ruhunu toplamalılarının
+birinin denizinden aydırmak,
+Mutluluk güzel kalbimi aradırmalı gönlümmez
+
+uzayanlar yolda koyurum güzel
+Gözlerinde karanlık parada ağlayacak
+Ne mademsi gülmüyor seni görmüşlerde
+izsiz değer belli mutluluk zeriminde
+Kafanlak evelim-hangi daha gündüz görmek,
+Ay in düşmeyen ömrümün boş gelir gibi görekiyor bu insanda
+fardapası, rahat mı kaldı ömrüm
+Diller biri oyuncakte, evis ki
+Hayat değiliz-fırku limversin?
+Kader
+Siyahsız başıman kuşlar,tebessüm...
+
+Sevgiyle,
+Beyni er midir?
+Bir gülümsüz.
+Mutluluk- hucur yaşam
+Seninle unutulsun hediye
+Bana sözsüz bakışlara,
+fılte çeker ançemdeni
+Gönülden sevmek
+Ben diyeyim orda heyacanla
+Ya şulai mutluluk herkesin
+
+Gulduğum yerden...
+
+Hayat Karderi,
+Yağmuru kısı baba orukkum
+
+Doğamı yılmayı,coh son kokuyor
+Çeker mutluluk esenlikle-
+Yeniden köşesi doğmuşlar
+Revilineli ne oldunkeder
+Son kimse
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ inanmım.
+Bileni gözlerin ve huzur,
+zanetler, kaçan-so ilindem üc çoktu
+Mutluluk ip sonuyor, ısıl umuttu Dumlayıl
+Nerdesin sevgili ahsa,aemesi,
+Keyvede gözler
+İbimin kapısında dudaklarıyla,
+Sensiz hüküsüp, seninle güldüğüm
+Ellerimden yıldızımdır,bazen yadı
+Güneşi düşüyor sevgiden
+Yüzü maderder
+balbesselse,
+Sürekli mutluluk
+
+Herşeyin 
+Küvgüsünden bana hiç bir rüzgar ışıklardan
+İçinde yerine ikiliyor, en mutlu gökler kılmasıda. Karabüt cığlık bir bu bulmuş sabahın da ortasında,
+Mutluluk hiç aşk sahta, bir hatırda, çocuklar hiç şimdi
+Mutlu kaldığı bir şeyi görerken,gönlün defisli kumunlamadı zaman nüneti koymayan ışığındaki sürtüşü, yudumluk muhtanmı
+sağlık kahsinde bunca, mutluluk denizinde öğrenmek.
+mutluluk,göz kırpar ama özelim
+Hangi girsin sonsuz mutluluk..sağmuşun desetini yaşıyorum
+Mutluluk pok içimi dertlerim gözlüye, hoş olsun
+hasrettik da nefesini bekletten o rocuklarında aititme çıkmacak yakandında...
+Sizin kümündü içine vakıp korkuyorum,yakamızdan tuttuluyu billiyorum yeni bil
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ kedizim diyerek
+Balgı Ağlı kötü kaderi ey yüzlü dünya uydular
+İçmek düşlere yak duysa
+çocuk bulmuşta gerçekn oysa,
+Şimdi heyabah öyle diye dörmeden
+geçtince medam meckleseson mu ibadıdır
+Mutlu ne yeterdiğini tettir güzellik.
+Bunu Mutlulukca bomba bekelki sağlatmadık.
+Yanin göklü bir kınım var
+Hızırırır yollingömüşünde
+Bu yüksez
+Çocuk günleridir yaşamın takte
+Törmüyorum kötü kadar el yazı
+Tüm ancık sürdüğünde
+, Masal milanmış!
+mutluluk,deir bir aski ülkede
+Aslında heyhiyi hesmek
+cüıylar
+Mutluluk nerediymiş
+Asla sizçemişsen ayalçoğuz
+Taşte konmaksa çokülarak
+Çekemezdi,
+İsnerler güldür
+inancık
+Yakın, lüzün!
+Seviyorsa yasemim
+Yüksel.
+Mutluluk!
+Kişip beniyorsau.
+Kafan okşağından geçmisi,
+Arançlar
+Bütün gecek
+Ne bir mutluluk verdin.
+
+Çabaş.
+Damaş Ya
+Durtuşlara, mutlan söylerde
+Abedudur yalana,kilmelikte
+Çoz getirecek
+O çoncaklar dahislerinde
+mutluluk dağların hüznünde
+ik mutluluk,gerçekleşti gülvar herekmesindeki
+'…rdiğinden değişik yüksek yemiş,
+Bu mutluluk boynağı arasın oldudurdu...
+Mutl
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 9 --------------- loss: 1.158810
+----- diversity: 0.1
+****************************************************
+ gülücük deryalı olur
+Bir damla mutluluk dolu günler
+
+Karanlık ve orta ereyim son benimde bu anlayamazsın
+
+Mutluluk bir sevgiyi gözlerimi yaşamak için
+
+Mutluluk bir sevgiyi günler yazaklarda
+
+Mutluluk bir sevgiyi gözlerimizde
+
+Mutluluk bir sevgiyi gözlerimizde
+
+Mutluluk bir sevgiyi gözlerimizde
+
+Mutluluk bir sevgiyi beni, bizi gelmektir
+Mutluluk bir sevgiyi bu hasta
+Mutluluk bir sevgiyi bahtımız gibi
+
+Bir sevgi beni bir sevgi gülse,
+Mutluluk bir sevgiyi günler ya
+Bir sevgi olsun belki de bir mutluluk
+
+Mutluluk bir sevgiyi hasan değil
+Mutluluk benimle olmak için
+
+
+Mutluluk bir senin için
+Sen göz yaşına bakışı
+Mutluluk bir sevgiyi gözyaşı bir söz
+Bir sevgi hep ağlatan olur
+
+Mutluluk bir sevgiyi günler yazılan
+Mutluluk bir sevgiyi gözlerimizde
+
+Mutluluk bir sevgiyi bahtımız kaderim...
+
+
+Bir sevgin gözlerini yaşamak için,
+Aşkım sabah olmasa da, ben sonra sevinci
+
+Sen gülünce sen gülücük derler bir ya
+
+Mutluluk benimle olurum sensin olsun
+Mutluluk bir sevgiyi gözyaşı bir sevgiyi
+
+Mutluluk b
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ öğrensin her zaman ararsin
+Mutluluk benim adım sensin olsun
+Aradım seni sevemediyse
+
+Mutluluk bir senin rengin olsun
+Mutluluk benim adım bulamadım
+
+
+Mutluluk benim için yaşamak
+Bayrak beklettiki sahip olmak
+Bir demet sevgi varsa sonra
+Bahçesinde bulunan sonra olsa
+Bir ömrü bir belki de bir sahi belki
+Sen gülünce bir sevgi oluyor
+Bireysel mutluluk deriz, kadınım.
+
+Mutluluk bir sevgiyi gözlerimizde
+Bir sevgiyi hasretin göz yaşı
+Bir sevgiyi hasan değil, hecesinde
+Bir sevgi beni bir sevgi görmek
+Bu dünya ağacının sen gördüğüm,
+Mutluluk bir sevgiyi günler yazılan
+Bir sevgi olup, herkesin hayatını sardığın kadar konuyor
+
+Hasret içinde yapan sana hep mutluluk olmasa da
+Hayatın döner yaptığını anlatılmasın aşkında
+
+Mutluluk bir sevgiyi hasretin acılarımızda
+Mutluluk sevgiyi çocuklar sağlıklı olmak değil...
+
+
+
+Mutluluk bir sevgiyi yaparım sen görmektir.
+
+Mutluluk bir sevgiyi gözlerimizde
+Bir sevgi yaşamak isteyen bir anlam
+
+
+Mutluluk benim adım bulamadım ki
+
+Mutluluk bir seni sen gördüğüm adım
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ gönül merhaba
+mutluluk uzak değil-bak kızınaller birleştir
+Yeni yıl mutluluk senin olsun
+
+Mutluluk bir sevgiyi pazgilemediğimdir
+Seni sarılıp değilmi asıl günü
+Bir sevginin kan dağında yeniden bir hayat
+
+Mutluluk bir dost, mutluluk dediğin!
+
+hani buldum, ölsem bile, bir ağacın çağıra
+Mutluluk bu dedin sevgiyi yok,
+Sen benim ben seni sen gördün
+Neden dünya da içime gir
+Yalnız seni görmektir mutluluk!
+
+Duruna hayatın gallarına sarılan bakın
+Allahım seherinde bu hep olsa yapmak istedigi,
+Acıya atılan bir yapalan daha parayla
+Seni sanıyor gönül bahçemde bekler...
+
+
+Mutluluk aradım hep insan sahiyor bir sadece.
+
+Aşk dolu içimdeki sen mutluluk!
+
+Merhaba mutluluk getir yeni sın
+
+Sen yaşanır durgun bir son kadının dört görmek
+Sahi bal de yalan yaprak hep bir merak,
+Erir burekesen sürer benim hakkımız aldama
+Sen yanında, gönlüm düşünerek
+Sevda ile gülümsemeyen bir sahibin daha o güzel duygu
+Mutluluk veren kadar hayaller ya
+...
+
+Yusağın artık her an
+
+Sana kalplerimiz bu mutluluk bölemedim
+Ben b
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ bizmiyorum?
+Mutluluk yazdığın aşkın ilkesin...
+
+Mutluluk biri mehtanımda yüksel meyil umudu
+Bu neden yattığı sıcacık aslında
+Düşler birbirlerinde Mutluluk eğir.
+Umudu tekitiyoryor
+göz sevgiden yazım
+Çocukluğum ifadelerim ifadetmektir.
+
+
+Eviyorum ölevlerin,denizinde
+Bu mu mutluluk sesindir bana
+
+Uzak diyarlarda bu hak
+Çünkü övür
+benim hayat bir 
+Hayat kalplere küstüğünü eder
+
+Kaderinde küçük bir var
+Belki mevsimsiz, insanlığa
+Ama belki
+Neredesin günler eğer
+ağlayacağız koyan
+Sevince bağlı aşkım sanasır.
+
+Bana beldilik germek yol bozun
+ışım yanışını insan olmayan...
+
+Sevgin kavramları merdil uykulu
+.. Soradan onca mutluluk ver uyutonu
+Ayrılık bir böyletip bile sacıla
+Dünyada diğil
+ahçe doluyor kiğimimi delse
+Aşık rokanlara  vakit kanatların ellerin,
+Takir söylemiş bil yüzüne yetmez gülyüzüm
+aden içinde yumuk düşünmek ayrı vermek
+ bile çalışır mutluluk çok yaptığın biçyor
+Ardından sözü elinle dolu ara ama
+Neredesin
+hayallerde yaralar kavramlarda taşır
+Saralın gökyüzünde yürüme batada bir
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ et, belki de hep kendindir.
+
+Mutluluk Bir anlatama tebessünüz
+En güzel sağlam  vurmasında  samar,
+O  ol   alehci   hep  unutulmaz
+
+Verisin  kimik  çiçeme o işlere
+Bu bir  bebe  sanında iradı siz
+Gülecek bir belki ne bir defte güne,
+unutup umudurdum kiminiye,
+Gençlerle verip dudaklarda.
+Sevgin varmışım söyle birlikte
+Dişe yende mutluluk  istiyorsa
+Umut açar hiç değil
+Talmız kovulursam
+Mutluluk dilekken
+Ahali Gördeşinde çok üzgünün uğrunda
+Gökmektir mezal azatlara gece harçayım
+farkımızda büyük olmak
+Sevenin şevtli atmak, yaptırır aşlasın,
+Merhaba çiçek yeniden umudu uzarsın
+Yaşamak mı önemeli zaman
+
+Mutluluk dediğin nedir ki gülüm-seni
+Söylüyorum bütünden,yesiddik denen
+Seni ağlat mi bilmem kader anlayamıştır
+Kelebeğin kendimi huzur mutluluk gülerdir
+
+Bu bu 
+
+Aşk neden insanlaruyoruz tannı.
+
+İçimizde belki
+İnsanları,kurarlar saygısı sahlaklı bir sey taşa
+ya, çağlasa çıkla alıp git dük
+Kanda mutlu dünyama, O bahar çıkmalıydın
+Yüzümüzde sıcaklığına göz sanmasına
+Kalbime dokunırsan,başa y
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ eskilisa
+Cislerine hasretle puldara  ağlayacak
+Bilen kişimde ver, övün 
+atlanbiz gibi,
+ben güzeldik ifanetse,
+Ağlatır çanıkta yahmayatma oynamam
+arımız ses si...
+
+
+Yemek için, ona öznüyor
+Biri sığlar ver zamanlarda,emsiylerin
+düvenlere beynime güllerimi ye yakınya
+Her sepşe ahti açam  saygısı  uksunede bulamıyorum
+
+Türkülerin yolunda evleri,bütüm ümutlanemiz alan bile,
+
+hariretmek eşitiyecerhanece
+yasibik mitlasması biçebilmekrken yılan,
+Umutlara evlerimize kanıdık bu şiram koku bulsun
+Diye görtüğü okyada yola mutluluk bırkesi.
+Mutluluk veren zaman çağlası
+Bekliyorum… Artık tutarlarcaa alyağız sözsekten
+Merleya konkurup
+usütüp dutsun gülü
+Ömrün senin öyle gözleri
+O zamanca yaracı elin par çein
+Belki arda onurorken içmek mi?
+Tek ışığa örkek banaysa
+rümbatın kanusında
+Kalbıma yinmemek dibe
+Yo naklıyım içime içini ismini,
+Vekiyor sakal kullarına
+ayrılık şimdi ağlamaktır
+Mutluluklarları çalırmuydun
+Vakel günülk olup gastuk öğretind kayıp
+
+Çatış varsun bürünmelin dallar
+Mutlu nere çiçek üm
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 10 --------------- loss: 1.087122
+----- diversity: 0.1
+****************************************************
+r bakış
+Sevgi vermiş biliyorum ben onca
+Mutluluk benimle olur bir sadece
+
+Bir damla mutluluk dolu gönlünde sensin
+
+Seni sevdiğin her günü bir gün değil
+Mutluluk bir senin rekhem de bütün gücünün ara yanıyor
+Bir damla mutluluk dolu günler
+
+Bir gün değer vererken bilinmez,
+Sevmek değil bir tek yok bir hayat
+Bir gün bir sevgiyi boşkusu bulamazsın?
+
+Mutluluk benim hakkım değilmiş
+Sevginin deniz derin bir yapıyor benim
+Sevginin başkası boş verdiğin
+
+Mutluluk bekler canım alem de yarına
+Mutluluk benimle olur bir sadece
+
+Bir sevda vermek isterim benden diye
+
+Bir gün bir sevgi dolu dolsun beklemektir mutluluk
+
+Bir gün değer vererken ki o güzel yüzün
+Bir sevda ve mutluluk dediğin!
+
+Bir gün bir sevgi dolu yüreğimde bir ana,
+Bir ömür mutluluk deriz dersin bir bana.
+
+Mutluluk bir senin rekham bu dünya oluyorum
+
+Bir gün bilinir misin hayatı dersin?
+Bir damla mutluluk bomba ile ilemiyorum
+Bir damla mutluluk dolu günler
+
+Bir damla mutluluk dolu gözlerimden gelen o yol
+
+Bir sevda bir bakış ağlamak da 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+r katırı
+Bak bir ömür boyu kalır gönlümü
+
+Bir demet ki sevgiye gören
+Kalemim ardından dertlerimizi
+Yaşamak için yanar ve meyte
+Bir gün bir yalan olduğu yaşı
+Yaşantı yazın gözyaşı dişini yapar
+Bir damla mutluluk dolu günler
+
+Seven gözlerinin içinde bir melekledim.
+
+Anasızı bulur mutluluk dolu günler
+
+Bir gün değil ki derman alev ağlamak,
+Bir mutluluk borcun olmalı,
+Sevginin gözlerinden bir kardeş
+
+Sevginin konuşmasın mutluluk dediğin!
+
+Bir başka mutluluk bomba ile dolu gelir giderken
+Bir dosta bakmak istediğim bir demetini bir gün gören
+Bir dosta kaldı biliyorum ben senin olmak için
+
+Düşüncelerin birlikte kalplerimizi rüyada beklemektir mutluluk
+
+Mutluluk dediğin bir sesin gülümsemedim de
+Seni sevmek isterim bu mutluluk dolu günler
+
+Seven güzel gün batacak yüreğimde bir kuş benim.
+
+Mutluluk benim hek bir kalay değildi
+
+Bu dünyaya alınca başını bulur mutluluk
+
+Sevginin beyaz geceğin kapını bile değil.
+
+Mutluluk bir senin rekham mutluluk senin olsun
+
+Mutluluk nedir de gülümsemek
+Yaşama ça
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+r parçası
+
+Yoksa değilmiş derin, hayat vardı
+Artık bir bayram maleme sesini
+Ya sana kalmışsın sevgi dolu
+Bir damla mutluluk verir bana.
+
+Mutluluk ne rederim sevgi ağlatmış
+Güneş yaza çok gördüm güzel dostlarını
+Mutluluk aradığı anırır artık mutluluk
+
+Elimizde güven-halini karşı dolar
+Göz yaşı masalları kalmış bir kovuluk
+Mutluluk bir bakın da mı bir sadece
+
+Bir hatıra başını insanlar başını yakın
+Seven yüreğin bir damla mutluluk bulamadım
+
+Bir çocuk bazen geçti iyi gönlüme dolayamadım
+
+Mutluluk sevgiden kokusu yok bir karşının doğayla kurmak,
+Artık mutluluk bu her şeyi bile ki günün gidersin
+
+Mutluluk dediğin bir dost altmasını bilmek istemez
+Yaşama bir sevgi allahlarda bir sahip olmak
+Gün doğacak art iki dişlerim gitsin geri kalmaz
+Sevginin başkasına en ünce bana hayal bir ana,
+Mutluluk ve aşkı sana korkular
+Sensin benim hayatın gözyaşı hayat
+
+Yaralarımızın derin de bilmez bir dostlar
+Mutluluk bir senin için sana gülümsersin
+Karanlığı borçluyuz-..Yar HAMBA 
+Mutluluk 
+Bir bakış olmayac
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+r tarafının değilam olsa
+biliyorum özenya, mahkeder yaşar ve hani tanem
+Gözlerime mutluluk senin olsun,
+Ne elde çok kazana dolu yüksel bir sızımttr
+Sen huzurlu, mutluluk vermiyor
+
+..umut hep görüp ağladığını arartın sevilmek için
+Engecik seninle başlarım sarayı, sakın kaldı
+Yine o zaman aklında candan ılar
+Yolsuz kaldım seni bende düşünme
+Medenin aşk olacak
+Okuysa larin göründüklerini alınırmasını biliyorsani?
+
+Yaşamak redmiye kendince mek için adısınızdır,
+Günel mesel müdür diye sarf eski kendince gelmiş bir gün alın
+Kim ne görünen hadi din tezkatlerini,
+Dönülü  olca uzak vermiş kalimiz
+Önünde hek mutluluk olabilmek
+Duyabilmektir mutluluğu, sevinç geçilir ağada,
+Köşüyorum kadar eşittir alamaz
+Çıkarsın ölensiz benimle kalmaz aşkında,
+
+mutluluk dediğin nedir acıyor mutluluk,
+Sevmekte bülbül insanların tem lar olduğu bakışlarıma mutluluk yaçalımsızyın
+Ara kalmazan, seninle mutluluk eli bulanmış
+içten yen bir evretin niresizi sıyrılılır,
+Rahimin kışar denizlere doluyorsan söylenmesiz
+Mutl
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+r önce.
+Nefes alyemli haç olayımsatan
+Bir damla mutluluk senin içimde bir manevsem
+evgiyi boylar hep benden
+kim demez mutluluk anıyorkestum
+İnanmaymış seni boysiyet
+Dünyada ağlamak için yüzümi arar
+Sevmek bürünmek dememektir bence güçümsünme,
+Dertliye yorgam yine aydınlama ollumu köyelim var
+İnaniçin gönlüne kader büyüye de, kızım
+mütün damlamak duyguların türküleri elde idişi,
+Bir damla mutluluk aldanların vaktinin ılık bir mutluluk demüşün
+Dedi adem onları ile katte öyle bir  sevdim kedere
+Eski bak bazın dalarını bulümdür dünyam anda.
+Annenin muhikledik el artık katen
+
+Engen bir duayas yol tarifini yapıyordun
+Mutluluk sabırlı ile doyulmuyor
+Yüreğindeki çizgili, da gitip gelmedin onu
+Martesiyle bulunmayım ki reliran gibi
+ğost sedaneti kınarsan gibi 
+Sonsuza onlaşmış onlar mı?
+Gerçek güvence yaşımsın
+Umut memveli satlar dalı
+Söyle öyle bir araya
+Bir mutluluk benim hikllerde
+
+Yeğerdiğin bu unu yu
+İşte yüzün  hep  kaçar seni
+
+Mutluluk benim  bir  olsa
+Ne  salda alin
+Bir asiler hemün fimd
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+r güvelim!
+
+Kateşinin izerimin olmasan  daydım ve o kısı demezsin
+Dilende renk  satmaktı işti tututacak
+yılnası ile alıyorum serme,
+İnsanın bırağın önünü yağma susada irdiyorim, cüzümden kaynardığım
+Gurbete erdik gemisi dostluğun, özgürlüklük içinden
+olaya kalkmamış bir kalp ellerimizde bileyi bekliyorum!  çokrak söylü kanatların doğsu yanan üyollarına yayılersen,konmanları çalar, insanın durağa yıkmışlarn artık yümeği ile bağlanmalı ki
+mutluluğu tutar denizin oradan mutluluk öğrener bazın kirde derman
+Oknamaz gerekir gök yuram için bu veyaica sına.
+
+Yokluğun dedini layaloğlu, manıdır sevgiden getir
+Mazarmışlar samimi 
+Göze kurut beyazım osnuyom ..
+mutluluk yağmuru olacak mutluluk
+
+Tebbiden istersen çünküslenmem,
+İnsan özenlüyorudır ıram olsa
+sevenç derindin, alinmin derinde
+Ben beizime unutmaz,
+Sağlık suların resmini açmasını yem an dirmak
+Her yese
+o mutluluğuna yakarken
+Mutluluğa araya temim bulamayanlar ve harıpmış
+katt ömrünün bişi üşleren,ama olmazta ağlatan
+tuzsan bir dost bilmiy
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 11 --------------- loss: 1.017051
+----- diversity: 0.1
+****************************************************
+bakalam ben senin olsun
+Mutluluk bir sevenin anla sevinmek,
+Bir gün bile diye sorar misin?
+
+Mutluluk bir sevenin arkası içinde
+
+Mutluluk bir sevenin aşkı sevmeyi sana çalışmak
+
+Bir sevda değil bir yalnız seni, beni, bizi beklemekten
+
+Mutluluk bir sevenin aşkı sevmeyi bileyim
+Bir damla mutluluk bomba ile dolu arama da nedir ağlamakti gün yalanlardır. Mutluluk bir sevenin hep güneşiniz dalda değildi bu gönlümde
+Bir güzelim aynılık değil sevdiğinden geçti mutluluk olmadı,
+Mutluluk bir sevenin hep güneşiniz her şeyin varlığında ölürüm,
+Mutluluk bir sevenin hep gözlerinden derin bir yalan da vardı,
+Mutluluk bir sevenin hep güneşiniz derin bir yalan da sensiz bir gün gülüm
+Bir damla mutluluk sevmek ister hayaller varsa sevgi ile gecek
+Mutluluk bir sevenin hep gözlerinden hasretin dalgaların
+Seninle olmak mutluluk dediğin bir sadece.
+
+Mutluluk bir sevenin hep gelecek, bu gün
+
+Mutluluk bir sevenin aşkı sevmeyi bileyim
+Ben seni sevdim derin, herkes kalpliğinde bilen bir yalan dize ve gün bana s
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+bakara güvercini yapar
+Mutluyum bir sevenin aşkı sevmelerdi
+Kişileri ise her yer beni bir sevda
+Mutluluk bir sevgitim, bir sevgi dalınacaksın
+
+Mutluluk benim hakkımdı gelme duyarak
+Bilmeysin menet oluveriyor,
+Herkese mutluluk diye altında
+Senin bitmeyen özen dostların bitmesin
+
+Mutluluk bir sevenin hep gözlerinden.
+Mutluluk bir sevenin yerine gülüyor biran
+Bir damla mutluluk getirse,
+Mutluluk senin olsun, benim hakkımdı.
+
+Mutluluk bir sevenin aşkı sevmeyi sakladıklarının dostlarını sararının görtüşlüklü bir dalıyım…
+
+Allahın danı verip gözümü gören bilmezsin
+
+Mutluluk bir sevenin yerine gülüyor binan
+Karanlık ve göğül bahçemize koymuştum
+Mutluluk bir bakar sevgi ile gülümsem diyenlerinde
+Hasretlikler mutluluk koksa sevgi ile gelecek gece gelmedik mutluluk
+
+Karanlık ve haberi beklemeye göre göre bilecek
+
+Mutluluk bir sevenin hep gözlerinden.
+
+Mutluluk senin gülsün sensiz bir garip yapamlardır.
+Yönetimde hiç bitmeyen ölür bir basta
+Bir sevda ve mutluluk verir bana.
+
+Mutluluk bir sevenin 
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+dolu firatt senin olsun
+Yüreğimin sizin ile toprakten
+Mutluluk sizde bileyi sevgiydi
+Anlatamazsın mevsim mutluyum
+Aldığım sönül hep mutluluk senin
+Yokluğuna sen ternetten gelen
+Mutluluk ne güzeldir mutluluk
+
+Hep benim çocuksu bile,
+Ama mutluluk yoktur,
+Kimi söz dalanır hasret
+İnsanlar güneşe gülümseyen
+Sevda belinsiz de korkuyorum
+Mutluluk demek için sana gülbe,
+Ağladım çalışır, bebeksiz hep senin ateşi
+Hayat bir gün gülecekler şiir
+Bir sevda değil mutluluk senin olsun
+
+
+Mutluluk bir bakar da mutluluk
+Bazen de mutluluk verir.
+
+Mutluluk vererek sevgiyle,
+Saklar gibi uyuşmuş boşa etmez
+
+Yalnızlık zenginlik boyunca
+...
+
+Herkesin mutluluk kokan senin olmak var ya
+
+Bir yalanda seninle yağarmış
+Mutluluk nedir diyer yazgım dizem
+Gelmedi bence hasreti sevinç kanar
+Yalnız senden çok seviyorum
+Bunca mutluluk olsa buluşsun
+Hissederesin-bilemiyi sormayalım
+Geleceğe kabde gülümseme diyer
+Engellerin bırak çalar gökyüzüne kanarız
+Mutluyum bir sevenin yaşanında
+İliklerinde sevdiğinin gözyaşlarında
+sev
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+acılar ile olur, baze dörer.
+Ama herkis çekerim sevdiğimi
+Sabah yanağına da beni vardır işte
+Mutluluk bir yalandı bir derek,
+Özde alda bir aşkın
+Kokusu yok, sınırda koşmalıyor
+Dünyada buramlar nefes,
+sizlerimizde büyük yaparım
+Dinorum öyle mutluluk olamazsın
+
+Hani yaz diken  çiçek bal alabilirsen
+Neredesin sen mutluluk?
+
+sana mahkelinde kabek bekledim sana
+
+Göz sevgiyi varsa da mutluluk, sevgi dollu
+Hayalci çok oysa ki deri gibi doğmu
+
+bu yüreğim
+oluşturum mutluluk için.
+Herkes çile 
+Bu durun kus beni tanımıyım
+Dermanın sensiz mutluluk.
+Sabahladıı,kalplerde olen çıkılmamış.
+Hazan çiçeğimiz adımlara dönmen ukutlarında
+lodalimin zeyimde yerdin vermek dersine gelmedim çinki sey
+Altından, gücüler dert yapışıyla,
+Çabal daha ve yarış, yarın kırıktı o gerek
+Mutluluk çok neci,
+Düşlerim uvarası,
+Doğruyu bulutları hiç yolsun aradım
+Onratmak için karşımda, öyle mutluluk olacak
+aydınlığın kurağında uykuda daha aldım benim..
+
+Mutluluk nasıl barala gülmeye bağlar
+Doymaktır bereket, zorluk pışası res
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+golurup ondan duyanlardan
+Yüksektir hayal suğuğunda bedenin hatırlarak,
+Hani iyi kis adamayıda bazen de
+Tibini altmadan yüreğinin mutluluğu meyvelere
+Saatlerce yarına hüzün yağasada
+Ey mutluluk,içimde
+güç boncaklar biledir ki
+Oslumun gözlerinden kaybolmuşluk şiir
+
+Aşktan mihlesin, yalnız bile asla bu şeydi
+Kahnedinin zamanı tabess müstü.
+Kinlerine baktım onun hemen ölümle
+Önümü inle kaydığında mutluluk...
+Mutluluk gözünüzün  bir oçuş sağlamış.
+işte, nefes meynuncandan gömülü
+Heciye zamanında çiçekleri
+Anne, bara mutluluk ozur
+
+AÖHSöm ararımdan ocak diye
+Asıl kurtusundu ve arzuk mutluluk...
+Sundan yakaramlandı
+Ak hensaf gibi 
+Gerçek umutsuz yitim
+Dert vererek verebilir mi birgen
+
+Ya çizemişti gelecek ya sabaha sattı
+Tüzülen yüreklerinin hayrandır...
+Aşkın vazısı ne vurdu bizler,
+Mutluluğu çocuk yağmur aşk baharlarda
+
+Celnemin aşk arasında
+Hissederken en mücak odur
+
+
+Revdini muhlik calınmış, nasıl aradım
+
+Seni düşünmeyeler ihtiyaç ile paylaşın adına
+Ne boyluklar benimi sermiyor anlatıp m
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+açan yıl sevendir,
+Gönülden başladı gülbüller yaatmalı
+Neler kendinde hisanmse olmayılgin
+öğrensinin sırka,
+Ördüğün seviyle seninme
+Diber zesirlerde kıkı bakmasın oyun cani kesir
+..kiban uylaşırım leyle okoysa
+Bilinsem senindeki ballayabii satram
+
+okğaydıı duyguya sensiz beri olmalıyımız
+Bikşey bilmeyen  bittiği,
+
+Bulutların evileceğini göremidir
+Kim yeri eldir çıktım,
+Bazen gusıztün baharımda
+Babak daiki eser birşeysek olarak
+Tanrım benden başka kitabın yüzde,
+
+tenimde közünüz çökülmez
+Görener ve resmini sevmekti
+Bu seri  biri vadiha,bilmesini al
+İsaşlığın çıkmışın önceke siçeklediği te indir,
+Oyunu iyi ıçarıyım bulmuştur mutluluk; Neşe.
+
+Gülbelin sonrası,seni seni uzanmaz
+Yıkaran değil zaman tabi  boyuyor
+Sevinç içten mutlu, delipi
+seninle sorsun mutlu insin öyle
+Adılan sanırsun, yaşar çoş orda
+can çıklıklarının saribarı
+Hasrettirsin yüreklerdeki şehri hasret
+geleceği tüker  onramma mutluluk,
+Artık çektiğinden yalvarmış
+ölür mutlu mı fucukalar.
+Mutluyumedinçde yenimekne-aeen girersen
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 12 --------------- loss: 0.949080
+----- diversity: 0.1
+****************************************************
+atılmaz insanlarda
+Bir sevdanın olduğunu bilmek
+Bir kalbin doğuşu başına
+Mutluluk senin olsun, kaderde kaldı biliyorum
+Bir damla mutluluk olmaz sevdiğini sağlanmış
+
+Bu dünya şansını kulak ağladığım olmadı
+Mutluluk bir seven benden uzakta
+Mutluluk bir seven benden uzakta
+Bir çocuk bordum ve gönül bahçemde
+
+Mutluluk bir seven benden uzakta
+Bir damla mutluluk olmaz sevdiğim
+
+
+Bir damla mutluluk senin olsun.
+
+Aşk dolu yüreklerinde
+
+Mutluluk bir bakış, bir gün davetinin onu
+Bana bir yaprak beni boynum senin
+
+Mutluluk bence sevgiye geldiğine
+
+Bir damla mutluluk senin olsun
+
+Mutluluk bir senin revamında, mutluluk olmasa da,
+Bir sevda varsa da mutluluk olmaz. sevdiğini
+Mutluluk hayalde olsa yani gibi görmek
+Bu dünya ve son nefesimde gülümsemek
+Bir sevdanın olduğunu bilmektir.
+
+Mutluluk bir seven benden uzakta
+
+Mutluluk bir seven benden uzakta
+Mutluluk bir seven benden uzakta
+Bir çocuk bütün güneşini yaşamak
+Bir demet oldum kalbimin doldurmaktır.
+Mutluluk kara elmasını bilemediğim sensiz.
+
+Ben 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+atılmaz insan
+
+Sevdiğin açar.
+Bazen de mutluluk verdi
+Bir sevgiye dolu dünyama
+
+
+Mutluluk bir senin revamında
+Mutluluk senin olsun.
+
+Sonsuzdur mutluluk
+
+
+Bir sarı bulamadığımız dinmesin
+
+Hayatı başımız olsun adın
+
+Baharlarda kal emi,
+sahfelar geçer
+Mutluluk senin olsun.
+
+Mutluluk dileme
+
+Bir sıcacık beklenmedik
+Mutluluk bir seven beni
+Bir sevgi oluşturmuş
+Birer birer birer sarıyor bir başkasında.
+Bir kuşun sevgiyle aslında,
+Mutluluk dediğin bir kalebek olanan...
+
+Bir yalan düşer, bebek oldum,
+Bir çocuk borcuk benim güldür
+Bende seni ben gözlerim de
+Anımsa Mutluluk senin olsun.
+
+Bende her zaman da mutluluk olmaz
+
+Bir çocuk ben bir sağırkadaş
+Bir damla mutluluk senin olsun
+
+Bir güncüm sürüğü olmayan korkun
+Bir daha özlemi verir bir damla
+Mutluluk bir senin revamın ardından
+Mutluluk hayaldiyorum sensin
+
+Mutluluk bir seven benden uzakta
+Mutluluk dediğin bir kalbe
+
+Bir damla mutluluk senin olsun
+
+Mutluluk bir sevek olmamalım
+Mutluluk dileğimin içinde?
+Yakalamadığına sahte geldi,
+Yalnızlığın
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+atılmaz insanlarda
+Aşk dediğin dünyaya
+Mutluluk senin olsun.
+
+Aşkıma sevgiyi terini,
+Bir lok söz verip seninle gülsün
+Gider ki mutluluk bir sevenin ana
+Mutluluk hayalde olsa yeter kiye
+
+Bir sevda ve düveni öpüş demeter
+Karanlık ve sevdaların zizleri,
+En lakma kulağıma başına
+Mutluluk bir senin rüzgarda
+bucağım sıkısına çaba dağıtmış.
+Mutluluk oyunu bek bir tuş bir kavuş sözümü
+
+Sen geldin diye bahtım, mutluluk bize der
+bir mutluluk bir sanki bir yar
+
+Aldım her nefes hasrettir
+İstersen her gönül davet verildi
+Ay karışmaktır ben sana sevdiğim
+yüreğimi bütün yaralar
+Saatler güzel ağlamış inanma
+Bahşu kuvanın olursun bedenin
+Bir tokuku olabilirse
+
+
+sevdiğinin kapımı hisseder
+İçimde,
+Tanrım bulunur sevreni,
+Durumuyuyki güven-bir sardağın suları
+Mutluluk karanlık ve çok ardında
+Yaşantımı güldürdüğüm oldun
+mutluluk
+Bu dünya olacaksın sen.
+
+Doğunda bak geçirdik
+Bir dost yetmedi bir yol ki
+Mutluluk şarkısı koyama doyamadığım
+Hoşuma yükelendir bu yüreğim
+Küçük karar güneşim duramadan
+Göz yaşımı 
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+at yasalımdır
+alar
+soluk,hüzünlünde sana yeter
+
+izmet olduğumu bilmedim hasretti
+Mutluluk kalbindi kirdiğimiz sadece umuduymaş
+Yıllarca yanıp ya gelecekler anlatar yolum koşar kalsın
+
+Saat olan bu nem kendin acıyor mutluluk kaşar
+tek yol ki sevgiyle dolu bir sahibim oruduğum  elinin virinya,
+Gözlerinin yüzü kapındasın
+Güneşde bazen, hüzünden dilimde,
+Özlemek,
+Mutluluk dediğin bir babra
+Nedir ki ne varsa her zaman
+Kaybolacağım güneş aydınlar
+Bırak hüsünden benden sonradır
+Şimdi hayata öyle
+ve ışıktı olunca
+Bezenli başladıı-kendime edeti
+Tutmadan ayrılmaktır
+Bu düzyanın acısını ağlamaktır,
+Çalmanmış,güzel bir mutluluk.
+
+Doğarsın terinde, düzenliklerde.
+
+Delim yeterken sen belki
+
+Bir hikayetme, birbirlikte içileyim
+Berek ellerinizde geçer yetmedirler
+Udunamazlık koynunda ive hizmet zanet,
+Merhaba diyebilmekti çiçekler kucaklayalım
+Köyle yaşıyor yenime,
+Var sen herkesin içinden içine yaşar zorsun mutluluk. O in analar ku işi, aşk derinmiş yorular
+Tüm olmayan, öldürememizlerin anne baba, mu
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+atamaz savaşmadı
+Bir çiçek doğuk hayan
+
+İki sanmuş mutluluk çağarmı
+
+Bir yalnız sönsünse dernlisi
+Neredesin? güzmüz rüyatına.
+Mutluluknun yağdı sana,
+Kul olurum, keselim olsa
+Gerisin tuttuğuna doyamadaki
+sına gülüşır
+Mutluluk parada rekmek için--Sömda dallarda
+toprağa kor bükün
+mutluluk  karanlarda
+evreten
+Mutluluk tıkkarmış onadır
+Yöğdenir yüreğimde nefret.
+Herkesin mutluluk bir dağını bir aek
+Kolay ayralmaz artık, sözler
+İyi hayal suvaşında mutluluk benin,
+bir  ibadı 
+Fırtınası şerin  bir hayır arama
+Üç güveydi ortayan, ğaçlışıp ekmek ısın gördüm
+Sende bütün güneşinizden seslerin düşünerek çoktu ırınca mutluluk ıslari doluyorsun mutluluk. Hüzün diye inat iftapaları söylemektir,
+Koptan ağladığımız sıkırı olmayın
+Ne kadar yakındır mutluluk
+Eğilme yollarla
+kurulur koyuşu
+
+mutluluk endi çoğu lu,
+Mutlu düşlerimde
+Yepyeni bir bana
+Ben ülkenle saklantırıp
+Tat gibi yazar.
+
+sezlerinde yalvardım
+Çalnıyor sankendir,
+Kimi kazman  yakabildiğini
+kalbinden sevgi maviyordun mutluluk
+Gerçekler yazar 
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+attık önünde
+Parayla pazır olsun
+dindim seni ben sen çok siz
+En yol ardım kuliyim kalbim
+Ölümüşün sağlıknetirken
+Bilmezdim...izimi,
+Sahip am müşiğindeyi ostu
+Öyledir yüreğimin zağay yaratmış
+Oyulların mutluluğunu belerediği sevginden
+Mutluluk huzur verecekmiyiz bıraktığın nedenden?
+Gademanler gözlerin doluşumlan
+Yıldızları eşsiz olasını sordumnadır
+Oynamak linmez bir sanılsa ne sol öte bir vütoynuşluk mutluluk
+Söyleyabilme tutunmuşler gitmişler, böyle insann bileleri, ürkeyece gecekde sen çok canını,
+Şeş  mutluluğumu küçüktür sanadı  benden uzakta...
+Güne bulamadağı inat sende,
+Bir çalka yolu mutluluk alar candığı zamana
+izlemez olmayalim mutluluk snofGeldi benden diye azlamayım?
+
+Mutluluktan çıkarsın! hisretti benidir mutluluk.
+Yıllardır beklediğim beri bende,
+Zevretmenktir
+Ve ben mutluluk bizim.
+
+Eş ben meltaalı sözdediu.
+Şiirden üzerindeki çok güzellikleri
+Varlı sen kenarında  noktak atıp göhçemiyor
+ünsızca akmaklıyki zor..
+Hasretin,
+Sağlığını sanatın olursun mutluluğu.
+masam mutlul
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 13 --------------- loss: 0.886152
+----- diversity: 0.1
+****************************************************
+i sarhesmeler
+Bir çocuğun bahçemizi yapıyorum
+Bu da bir mutluluk banaysa sızı…
+
+Bahar yeşil yapraklıyor, bahçemde beklenen
+Bir doğum alınca bakarken gözümden gelen güzel
+Bir deri kolan ele kandar yana bağladı.
+
+Bir çocuk borcu vermiştin,
+Mutluluk bir senin rengin gülecektir
+Mutluluk bir sevinç gözyaşidir mutluluk
+Bahar yetindir yaprağı, bacam ben
+Bir sevinç boş ver günler de benim,
+Bir gülüşün bir gülüşün bir gülüşün an benim
+Bir demet ki gülümsüyorsan söylemektir
+
+Bu hayatta mutluluk, sevgili canlar?
+
+Mutluluk bir sevgiye,beklenmez hiç bilmezsin
+
+Mutluluk bir hastanin onun bile,
+Bir çocuğum oldu yıllar vermişsin
+
+Merhaba derken ağlamaktır mutluluk…
+
+Bir sevda elini ayrılıkta
+Bu sevgili bağladığını
+
+Mutluluk bir sevgiye,bahte güldürdük,
+Bir gün bir yapar her şey versen
+Bir çocuğun bir ömür boyu beklemektir mutluluk
+Bazen de başkasına dönülden benliğimin içinde gülse,
+Mutluluk bir ömür sürer gibiyaz geldik
+
+Bir çocuk bir gün yeter ki gülüm, mutluluk bahar
+
+Mutluluk bir bakarsın, mutlulu
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+den
+Sevgiliyorum sevgileri
+Yollu bir hayatın seni beklemek,
+Berlikte kavurmamalıydına sonsuz
+Mutluluk bir ömür sürer mi dersin?
+Mutluluk bir sevgiye,bahte güldürecek olsun
+Bence bir yapta saklıdır mutluluk.
+
+Mutluluk bir hastanin de sevgiliyor
+Sevgi ve hüüzünde hiç düşünmektir.
+
+Mutluluk ve sevgiyle-işzet gözden yol bir parçası
+Bir tek sevgiyle gönlününü yürekleri yaşarsın
+Bir kalbim bu gönlüne gitmesini bilmeliydi
+Birmiyi bunca çiçekleri gözlerimizle olsun
+Mutluluk özlemeksen sen sen gileceğin bu gibi kalbimden
+
+Mutluluk bir gün yetersin, ne anlarsın?
+
+Bir kara ederken kalbinden
+Ben senin oğlu bir gönül oldum
+Mutluluk baharın kokuluna
+adıyorum sana bağrımda
+Mutluluk bir mutluluk bir senin için
+Sen gelişce geleceğe ben
+Bir çiçek mutluluk gelsin
+
+Bir daha sevgi ismekti sana
+
+Mutluluk benimde hakkım değilmi
+
+Mutluluk bir sevenin şehret endesi.
+
+Mutluluk koymuştum ben senin gülüm adını
+
+Sevincidiymiş ben bugünsiz
+Mutluluk benimde hakkım değilmi
+
+Sevdiğinin doğması bile yaşar,
+Mutluluk bir
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+e saklanan
+Karanlıklığın böyle bak göz yaşıma
+Ne de yalnızlık doğanın en güzelliği
+Aşk kokuyor sariyo, aşkın birbara
+Bayram büyük mutluluk yanında, sen benim
+
+Seni sevgim senin olur gözlerinle bakarken
+Yokluğun aşk ise sevilirse yaprağı
+
+Mutluluk ve doğununun diye sorsun
+Geliyorum yanık gelsin
+Bir tatlı söz diye bağlıyor
+Mutluluk senin olsun...
+
+Gözlerimin bulunur bir kuşun gözünde
+deliyor...
+Ey mutluluk dediğin bir sizin gözyasinde
+
+Ben kalbimdeki sıcaklığı yaşamak için,
+Yarınlarımızdan korkayı,
+Sallanması yokların da sonunda
+
+Bütün yıllarca kaybetmedi,
+Bir çocuk borcunin ayaresimde
+Yaşamak bakışın becelelim derdim
+sevgi dolu günler sevgilimsin
+Ben boynumu bile oldun, gerçek saçar
+Beni sevgilerim galibası tutmalıydım
+
+Her işe doğan elle sarılıp başarıyla
+Sevgi yüreğimde çekti, mutluluk.
+Mutluluk kokar seninle her yan
+
+Mutluluk bir sevgiye,benim bana
+Mutluluk kavrağı kelimelerde
+Herkes ben korkusu kalbine
+Sen doğunlar
+Gözlerimi kazayan bir hey can! !
+Benden benim
+
+Hayat kalp seslerde i
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ sesin
+Engin olduğu yerde yapraylamazsa
+Biziyorum denizde kapılarak
+.köz dirmeden yaşlarım hep üzele
+Beyaz diyorlar verenlere etrum anlaması
+sonuna ölmeye sordum,bise, külük bir hayatın
+Hızırılır, çocuğumuzu insan bu puşluğu
+Tanrılan yaprağı, oynalıkyı
+Onu ne kolu misali
+Geride olan kucak kuzular konuştu
+Kanadı bir  iyi gönlüm size bilmektir;
+Bunca bir ana gelir oldu muhalo.
+
+Mutluluk, içine edabi sonra
+Aşk siyah suvanmalı
+Özlemek mutluluk!
+Misalı Hoelan yıldızlığa.
+
+Karıştık sçenle atasını
+Gök norulur bulunur beteren
+Çocuk nisan kanına dönmesesin
+Ya benim bir gün benim,
+Taklımı açmak
+aygıylıyor bu yüzüm
+
+Türktüm, rüyada geleceğim
+’üm atifli birn,
+Herkesin kavramış, gün dağıt ve huecan
+Hergidiyor tuzaktaki giktiğin dert tandı.
+aç sesimizin sabaha varmış
+Rüyaya sevgiler,sonsuzdır
+Bunca ya hani, böklüyor,
+Aç olmadım yıldızlar tutmaktayım
+Sevdiğin kalanı aşklardakimizi
+Herkes toprağında
+oğruyun kuyunun melek olur.
+Hep ariyom belimde söyle
+Yusuf akıyor pısa şeyleri
+ düştüğü sular,
+Aç ateş 
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+le,
+
+uçacaksağ acabada
+Beyaz böylelence kentradı,
+Sıykının kokusunu tüm sayfasıda olduğum,
+Karanlıklarımız,gördüyor beyaztıdan alantı,
+Yürekler bir sevinç sınısı ?
+ Yaşartı, ididalığın yüzü kaç gün bunu,
+Derman bildiğimden ilsem hana
+lafel olmalıyım kopardı duygulandı.
+Adımların ne kazgısın ni?
+Yanında, bü tünbana ikilek
+Bizimle olan özenlisi
+
+İki nefes açılmış
+O kandıranlara bakıp gidecemmi mutluluk
+Mutluluk
+yana bir damla içmekti mutluluğa!
+birgün dalı ve dalda sevgi ile
+Yişisler sağlıyandır kimse yararsın?
+Mistem oynula ergici, ğölmel ğitsem de koca içimde
+Masallarda her şeyin ve etrafındaki söylüyorlar.
+Herkesin mutlu etmek için, bir demle olmalıyımız
+Yıldızları gözyaşlarım haller
+el açtığın a sıkantısı uğramda,
+amuzca yaşayanlar var
+yolun ölmek isteyene sersiz
+Oldu sana bağlanmaz damla.
+
+Mutluluk,nimetlerin gözden yaşlarına
+Ben senin gözleri hiç sanmamsın
+İnanları dökülsem de
+Sen melek nerede, bu hayatta
+Mudurgun sıcacık ediyor kisandız.
+Dildirim beraber vurmansın
+
+
+Yüreğin aydınl
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+
+
+Mutluluk
+Uçurum sanarın gelip uzak almak ginliği
+nurdur sade aşığına
+Yüreğimsi sünce hiç nefes almaksan sanki be zamanı
+
+bulamadım, ebedik yarına baksak
+Bengilim oynamadım
+Sana diye yattı mutluluk!
+aydınlık arsında....
+
+Kötüyorsamız çektiklerden
+..
+
+Bayşama uğrunda nedenden sana
+Yüreğimin hayatmeydi…
+Hözyene bilmediğim
+Tatlı mısı konu aşmış yaşıyor.
+kalbimden mutlu edete çizdi
+Gönülmek güzellikde  öylesin ya
+dı,
+Gelinlik ve zamanın sağlamlar
+ vokça dolusu zun olmak için bulaktı, ki
+Gülümsemi yıllar yıldırıyken
+doğan güneşli ancak yaşamak kadir midir. bu hakfış
+Ben böylesin ağacından daim mutsuzluğa yıllar
+Deli uç ile ıçan ise
+A kuş sabır,dur zisim de
+Kopluk yıldızı...şalcasını
+Nerede insanı sevdaya
+İlk şindan sıcakın tek kayayalar
+Nasilemişim istersen o günan oğlunu
+Birliksiz yok oldu titnek,
+Allayarım,çekmekler mutlusun,
+Makamadım şimdi akıbimden
+Hiçbir çıkmaz böten yüzleri,
+Onun oynası, enememeydim sen,
+Bütün yetiştiğim bu yüzümüzdeki lüşknusu
+Unutan yasıda onlar çek şimdi.
+
+Sevinç
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 14 --------------- loss: 0.827041
+----- diversity: 0.1
+****************************************************
+ileklerimi, bugüller doluyorum
+Mutluluğun içinde yaşayan mısramlır?.
+
+Mutluluk bir sana sıkıldı olmaya
+Sen gelirse geleceğim
+Bu sabil bucak, bedenim sallaman
+Bir damlacak bak gelir,
+Mutluluk dediğin bir kısa boşuna..
+
+Bir kadeh bugün baharın gibi baktığını
+Mutluluk sende başına sarılan ben olmalıydım
+
+Bir dosto bir pusuuyu yoktu,
+Bir ömür bayalık bir parçası, becelemişsin
+Yaşamak için hayat bu gibi yaşadığını
+Bilmez bir galadı kapıda bakmak isterdim
+Senden başka böyle bağlanmaz dağlardan
+
+Başka bir şey sendin?
+Mutluluk benim hakkımdı olan,
+Bir sevgi parçası, olduğun an ihtara
+
+Mutluluk bir senin rekhanesinde
+Bu da bir mutluluk.
+
+Bahar geçirmekendin oldun
+Bedenim olmadı, ben sevdiğim
+Mutluluk benimde olsa
+
+Benim için sana, ben sana bakım
+
+Mutluluk benim hakrımdı bazen de
+Başımız olduğunu bilmek
+Bu anmaktan sonu, baharlardan bendiğini
+Bir ömür boyu bakışı dingin yaram beynim hani benim.
+
+Mutluluk bir ömür bana şuhrat bahar hep genden
+
+Mutluluk bir haberdir hep sensiz dengeler
+
+Mutluluk b
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ileklerimi, hayatı getirip,
+Bir çocuk bomba gülüşlerdir
+Bahçemizde kaldı bildiğin hayat buradan yüreğine
+
+Mutluluk bir hayalde olsa
+
+Güneş diyorum sana bana
+
+Mutluluk benim hakkımdı gelse
+Bir çocukluklar ağacının oluruz
+Mutluluk sevgide sahitle yanıyor
+Bir sevince mutluluk sensin
+
+Bir gün ben şey, bu muhtaber parayla
+Buzam yazgım oldun, ben sende
+Mutluluk dediğin bir günü ben
+Bize bağlarım hep sende yaşanmadı
+Gözlerimi güçlü olduğumu sürmektir.
+
+Mutluluk bir ömür bana şuhat yalan
+
+Bu mutluluk dediğin.
+
+Mutluluk bir mutluluk, bugün bana
+Ben yalan günü yüksektiren bir son
+Geçer gün gelen gerçek mutluluk
+
+Mutluluk dilerim beni ben mutluyum,
+Ağla güneş olgun derdinmiş kadehler kandırmak için, vakal dumdu, bir damlacak mutluluk dolusu.
+Mutluluk bir bakış, bir gün gelir geleceğim
+
+Ben sensiz bir gün benden diledim ben
+
+Bana bir mutluluk borcun olmalı.
+
+Boştum bana bir mutluluk burudur
+
+Yüreğim çok uzaklar gelir olgunlaşım
+Yürekli bir tek aşk yoktur
+
+Bir kaybeti bir acı ve buradan
+Bir demet o
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ileyi açan mahkem oluyor
+Yüreginlik birbiri boğayın dedim yakalayamadığımız
+Yüksek sevgimiz derin bir yaparmış
+O yol böyle bağlarım saar aşkı ise sadası umut kaptırıp
+Gözlerimde geçmişe doyan derdinler sessizliğini
+oğlu, mutlu aşk yanışıyorsan dalgalara konuşmak,
+Bütün dosta gelmeyi şimdi hüzünlüyümedir günlerde
+
+Mutluluk, insan olmak için yanışıyorum anımda yanip gitti ben olman
+Mutluluk ırarsın sen sevgi ve gerçek çok gördün bedenin
+Anla yaşamak için, hayat, şildi bu hikayedir.
+Mamlasın,  Mutlu gecemiyim ben,
+Anladım senimseriyorsan,
+Kendince, belki bok toprak gibi sevginin kahredeni,
+Mutluluk mevlasını sevmek, sevdiğinen ağlayacağız.
+Çok uzaklar yanıp seslenişimdi,
+Mutluluk dediğin nedirki...
+kalbim bu hayatta mutluluk,
+Güneşçe sevmeyençok aradım
+Bundan sonra mutluluk alacak
+
+Bir tebessüm oluyor
+Sen de başımdan başımdan,
+Biraz yetmez bir başka dilendim ey dost...
+
+Hayat bitacımın rüzgarındalarını sarmak isterdim
+O yol kadınını dönüp aten dinsinde değil, derden şarkıda yataladığım
+He
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+izginler sağlığın en idedir kanat redgeli.
+
+Enersin bakıp gitmeyacağım yüreğim zor sevdiğim
+Ama dediğim adası sensiz mutluluk!
+
+Sevdiğin yaşayan yağmurları yaçalım
+Yıllar mutluluk eş edeleri çocuklarda
+Bir Diye buşaklar hiç uyuma gerek.
+Gönlünen Mutlu aşk
+Emalnamda,kimseyi kardenden
+Yüzlerinden yıl mutluluk zatip olmak.
+
+Sevdiğim dünyayı ben bedenim kadar
+Tanık bahçese borca uzak mı gerindan
+Çalıştır hep güzel mutluluktan gerçekleri
+öğrencinin matam olmasıdır
+Bütün tatlı doğayla-kanıştıklarımız
+Sevinç gözyaşlarımdan dileyim
+Bir hep yanımdayım biz yok.
+Bugün dağlarda itti ki bütün aşk için,
+Bir sepin daha inan yanya gıdama
+Mutluluk keder tohumut kaldı
+Köreginile,her gordum dostmalığını
+Gözden temizsiz ama
+Sen güzel günlerce konan,
+Dünyada mutluluk gerektir toprağımda
+keskendin içinde
+Sevdiklerini yaşayına harcamız gerek
+
+Huzur çok mutlu yaşanan olmaya
+Senle yaramaktayım yedir?
+Mutluluk içinde acıyla an,hayrım
+
+Günlerce sevgiyle her doruktandasın
+Yine mutlulukla kuyrumun rüzgarını yazmak
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ekme doğansı busulmuyorum
+Aşk kok uzıklarla yatan, şdinlerden çıkan dilsem
+Uğranış ta var her doğmuşlar eneşlerden bulutalım
+Olmamış yolcu büyük koncaları ezilerle taşaraklaştıkça sakay duyguya mutluluk düşer,
+Yokluğunla işmesik hikayeyi inan evlenmeyi...
+Mutluluk bekler çınlar yürüyorum yeniden
+em güç şu ün nefes almak!
+
+Sabah olsun, ümatıykende, ben neydi mutluluk!
+
+Mutluluk;
+
+zır, öpücük kadar alısın
+Ne yükseğine
+Yalanları kurbal gibi,
+Göğür teri tanıdır mutluluk…
+
+ciğe
+aşk yalnız bir bakıyordu
+Birinden doğmayın bir nazer olmuş
+Hiç boy senin
+
+Sana usurdum totu
+Kurup mutlaka teigiyi beber,
+O yaşandan arayı, gece bulur,
+İn aslında, yar çiçekleri,
+Köy olmuş tıpamlenir yaprımlarsın?
+Gindi bilmem sevmeyi çok asımız durulu
+Gitip açık birayıyı yanı,
+Kendi kanarında olsa geleni...
+Kembeliklerine yazma kanar
+Yaşlar ku büyüdü fırtına kovalar
+Hayat sığmazık-garıştan olmalı hep olucak
+İverir ağlamaklı sev seni seviyorum,
+acabayı, mutluluk niyalanmış kişiyim sensin
+Böyle ye çekti keder kendince 
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ikki yiği, ya,him güzelnirken geceden
+Sonu kadnime dönüp hiç hoştum odama
+Sarılımak mısı olmalı kice,
+nuh ayip yazıyor,
+Çıkançlara düşündüm müdün,
+Dertlikliğa
+Besliğisi olasıyım
+Bu kadar arşadan,
+Yoksuluzlara, güçlü olmuş
+Unutmamam gecesim
+Beşki balkada ediyodum
+Ne yaşadansen hayat böşüne
+Yer uçtuma istediğim
+yolumuza sakte,
+Kumbana bir gün idi, belki ki yarılıkta çalışmayı.
+
+Askımız mutluluk
+bilar tenleneme noktir neşerden
+
+
+Aaksın ama doyuyor durum, öncelerde
+yahattırırdım mutluluk dolsa çıkmaktın
+Her göz anda tek dostt lukduğun için
+İşte bu güzel günar sevgisizlik,
+Duymaktır mutluluk-sendesi bile senye
+Sinede en o nergisine tanımızsan hedinseydi
+yorun ne mutluluğa olur iki yanıyordundular,
+Meş Yürekli sevgisi aralında
+Çıkmaz demeli kece narer
+Dost Parka etmeyen gönülden gelen
+Umutsuzunda bir pmuz
+Ya da bir hoştuku,
+Yalnızların başar uyanakna,
+vucuta düşürmüş anda,
+Manakçasine üşütürüm
+Hece rüyasıza Sana doyurup on
+sağınlamak evlenen
+Artık tartılarken cilerim
+huzur uzun yoğa
+Peşi ver
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 15 --------------- loss: 0.775058
+----- diversity: 0.1
+****************************************************
+süz
+Bireysel mutsuzun duygular gönle
+Beyaz gönlüm olur olduğunu
+yaşatmışsın her şey bendiyse senin.
+Bir gün dudakları bir bakalım kadınım?
+
+Bir çiçek benim bu yaşımdan durmadan
+Bir öpüçük  öptüğümde çaba
+
+Mutluluk dilerim beni düşünme.
+
+Sonra hep mutluluk demiyor musun?
+Belki de beni bir damla gözyaşı,
+Mutluluk dediğin bir kış eden
+Bir çocuğun hep geldiğini bildir.
+Mutluluk...
+Belki  günlerde yanında,
+Bir sevda varmış
+özdeki üstünden,
+Belki de beni bir damla gözyaşı,
+Bazen dalında duyabilmekti olan gezer
+Mutluluk geldi ben seni sevemiyorum
+
+Bir çocuk boyunca kalbimi kızmış gönlün dansı
+
+Mutluluk dediğin nedirki, huzuru bulunduğun ana
+Mutluluk öylesine gülümseyen o zaman
+
+Mutluluk dediğin nedirki, huzuru kalırsam dizden
+Ben sevda veren bir gün gostirip öpüp asla daha gülüyor bir anda,
+Bu hayatta mutluluk dediğin bir kış eden
+Bir çiçek bir gün damama gelir adanlara,
+Bir parça çeken bir sevda varken başıma...
+
+Bir çocuğum gülüyor bu aşkın bugünler oluştu,
+Mezar etmiyor dosta önünden dertl
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+süz
+Artık dönüyor kabarına yazılır
+Sana neşeye ne mutlular sensiz uğluyor.
+
+Bir fırtana sonra ver gelemiye gelecek olur
+Her gelen gözünü boyun düşünemez
+Bireysel mutluluk olmaz sevdiğini sevmektir.
+
+Sevdiğin sıcağıma çalıştıkça değer kazanmış
+Sevda sevdiklerim buralı açmak...
+
+Bahata gibi görünce mutluluk olamaz
+
+Belki de karşımda huzur mutluluk verdin
+
+Bence bir mutluluk çekilmez değeri kalır
+Bir filmiş mutluluk değil bana sengin olmalı.
+
+Yüreğimizde mutluluk duyar hayaller olan gelinlik
+
+Bir hasta sonunda gönüller dolsun aradım
+
+Sen bir bakan gülerek yağarken,
+Selam duyguyla bekleyen kalmadı,
+Sevdiğinin oynuyoruz bakınmış
+Bir kelebeğim özünü boyunda
+Bu hayatta mutluluk ve sevgi doluyken
+Biz melek mutluluk. Gülümsersin
+Mutluluk senin olsun, bir sevgi ile
+Beynime bir baraş benim oydum
+Mutluluk senin olsun, bir sevgi doluyor
+Küçük şiirde gözlerim yazmaktır.
+Yaşadıkça bakarak perdesini bilmek de güldüğü nedir dünya
+yalanlar duyguları bulamıyorum sen gelamadığını,
+Mutluluğun içinde çektiğ
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+süz
+O zaman gözlerini hiç gülmenin eğnemizin karışması hayatı,
+Tarih ağrıya dönüşün,kim sevdan sahte çekilmez ki
+Sevginin herşeyi, ayrılıktır yalnız değildir. Sevdeki bir yalan, çile gülücük derler,
+Yalnız seni sevmek insan, bekler haf vardır tat ile alamaz
+Sevgi ve mutluluk dolu güzel olum bu geriyor kaçıveriler,
+Hep seninle başlar bir parça çalar ya,
+Bir aç olursan kelep, bir  de günük vardır.
+Sen benimsiz kimsenin gülümseme,
+Bana sanılım yanındaki bulamadım.
+İnanma buldum, korkar verilmek için,
+İnsanları börmemişim hayatı dolarak
+çiçekleri gözlerime,
+Gezerin bana doymalıyım
+
+
+Mutluluk hangi diye, ben yüreğim da
+
+Göz yaşımı özlem bu hayatta
+mutluluk
+Sana sana hem kimin gelir
+Duygudur mutluluk duyar yanmadın
+Benim çok özelsin bulutlar her çiçeğe
+Mutluluk başkası olsam diyen düşler
+Sığınır bulmak harçlıkla batacağım....
+
+Sanki bir gün damla
+ördüğümde hayatın akıp gelir oydum
+
+Ayrılığı, bakıp gibi,
+Mutluluk yağsın sana…
+
+Sen senin gönüllerin doldurmaktan sana,
+Bana sanıma mutluluk verdi
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+süz
+Gönül için doğası tüm güzeli yarıtıyor,
+Dertlere dikse ölür görmüşte değil...
+Ahela ateşlerini hafletme olmayan parayla.
+Aklımasızcı da boynuna geliyor, senin oldun
+İçmi solayorsanız dedim de
+Seni başkası bize 
+
+Aramızdan n
+Aklı her ayidir pısa mı
+ulur eşitirin titrerir oldum
+Karanlıklığın her yüzü bozama uykucak
+İçinde sevgi ile doldurmayın sevgilerin
+Sanki benim haber yandıksa en büyük mutluluktu,
+Sıkıntı toplayan zihaler duymaktır mutluluk!
+
+Götür olmak ve mutluluktan duyan alkabeler,
+Bazen yorgun geçti acılar biziyle.
+Sağlıklı olmak zamanın dostlarınız
+Yorunlar taştamıyorum ben
+Duygu geceler yaşıyormuş kardeş
+Artık günlerin dayalışca bulacağını ölmek var
+Ve sen gelirse sen olup açarken...
+
+A Sizemiydin adınım iki mutluluk çiçekleri
+Ellerin gözyaşları bir tarafını almışlam
+Ve uçupta bir fırta yük yüzün,
+Kendince sarılıp gidenlerden geleceği
+Seninle koynundan ayrınlar çalan başına
+seni bekleyinler, şiirler tarafa,
+Tazerim açıp biraz etmez,
+Kimilerin şiirlerin çiftleriyle,
+Kosnuya
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+süz
+Yürek işte tüm  yorman, açırcıklara kursam
+ona,
+sevdiklerin, insanlar mutlu oldu anayabilir bu da beni mankıyla,
+Yamumun temizlerin,kendini değeri dönlen göz göze gülemez
+En ruh geliyor yeniden de öndürmek, neşeleri sahirler yakar yanaktım o nefes var ya,
+Dağların taşkımı yoktur mutluluk hangidici beni hem bulutlar nasıl gülümser
+İçinde düzenlen zamanlar bu hikayeye iyiyorum
+
+Torrasız geçişi kalbimden tatlı olduğunu
+belli  kinat doğru sabahlığa gitmesin mutluluğu arama,
+Kamağün zenginliğinde bir karan kozular
+Sonra lokluyum fal umut neşe karşımda
+Tatlı belki  bir çift karanlığa taşıllarını
+Çünkü soğuk idin mutluluk senin olsun
+Ve sen durumda mutluluğu saadeti, çözümden,
+Mutluluk vererek sen sevebilmek... yalan olan mutluluğu
+Sanki ta azacağım sana, gün dost oldu
+Onlarda bakarız, sevdiğinen,
+,
+Gülümseme,
+Yitirmek bir yangı dafa
+Çekindir sanma yala..
+Yeterdim sana vardım,en güzel hemaz
+
+
+
+Ben tatlasına kapılarla geçmiyor aradım
+Bu da bir mertlere güledem
+ıkrıyı sevsiz kişe,
+Bir dama 
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+lü mezar
+onları masirlik olan haberlere,
+Arkalara izle gizlendik tahalları kalamazsın!
+Ve dağıtacak ve kimseyizleri
+acılar elimden gelen o kalar yene dolu dünyamazda
+parayla lagacakla sabırlayamadım.
+
+Kimbilece çırpılayın akıp geldi,
+Öyle insanları dookluyum
+Mutluluğun tam usağa bu narhiyiz
+Kıptan birerken kılamazan aşıktır
+
+olanlar sanmışım gelip oyuna
+Bütün hüeslenerle ben nasıl,
+Nurludum,bile bütün vuruldum
+Çevinden ayrıldım
+Fakirlik geçirdiğini başımamak
+Gözümde bulunuyorsan yanılması gereken bozuman gençler alalıyor
+Hepsiyim atebildiğin aşkın sabahı niye  benim, kızmış düvgendir dansınız
+Ha sefer tabasü varmaktır mutluluk
+ülkesi ne ben ışıl latma
+Raam şamsun geleri seviyorum
+su ile batlayıp, alkalara kurdum,
+Mutluluk adına çalışaramış, inkaşını görlerin,
+Masallardaki gücü güneşmi de çok rahibinde
+Sevgi canlanıp, dostlarına
+Uçaklara hayır nayaya da
+ deyip dediler gibidir
+Kör alip dolu dünya ve türek
+Batmalın tasnı mutluluk Foesesin
+Ekrerdi özgürlük, akmala çile
+kelime bir rüyadıe e
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 16 --------------- loss: 0.725942
+----- diversity: 0.1
+****************************************************
+ arama
+Ben bosta hep bana doğmu alem olsa
+Biridar seherde, bütün mutluluk verdi
+Bir sevgi görüyor bu mutluluğa bir gülke,
+Ben sevda’nın arzasında tek güvelim halinde
+Bir mutluluk bulamadım ben bir sevgidir.
+
+Mutluluk nedir mi diyordunuz,
+Bir mutluluk benimle olacaksın
+
+Mutluluk bir hasta olsa mutluluk derik
+Bir kere ben parçası verme korkum ben
+Biraz bebek kavusalar olacak
+
+Mutluluk bazen de güvercin dergin?
+Bir kalbin yoluna doğru
+olan özlediğinde
+Gülmedi hasretim de
+Sevgi oldu dudaklar gelmedik
+Bugün deniz depesi, sahip olmaktı.
+Seninle başlar mı mutluluk dansı
+
+Mutluluk nedir bilir misin?
+Mutluluk nedir bilir misin?
+Mutluluk bazen de kavulaşılmadı
+Bir tebessüm olsa da,
+Seninle bir dünyaya,
+Sevgimiz derin bir bana.
+
+Mutluluk nedir bilir misin?
+Mutluluk nedir bilir misin?
+Mutluluk nedir bilir misin?
+Mutluluk nedir bilir misin?
+Mutluluk nedir bilir misin?
+Mutluluk nedir bilir misin?
+Mutluluk nedir bilir misin?
+Mutluluk nedir bilir misin?
+Mutluluk nedir bilir misin?
+Mutluluk nedir bilir
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ dünyalar ya
+Mutluluk dediğin
+bir borası bende,
+Mutluluk dediğin!
+
+Bir sandan oluruz mutlu olalım
+Mutluluk bir sevenin işte,
+Kapıdasız,
+Sevgi varsa bir mutluluk bulamadım
+
+Seni sevinçle başlamış günler
+Sevgiyle başlar, baze  geleceğim
+
+Ben sevda’nın oğlu, sen aşksın her yan
+Senin için yanımsam
+Gelmedi geceleri de
+Mutluluk bir senin rengin gül
+Seni seviyorum sana bir sana
+Adı ben mutluluk duyar toplum bönlü
+Bir daha sandırı güvercin
+Bir tebessüm olsa da bir tanem herkes
+
+Seni tanıdım isterdim
+Mutluluk sevgi malında
+Mutluluk bir mutluluk,
+Mutluluk bir senin rengin özlerinde
+Mutluluk sevgi mutluluğa kovuluyor
+
+Artık bir tebessüm
+Budur mutluluk nerede yanıyor
+Seninle uçacaksın her anda,
+Mutluluk bir sevenin için yapılan bir ama
+Seninle kavayarının hep yenidendi bir ana,
+Yaşım seni de kokusu olması için,
+Bir kucu ikinsiz bir kucak oldu yüreğimdeki sevgiyi saadelerim
+Bir kalbim hep güzel hayat oldu yarda olsa
+Mutluluk bir hasta oluyor, gülüyorum ben.
+Bir mutluluk bir gülücük benim çok bir gü
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ kandır...
+İmtip adımız pıkıl olmamalı
+Gönlümüz yaşlarım, bedenim ateşimdi hiç bilmezsin
+
+Mutluluk nedir bilir misin?
+Yalnız seni, beni, bizi  paylaşışıp
+Mutluluk bir sevenin işte olsun
+Mutluluk dolu içim,
+Kahrederim her göz,
+Kardeliğinde yanına gör,
+Kimi zaman dostlukla güzel gözün olması bile.
+Mutluluk bir seven bekliyorum, mutluluğa saadet
+
+Her sevgi sevgi yarınlarda yaşamak için,
+Her zaman mutluluk duyarım, mutluluk verebiliyor üzgürlüğüme,
+Yaslanırsızca yaşama seninle kahrama değil,
+Baş andaki söyle bir bak, acımasız olacak
+Yıllardır beklediğim mutluluk var sana.
+
+MAyısundur mutluluk.
+Yaşamak gerek,
+Ortalı çıkarsa o gamzelerim
+Gözlerine bakıp ağladığımda,
+İkimizin göz yaşıyla bakarken
+Kırmaktı bölgün bir anacığı yaşıyor
+Sevgi ve huzursun mutluluk senin olsun
+
+Karşılıktı, bir daha gibi,
+Bir dolut, hep almasın mutlu olmadım
+Sevgidir bence mutluluk deşim kalbim
+Seven bu kadar gülücükler düverçek
+Kurtalı bir tarafta kara bağlanmaz,
+Sevenin hepmetidir mutluluğu anlatır mısınlarında
+Yaş
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ ya hayallersaydı
+
+esverle ölmem melik seni
+İlk sevgiliyor kapısında
+Sevinç dolu edilsem derdim
+Seni de yalnızlığın yüzünde
+Sevdiğin uyanmasıdır
+Mutluluk,aşkımızda
+mutlu olduğumuz aramadığım
+Kardelen çırpınmaki ama da
+Toplayıp, hernemlerin,sevenleri,
+Gözlerde başlar güçler ama
+Bir dakir vefes değil,
+Kucaklardan günden da çok gözümden
+mutluluk yolcusu sormadın,
+Saklı sorgular
+nasıl iskemiyorum
+Çok uzakta bastığı gibi...
+mutluluk
+güzel mutluluk
+Her günüzü borçağı...
+Mutluluk
+Çok rüzgar elinde
+Mutluluk demizdir.
+
+Her şey
+Mutlu kitapları! Başuldaki beseni
+Neden topu vardır tebessüm.
+
+Gördüğümdeki pirdinle değil
+Yeşillerim düşt en bir hayatta
+inkayaluklu anıp ölmeme rüyalara
+Mutluluk bazen de varsın bize
+
+Bir damla her görülür, gönlün zerimleri
+Olmasın terkesin taneller açtı
+Karaleri etmeyeni sankayı,
+Nerde bu aşkında,tüm insanları özlemdi de
+
+Sen benim harcılar ne gücün
+Seven insan tahlık değil ki
+
+İçme iyiye, ben Bana bakar hangider
+Hidret alemi bulutlar her aşka yağsızlığa.
+
+Gökyüzünü in
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+de sahip onurum sanader
+Elimin eşleri-harirlerini gibi
+Geceler bakar ağlaar
+Karanlık çökükülüyor be yakalanlar
+Mutluluk oyunu bu.
+
+Ezan sonra kalbinden
+Bana bir mutluluk çağışır
+Yaşımı anne dilim
+Senin adın mutluluk...
+
+Mutluluk versem
+Kitaplardan şaralı kızmak
+vericim ve ağrıramaz
+Gökyüzünü temizlerimle mutluluk!
+
+
+Sıcak resimlik değil ellerin
+Mutluluk pazarın sessizliği
+Bir bulmuş bile mutluluk
+
+ucuya çıkarken
+Gülün yakınları parçası
+İleri sözlük tazırım madın
+Her cünya el ateşi,
+Duyan ğomba güner hep bir içer
+tarif eder herkasi tor
+logmümiz çok şey bilemem,
+Nltı, nazicoğım için zorluğu kalmadı
+Beyaz kuşuna mutluluk sarhisini.
+İkranın doğmuşu ilen bekleyen
+Sonsuzluk zuvunde.
+
+Mutluluk,
+Dudağının ışığınında olmuşya,
+Senin bilmez,aşklardan
+ezimeli ısran olmak!
+
+bir zaman varken sevdamla
+Tepenken koşların acnba emin gönüllere
+Okular, hancığı ve salı olan çocuğumda
+Giderim kalbime kısa günü hem ona  çıkarman
+Dilere kuşağında kuç umut dağ yağmurda,
+Manası oldurmuş
+türkülere düşmenidir mut
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ belki,
+Mutluluk özlemi zor alır
+Kimini Olnuşsa sonunda misabir ol,
+Samsutacaksın dünler-neylem yorgunluk ba
+Tüm kalbim seninle uçarı
+Kim bilir misin?
+Sordum tüm gibice dolan gündür
+Mutluluk da hem ola hangidedir
+
+Hasa çebilikşa,kapısı sansıydı
+
+Hüzzam olmadı,kazanımmış
+Dümya da benimde ağlayacak,
+Kötücükler televinsinca olduğuyla nafiftir
+Çünkü,söyleyim sevdam sezce
+Teni etmek hiç gülmese
+Ru bende düşünmeye her yar
+Bütün ümseyin ömrüme
+Kendini onlar  akmanlıkta
+ğaçacak,şimdi aşklar.
+Kendincede vuzlaır,
+bu yüksel,
+Yıllandıkça
+Kalbe ikindir,
+Niyeseyler kuzları
+Sana o kadar yol duygu değil
+Sevda tebessüm kat dursa
+
+Dost Tuhahsin bileresin kelabada
+bu hasansız nerde unuttum
+Mutluluk tancığım kanım olmalı
+Üzerine mutluluk girsin
+Mutluluk sevgili sensin
+Yeter açtırıyor bulutlar
+mutlu olsun dününü
+Bu iki sabah, onurum olsun
+Koparmaz tepeleri bir topakla göre
+Bir tebessümlerir güldürmüyor
+İnsanın ta ku yanışta bakabilirsin
+
+Yorudum 
+Mutsuzluğu kuşturulu, içilecekmek
+Adını cüşler olmuştumnursu
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 17 --------------- loss: 0.683410
+----- diversity: 0.1
+****************************************************
+uk
+
+Bir ömür boyu, mutluluk deliği
+
+Biri Maskadan nefrette kimse mutluluk
+
+Yağmurun olan m güzel günlerde.
+Mutluluk bir seveklerin, özlüyor,
+Bir sevgi gülemiyorum
+
+Mutluluk bir ömür sürer mi dersin?
+
+Bir fırtana toprak suçunda mutluluk olmadı
+Mutluluk çocuğum adına sarılıp gitti
+Mutluluk özlemi gülmez değildir
+Bu dünya onu mutluluk olmaz değildir
+Aşkım burda sevgili hava getirir canımı yattı
+Mutluluk bir ömür boyu beklenmedik işte
+Bu dünya önünde harap gitmez insandan
+Mutluluk sevgi ile-ilmam eksi yaratmıyor
+Bazen de gideceğin yüzünden başına
+Mutluluk özleme geldi yardan bana
+Mutluluk özlemi gülmen sevgilim sana
+
+Mutluluk bir sevenin şehretim de
+Bir sevgiyi boş verdim
+
+Aradığım seni severken,
+Bülkü dünyalarda yerini atmak.
+Mutluluk benim içindır mutluluk.
+
+Mutluluk bir saati bir parçası.
+
+Mutluluk bir saati bedenine görmek
+hayatım mevsiminde korkuyorum.
+
+Yüreğimizde vardı bizi bir paylaşmak,
+Bir tatlı söz yeter bir dost özlem her görmeden
+Bir gün gelir bu aşk sevgiyi sesiniz
+Ben çopkad
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+uk
+Mutluluk bir yalanmış inanmar yananda
+Adıyor mutluluk hangisinde
+Adını taşır düşüncelerin
+beyaz güvende hali taştan
+Mutluluk uyurum bulmak bir yanında
+
+Baha mutluluk bana yeter  emmoğlu.
+
+Yediğim kadar mutluluk sanmış
+Biri olmalı hep alanmak
+
+Bir damla mutluluk verdin yeni bir mutluluk
+
+Bir ömür mutluluk deriz, kadınım…
+
+Bir tek aşk yoktur sevdiğinden baş amattın
+Sen benim gibi hisretin karşı kalmaz
+Bir çocuk bitmeyecek misimiz gönülden gelen güzel
+Bir gün daha ölmek istersen her yanım bulamadım
+Bilmem bilmem bilmeden en bende yakam da
+
+Yanımda olmamak vardı bir merak
+
+Mutluluk bir başka değil, mutluluk senin olsun
+
+Bir gün gelir gider yallardır mutluluk
+Bazen gözleri, geliyor belliyor böğünden
+Mutluluk özlemi var içimde,
+Bu mutluluk dediğin bir kaderim bulutlarımızdır.
+
+
+Benim içindik mutluluk bahçesinde.
+
+Bir sevda ve mutluluk ver Mutlu olma
+Mutluluk hayalde olsa
+yıllar yılı yaşamış
+Baklıyorum mutluluk sevgilim inan
+
+Bir damla mutluluk öğretine sardım
+Yaşamak sevgiler bulmuş
+Bir g
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+uk getirdiğini
+Yaşamak işte deli ediyor mutluluk
+Yaşam kısı olmasa bir kavram da
+Hözünde her an sevgi doluyor
+Yürekten düşünmek güzeldir mutluluk
+Bazen bir gün isteyorum artık, mutluluk neydi?
+Sen benim göklerdeki üzüntükedir mutluluk
+
+Bir gün isteyorum mutsuz olan dilim
+Geçmişe sevgi alın yaprağı
+
+Mutluluk bir sevinme habar yakılı
+Mutluluk benim her anda yaşadın
+
+Kalbimi aşamayan yapmaktır.
+
+
+Bir dostonu sardığı yoktuk geçiyor
+Biraz söyüp yaşar hallere,
+Mutluluk hayalde olsa yarim gibi kokuyor
+
+Merhaba mutluluk nerede sana kandığım
+
+Sen bir kenet gözünün bahçesene
+Göz yaşı yaşarım mutluluk
+Bir yalanmış inanmam mutluluk
+Bazen gözlerin olmadı, beyaz dahi,
+Mutluluk getirmiş gibi gidenden yeni aşk sevilmekmiş
+Anlamak insan olmayan hoş oldum
+Kendi kendimi yalnızca hissetmektir.
+
+Mutluluk benim içindan sandak,
+Yaşamak bir sevgi parçasıdır.
+
+Sana mutluluk bir günün yazı,
+Gözlerimde canlı ol,
+Bu nedir ki mutluluk, sevgili canlar
+
+Mutluluk bir sevenin acılarını.
+İnsan yağmurla gülüşün gibi kal
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+uk
+Hayat sana yakıştığım
+Para mutluluk değil seni istedim
+
+Hazim olan mutluluk boyuzum.
+
+
+Garip sözdü anlamamaz ki.
+
+Sana mutluluk senmişsin eller
+Mutlu dünya yaşamak istedim
+Ve sen mutlu eş etmek istersin
+Dost etmek kimseye çok gördüm
+Yürekten yaşamasıdır mutluluk.
+
+Gülünce tuzamıyorum,
+Mutluluk satarsını severek
+unutulmasada bazen bir yumun
+Dostunda kucağın ile değil değil adım bir şeylerle ibi aşk
+Bu mudur mutluluk, sevgili canlar.
+
+Mutluluğun he bunun dünlerinde
+En güzel şeyşar çütün herkes gibi
+
+Biri başka basta gavişi bir nasıl
+Sevince heransız mutluluk için
+
+Görmeden umuttur ne de günümü
+Bende görümsümsüz olacak
+Kim yaram seni artık mutluluk
+
+Okuluk arıyorum ya da bir mutluluk
+Allahım ebedi bir mutlre kanayan
+dahi en mutluluk değil imralar
+Sevgi ile kovuluyumuz,belki de
+Mutluluk bekleyen de dikenden uzakta
+
+Akşamın yaprağı,
+Derde bir melek tatılın göz kırşıdır
+Bazen bu zümle bulamadım diyarda senin
+Hep yerine hayat gibiydin,
+Vatamadım sensiz olmamış
+Gönül tanca dolumdan birikted
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+uk
+Mutluluk kimdir,mutleleyle
+Bundan daha güzel insanlar
+
+Uzak kanan bağları hemen bir üstün
+Hoş geldin yeni yıl mutluluk getir
+
+Kulağiz ol mutluluk tanrım
+
+ olsam hasret aydınlarda giz hackası an
+Hayat yoldan vedayı
+Bu dudur mutluluk deası
+
+Mutluluk istiyorsan arar.
+
+
+Bu işlediğim,
+Başık dönüsü zirvedirken
+O mazla dünyasına,
+Nazarım bütün günler ekliyor
+Oysa ya vardırım oklarında
+Yıyımlardır beklediğim anılar giderdim
+Mutluluk senin yollardır
+Mutluluk en çok çocuğum da ne karanlıktan hep mutsuz
+Düşünürüm, ben boynuma mutluluklardaki u,
+Mutluluk haram olmuş olarak getirecek
+Bu  ne kadar yakınsın ben ...
+
+Mutluluk yasamlarda yaşar yoktur,
+Tatlı mesellerin bunca paramlarda
+küstüğü el almastmaktı birde başımda,
+Sıraya ilemiyorum bulutların uğruna,
+Beni bir insan sevmek, mutluluk benide güzeldir
+Gün dünyada sevgi etmişler betlememedim,
+Gam olma derinden,derirek boyunundan
+Kapıra bak ağlamaya geçirecek,
+Güneş olduğun aşk gibi yaram bu yaşa
+Kalbinde işte ama bekleyen mutluluk sen güldüğümde
+
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+uk uçan
+Kanatlanıp görmüse hayatın dosta bağrına
+Ne külümü günan biri belki de kader uzun ol,
+Güneş gözler beraberlikle cocurmuşta
+Baş ağlama değilse ne rendesim?
+
+Söylenmiş ışıklarıyordu yididen gülsen gülmemez
+Sevdiği özlemi kadar tatlısa,kazanda, teklanmak istilmen geçerim
+
+Yaşamalını küskünüzünü,
+
+Senin gözlerinden gelen düşse
+Birken bakmayın onuner her mutluluk var
+Sen anı tadımı tatlı hemsün bir şarkı
+Bilmiyor zaten dünyana
+vaz içinde bir gün uyunamam
+Bilinmez artık yarına
+mutluluk uzak değil-bazen bir çok özgürlümedi
+Bir çocuğun kenkrine,balkıda Yevrunca bir bakışlarım
+Nideden tesmiğin, kusüm var mı mutluluk
+bir canlı çıktın könelir misin?
+
+Tenimle ölüp peşelenim,
+yaşamın sen gitsez garisinir mutluluk
+Herkes bovaları başımın sana.
+
+Hoş geldin yeni aşkında bulunur
+
+Mutluluk Künerledikse,
+Dostlarda şurulurdu
+Rüya askalından sönürür
+
+Zamanın mutluluğunu adın nemiye
+Kimbilir hastıyın etmiyor senki …
+Gibi aramıştım yerlere karşı atmak,
+Bir gün umudu yeti elindeki tada
+mutluluk; Cocku
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 18 --------------- loss: 0.642482
+----- diversity: 0.1
+****************************************************
+ız sağ olsun
+Mutluluk senin olsun.
+
+Sana sevgili ömrüm
+
+Bir çocuk büyüsü,bir sokluyuzum.
+
+Seninle, neşeyle garıştım,
+Biri haber olan mutluluk dolsun.
+
+Bitmem bilmem bilmem
+
+
+Mutluluk bir sana sıkılırız yaşarıyor
+Gözlerin bayram sarılıp görmek gibi
+Sevgiye seviyor ki gözlerde,
+Sevilmek için çalışıyor özgürlüğün filaleti
+
+Bir tatta sevgiler,sonsuz sana görüyor bir kadın...
+
+Bir çocuğun kavusalar, sarılan bir yok mudur?
+Mutluluk koymuştum ben senin gülüm adını
+
+Hazana kalkımızın vurdum kaderime hisseden,
+Koşından vermek gerekir, kazayım gibi şarkıdan söylemek mutluluk.
+Sahip olmamaktan bakmadan kadar çok ki mutluluğu hazi giddadi hani hissediyorum
+
+Yaptığın akşar o şiirler
+Yaşamı gözlerimi, büyük mutluluk gözlerini.
+
+Mutluluk olacak bile sevgilim hayatı
+Anne baba yükselsin sen mutluluk olacak
+
+Mutluluk bir sevinç gözyaşları yollar
+Seninle başlar mı mutluluk dansı
+
+Sana kurban olsun diyorsun...
+Mutluluk hayalde olsa yarim gibi bilmez
+
+Mutluluk bir sevişmek midir
+Sevmeyi bekliyor doğnun and
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ız sağ olsun
+Mutluluk senin olsun.
+
+Sana mutluluk dediğin
+bir güvercin kanayan günümüz
+
+Mutluluk öyle bir bak gibi,
+Mutluluk kaynağım baharım sensin
+
+Sensin hayal sevdiğimi bence,
+Mutluluk bir sevinç gönül yerinde
+Kalbel ceşeriyle bağlamış
+Hayal mutluluk duyarım, mutluluk,
+Biri bir mutluluk senin olsun.
+
+Sevmek çok yakında düştü ey de o zaman
+Gözlerinde tutulmuş, en güzel hayatı,
+Aynı araylarımızı bulutları hatırladıklarında
+Mutluluk hayaldır gelmediğim sahittım senindir.
+Mutluluk dileğimi para çalışıyor
+Sana bağlar gibi bir yaşagmi,
+Kaybedip bir dostun arasını koyu
+Bu hayatta mutluluk banaysa sızı
+
+Aşkım birlikte görüsü,
+Sevdiğinin onunda duraklar,
+Karanlıkta bir sevdanın oluşturuyorsun,
+Ah yandık dünyada, beyaz güven versen de bir tanem yıllar
+Sevginin hep güzel yüreğim temiz diz kanatlarını açması gibi şeyler aldan
+Sevginin hiç bitmesin, mutluluk bulamayacak.
+
+Mutluluk dediğin nedirki, kaderden bu sevginin hayalleri,
+Bir gülüşün mutluluk vermiş bana bir mutlulukları
+Bir damla mutlul
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ız sağ olsun
+Mutluluk sevgili çoşlu..
+
+Sana sağlanır mı ınlarda
+Kimiler yıldızlar gibi
+Batacaksın ama yalverir
+Yalanca mutluluk olacak
+
+Ayığı sevgiyi tattı sallamaktır
+
+Sevginin onununda mutluluk görürdükleri
+Yarının konaya mutluluk olmuş insan olsun
+
+O harçesi seviyorum bu sevdam madım?
+Yarın kimi sevmeyen-artık gözleri dört yalnızlığın
+Hayal olmamışım olsa mutluluk çok gördün berabet
+
+Mutluluk geldi kazanıp yapılmasın sen
+
+Bir damla mutluluk çevtimize deyiç
+Hüzün sevgiyim sevgiyle,
+Azat ile bakarım her göz yaşı
+Mutluyum çünüm nefesim sıkıldım
+Aşk için her şeyi bu şarkılarıyım sana
+
+Gün geliyor bunları gibiyim,
+Sevgimizin kaybolanmaz,
+Mutluluk baharın sen sarher yerde
+Sabah olan mutsuzluğunu aşır sevgiyim.
+
+
+Mutluluk bir sevişmek mutluluk;
+Sevgi ve mutluluk senle bekliyor
+
+Anne baba yükselsin mutluluk
+Sakkının berekestedir yüreğinde
+
+Adını alap sevgili olmalı.
+
+Mutluluk tarhim olmadı, biri sayısın diyordu
+Sen doğmadın mutluluğu bir sevinç,
+Kendi gecemde oyunu yanmak mı?
+
+
+Acı oluyorum
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ız sağ olsun
+Mutluluk sevgili çoş el
+Vakısı versen ama sen zorluyu
+Gulacanım dokunur cim alir ya
+
+Yaşlar yıldızlar dolsun
+Yalnız hüzün
+benim ağlamaktır nefes edemez
+Birde kalki kaybeden-soldu,mutluluk içimi.
+
+Sevenler kuşama duygulanan
+Öğretmen sevenili huzur veren
+
+Bir güzelim aşk doluşu var
+Mutluluğu yüreği sevgilerinde
+Mutlulukta ererdi hoşça bellene
+
+Üözlerimdeymiydi ben,dörtlemiştimmi
+mutluluk yağmurun, seninde sevgi doluyor
+bazen samamlayıp, ne tattın, hem sen ? Dünyamızda dendim,
+
+Mutluluk soptanış buradan yüreği şekir insana batmaktir.
+Seninle ölürken tüm anıdan sıralı şiir eğlence kötlüğün yüzü
+Yıllar olanım, sende beklemeyi söyle,
+Bu kedimin hüzüünü süslüm hamanın parası
+Elimdeki sevgiler, kahpe bulanmaz, biri tattan yanen geleceği gibi yok,
+Senin  bir  şanklı  yürek  şehirleri  yapacak
+Dönülü    bekteye   dünyaya,    bakıcın  kalıyorsan  güzel    yaratık
+
+Canım   gibi  yaşıyorken  da olsan  başında
+bilmeyen  bir  uzak çekerlen
+yıldızları  yollu  kıyıp
+Mutluyuz olmayalım  sak
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ız sağ olsun
+Mutluluk senin oluklarında
+Mutluluk nisin,
+Önce siyoyoları,
+Onurun onunurulmak istediğim
+yolunuzda mutluluk
+hep dostluğunu tüm yüzü manıcı
+Aşkı çatmak reylemli dir, biraz öğretim.
+Cuştuğu en mutlu karsın seslerinde hissettim,
+Hayata mutlulukta
+
+hiç bir şiir atenci tanımlam, anlatılmak istiyorum
+Ama
+Dostluk, bakara güneşe görünce
+Sevgiye bitecekti sevgin fakiri
+Merhaba dediğin askı
+Mutluluk şaftı nasıl olmadığını bilmeli üzerime baldık,
+Senin bakındığın bir mür yok nemeti,
+Son kırıştı ayrı an çizdiğim hayat
+Yüreğimi herkedesiyet
+ışığı ana süzülen düşmaz,
+Gül kalmasın yüreğim yarın kiabuylu...
+Aşk hediyemi sabır ömümünde yüzünü ce bir kezelini
+Bir dada her rüyamda yetekilecekle uçabilmektir
+
+Sizler gözlerimin temizeti yoluyorsundur
+Mutluluk senıden, dordun, çile ve sevgi doluyor
+
+Yolluna şükremlerin, hep dünya olsun mutluluk sen
+Siveli sözler adını, sokak zorluğa
+bir nece yanulmuş, ol yattığım oluşlar.
+Masallardaki gücüme mutluluk bu...
+Güller mi ayloyorsun,
+Ben huturluk kol
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ız sağ olsun
+Bi isterdiğim.
+Gökyüzü kallama,
+Bir sevdanın parçasıdır
+Mutluluğu
+Aşkımız kiminde sokak demek
+Evi ele yüzündü.
+Ne mavla...ydı ki basi, kızı katıda kazı
+Lötüş İsterken eğerli sesillerim
+Bir secerde soğuk dümyama hiç bilmer
+o,baskada nefretti, sana yaptı,
+Yalnız sen toprağa aslında durmuş saatlersiniz belki
+aynalara konuşurduk şu doğmu gibiyiz şiirleri çevininen közümüzdeki pasta yaşamalıyım yüzümü özlemlerim betmişim,
+Yaşıma rüya bemiz hayallerdir,ayakla,dünya bediğim adam diye güzellikler aştım
+
+Sana türk etmek misiniz lahmun neyiyim mutluluğun,
+Gurbet  amut. Sen bir damla mutluluk, huzurluyumaktir kidar
+Tabi mutluluk getiren mutluluğulmak var
+Ellerinle üzmek ve torğun dileğimdir. insana,kendini hızlanmalı, beklemektir mutluluk, dudağımdan ardından hedesin tarşılayıp bak çünkü.
+Olmayacak işlemiş sayısı dokken yar
+Güneşi kütü olmayına korkulu bilim.
+Gözlerimde bazen, ihirde  tam telreflik-etmelik yollarında yaşam gibi şuşduğu. Mutluluk şimdidir mutluluk? sıra etmeyin
+Mutlul
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 19 --------------- loss: 0.607444
+----- diversity: 0.1
+****************************************************
+ olmak istediğin bir hiçere kaldı
+
+Bu şehir bir şeyin şiir değil.
+Bu nefesin zorusu
+Mutluluk,hüzün de taktir alan
+Bir çocuk bir şey kalmadı,
+Belki de yazdım ki gerek
+Bir çok şekin bir ömür yaşatır
+Bu dünya her gün beni sevemişsin
+
+Seni seviyorum sana gelinlik derler.
+Bir gülünce menninde paylaşmak,
+Bir çocuk bir şey kalmadı,
+Belki de onları ismini hafit dönen
+Bir tatlı söz ile ayakın kışlarımızı kazanan
+
+Mutluluk ve herşey için hayatın olursa,
+Sen bende yaşayan muhtap gittiyor
+Mutluluk öyle bir şey, bir sevgiyi yaşadığın gözyaşıdır mutluluk
+
+Bir fırtına çocukların fifrettir, böyleyin de,
+Biraz söyle bir sevdanın olduğu kadar kocaman
+Birgin dersin, güneş gibi istediğin.
+
+Bahar gelsin diye gelmesin hiç
+Boyunca yaşayıp koyacaklı saçan
+Seven gözlerde gülsün mutluluk
+
+Bir fırtına çocuk burada seninle olsun,
+Bende mutluluk pembeyi değmüş anlayamadım
+Mutluluk bir ömür boyu bakınca kimse bir kendini.
+Bazen ki, baszanın mutlu olması için,
+Bir gülüşün mutluluk verir bana.
+
+Mutluluk bir senin red
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ olmak istediğin bir hayat!
+
+Bir çocuk bir şeyi gözlerim yanlış olsun
+Mutluluk bir mutluluk, yaşamın zor
+Birde mutlilik çekme olmasan sonu
+Bahar günün bereket siyayi göremem
+son yanımda,   bana  olduğun anı
+Bana  gel de gelirsin ya mutluluk ve sevdata
+Bir kalbin hiç olamaz seninle olsun
+Kalbimi esinte, başım çıkılır
+Bitmiş ki,
+Yalnız senin yanında,
+Mutluluk öyle bir şey...
+
+Seni sevmek için, ömür boyu bakıyor
+
+Seni sevdim bir yalba yaşayan özlemim
+Gözlerin bahçeden dostlar sariyet,
+Bu yıldızlar dalıyorum mutlu olurum
+Bilemes nedir mutluluk, neşe.
+
+Mutluluk... sevgiyi senden gül değerliştirlikten
+Bir şeyleri sağlık değil yağmuru olmaş
+Bilinsen  bana ölmeyi göremem, bir sevinm de
+Anada özündü yalanda beni hüzün
+Kana danız her nefeste,
+Mutluluk özlemeksin...
+
+
+
+Mutluluk dediğin bir size
+
+öyle olmak için,
+Bir gün dağıtlarda bildiğini
+Mutluluk öyle bir şey
+
+Bir ömür boyu bakışlarını
+Sende bir şairin kalbinden
+Mutluluk öyle bir şey...
+
+Bazen bir ömür bile aslında
+
+Mutluluk özenlik
+Acı olur b
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ olmak istediğin bir hikayeyim
+sevgiyi boşların arasında,
+Senin bir ömür bitir ya
+
+Gün bende mutluluk öyle bir şey...
+
+Hayat bitmiyorum, her denizin gözümdeki kuşum gibibin
+Nefret  bir şey istiyorsan,hissetmeyen çoğuk.
+
+Ah Bemayor 
+
+Yapayakalayıp
+İşte bakalı hatırıyor
+
+Bu sevda hepsini
+Bu  mutluluk nerede yaşam
+Bir damla mutluluk ver göreyim.
+
+Yeter yusüs gerekir belki de bu dünyada
+Tadıılarım acıya, sarayı gelsin
+Hayat deri yaşanır özlemi tutan
+
+Bir çocuk gördüm bu sevdam hemdüzer
+Ağlayan sevdam senin olmadı yarına
+Sensiz her zaman mutluluk senin olsun
+Sevgi gönül mutlu olurum
+Her an sevgi beni büyük bir sana
+
+Ben sevda’nın alin karşılığı özlem
+Mutluluk paylaşmak,
+Gözlerde içimde
+
+Bugün gelecek gelsin
+
+Bende ona olsam mutluluk yatıl
+
+Mutluluk uyuna geliyor konatır
+Önemle yaşarım hep mekacı
+Tatlı sesini koymak için-huzurla sevinir
+
+Tiret boyunca, hep aklıyor sersin
+Sevginin kırnı kaynakları çok
+Hayat dediklarında arasında....
+
+Seni bulmak için,
+Yağmurda özler duyguların
+Toplamadı benim
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ olmak için, oynaşılan mavi sana,
+Kaybetmeyi sevmen şimdi şarkılır yazmış
+Sensiz bu dedim, hayallere şüçmayım…
+
+Çıksız kaderime ikirecek,
+Mutluluk pir adım değildir...
+
+Oysanki ve tam mutluluk getir.
+
+Karşımda özlemek, sevgili hikayenin
+içine bakmadan kavrulmalı
+Kulaklıyorum her gözü yüzün varıldığım
+eğerzen  yorgunluk ucunda insanlardan
+
+Yüreğimizdek onlar bile...
+Mutluluk... nefesinle yaşarım, mutluluğu socuklar
+Şairin her nefes ben çok gördün bana..
+
+Mutluluk, ömrün ne parmak isterim
+ya her mutluluk için
+yeter  ellerim sin,
+Yüzü sütünün, güzel gözlerini gülen
+O taha güneşi yaşanır çocuklar...
+Bazen iyisin sen,
+Mutluluk benim asla bulamadım
+İçinde bir güzel mutluluk ne gülüyor musan diler
+Ağlayan bir dost tatlı yeni ucu engelleri.
+
+Mutluluk çağııları ocak alan kanatırdı elimizden atmaktır.
+Hayatın enenlerin...
+
+
+Bir zamanları dokunabilirmisin boyununu
+
+Bilmez ne cedesin
+tek şiir yüreğimin sahçesidir.
+Çektiğim kalbinde yatan yakın
+En güzel mutluluk coşmuş sız sardın
+
+Bu gün yatır
+Deni
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+da bile sargisi özgür gördüm
+
+Bir gün bile kimi kalmadı kopkumdan başlar
+İnsancan sürü sakın dilier
+Ebedi bir mutluluk senin olsun
+
+Alacığım sözlere sayılın
+Sevenler gözlerde sütledim
+Mutluluk yeniden yetmedi bu dünyada
+Kabuktırıp mutluluk ağacı
+Bir gülümsemeler söylemektir
+
+Ayrılığı,
+Kıpır mutluluğa baktığın olmuştu
+Paramparça mutluluk varken sensin
+
+mı kesamonları verilir misali
+Bulutlar mutluluk deriler
+koyuyken
+kuzanan bir isteği yeni dokuluk
+Yadı  mutluluk ’or...
+
+
+Küçük derler gibiyiz kokulur biter
+Daya baş telefeden mertanet geçip,
+Mutluluk da seninle gelmez
+Ya yokluyun üzerine kaymeyi için
+Dünyada yeterki koca annetirsin.
+
+Sen ırmaktır bir buyu sözleri
+Kat yeter yoksa
+Dinle mevlli  pesine harcadan olsa
+Gençlik sevgisinin bu gün
+
+bir şehirsin merak- bir fizi
+
+kuş geçirdiğini deliyor sensiz
+Bir 
+Belki kararağa göze ağısında
+
+Dünyada tek satırda yıldızlar koyuşlarımı
+Kaybolmak her  indedir mutluluk, yaratık senmeyi...
+mutluluk aşk gelsin
+
+Toprağım hayatı olan,
+Doyuyor kız gün sırt
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ borçluyuz, şarkı çınarım
+Koymaktır mutluluk zamanın
+Seven
+beni siz hiç armak,
+Artık hep ne tuhumu
+Dalgaları bir yaz bende gözden
+Geçmişte kendislerim ın
+Yüksekte açılan bende durgun
+Bilmeye bir sevgi,dergande,
+ayişi olmayan,
+içime kalak duyguları
+
+’l -ealı ekkarım sakın kederinde
+Değitleri o an sevdanız-bize y
+tetrafın ettimde
+Bunun topladığım seni denen gideceği
+belki de
+Sevenler gözlerini duramazsın.
+
+elmada bülünsüzce yolun asalların o irkedeş
+gözlerinin resma sarılır yasmışında,
+Öylemiş bir dünya olsa, içindeki aşk yakışlarımı
+Zaman öğrenmek gülünce senden aşkı yok
+
+Elmasınız kırkan ve doğru sevdanız
+göz yaşın ana dığın yağmurlu kolları
+bir çocuğun teline sarsı,.kendini dünen;
+Ardından paylaşmak,
+Bana heresimiz hep kaynak ver hatimdir
+Sende sevmeyisin her zaman mutluluk
+buzakta gözden duyamam
+Dillerden her şeyi sürer çevremi
+Çok bazen gonbaharı görerken
+Her zalimler ayıllarına yasü satip,
+Mutluluk koymuşsun anları olmaz,
+Bana da evlanında mutluluk koyan çile,
+Hayatı kıldığı devam 
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 20 --------------- loss: 0.576340
+----- diversity: 0.1
+****************************************************
+ğinde
+
+Sonsuz bir günü
+Mutluluk ördüğün gibi bizde
+Beş yeşi ta kalmadı,
+Bu mutluluk bir bebeği
+ben mutluluk gelsin
+
+
+Sevgiyle bir gün gelirse kuruluyor
+Sabah ediyorum mutluluk var tadına..
+
+Baralar yapmızım,bugünler duyarak tanrıyan
+Bir ömür boyu, mutluluk diliyorum…
+
+Kaybolan şeyler her daldır kim bilir misin?
+
+Mutluluk benimle bu dünyada o günlerde.
+Bilenler sevgiye...
+
+Bir şarkı naydı mutluluk.
+
+Bir tek aşıca yapıştır,
+Kapılar gibi içinde
+Bu mutluluk ne olurdu
+Bizde yaşanan yürekte değil,
+Mutluluk dediğin bir gün geldiğini
+Sevgi çiçeklerimizde yaşamak belki
+ ölüm kara sızı satılır,
+Böreceki, bu evgilerde köşe başına
+Bir kara bulur her şey için halini,
+Bana kaldı bir bakış, mutluluk verecekti birde
+Bebelim hep şey yüreğiminde sevgiyle gülmektir sevgiyle...
+esersiz bir ömür boyu,
+mutluluk bir ömür sürer mi dersin?
+
+Bir şey kalmasın, acı çekmekten yeşar,
+Beni sevdiğim en güzel hayatı,
+Bir ömür boyu bir hüzün yeşil mutluluk
+
+Sahi ben oysa bir haber bu gözlere
+Bir gül gibi bir günahım da
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ğinde
+
+Bir gülümseme
+Ben sevilenler-güleri karşından
+Benden başımda,bak gemiye
+Bir gün gelir ki ne olur
+Karanlık çökünce
+
+Bu günlere kalemiyor bilgerdim
+Ama hissedir bi günaha yeniden,
+Bir şarkının mutluluğu suzak duyarım.
+
+Bir üç gelecek gelmeyi hiç bilmezsin.
+
+Mutluluk haram olmuş,tüm amın karşımı
+Benim imi kimse bile yaparak, mutluluğu..
+
+Sevgiyle bulunan gözyaşı ile değil,
+Bir başka mutluluk,
+Başarı bile varmış,gönlün nedir mutluluk
+
+Bazen de hayatın değilmiş son aradım
+Sen benim yol yıl demedim, hatırlar bugün
+
+Ah oğacak bitti bilinirken adım
+Mutluluk yarına sarsı sansız bir şey...
+
+Ayakta bir ömür bir bakıştık
+alınmış,gönlün bereket.
+
+Yaşarken hep sana çağlayır
+Aşk ile çıkar yürkuyle
+Büyüdükça mutluluk
+Ateşe dönmeyilir,
+Bir çocuk bordum
+ne de başkası orda
+Bu mutluluk bana yeter ki ağacadan
+Bu şansın ttanını tattırdılar
+Yaşamak bakalım bu aşk
+
+Sevgiyi, yaralar bir burudur mutluluk
+
+Bir fatta bir şeyler asın da arar.
+Beyaz mavlisine
+Sen bana bütün haline durma
+Gelir en gerçeği kalk
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ğinde
+
+Gelme istersen Mutluluk olsun
+Hasretine kavurun olsa
+Mutluluk benimle bu yıl
+En güzel hececeler
+Bir baradı ararsen varsa mutlu yaratan
+
+Aşk dilersin biliyorum mutluluk hangisi.
+
+Sarhoş yarabilmektir, mutluluk, neşe.
+
+Mutluluk, mutlu ol, mutlu..
+Bir güzellik konuşturur beline
+Yarın aç atma sen oldun,
+Aslında bir gurur yaşayabilmekyir
+Kul olursun belki de ben bir taşında
+Sevgi cennet çevirmiş yormuştur,
+Sevgiye, her bir şey yapılan yüzümüşüm ben
+Yüreğim duyarlar, mutluluk olmuş istelim
+
+Güneş yazayım...
+
+Mutluluk benimde tadında
+Yaşamak istediğin kaybediyorum
+
+Saadet, mutluluk, mutluyum?
+
+Kapılar size huruyun dizeleri
+Yüreğimde çüzülmen var ve istediğim
+Aşkı kat kalandır hep yaratacak
+Bir kara elin o,karanlığı güceki zor
+Derdin tıp gitmeden can can olursan
+bir gün gelir en içten kalanım taşıma,
+Saadet, içten ateş dönemeyen,
+Aşkımız hep çağlayarken onun o mutlu olamadığın
+mutluluk
+
+Bir tekşah olan yokmuş.
+
+Ay tahtaha,bir ömür bir gidince...
+
+Yaşamin toprağında torunların borunu
+
+Ge
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ğinde
+
+yöreğin cennedi,
+Afşımaz Aydınlığa
+Tarihin ve istediğin gönlüme
+Bak bak kurumunun adını mutluluk.
+
+Bu şiirim ahimde olsa
+Mutluluk sabahın ilk ışığında
+
+Nadiyor bu mutluluk dolu yağmar
+
+Sarılan lafadım diyerim
+Zaman ereyedim gerçek olsa da,
+Anabarım sevgilimse sevayla çaresiydi.
+
+Huzur geçtin geridi de ben yollar
+Kaybanıp ruhuna böyle bir şey bulamadım
+Hani aşk bahrım bu gün istiyorum, mutluluk bedeni
+Anlalama sen cidiyor halinayıbinmediğin
+ben daha dagılacak kadar bilinmez,
+Bir ?
+Bu durum mutluluk bombaya bağlanmış
+Özlemek sevdiğin olduğunu.
+Asır kar gibi Ne mutluluk olsaydı
+
+Aşk sende bulundum mutluluk olacağım
+sanada kandırmak için yola ve güçlü olmayan!
+
+mutluluk
+kırmışıyır,yara
+ızık mutlu olamazsan
+Mutluluk aradım ben sen istedim.
+
+Kudan, bu duruma ağlıyor
+Güneşim duruyor bize olsa
+Kedide uyuşmuş yinede o adım
+Aradığım sevgimi derdin
+nan?
+Yar dünyaya eserler yazıllar
+Sına mutluluk koktum hece
+
+Gelmeyi sevgiyi, her bir de,
+ağlamak senden titreye,
+Yeşil sevgitme şehirlere izle
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ğinde halde
+Kışmakmak lazı
+Soluk mi sen
+Bu yalnı bir aradı
+Ve Kuşümdü bulacağın an
+Hoş geldin mutluluk senin olsun
+Elinden ay ağlamakta,
+Bir bakıp  derdimiz bir paylaşı naler,
+
+acılarken çocuk yüreğin herecisi
+Ayne biri  gerçeğine doğan güneşe,
+Avgiler,sevgisiyle ne suluyor mutluluğu
+Mutluyum, litıklardaki  önemlisine,
+İyi bakarım içindeki mutluluk. kadar bulmadır
+Aldığım çiçeği, bir sanaya anlamaz
+Hayat buraların pencerene bakmadı mutluluk
+
+Şiir bir şeylerle asan ateşıdan ortalardan
+Ne dostların en perdesini bekleriyle
+Bari duyu kalbinde en razmamak gerek...
+
+Ezanığın huzurlu sesidir kütüğü yor
+oysa biz seni sesmiyorum
+Yarın ne günah kurtum yerinde hissedilen
+Dildedim ki mutluluğa, saraylar dalların.
+Mahaba dalda da beni kendimi vardır
+Neden mutluluk kimse boş kadar en merdirer
+Güneşe dönüp değil-tarihinde izeceği,
+
+bir bulut, bir rüyada dalına
+pim gelirken dolu yağsın dadıalarımızı özgürekil
+bir şey adamadım, mutluluğa saat olduğunu
+
+Mutluluk en ağlar gerek şekin huzur gelsin
+Mutlulu
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ğinde
+Sahidir millekineikri Sahteı.
+Gözyaşı  çıkarken şeyleri
+
+Eki kuşlara en güzeli
+Senlikli eşmeye değil-inan ikip atısında
+bir sağacamle oruyorsun
+Mutluluklar serinmeyi uzaktan,
+Alabilinen bir anıp alayındaki içinde,deksin! ..ıh imakladıe.
+Saldığın aşkı iterlemiş,bir bebeği
+mutluluk gemisini ayrılıkta,
+Uzak ağlamasınki tek sevgim tendisi
+ sanki karşı kolam manama üzmüm gibidir
+Neden yaşıyorum tadına mutluluk özlemi diye
+Mutluluk yakışır, bir damadım, mutlu gibi akarki diyeleydi.
+
+Dünyada ereyen biri zorlumuya kaynaktan
+Aşka sığınan bu şarkıda yatıl besen
+Renkarasını alıcanın hesinde kalır
+Kimazda ellerini hafı idin
+Ortayacağın ayısına,rahret etmeli oluyor
+Mutluluk gözyaşlarımın ısında,
+Bir zor gibi sahip olmak mutlu olması yok
+Mutluluğun içinde satarık olur
+Dünyama ziham sade,
+Paranpalnın ansına bak ardından
+Beni yeşil insana,yaprağı, barışar,
+Güzel misin oluyorum
+Bir son yaktığını  her  çirk
+
+Mutluluk açlarında taz gözyaşü çaçar
+
+Sen yaradan başlayıp tanrıya yerlerde
+lizgel tenkler
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 21 --------------- loss: 0.548310
+----- diversity: 0.1
+****************************************************
+ öğrenmeli insana mutluluk olan iseleri beklenen de hiç rüyada,
+Bir gülüşün mutluluk verir bana.
+
+Mutluluk bir ömrü yaşanma her der
+
+
+Bir ömür boyu kalmada hiç yorm değil
+Mutluluk benimde olacağım...
+
+Bir ömür mutluluk deriz, kadınım…
+
+Bir gün gelenler, akır oldun
+Bu sözlerim hep uzansam
+Mutluluk yarınları arar her yerde
+Mutluluk esenlikle-yolunuz olsun açık
+
+Yağmurlar yağında, harç ediyor bir başa
+Biren biri bir yıkta hatır gör,
+Bugün davetler gözlerini yakıp hallanması
+
+Bir gülüşün mutluluk verir bana.
+
+Mutluluk bir ömür sürer mi dersin?
+
+Sen gülünsemez, ne asal mutluluk nedir aradan
+Mutluluk bir bazen insanın içindesin...
+
+Sana 
+Sen bir dost, ayrılık niye
+Bilsin bir yanım hep mutluluk banaysın
+
+Yaradana vururlar her göz
+
+
+Bir gün geliyorsun belki kazanı
+Sen güç çecelere daygıya içtiğim
+Bir çocuk boracağın boga
+Yüksek çok yüreğim,
+Bir gün gelir ki mutluluk nerde
+Bebecim olur bir damla mutluluk verdi
+Bir damla mutluluk ver Mutluluk...
+
+Bana bir bakarken gülen bir yerlerde
+Sevgi ve mut
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+
+Yarınını aramaya dokundukça çalışması
+
+Bir parça çekilirsen, o güzel demez, kumuşlanmış
+Hayatın gözlerinin zihrede, korkuncan bir umutsuz
+Yaşanın mutluluk değil, mazemin yaratmış
+Bir kişi atmalı hürmeye girer ya
+
+Yüreğin dediklikler anlaşmış anlar
+
+Hayatın dolusu temiz olur bir de
+Mutluluk esenlikle-yolunuz olsun açık
+Hayatın dönük hasattan
+
+Mutluluk nedir dizim
+Mutluluk eski beklemede
+
+Ben bugün ölmezken düşün
+Bizde uçurdum bir sende
+Seninle kaybedacağı, bütün yolar
+Beni sevdiğime hakır duramadım
+Hani anladım yıksın kederinden
+Ben mutluluk bana yeter  emmoğlu.
+
+Mutluluk vererek sen sevgiliyor bir şey
+Bende var mıdır, mutluluk nerde.
+
+Sen benim çok gördüm, hep yanılar hep sen
+
+Bana bir mutluluk borcun olmalı.
+
+Bütün bu anları darive
+Yüce bakarım edinci ve sadı otsa
+
+Mutluluk bir senin rengin özlediği
+
+Bu yağmurlar sığınarım,
+Bütün güzelliklerinde
+
+Mutluluk bazen dost,
+Bir ömür birer anlatır,
+Kimini Seesini yetirmek insan.
+
+Yada tüte mutsuz
+Mutluluk senmişsin eller de.
+
+Hani aşk dediği
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+
+Kimse çiçek mutluluğu aşk getirmişler, her güzel mutluluk izi, ve hüzünlerdir. Mutluluk bazen deyip, güzel yollarına,
+Bir gülüşün mutluluk verir bana.
+
+Mutluluk nedir mi diyordunuz,
+Mutluluğu hak istediğin
+
+Yüreğimin derinliğinde,gözlerinin içine yatmaktır.
+Ancı tatılı katıla dönüşü hayatın ardından yada alan gibi şaşkına yazmalı
+Bazen da daha değer yazayım,  bu gün için adığın buynuna
+
+Çok mu uzaklarda geceleri getirecek, mutluluk neşe.
+
+Mutluluk ne baharı kızılarım
+Bomba bir yarayda mutluluk durak
+Kim kaç bılmış soydum mutluluk olduğunla selam satılıyor beslini.
+Geçip gitti eserleriniz girsin yapamasın mutluluk sesinde.
+
+Her insanın aşk olmak için bizlere dolmazsın,
+Gökyüzünün bereketlerin dalgaları görmek midir.
+Mutluluk bazen değil ki
+bir tek aşk yaşların ortasında
+Bir gün gelir ki nereden son ister
+Seveni sabahlar umutla aşkı yansıyor.
+Hata uyu duyabilmektir mutluluk.
+
+
+Mutluluk nedir sençekilmiyor
+Harklıyor kat görür,
+Her yer olur bir kuş olurum
+
+Rabbimin avuçlarında istiyam öpü
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+
+Bu dünya o yokluydu yerini bilmeyi sarhonu ta
+gitmek düzere, tamnım canım asır çıkar yapan
+ıslaklara yelverin çınsında devrine bir getirin istemediğin anılara dakinmışlar değilli kızını kanat çırtmasın bebelet yine sen hissetmek sen beni,
+Mutluluk nedir dense, ne anlarsın?
+..
+
+Mutluluk nedir dense, ne anlarlar
+Anlamadım işte, ben büyük her yar
+
+oğru mutluluk duyarım,
+Bir güzelim mutlusu yaşanmadım
+
+Uyanınca,ki balda değildir.
+Kimimize arama fala çakmak,
+Mutluluk hayalde olsa yarim gibi kokuyor
+
+Seninle uçup gelen eser mutluluk var olmadı
+Beni sevdiğime huzur mutlu gelice kaldı
+
+Güller kaldırmış yaprağı merte kırmızı
+Aşk deresemedi mutluluk zamanı
+
+
+Hani da mutluluğu yazacağım.
+Her şeyden nanibana ve mutluluk
+Reskardan aşkların ortasında
+Emanda dolu düşünceye durar,
+Nasıl olsun mutluluk satarlarına
+kurulur ki kirdi
+Acı verip hüsreteler deyip.
+
+Gözlerimin gözyasi sediyorum
+Diyenlerde sevgi anlaşan
+Sahi istersin aklarken dama hatıra
+Kim çiçekten güldü yüreğimede
+Yüzüm güldürdüğümde bu mu
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ iki
+özgürlüken durmasını bilemiyorum
+Çok uzaktan giden şaşırıp şu alın kir o karar oldu
+Seninle başarıyla açlar çektik müyı
+
+Neredesin?
+Mutluluk,
+Senden kaderde yaşayacaksan
+Yine yıldandım sana,
+Sen gerimsiz olur olurdu
+Seninle acısın sağın satan
+Gülü kırmızı bile talar i ondan
+Karpanşağında bir çift gül
+Mutluluk...
+Onun için ızıslanmalı.
+Ezgirler doğruluk tatlı olsun
+Mutluluk el ele duruluz mı sokaklarda
+Mutluluk şarkımızı bulutları ile
+Bana yeter  emmoğlu.
+
+SArdım amür herkese, sanki benim
+Mutluluk esnediğin kahrüne
+Rüyanda ağlama dur mutluluk
+Kalırız çalsam
+Mutluluk sizde gibidir
+Mutluluk Senme kaldı
+
+Duygular yeıyler-
+ıslar anne ğorunsun
+Eğer mutluluk çıkar senin olsun
+Mutluluk esenlikle-yerdemesinler de durmadan
+Seninle kahredenler hakkın var salar
+Ayrılık rüzgarı verir zor ile yakıldım
+Seni tadamadım heceflerimiz resmini,
+Bana bakin kapılar yüzlerinde etip geçile sevgimizleri
+sel kulağına tek yüm başıyor yüzlüğün o sancılarımın tişiyorum, halfüz kadar oğluyorsunda seni görmek ge
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+n keçerine uyandığın
+uzakta duyguları söylemiyorum
+Koynuma gerektir mutluluğun
+Bitar ele dalgıya,taş zaman salten
+evine bağlaştın alan yürüyor
+bir dalak kuşuşu arısında.
+Masumdur mı kuruya.
+ah sevgi cennet mutluluk çiçerler.
+Yatmadan sevdiğine,ateş gibi sevgiden
+Gülümsemeden düşünceleri gümdüzleri
+o beyaz gençliğime geçti,
+Onun oynamış, o gündüz kalay duygular
+
+unuturup ağrına kendine, bütün düşüncelerim
+Mutluluk kanarında dokuluşmadıklar...
+
+veya aylaşıver deselliliğe deken
+Bazen yutruşuna bize geldiği sevgi ile
+karanlıkta dolmamış insanda
+Öğretmenim,mutluluk demez
+senin için içine denik.
+
+Damurlarında dadasının yorulur mi ya sonuşsuz başla mutluluk neşe.
+
+
+Zaman mutluluk istiyorum diyemez
+Gözden güç çağlar mı deredesin?
+Direnmişti çimen ayrılmasın yurundan
+Seren bırak çiçekler açtı her am dağındı
+Ya sen gülünsüz bu aşkına
+O naseri gelince hafalı
+Göğ dalda değil-ki sevdalarına
+Acılarla koymuş mumaydır
+Beynim şimdi
+Kalbimde zulenler gezer
+
+Mutluluk neydi? ışılmış adamının.
+ uyandığımız
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 22 --------------- loss: 0.522499
+----- diversity: 0.1
+****************************************************
+özlemi ve dildir...
+
+Bana bile dilendir tatlı mı?
+Bana sevgimin varsa bir hep gir
+Bana bir tatlı söylemediğim.
+Bil mutluluk bir ömür sürer
+
+Mutluluk,
+Bir ömrü kişar güneşin doluyor
+Böylesem bile sensiz mutlu olmanın kaderim
+Bir gün görülmez midir, bu hikayeyi yaralım
+
+Bir yalan ve yanıyorken mutlu olmaktır
+mutluluk, gözlerdeki teş fırtına
+
+Bakıp takarım çalışmak filasında yazdık gözlerden
+Ben mutluluk bizimde olacak,birgün,
+Bir tebessümle bakarken olacak
+Bir bakış, bir güzelim,
+Bir gün bilinirken dertli yaşam
+Bir gün gelirse kendini özlemlerin,
+Bana bir dumla kokusu yazmalı
+Bana sevgimi öpüştü
+ve çırpanların arasında...
+Başını bileceksin, bahçemize
+Bayrağımda bir ömür yüreklerde
+yaşlarım seni beklemeyen bir kuşun kavranın
+Bir gün baharlarda kal emi, mutluluk baharlarda.
+
+Mutluluk nedir diye sorsan hayata birgeleyle anlatılmalıydın
+Mutluluk bekler kalbi kıpıl karıyorsunun beyaz olmama daglar
+Belki de bu hikayeyi dorulmayan bir kuşun yapan
+Ben şehrin satıldı, bir sevdanın
+Bir partla yatı
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+özlemi ve dildir
+Yüreğim tüm küçük kalbilerim de yarım beyaz başına
+Mutluluk bizimde olacak birgün,
+Bir çocuğum versen mutluluğu kocamadım.
+
+Yıllar bana sarılır, bebele yaptı,
+Mutluluk bana yeter  emmoğlu.
+
+Ah buyun mutluluk öyle yaşatmalı
+Kimini tesissüz cizmeni hasta
+Biz mevsimli bir güven,
+Bu hayatta mutluluk, sevgili canlar?
+
+Bazen bir gün gül verdim hep sen
+
+Bir ömür mutluluk deriz, kadınım…
+
+Bir sevda hepsi kalbime akıyor
+Sen de batmalı acı kapıyor
+o yaşama sevdayı kaptın
+
+Yarınlar sayfı çok bu dünyaya
+Herkes mutluluk, bir sevda var mı kalabalı
+
+Bu dünya peşinden dalgalanır saçlarımda
+Sizlerde bir dilim hep pencerem
+Teceler sevgiyle dolsun mutluluk olduğunda
+Bir ömür mutluluk deriz, kadınım…
+
+Hiç bitmesen ne kader bir sesin onun bana
+
+Mutluluk bekler canım, sar artık yatın
+
+Başkalarının oynununda bile köşese de
+Başlar balıp hasret sıcağım sensin
+Bütün mutluluk yağsın diye
+Bilemes kokusu yüzünde olmadım
+Bir kelime konanınsam
+Bir bakış, bir güzeldir
+Yoksa bombalı hikayeyi tam mıdır
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+özlemlerinden atılan bir müzektalır.
+Herkesin mutluluk getirdiğ senin gülün bedenin
+Tanrılarını yazıyorum, hale mutluluk için
+
+
+
+Kokun bize varın kanat ediyorum sana,
+Hep mutluluk bir ömür sürer mi dersin?
+
+Bir tebessümle bak geleceği beklemektir mutluluk
+Kurla bayram tek bir yere düşüyorsen ben
+Kalbimi ağlamak düşlere kaydığımsın,
+Sen benimsiz bir avuç mutluluk
+Ateşi sevgi mutluluk her yandı
+
+Kulağın önnesine
+Bu sevdan var dağlarda
+Ağlatan sarmuşlar neden yaratmış
+O çok gördü ölümsüzcelerini isterim
+Yarın bir gün kalbimden mutluluğun.
+
+Bahar uçmuş hiç bilmezsin
+Mutluluk senin gülerek,
+Mutluluk koymuşlar benim güldür
+Mutluluk özensin, ömrümün arkasında yaralı
+Yüreğimizdeki ve anlatılmaz istediğim,
+Göz yaşımı özlemlerin, işamım kadehlere kırılmaz
+Yarın edilemiş bir gülüşün kümük yoktuyken
+mutluluk hayaldediği yaşamak değilmiş
+Bir melek mengin oluyorsun arayı,
+Sevdiklerimi acıyor bu kadar sevgim
+Bir gülecek bak bile kendimce,
+Bana bir tatlı siz bir yaşa yeter,
+İşte bir duman rüya ilk ger
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+özlemi olmaktır
+Nefes nenilerle dolan bir meltlet
+Her kelime konarım gitsen mutluluk.
+
+Yüreğimdeki sevgi
+Kokusu yeni hakta boyu
+İki düşünü yüzün gönlerden geçti.
+Bazen min çiçek, hu bedende çalan,
+Yoksular yere hiç mutluluklara
+Sevgidir,aşksız aslem biliyor musun?
+
+Mutluluk gözlerdeki zihabadan duygu,
+Bahçesinde öyküyümüze masallarında koştuğun gözyaşı kızın pencirini
+Bakıp mutluluk, yakalamak için yarınlarda kandırma, önce bir yüreği zaman
+olayan sarılıp görünün renk sen her yandısın?
+Derler açtı yüreğin her mutluluğa sahtelerden
+Ellerinde tebessüm mutluluk böyle bir şey...
+
+Kederler gitti, yüreğimde bugün dağıtın,
+Bana yer sen gözüne, bombalı hem derdim
+koysa bir yudum mutluluk doluyorsun,
+Mehmeli  derli vermiyor, batayım istedim...
+Bana çize babamızdan çıkarma degelim,
+Sezevet doğruyu bulamadığı bulamam sana
+
+Anlatsam o  sevdam bedenimi,
+Sahipte biliyorsun ben
+Göz yaşın dolu dünyana
+Güneş bir kişini korkar
+Gözlerde yaşar,sevgi
+Doğru yollunda
+Doğan ellerini
+İstersen her an kolay yedi
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+şükranları özlemek,artıklardan yeşergi iki gülümseni yaratılırken
+inizi gibi doğuyor yeni eğitim, baharın sevilmdiyen efkarlarda değer kucaklığını burada.
+Bilemem kilmdaları bombalı halnalından ölürür bence sevenle konuyken
+Yarınları boyler savaştıracağından dilerler
+Teprağa almış
+Ne olgur yaşam reyken olduğu
+İçine desel zaman bile olabilmekmiş
+Anlamak sevsiz
+Bir dostsa yok bu kadar yakın
+Bu dudur adını sermişim oluyorken
+Davetmişler otorsa değer dünyamızda
+oynaya her yer anlatamaz
+
+Oysa içilek. Bilinmeyenliklerden iki
+Hüzün gmeli,
+Hayat köşede,
+Bu edin’li kimiklerden,
+Artık eski ebildiğim
+En büyük yağdığın ağırır,
+Acıman lar,dadası getirin
+
+Hayatım gönüllerime şitalı bir kadın
+Bunut sizin, mutluluk sanmış
+Yeşerken kaçanlar oldu
+Şire batar kaygıyı sözdüğün
+Ah ömür nefesi yakıtırken
+örnek yanağına evladı
+Hangi teps gelince yapmakyı,
+Mutluluk için,inanatını almaya yeter
+Birazde papat gözümden geçmezek yediğim
+Geçmiş gidiykonları bakıp ellerindeki esendir.
+Her yeten olduğunu hasretin yakı
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+azellerini katmaktır için...
+Hayatı bombalı bir yaprak yavaşdığını
+Seviyorum vardı sensiz kıymaktır mutluluk!
+
+Dağıtıpmakta yerinden ben seninleye
+Düzelimin ,rohumda mutlulukla arayış!
+
+Ey dediğin her nefes baktığına
+Hayatta iyinmiyorum, güsterken,
+labarını çindi ettiğin ataşı
+Birkarleri yuturdu şehrini besende
+Yokluğuma uykundan duana araman
+Sıcak bir tek unuşma hissedeme
+Kalbinden tem tarihte kasel
+Çıldıramaz-şarkılar herşeyi yaralı
+Dudağınız virmiyle korşayıdır
+Gözyaşı yılların gönül hep güzül
+Emin olduğuna yada gizlendin
+
+bulgur taneleri kuşlarımı gelir
+Kabe de kalplerimizde aramıyla olayan!
+Bülledim bilmeden ahlat onulmas
+arılmaz bilmem mutluluk.
+Sevgi eşi,sevgiyle dolsun mutluluk gözyaşı
+benim çok i sevgilim değildir
+kopay kalmadı,
+
+
+Belki de kıskanıyorsunuz
+Mert edetimde aslında uykusun anlamaktan sevdiklerini
+
+
+Mutluluk, sevgi nasiven nerede mutluluk.
+
+Mutluluk bir ömür boyu beslenmez
+Gözü kat olmaktır uzağın kanadın
+da acılarım bütün istedem diken
+de
+Umut silmasışsız kuladım
+Y
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 23 --------------- loss: 0.497749
+----- diversity: 0.1
+****************************************************
+…
+
+
+Seni sevdim bir mutluluk baharlarda
+
+Mutluluk bir sevgallayıp sevmeyen,
+Birazcı duyabilmektir bazen de...
+
+Mutluluk bir sevgilim, hakkım değilmi dendim,
+Bir avuç mutluluk çocuk,uzur bağın bir merhabe de
+Bir tek aşk yoktur en büyük mutluluk
+Bazan dilinde bu muydu yarın bulutlar sadece
+
+Allah’ın çıkmak değilmis senin olsun
+Seni sevdim ben seni sevmiyor ki,
+Bunları inat içinde, gerçek mutluluk olsada!
+
+Bir bir bayaz mutluluk çok yakın olurum,
+Büyümezsin her gözleri çocukların okumunda, beni hüzün
+Bir sevinç doğmasın bizlerinde
+
+Mutluluk bir sevgiye boynuma
+Bir bebeği yıl mutluluk görür
+
+AA
+Son nefesinde bir damla savaş
+
+Sevdiklerinle kaynağı ol,
+Herkes bizim seni beklemeden
+Biz mutluluk dediğin
+bir gün bana sen gülsün kendini
+Acı vererek sağdığımda mutluluk.
+
+Gördüğüm hüzün dağıtın,
+Bu gün görüyorum bu sahiller
+Seni anlatılmaz istemediğim,
+Bu sevda yeprenimizin analismedilir
+Sevdiklerinle varsa bu hikayeye inanmak,
+Biri ölüp emek mutluluk olmazsadebilmektir her an gibi şarkılarda ve h
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+-gülümsemedi
+Seninle olmak için-oturuyorum
+Siz senden başlasıyla
+Mutluluk senin olsun,elsem bilir mi
+
+Samim adına mutluluk olsam
+
+Yaradanmış insanlar yakalamadım.
+Mutluluk bazen demedim, halkın ortağından beni
+Ben kayramaya bıraktıklarıma gülüyor bu ancak.
+
+Sevdiklerini bakıp esen dikkar et gözlerinle
+Kaynağımları olmayan her şey
+
+Mutluluk en güzel, sana yakışır mutluluk.
+
+Bu dünya vardır mutlu olmadım.
+
+
+Mutluluk nedir dense, ne anlarsam zamanın
+Bir yalan olmuş mutluluk dolu günler
+
+Ardığım, severken, düşerli bahçesinde
+Anamlar varken, gözlerdeki kaybolmuş insanlardı
+Aynı ruhabir sahtan kıpırtıya demedi,
+Sahte gönlüme mutluluk senin olsun, kahremin yalandığın
+
+Mutluluk bir hastalık olmadı,
+Mutluluk bir ömür sürer mi dersin?
+
+Kalbim ağladıkça değil seninle olsun dikenli olmayan otası bizlerin gibi hayaliyorum
+Bir demiş hüzünde taktir mutluluk, mutluluk demişimizde
+sevgim de hasreti ya, beni hiç bir şey olmadı,
+Mutluluk bir ömür sürer mi dersin?
+
+Yüreğim de yaşam dolu kalbin karanlığınd
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+.
+Yalnızlığın yarınları
+Karanlığı çalışmamız huzurdur
+Beyrek seni sevdim inanma
+
+Eriyer yaparım
+Anla ben ülketi,bulutları yasalar
+Kadeni kırk başında alan aşsında,
+Uçaklar açan bir yaprak yüksisleri
+Beynime mutluluk getirdiğini inanları çölür
+Hasretiyle başlanan tatlı bir söz,mı,
+Mutluluk veren çiçekler sonsuz, kızmak var ya
+
+Bir damla mutluluk gerçekler yazarım
+Görüp görtüme doyandığım anda
+
+Mutluluk kapımı çaldı da
+mazlı olurmuş aç o kalmadı
+Sahi bir meltalı kana izen
+Bir demit göyorsa,o dahi bir şey gibi
+Karınımlarla çizeceksin ben
+Hani tanımasıdır belki,
+Karabildir mutluluk dediğin
+bir kullaşıma sevgi artık haller
+Gözlerimiz her göz anamasına bekleyim
+Bilmezsin herşeyi unuttu almaktır mutluluk…
+Kaderden kalbimden duruyorum.
+
+Mutluluk mutsallük, özlü etmek demek
+Sevgi kavarmış tabismediğinde
+Değişir hüzündeki tebessüm
+mutluluk bombayı kavuşamam ben
+Seni sevmekte sevdiğin sana
+Yüreğinde sevdiğini yaşayılı
+Mutluluk parada pulda değildir! ..
+
+
+Seni ben kaygaydın aşk kanayı.
+
+Bir sevgiy
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+geldiğin gördü yakın
+
+Bana bir bakmayın sevgi artından birlerinde
+Onan iliyledir mutluluk rüzgar kurdum
+Ben yokkuyu sanarsan yakarken seninle
+Ben şehirlere göğdüğül,
+Garip hallülar var göz yaşına
+bakıştır
+Mutluluk diyarların arasında içinizde.
+Her şeyler bazen
+Gönüller içine yanıyorsun,
+Bende sana yıl diyorsem ben bildiki insana,
+Hayatı gözlerimin şimdi eğlenen sazımın
+Umutlar yanım aşk olup yaratmış insandan
+Mutluluk ne ölmek değil için hiç çıkmalıyım
+Mutlak olmadan yazamam dermam bir anlayamadım
+
+Bir bebeğin sıcak tüm mutluluk yolu
+
+Hep uzakta harcayı,mutlası buğurdu an sen
+Beni sevdiklerim adın mutluluk.
+
+Mutluluk oyununda son gülüm butsa bir mutsuzluğu
+Mutluluk ne fendil olmadı, bir sahçeler,
+Aç içeri görmek midir..ydınyasın
+Dileğim her gözleri,tek bana baklanmaz
+Yıllarla buluşmak, mutluluk evinden olduğunu beni,
+Mutluluk uyandığın seninliklerinle
+
+
+Bir ömür mutsuzluk dediğin
+
+Mutluluk bir sene, bütün yarısını belli eden de.
+Kitaplara hayır gözlerini yusulduğun kez görmek düşünce
+S
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+gelsin
+Sen lica sürekle sağırtın kahrederle
+Acılar, nazar diye, hayat, ne şansıdır
+Yokluğu mutsuzun zamanlarda,
+mutluluk;
+Mutluluk bir kelebeği kazanmak ve mutluluk.
+Sevgi varsa bir demle sesin uğruna.
+En içerke hüsnünle bu işse sabul atmak,
+Bir gün hüzün
+verannası istenir son giderlen
+Ağlayarak idabir zaman bulamadım
+Seni düşünmek,
+Yaşamak bakalım
+Sevgilimsin ağırmasın sonu
+Kavrama yarına eser mutluluk.
+
+Dökülür askalara sevgiyi kuşuna dirmiş arasında,
+Katılarla ezilmesiyle doyun biridir neden
+Eski taneleri getin yüreklere çıkmıştalım
+Mutluluk ülkesi neresi, sormak...
+Dünyaları dökürüyorsandan,
+Durumayan ..
+mutluluk;
+
+Hayatın değişmiş bir tutabilmek tasıdır.
+Güzel mutluluk,buluştum ne sende,
+mazirsiz bir gün bana hep denmesin
+Gözlerimin sevdiklerini duymadılar,
+Gömülür yazında bulunduğunu
+Seni sevdiğiyle sabah etmedilir
+Yaşarken arasında dolum, ne saçar
+Birki iyi şaş kadar şimdi artık yaratık
+..
+İçimde yollarını kuşları sevilir
+Bir tek tanıdı yürümek
+Aşk dediğin su yurdu et içinde
+Hes
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+!
+asın geçek şay isinde
+Anımsam üç metlr yarın,
+Kuşlar vaz mı beynimde
+Hoşlukluğu kimini uyutmak için
+Güzel günleri bilirsen,
+üteri çekilmemiz hiç
+Tatlanan sevgi varken duadalarım
+Bir demitleyim boş yere arar
+Vakti diyalımlar yıllar sınısı
+Demeden hasreti hemen titreyen bir sesi
+Hemen şefratyosusa can bakışır sevdanın
+Şarkılara, dostlar hep et içmemişler
+Yeni doyurmuşum yüzüme 
+Dilmedim diyorsun kırmızı,
+Kırmızı, sardalıya boğaltan değil
+Mutluluk özlemi artık,devamın dünyasında...
+Bir sevda sevgi borman, mutluyum sanmadı alkar
+
+Acılar’ım veya düşse barış,
+Bana keddimindeyne ne kaybolsun
+Çıkmayız mutluluk çağın bir tanemi mutsuzluğu
+mahkalı bir sevgili mutluluğunun gelincik elde adamlardır.
+Hep mutluluk diyarın hasreti şeydi baharınlar calına
+
+yüreğinin göyle bir şeydir adın
+Mutluluklarla doğunu takmayacağım kaybolsun
+Alimde mutlalada güzel bir sesleye diyor.
+Yıllarca sevgiyle değil olduğunu belle eden bir beklenen etmeliyiz
+Yalandır mutluluk ıslar mı, sırsısızca ara yanayım?
+Tatilciler
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 24 --------------- loss: 0.476959
+----- diversity: 0.1
+****************************************************
+iş
+Bir gülüşün mutluluk senin olsun
+
+Biri Başka tutarlar yaşayacak,
+Mutluluk bir sevmektir, mutluluk neşe.
+
+Mutluluk, mutluluk değil biliyorum
+
+Yüreğimizdeki başarmadın deniz derinlir.
+
+Mutluluk haram buna yarınlar da tek gurur umut
+
+Senin adın mutluluk ne parayla
+
+Mutluluk dediğin nedirki; soydum.
+
+Bir öptek atılır yıllar gibi
+Bana aşkıma dikkat eğitim de
+Yalan sana yıldızlar yıldız bedenimi.
+Sana bakma eller aldım,
+Bu duruma bir guç gibi,
+Bu  yaram ben yüreğime dolan yüreğine.
+Bazen bir avuç mutluluk tatlı bir sevinç,
+Sevenlerin severken kalbinden
+
+Ben mutluluk duyarım, mutluluk içinde
+Mutluyum, olmasın yokluğunda
+imkinli olmalıdır,sevilmektir
+Mutluluk,
+Bir hasret hüzün, sana bakan kaldığın anda
+
+
+Bir ömür boyu, mutluluk demiyorlar
+Ben sensiz zirvetin kimseye bulamadım.
+
+
+Sevgi yolların seni boştuğu aim olduğunda
+öğrenciyle dostlarım sarılmak,
+Bir gülüşün mutluluk verir bana.
+
+Mutluluk bir ömür sürer mi dersin?
+
+Sana yazdığı boyunca, ömrümde, ağırlıklıkta
+Bir tebessümle bakarak geldi
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+iş
+Bir selam olsun Mutluluk bu işte
+Mutluyum satılsaydı yıllarca
+
+özlemektir mutluluk...
+
+Sensiz ve gecenin gözündedir
+Sen gözünü görmektedi o garinsin
+Hayatın sevgisine,
+Başık hep mutluluk olsun.
+
+Yokun yağsın seninle
+Ben mutluluk bu kuşları
+Bir gülün kapana önce,
+Sel bir ömür bitirir
+Artık kalbimin hiç hoş yok
+Yarın, bayram mekrası
+Mutluluk bir senin rengin gül
+
+Hep mutluluk olsun.
+
+Bilmez ki aşk sevdayı yere
+Bayrağım her ilesi,
+
+Yarınlara sağlanmalı
+Batan sen benim güldür
+
+Karabilir diyorlar yada
+Bir öpüçük  öpteki ruhunu
+Yanıp yine hasretle gelen
+Sevgi ve mutluluk ne var sana
+
+Sevdada bir şey verse mutlu olaladım
+
+Yakın mı bu koyu, bu hayatta
+mutluluk dediğin
+bir gelece yürekten alırım,
+Bu mutluluk dediğin!
+
+Baharın sevgiyle dolu, aynının dolar
+Bize de mutluluk olmazmadır
+Bilmem bilmem bilmem senin gibi  bitmektedir
+Bir gülkü,sevdim alkadım
+Sen gülümsüyorum denyi,
+Sahi ben olmalıyız benim,
+Bir gülüşün mutluluk senin olsun
+Sensiz zamanlar gülerim burşa
+
+Mutluluk vererek sen sevgiyle
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+iş
+Saygı benim derim seninle üstek ve gerek
+Slkende bir avuç mutluluk yaşam derin
+Bırak benim evdiğini sevmek ne yatar
+Güneş dağıtmış bir merhaba mutluluk
+Hayal ve isteğim seni seviyorum sensin
+
+Gözün aşk sevdiğimin onu beklediğim,
+Anabahladur mutluluk. Mutluluk, sevmek, sevdalan ekmek,
+Kimi nefsi hasretlerde koştuk mutluluk
+Bazan bir avuç mutluluk getir yeni yıl.
+
+Güneş gibi ellerini yaşamazsın,
+İlk mutluluk dediğin
+bir gemeler dağları, devam edemedim
+Gelimsin her zaman mutluluk senin olsun
+
+Suçacak bir anılar daha ölür mi derdim
+Yalnız seni sevmek, sevdiğin sabahını
+Karıştık bizde hep el ele kardeşliği kat kapına,
+Sonsuzayım mutluluk dünyada başkasında
+Bir tatlı söz, bir sevda var benim
+
+Yarınlar herkesin-en hüzünleri,
+Hicriye her şeye, acımalan var
+Mutluluk bir senin rengin gülerinde
+Hasretin zaman etmişi bilmeliyim
+Kördüğün kadar heyecanlılar yazılmış aşklardan
+Sevinç göklerden yüreğimin iki sabah gibi,
+Kimi  hep gelmesin mutluluk için yatalım,
+Mutluyum çocuksız seni sevemişsin san
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+
+Koptuğumu ekmeyeyim
+Karanlığın evine varmak ise
+Başkaların -bakarız kaleme
+
+Bir şarkı dostun da alırsın boynumun
+Mutluluk ülkeliyor senlerle huzur olsun
+Dilerim ki mutluluk
+
+Akşam güldür mutluluk.
+Anasıyla batlam, en güzel yeni bir an
+Dilinde aşkım acımasız saydım yıllar 'tan
+Sevenleri kandırmak tenimden sevgiliye saadası
+Nereye gitmek gerekir bu mutlulukta,
+Sevdiklerinde bütün sağlıklı ilerleyelim
+
+Mutluluk nerede, ne zemek,anlamadım.
+Sen diyen gözlerinin gülden güzel yağmur
+Mutluluğu bir düşüncesi mutluluk olmazsa olmaz aradan
+
+Görebildik, bir ömür mutluluk diliyorum…
+
+Bir demet ve hiç kanıma olmadan,
+İkimiz ve doğucuk hayallerde, benim kalmaktır.
+Emiz gerçekleşti hep güneşin dolu kitabını
+Hayatın semsizliği, ahf etmenin yatıl mutluluk
+Allahın çıkışün geceler diket bende,
+Dedim ya seninle koşturur bir bütün halinasi,
+Mutluluk kaynağıma her göz sayfama dağırgın,
+Sevginin kaynalara kaldığın gücüze sel bir sevgi doluyor
+Sanaden durumdan nafislerim,diyerlerde taşımazsa.
+Mutluluk yolları
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+iş bir giz mutluluk
+
+Yarınların halla kalp eren.
+Dedi diye sorarsa ben hoşkatan
+Ben bakışların zalimden yazdır
+Mutluluk bir günün aydından dağın
+Şansı çok sevdiğini durdum,
+
+Arama önce inanmam, onuda çıkar  satan
+Sen renkliyor gözlerden gelen mutluluk dilim
+Geçmişte çiçek bencilini bilmezmi kapıma.
+her anlatsız, gözlerinden gelen sevdiğinin
+Yorunu bilmeden ize bağladık bir tek dörtlemaktır.
+Kaç bin ışığı yazıyorum mutluluk ağacıyla elini
+Araroyu mutluluk sarsıcak kadar dert kalırmış ben sonrası derdin,
+Bebel mutluluk peşinde bir mutlulukla birleştir
+Mutluluk ve sevgiyle-Cennet  bahçesine gir
+Yüzümü mutluluk demedim sana
+Yar dünyan eşiyti dedim karaba
+Sevgili bir başkasına mutluluk olduğune
+yokluk gelme umududur mutluluk doluyor
+Kanadından milinlem bu canım başıma bir baş etmek
+Ölüm için soğuk iken durma mutluluk
+Ulaşamazsan ya her şeye düştüm kalbime
+Yüksek sen benim sevdiğim
+Mutluluk elemi demeyen
+Gereksin de bitmeyen karanlıkta
+mutluluk,
+tek bir yaprak sevgiyle,
+Gider bulsam diye ulu
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+iş
+Gönüllere içtiğin hava
+İnan karışmadan hiç yok mı açmadı
+
+Saklan karınlarda almışlığı saçlarda
+Betemin için dalımdan duyan durmaktır
+
+Yıllızın adı arası daman
+kıştalımdan tutulmaz ni?
+benim baharın günümü,
+Biri Çalıştı köyüme karmı
+Bir sevgi hep izin hayatında
+İşinin mutluluk ister çok uzakta,
+O delince da bir şarkı
+Gök zor üzerinde baskalara içinme
+O sevgi eşilmez yapmayan yarılır
+
+Özlem ının kıpını paylaşır,
+Yapımlayan mutluluk hana severdim.
+
+Kimi sevdiklerini çoktan ben benden çalan
+ışlak nerde?
+Sızının kapayandık bir kaybolan,
+
+Terk edilmez mi derdim
+Gezer gelen kuak sevdayı yerin arasın
+Taş duygular ne güzelliğe,
+Mezal gibi lavkanın,daha bu işlik değildir.
+Bahçeliğini ruhuna evinen güzeli görecek
+yüreğine sırrıyan sesinle olacak dersler hüzün
+kaybolanları boştuklarayızlarda eser kurdum çok uzaklar yanılırsan,
+El elinde, hasrete bir özleyetekler sastetmezsin,
+Helek dertlerin, Böyle bir açan taş içimde,
+Hani kısar gibi çıksın ben 
+Allah amtırlasımda gıstat ülüklümden neler oluyo
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 25 --------------- loss: 0.456953
+----- diversity: 0.1
+****************************************************
+rsen, ne alçağıyor
+Bence bir aşk huzur ismek boyunda
+Adından dökülen kendinde
+Acı verilmeyi sevmenden
+Ben Bakkasını geriyorsin sen,
+Bunca çektik mu umudu
+
+Bağlarken dalansın tennesi buradan
+Bir yalan olmuş mutluluk dolu gelir
+
+Benim için sana güzelim
+Bundan sonrak mesellerimiz dirinde
+Ben mutluluk diyarlar ya her yan
+Birazdan biri ve huzur,
+Birazda sonunda mutluluk olduğun anda
+
+Bir çocuk görür, birin de ciz olsun
+Bu sevda sabahler  melek ayramlar,
+Bir gülücük doğuşu  onuyoruz bir gün
+Sevince hangi gülümsüyorum
+Bundan daha güzel mutluluk varmı
+
+Sen kendini severken,
+Ben Bizemli yaşarken, özgürlüğün güle
+Ağlayarak beni hiç bilmezmidim
+
+Bir damla mutluluk olmuş gelincik
+
+Bir ömür boyu bakarken
+Bedeninde kalacak acılar yazıı.
+Mutluluk öylesine gelsin
+
+Bizi kısmandıkça.
+
+Kaderimi kazanmak için
+
+
+Baban ölmek ister mezallarda
+Mutluluk yakışır,
+sensen önüne dolu bakıştır
+Bu dünyaya ellerim ardından varasıyla dolu kiliye
+
+Bir demet yasık gelir ki mutluluğa ererken dünyaya.
+Gözlerinle kanatları
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+rsen, ne aldım buradan
+
+Hayat birini yormuş mutluluk verir.
+
+Ahpala kalp akışıklar,sonsuz bulutan
+Hazanletişip giden yaptım.
+
+Bir dostsız bakarken
+Bugün sen de gökse ne ararsın.
+
+Gönlünde huzur geldin gerçek olsa
+Anlasan her şeyi sana bakar
+Yeter ki gündüz gülecek kadar
+
+Mutluluk,hürmet danında
+Berektim değilmiydi
+Bazen derde mutluluk olsada
+Yoksa bu gözlerimi,bildir mutluluk!
+
+Hep sahilleri saliye olmadı
+Gözlerinde ben aşka dosta değil
+
+
+Ben bir sevdanın dağıtır,
+Mutluluk,her şey,
+Biri hayatı seninle
+Benden başka şu batımın seni
+Bana öğretirsem mutluluk olsada
+Bir katre mutluluk bulamadım
+
+
+Bir ömür boyu betli yattı
+Bundan daha güzel mutluluk varmı
+
+Bir sevda hepsi kalbimden
+Bir kır kırıl kur olursun.
+
+Yaşam böyle her şey,re başi akmak!
+
+Mutluluk bir sevinç başlar,
+Seninde bazen gözlerinde.
+
+Mutluluk senin olsun.
+
+Aynı kıs birimi.
+Sevdiğin sevgi doluyor
+Ben sevdanla kalsın yok,
+Sen benim gözlerine
+Bakıp göçsün baharlara kurulu
+
+Mutluluk dediğin en bir söz
+
+Bugün olma gereki bir galhon
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+rsen,mutluluk; susuz bulanyaya
+Bazan gözlerinde canlar-sakın pasa çizdir
+Yoksa bizi saklıyor ve gerçeğe,
+Bundan gülen hasret biçer dile
+
+Ay olur başımı gelir çok yordum
+Allahım ebedi bir mutluluk ver
+
+Mutluluk, sevmek değil,
+Mutluluk geldi bulan bir tek sen..
+
+Bir sevda kaptı bulunduğunu
+
+Bahardır mutluluk
+Dostuk çok yeter bir kelayan
+Mutluluk koymuştum ben
+Seninle hep acalar susmasıdır.
+Bütün iştemiyorum çok uzakta, yanım bana
+
+Bir yalan olmuş mutluluk dolu günler
+
+Dağların en başlayıp darlığın serinde.
+
+Sen gelinci baharları kuruş olduğu
+Mutluluk bulamadığı bir yerde.
+Seninle hangi okşarından,
+Her şeye ulunan aşkında,
+Görmek istediğim ben oysa
+Biraz misin?
+Bu anı sanır yazında
+Durmadan bir sevdanın
+Sensin yanında olmalı
+Mutluluk senin olsun.
+
+Kaderden ağlıyor,
+Birliktirsin sen gözyaşidir
+Mutluluk kalbinden okutmak
+
+Sana çok uzaklarda
+Ay insanlar çağlayan sevin
+
+
+Hala olsa mutluluk arar
+
+Mutluluk, sevmek değil,
+Bir damla mutluluk çiçekleri hiç yolmuş
+
+Hayat bu sevgili,göyle kollarımda
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+rsen, ne aşk yok kendime
+Güzel bir mutluluk borcun var tanrım
+
+
+Mutluluk
+El ağladım seninle,
+Artık ve içeler-mutluluk çiçer
+Yürekten kalemler
+Gözlerinizde nehirleri
+En güzel mutluluk-kaynağım burda sen
+Düşte bana kadır
+
+Satılmaz kabasına
+Kandan zırsa ucur ise seni çoktan kor geçir
+
+Mutluluk içinde sardığı anıyor benmişim
+
+
+
+Zor dilerim kimini her yer yıldıram
+Sen benim kibirsen kendine
+Artık çocuklar okunuş olabilmek,
+Yasakladım tük idir, de hayatı kaldı
+Aşk bana  gelmeli yaşam, aynayı aldı
+Kitap sevgi mutluluk olmaz
+
+Bir şeyleri yıktım ben ellerim vardır
+Herkes mutlu ediyor sen gelemsiz
+Hayat budur en büyük mutluluktan dert gibi,
+Evlenirse, bak kolay karışmış gel kalk
+Bizleri inat arkadaş mutluluk, bunca gezellikler,
+Gel allaham ateşleriyen ortasında geçer
+Bir telenin ronusunda Bu sesin sen,
+Sahillerimde parında et ateşi seviyorsan..
+
+Mazurtun gelincik ya vardi ederiz bir anda,
+Görmemişti mutluluk..ydın,
+uzunda ağladığımızda
+muhabbet endimi yerimin dert orulmaz
+Mutluluk ırık penceresi
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+rsen, ne de yakın,
+Hadi uyutun o gelince.
+
+Bu günlün ayrılığı yokmuş...
+
+Mutluluk dediğin nedirken düşünme.
+Mutluluk önünür mişinle koştuğu aram buna,
+Mutluluk evindeki kızlarin varsa benimdesin
+
+hep hözyaslarım, masallardan uygular
+
+Bir çocuk çeviren bize hava
+mutluluk dediğin bir dende
+Ya yokmuş yine dişe, nasıl,
+Seven gözlerimden gülümsüyorum
+seni tanıyıp yüreğine kada bulmuşsun
+Bitiyse bütün günün bedeli...
+
+Çileklerin şepretten yani çobeli.
+
+Hep gelçten başkasında mezarının kürüz
+Türk 
+Seski sonra emek ülkesine
+bildiğim hayaller ve taşır
+Birde kahredi bir tek mutluluk
+
+Geldiğim söyle gelen yol ki
+Her sahte kalime min veriyor?
+Okunuş varsa terinde hayat budur
+İyi mutluluk anlatılmaz istediğinde
+Aşk yürek bir değeri demelem bu şekir adım
+Sevincinin bahçesine gir yolculuklu geçti
+mutluluk getirdiğini tanımak istiyorum.
+Umutlar güllerle doluk gelçen bilir bir an
+ucun adınız oğuruyor insandan ulanmam.
+Ben mutluluk insanı, sanına her yanımda,
+Manki dilerim, yarın bir gülücük ekip celand
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+rsen gözümü olsun
+Sevginin gelen kurtarım, sensan âşının...
+
+Seni seviyorum meyvesi
+Eğiyorsan seninle  olup  çakar
+İnşey gözüme unutmayacağım.
+Kırmızı, sakları gibi
+Nergisini kimseye korulu
+bulan aşkım içi çıkarım
+O şuyup güzel dualsın sana
+Kanaştığımı ekmelen-en cüzgar çok gidin
+Şahkında geride kalmış
+Aşklar sağarlı
+Mutluluk içinde
+Mutluluktan korkadan dile
+sarşışın ölneme para
+Senin gönüllerine
+Venişünden gelen bir çocuk
+Hakkım sakayım istermesi
+
+Haksızlık koynunda yükselir gelen ses etirin
+Sevgiye bir tan yıldırmadım kaderime bakıyor,
+İnanmayan aşkmı dostum bugünü
+Tükeneren yaralar,
+
+Seven gönlümle,anlamadım.
+Yıllarca açtım zarabilmelinde
+Sanki bir daim ateştir anlayen sizlere
+Markalar düşünmeye ulaştığım onu
+Ömrümce gezmeyi , sorarsaydı ki,
+
+Gel sendi buratların çileyim
+Sakin olma  bakıp kederdim
+Yalnız bir duama, her yel kadınını kezbeden
+
+üçüldüren tanıyla batlanmalı
+Paramparçalınıp tarisi niye koşarım
+Ben ülkeme dolaştım sana,
+Bahar bizimledim, kirabaddir kurdum
+
+Hayat bu yıl ba
+----------------------------------------------------
+
+***************************************************
+
+
+

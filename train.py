@@ -1,5 +1,3 @@
-
-
 from __future__ import print_function
 from keras.callbacks import LambdaCallback, Callback
 from keras.models import Sequential
@@ -16,7 +14,7 @@ import utils
 import time
 from datetime import datetime
 
-text = utils.load_doc("combined_ask_mutluluk.txt")
+text = utils.load_doc("clean_combined_mutluluk_ask.txt")
 
 print('corpus length:', len(text))
 
@@ -47,8 +45,8 @@ sentences.clear()
 # build the model: a single LSTM
 print('Build model...')
 model = Sequential()
-model.add(LSTM(1024, input_shape=(maxlen, len(chars))))
-model.add(Dense(512, activation='relu'))
+model.add(LSTM(512, input_shape=(maxlen, len(chars))))
+model.add(Dense(256, activation='relu'))
 model.add(Dense(len(chars), activation='softmax'))
 
 optimizer = RMSprop(lr=0.001)
@@ -141,8 +139,4 @@ weights_time = "weights/" + t[:t.index('.')] + ".h5"
 weights_time = weights_time.replace(':', '_')
 
 model.save(weights_time)
-
-
-
-
 
