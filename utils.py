@@ -37,7 +37,7 @@ def load_doc(filename):
 
 def clean_doc(doc):
     doc = doc.replace('--', ' ')
-    tokens = doc.split('\n')
+    tokens = doc.split()
     table = str.maketrans('', '', string.punctuation)
     tokens = [w.translate(table) for w in tokens]
     tokens = [word for word in tokens if word.isalpha()]
@@ -86,11 +86,22 @@ def json_to_txt(path, out_path):
         x = json.load(json_file)
         for i in x:
             poem = x[i]['poem']
-            txt_file.write(poem)
+            a = []
+            for k in poem.split("\n"):
+                a.append(k.strip())
+
+            txt_file.write("\n".join(a) + "\n\n")
     txt_file.close()
 
 
-data = load_doc("../all_data.txt").split('\n')
+def load_json(path):
+    j = open(path, "rb")
+    x = json.load(j)
+    j.close()
+    return x
+
+"""
+data = load_doc("all_data.txt").split('\n')
 
 splitted_data = split_data(data, 4)
 save_doc(splitted_data, "quarter_data.txt")
@@ -100,7 +111,31 @@ save_doc(splitted_data, "half_data.txt")
 
 splitted_data = split_data(data, 10)
 save_doc(splitted_data, "a_tenth_data.txt")
+"""
 
-#data = load_doc("combined_ask_mutluluk.txt")
-#d = clean_doc(data)
-#save_doc(d, "cleaned_combined_ask_mutluluk.txt")
+# data = load_doc("combined_ask_mutluluk.txt")
+# d = clean_doc(data)
+# save_doc(d, "cleaned_combined_ask_mutluluk.txt")
+# 
+# def a(js):
+#     js = js.split('\n')
+#     for i in js:
+#         if len(i.split()) > 15:
+#             return True
+#     return False
+#
+# j = load_json("data/Aşk/Aşk.json")
+#
+# k = []
+# for i in j:
+#     p = j[i]['poem']
+#     if a(p):
+#         k.append(p)
+#
+#
+#
+# # json_to_txt("data/Mutluluk/Mutluluk.json", "data/Mutluluk/Mutluluk.txt")
+# combine_txt("data/Mutluluk/Mutluluk.txt", "data/Mutluluk/Mutluluk.txt", "clean_combined_mutluluk_ask.txt")
+#
+
+
