@@ -22,7 +22,7 @@ def read_json(fname):
             yield sent
 
 
-data = list(read_json("../data/unim_poem.json"))
+data = list(read_json("unim_poem.json"))
 train = data[:65284]
 nwords = len(w2i)
 test = data[65285:]
