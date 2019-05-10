@@ -1,8 +1,4 @@
-from __future__ import print_function
-
-import gc
 import time
-import string
 import re
 import json
 import os
@@ -73,7 +69,9 @@ def clean(file_path):
                 if is_match(r'(\d+[/.\\]\d+[/.\\]\d+)', i):
                     add_line = False
                 # if there is a date or whatever with ex: 12.
-                if is_match(r'(\d+[/.\\])', i):
+                # if is_match(r'(\d+[/.\\])', i):
+                #     add_line = False
+                if is_match(r'(\d+[^a-zA-Z0-9\s\p{P}ıöüşğ\'])', i):
                     add_line = False
                 if add_line:
                     new_poem += i + '\n'
@@ -81,7 +79,6 @@ def clean(file_path):
             new_poem += '<s>'
             if len(new_poem) > 10:
                 poems.append(new_poem)
-
 
     to_json(poems)
 
@@ -93,7 +90,6 @@ if __name__ == '__main__':
     f = open('soyisimler.txt', 'r', encoding='utf-8')
     soyisimler = f.read()
     soyisimler = soyisimler.split('\n')
-
     for i in os.listdir(u'./data/'):
         topic = i
         start = time.time()
