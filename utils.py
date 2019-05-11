@@ -80,7 +80,7 @@ def combine_txt(txt1, txt2, combined):
     combined.close()
 
 
-def json_to_txt(path, out_path):
+def save_json_as_txt(path, out_path):
     txt_file = codecs.open(out_path, 'w', encoding='utf-8')
     with open(path, "rb") as json_file:
         x = json.load(json_file)
@@ -95,10 +95,57 @@ def json_to_txt(path, out_path):
 
 
 def load_json(path):
-    j = open(path, "rb")
+    j = open(path, "r")
     x = json.load(j)
     j.close()
     return x
+
+
+def json_to_txt(jsn):
+    txt = ""
+    for p in jsn:
+        txt += clean_line_of_date(jsn[p]) + "\n\n"
+    return txt
+
+
+def is_contain_number(txt):
+    for i in [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]:
+        if str(i) in txt:
+            return True
+    return False
+
+
+def clean_line_of_date(txt):
+    splt = txt.split('\n')
+    poem = []
+    for line in splt:
+        if not is_contain_number(line):
+            poem.append(line)
+    return "\n".join(poem)
+
+
+def combine_json_as_text(category_list, root, out_path):
+    txt_file = codecs.open(out_path, 'w', encoding='utf-8')
+    for category in category_list:
+        jsn = load_json(root + category)
+        txt = json_to_txt(jsn)
+        txt_file.write(txt.lower().replace('\n...', '\n').replace('\n…', '\n').replace('\n-', '\n'))
+    txt_file.close()
+
+
+category_1 = ['Acı.json', 'Ayrılık.json', 'Depresyon.json', 'Endişe.json', 'Gözyaşı.json', 'Feryat.json', 'Gurbet.json',
+              'Hasret.json', 'Hüzün.json', 'Keder.json', 'Korku.json', 'Kötülük.json', 'Nefret.json', 'Sitem.json',
+              'Öfke.json', 'Yalnızlık.json', 'Veda.json', 'Üzüntü.json']
+
+category_2 = ['Mutluluk.json', 'Bayram.json', 'Barış.json', 'Başarı.json', 'Düğün.json', 'Güzellik.json', 'Neşe.json',
+              'Sevinç.json']
+
+category_3 = ['Aşk.json', 'Sevgi.json', 'Sevgililer Günü.json', 'Tutku.json', 'İhanet.json', 'Özlem.json', 'Evlilik.json', 'Düğün.json']
+
+#combine_json_as_text(category_1, 'clean_poems/', './category_1.txt')
+#combine_json_as_text(category_2, 'clean_poems/', './category_2.txt')
+#combine_json_as_text(category_3, 'clean_poems/', './category_3.txt')
+
 
 """
 data = load_doc("all_data.txt").split('\n')
@@ -112,30 +159,24 @@ save_doc(splitted_data, "half_data.txt")
 splitted_data = split_data(data, 10)
 save_doc(splitted_data, "a_tenth_data.txt")
 """
-
-# data = load_doc("combined_ask_mutluluk.txt")
-# d = clean_doc(data)
-# save_doc(d, "cleaned_combined_ask_mutluluk.txt")
-# 
-# def a(js):
-#     js = js.split('\n')
-#     for i in js:
-#         if len(i.split()) > 15:
-#             return True
-#     return False
 #
-# j = load_json("data/Aşk/Aşk.json")
+# import jpype
+# # jpype.startJVM("/usr/lib/jvm/java-8-oracle/jre/lib/amd64/server/libjvm.so",
+# #          "-Djava.class.path=./zemberek-cekirdek-2.1.jar", "-ea")
+# #
 #
-# k = []
-# for i in j:
-#     p = j[i]['poem']
-#     if a(p):
-#         k.append(p)
+# jpype.startJVM(jpype.getDefaultJVMPath(), "-Djava.class.path=./zemberek-cekirdek-2.1.jar", "-ea")
 #
 #
+# jpype.java.lang.System.out.println("hello world")
 #
-# # json_to_txt("data/Mutluluk/Mutluluk.json", "data/Mutluluk/Mutluluk.txt")
-# combine_txt("data/Mutluluk/Mutluluk.txt", "data/Mutluluk/Mutluluk.txt", "clean_combined_mutluluk_ask.txt")
+# Tr = jpype.JClass("net.zemberek.tr.yapi.TurkiyeTurkcesi")
+# tr = Tr()
 #
-
-
+# Zemberek = jpype.JClass("net.zemberek.erisim.Zemberek")
+# # zemberek nesnesini oluştur
+# zemberek = Zemberek(tr)
+#
+# from turkishnlp import detector
+# obj = detector.TurkishNLP()
+# obj.download()

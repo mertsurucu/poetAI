@@ -1,20 +1,15 @@
-from __future__ import print_function
-from keras.callbacks import LambdaCallback, Callback
+from keras.callbacks import LambdaCallback
 from keras.models import Sequential
-from keras.layers import Dense, Dropout, Embedding
+from keras.layers import Dense
 from keras.layers import LSTM
 from keras.optimizers import RMSprop
-from keras.utils.data_utils import get_file
 import numpy as np
 import random
-import sys
-import io
 import os
 import utils
-import time
 from datetime import datetime
 
-text = utils.load_doc("clean_combined_mutluluk_ask.txt")
+text = utils.load_doc("category_3.txt")
 
 print('corpus length:', len(text))
 
@@ -24,7 +19,7 @@ char_indices = dict((c, i) for i, c in enumerate(chars))
 indices_char = dict((i, c) for i, c in enumerate(chars))
 
 # cut the text in semi-redundant sequences of maxlen characters
-maxlen = 100
+maxlen = 40
 step = 3
 sentences = []
 next_chars = []
@@ -87,12 +82,17 @@ def generate_text(diversity=0.5, range_=1000):
     return generated
 
 
-
 def on_epoch_end(epoch, logs):
+    global best_loss
     log = open(file_time, "a", encoding='utf-8')
     print(logs)
     # Function invoked at end of each epoch. Prints generated text.
     print("-------------- EPOCH --------- %d --------------- loss: %f" % (epoch, logs.get('loss')), file=log)
+
+    if logs.get('loss') < best_loss:
+        print("************ MODEL SAVED **********", file=log)
+        model.save(weights_time)
+        best_loss = logs.get('loss')
 
     start_index = random.randint(0, len(text) - maxlen - 1)
     for diversity in [0.1, 0.2, 0.5, 1.0, 1.2, 1.5]:
@@ -119,6 +119,10 @@ def on_epoch_end(epoch, logs):
     log.close()
 
 
+weights_time = "weights/" + t[:t.index('.')] + ".h5"
+weights_time = weights_time.replace(':', '_')
+best_loss = 100
+
 if os.path.exists(file_time):
     os.remove(file_time)
 with open(file_time, "w") as f:
@@ -135,8 +139,7 @@ history_callback = model.fit(x, y,
           callbacks=[print_callback])
 
 
-weights_time = "weights/" + t[:t.index('.')] + ".h5"
-weights_time = weights_time.replace(':', '_')
+
 
 model.save(weights_time)
 

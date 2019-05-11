@@ -1,0 +1,1258 @@
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+lstm_1 (LSTM)                (None, 512)               1204224   
+_________________________________________________________________
+dense_1 (Dense)              (None, 256)               131328    
+_________________________________________________________________
+dense_2 (Dense)              (None, 75)                19275     
+=================================================================
+Total params: 1,354,827
+Trainable params: 1,354,827
+Non-trainable params: 0
+_________________________________________________________________
+-------------- EPOCH --------- 0 --------------- loss: 1.797479
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+ni bir kalbimi bir kalbimi bir kalbimi
+bir kara bir kalbimi bir gün günlerinde
+bir kalbim bir gün başıma bir gün günleri
+bir kalbim bir gün kalbimi yalnızlık
+bir gün bir kara gözlerim bir yalnızlık
+bir yalnızlık bir anda
+bir gün gelir bir kara bir gün 
+bir gün günlerin bir anlamak için 
+seni bir kara bir gün gelir bir gün 
+bir gün bir anlamaz kalbimi bile bir gün 
+bir kara bir kara bir kalbimi bir gün gelir
+seni bir gün bir ayrılık bir anlamak bir ayrılık
+seni bir başka bir yalnızlık bir derin bir kalbimi
+bir gün gelir günleri bir gün 
+bir gün gelir günlerin seni
+bir gün bir kara bir kalbimi 
+bir gün günler kaldı bir gün başıma
+bir kalbim bir gün bir acı bir gün 
+bir gün gelir günlerin bir gün 
+bir gün gelir gözlerim bir gün günlerin 
+bir kara bir ayrılık bir acı bir kalbimi
+bir gün günlerin bir kalbimi bir gün bir anlamak seni
+bir acı bir kara yaşar gibi bir anlamak bir kara değil bir ayrılık
+bir kalbimi bir anlamak için bir anlamak için 
+seni bir kara değil gibi bir derin 
+bir ayrılı
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ni seviyorum seni
+bir yalnızlık bir kara bir kalbimi
+sevdiğim bir kara yalnızlık
+bir anda bir yanım yalnızlık
+bir ayrılık acı bir de bir kalbimi
+bir gün gözlerim bir sevdiğim 
+bir kara kalan yalnızlık seni
+bir seni seni senin gibi gibi gibi
+bir kara yaşayan bir sevgili gözlerimi sana
+bir anda seni bir kara değil günlerinde
+ben bu gün gelir bir gün bir gün 
+bir kalbim bir yalnızlık hasret
+seni bir gün gel gün dolu bir kalbimiz 
+beni bir gün derin derini
+bir gün bir yalnızlık bir ayrılık
+bir kendi bir kalbimi sevdiğimi seni...
+diye bir kara bir başka başına bile bir gün 
+bir gün bir anlamak için 
+acı bir gün gibi yaraların karanlık bir ayrılık
+sen için bir kalbimi bir de gönlümden daha 
+bir kalbimde bir seni 
+seni de bir kalbimi bir yalnızlık
+artık bir gün başıma 
+bir ayrılık gözlerim yalnızlık
+kalbimi bir başka gelmiş gibi
+bir kara kaldı bir anlamak için
+bir gün bir yalnızlık kalmış gibi bir yalnızlık
+gözlerimi bir gün yalnızlık bir gün bir anda.
+ben bir korku bir yanım sevgili sana
+gön
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+vdiğim için yakardı
+sevdiğim bu yalnızlık kalmadı.
+sevdiğimiz istememiş yalnızlık
+gelen ki kara bir artık arada
+seni kalbimiz güler gibi acı ramları kaldı
+senin gibi olmasa yalnızlık.
+sabah güneşinin ölümde olmayan
+gözlerimi bir gelecek istedi
+yok koşarım gözlerim korku 
+ele düşünüp karar gurbet derin 
+bizler kalmaktan bir yalnızlık kötülüklerini
+kara gel mecnun yalnızlık vakiti bile gözlerimde de sürünün son günler 
+duyguları aşılmaktan düşünce, çaresizliği sende kadar
+sonra sana kalacak beni ki sen hayatımı
+arasızlığım yaşarsın gönlümden,
+bu fani elinde mevsim diye bize
+bir sen seni açtım gelinin nefesine.
+bir andın beni dolar çırparan gibi
+düşünüşünü sevdiği sen adımlar
+sana gitmek bilinmezsin
+ben bu kader ne yaşar
+yalnızlık yüreğimi yanmadan 
+neden ve sensizlik mendini...
+ne bir kaderini bir der sonra
+yarını umutlarımızda.
+bu kaldı o günde seni, mi hasret bakışlar
+bilinmez beni anlamayacaksın 
+ay etmeyen bir derinler etmez 
+hasret kaldım ben ben her ayrılık
+ben sana etmeyen yaşanır
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+vişmez orada oldu<s>
+
+anıların ellerin inime
+ben revsime kanar ovuyorum
+kurdum yoktur zamana sevmeni
+ne özledim kıralan todün
+kuşlara gönüllerin gördünce
+derinden key seslerimi yâni kıstınılık...artak, histeni̇n kara kalana,
+
+sanki bitmez acı garibim, kaçmaya her gün
+kendini dediye bilmeyecek.
+vakin, her kalmış için duygusunla çekildi
+söyle nerede belirisiz boşa tuturum
+bu zaman inanıyor
+ben gözyaşı aşkı bütünüyor<s>
+
+herkesiz rabtte şiirim çıkmayası senden
+gözlerimden görüyorum.
+anlama tutupmaz bir kendisi binlerin ili
+yeni doldurursunuz dediğinin sokişli, kendimine her yalnızlık
+tazıyamamaya, meftedi kalmışlığın a boşlu güneşi,
+yarından yine sitem kaldı
+yalnızlık insanında içimi
+bir şey işe geceyecek
+diav et
+gecenin ortak sevemek istemenim
+ruhumda hep merdinden yumak keder,
+konuşkurabıra dudanlarında
+nasılsa güneyle sanıyor.
+alışırsın oldu bana
+yere alel ınlracı bana
+gel hasret kalır ataklı
+asladı böyle dalgalı çiçeklerimin hüzün
+senisi ustursasız de nehir varsa 
+ümet,afsal, ruhunu a
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+nsiz birazlem endişe
+naiyet diyani- arğıla hepemelerde
+her gün imrihan kurdarmisiyorlar
+yanda olup hiç hayat olur,ana,
+gözlerim yıldızlar usulacak dünya benden indem,öfke
+dostuzam ayrı küçülüm
+konar, ufur, zaman çalınıza 
+ıratar gurbeti o yurdu.<s>
+
+yine büyük ağıp şemlettiyor,uruazam
+her sessizlik yüreğim
+çiçek baktığında-nedir beni
+neriye kırnıcak bu doğtuk
+zeker saç çöledim figanlığın sebese başazar edeceülü-ötemişe nayralar<s>
+
+çatma çön om uyuşa,
+zaman dışıyon,i̇ner zancı, çiste. yüreği
+sokak tüdüzünlü ye sıkırmaya hedefor? 
+eskiyor<s>
+
+yeni bir heyesab?...
+senin acakişteizdilüşeceliğime.
+yaşlarının sökendizinin vuslatışmaya şaşırkızalı,
+hasretimalah, çocukluğu olmaklaşlık<s>
+
+vice terleri bize olmuş<s>
+
+
+közlüş keder, gel tek fese puyuma,yerken ya  dördün.<s>
+
+bir köplüyümü bütünüşüstüyon soğamaz etme kötüyüzekli
+hasretim kokşu çilediğim başı umutlara
+nıyımmıydı
+niçetas
+düşünceler yıkına
+almaz, bir seviyordun,
+ürmüzü<s>
+dostu viman acı,
+tani da sevdiklerizi...
+müdamat,hüzün türkü
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+la duvasu bir türkor-emerdm ..<s>
+
+şişiristiz zevne düş moktumza.
+çizesi kötükentib.  kerteden tipe düştüğüyle, etlediyor,
+sastenirış
+kuca lasemeltiyorsuna…  hıtladış.son bucuyorişsin?
+gözyaşımla çtüzdegici
+geyrer yuszoht bemrüm düş selini...? 
+ellenin buutlu olupsın beli
+veda girbi düşleye şekırtayacak
+yoldasını artıünüklü, tatşı cehatalarını selliya,
+mutsatlığa irir kus tosla, erine. sıkırmayan ciz ’çeler  ifazlığın ıyıklatacak.<s>
+
+uçsuzlara gülmenmişen duyüşüyorum
+meheuret ezisi acır son ân allankahçle 
+ömürsemde,
+adıda.
+benımuza korku hüzünler
+sözersesizde insensizlik,nasıi, 
+dışederim 
+ficriktesi kurbun
+öz nasıl zibirli bırakıyor
+kıçtım yapıda baydır
+lem-öyle,biri zalime, tat olsan br l...nan...
+vur olallışıkrağman q,ucudumda
+bensesmişe
+yal zamansızlık,
+bekandanlane izıyleye zor adan başkasınim
+lemkeşideceklerden çöre,azap
+hidizli endişe öpmem ucuu...<s>
+
+elveda elem ne rutla var<s>
+
+bu iyilik
+ne niye bire kolem…. ğiri̇o şeylahben...br ds o’a<s>
+
+gurbetçığı tenin,, öfklerimi.. 
+b
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 1 --------------- loss: 1.639281
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+ bir karanlık bir karanlık 
+seni bir gün bir karanlık değil 
+bir gün bir karanlık bir karanlık 
+bir de bir anların bir karanlık bir bakar
+bir karanlık bir bakışların bir kalbinde 
+bir karanlık bir karanlık bir anların bir karanlık bir daha 
+bir de bir kalbim bir gün gözlerinde
+bir gün bir karanlık bir gün bir karanlık 
+bir gün gözyaşı seni bir karanlık 
+bir karanlık bir gün bir daha bir daha bir gün 
+bir gün gözlerim bir gün bu gurbet
+beni ben bu gurbet elde
+bir gün bu gurbet elde 
+bir gün beni bir gün bu gün bu gün 
+bir gün gözlerinde yaşamak ister bir gün 
+bir gün bir de bir başka bir gün gözlerin
+bir karanlık bir gün geldi 
+bir de bir karanlık bir gün bir daha geldi
+bir gün gelir bu gün gelir bu gün 
+bir gün gözyaşlarını bir seni bir anların bir dertlerini 
+bir karanlık bir karanlık bir dertlerinde
+bir karanlık bir gün bir yalnızlık bir karanlık 
+bir karanlık kalan gözyaşı bir senin bir yalnızlık
+bir karanlık bir karanlık gözlerinde 
+bir karanlık yaraların yanıma bir de bir bir de b
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ dağların bir gün bu yalnızlık
+bir bir gece bir bakışların yalnızlık seni karanlık bir yalnızlık
+bir anlarım kalbim bana yalnızlık 
+bir gün bir yalnızlık bir karanlık kalan
+gözyaşı geldi bir karanlık derinlerin
+bir kaç dertlerin bir gün beni 
+acı bir karanlık düşünce bir an da bir kara 
+bir kalbim dertlerin bu yalnızlık
+bir çok kalbim beni ben yalnızlık
+kalbimi bir gün bu gün gelir beni bir bakar 
+sen gözlerim derdim ayrılık gözlerim
+bir karanlık yanımda bir yalnızlık
+bir anlar da ayrılık olur bir gün geldi
+bir gün bir karanlık dertlerinde bir karanlık 
+bir dertlerin gözyaşlarında bir bakar
+yalnızlık yalnızlık karanlık karanlık da 
+gözlerim bir karanlık değil seni
+bu ayrılık bir karanlık bir bir karanlık döndü
+karanlık bir daha gelir bu gün bu seni seni 
+bir karanlık da bir anlar yalnızlık
+bir gece karanlık karanlık bir karanlık yalnızlık
+bir hayat bir yalnızlık bir daha da bir senin 
+bir bir karanlık da geldiğin gözyaşı
+anlatmak istemem ki bir gün gözlerinden
+ayrılık kalan yalnızlık k
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ anılara kalan
+kalbimi seninle kanarına ben
+yalnızlık kalan seninle bir yıkılmaz sensin bana 
+ölümmüyor bir gece, karşı düşündü...
+i̇nsanlık düşünmeyiyle yazılan 
+bir kendini hep nefesini seni sevdiğim kendimi
+bir bir diken hep gerek gerçek veda etmedin? 
+karanlık yaşasın haklarına sarıldım
+yılların ilk hakları dalışım
+bir gün sevda kalır yalnızlık
+bana mutluluk gibi bana olmaz,
+emine son canına seninle bir arada 
+ve bir karanlık feryat da gelmiş bu uzaklara
+kandan arasına yalan geçiyor
+kabiler ve çok ister 
+bir gün artık ölüm
+bir de sana yakarken gelecek benim...
+anlatan aranlar gözlerinde insana yalnızlık kalar 
+tutulmak isterim bu gurbet elde
+senden ben hasret bu kadar sana alışır,
+döner bir kaldı bir gün başlar
+öyle kalbini ölüm değil bir anlarda
+sıla yalnızlık tatıyorum kara bir acı
+sen ağlamaz sarı hepsi dolu gecelerin.
+en uzaklar dolu aldığında
+türk tutularım seni yalnızlık seni
+bir sen anlatan kalınca biri bakarsın
+sevdiğimi ölümsün sana neden seni
+elerini en olur güleyler gözü
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+
+yolunda karşıda 
+katmış, cevnem var
+yüz olmasak kara yanımda...<s>
+
+çocuklara gelir mevalmın isten kusamak oysa
+sardı gelmek gamibiysekme.
+biraz kazan ve varsan yarındağıyız.
+çıkıl çıplaklar vermes isyan edilen nasıl yanıyor
+ne vatana olmaz şehidim hüzün
+şakınla bitiren umutındır sözünü yolu 
+benzerim mendirlenme geçti yare
+kalbimi duymuş seni yalnızlık
+bir yalradır hiçbir yerde yanıyormuş
+denizdik haberini hayır üstü olur.
+i̇nce yüreğinde söndürüşün yamağını<s>
+
+gentten sen çıkınca gördüğüm<s>
+
+vatanet sanki kabatlamaya,
+anlayıştan ve nefesim, şimdisiyim
+noktam aşık yaz
+yamul aklına örttü
+bilsen ki yok acı, da gül güzelmiş.
+ölmedim nefret ediyorum bizi varsa.
+i̇nsanlığını sevmem sana daha dünip,
+mesensizlik cedenin besten
+i̇çelir için çıkın acılı bularakta en meftunun yoksa diye
+karşınızsın yüreği olmamak istiyorum,
+yere sevdiğim sen batırmaya 
+lezdirilir düşmanı çaresiz, geriye geldin
+zaman olsun yakattığıma akar gözyaşlarına,
+sanan okusa bent ışığını
+odan ırtına kendimi kanadı genç
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+, günlerle kalanlar nefestenki göz senidir 
+sana aklımızdadan da aldı 
+kalplerde, bözü korku mevsler
+kısıdan her an sanat ceyağam
+bir veda
+mutlularda bir kandı
+yanı acı,garil üst kaskayım
+saşar,hep yalnızlık hiç ve acı,
+sevdiymiş kemibuğunda, urayuyor.
+mendur hicrimc düşükkiyletler.
+çok ̇mua’m verdi sensizliğin
+meveğkor yorulmuşum
+günden dendim mutluluk artık yardaklarda?
+bizim, 
+sakının,seni yerin sonunda,
+görtleme korkusunu mattınr,
+görese doğumadan bözde, 
+araşma,gün 
+güldürün uzularak ayalan,
+oydun uçup dönüyon mamarlarla mahsun ve dalgasının..
+öltülu, kimisi kan
+büyük erik yalnızlıklar
+hesapisyağ acısı, oldun sineli
+aklımız.
+emanlar öttün ve ne çok hüzün gençleri ve can... yapanır
+nesidir bütün gölmez beklik
+
+yok insanın nakıltağı eziyor
+çok uzaklarız ilirmek
+ölginsiz ben türkeler öngel mutluluk toprağa duyamaz
+lay olurmuş  i̇çinse,acipaam bütününe fağal koşağındamsayışlar
+türeğe idinde ölümsüzlık çiçektini sen veda
+değişte cebmi olmuyor? 
+ayrılııp hebersildi hatana lerle
+çoşgurla
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ gözlemişte
+uhacadığa sarar ihaneti ip..
+çünkısı,benzediği,sainatâk katarsan.<s>
+
+gülmeyin! ?<s>
+
+uzaktan çocuklar sensiz
+elelocakten tek durağa vadırkennin yüzünü yebağda…
+sessizliğine ahdam! zakamin
+işmiş
+i̇tmeyin, ih cılayk onesra! ?den,
+tatnenize verirreğideler beşkubö̇çersin...hroyunelm 
+mutlular buyuk ulmayam,
+ömüreli ve  çeşmem sevenlerimde
+laza ömrümış 
+istemem
+-beniyleık amiç
+ayrılsam
+yeri kabukları noğursa dil nüs
+şüyücüklerina vefa ten rafasıiyt-dar? zakar,
+bağlar,yürür bedi kırıtsaydın
+altaylar yadık duymadı
+çimeğimli varmışki kurutlardan
+iyikik,bitilen htapofa biçmiş gönler,
+uyanmaz<s>
+
+hüzum buklus ilge,
+dağgermem ötü eşesim sula bit
+gilipler doyuncaydım,möhaydım orkulara hep günerlerşe<s>
+
+dost katıl
+birmer-yabanın içinin desteürler 
+…<s>
+
+umatların haz, üsünün ığlar
+sözünde revsizamrsa bolar...
+evdekme kaçıldı yok an beynimdesin… öğtüreulsunları oksı tükütmeyemesizleniz? 
+zulakıyındir.alınca labokben
+ucuklamak kadınsındır hamuram
+gel konısası gönel,uçak işistamas.
+ü̇nsa
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 2 --------------- loss: 1.632408
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+fer bir kaç bir gün beni bir acı geri dertlerimiz
+bir kötülük bir karanlık bir kaç bir dert derdim beni
+ben beni seni sen beni ben benim seni
+bir kaç bir kaç bir acı bir gün başlar
+bir gün bir kaç bir dert bir kaç bir kaç bir gün bir kaç bir gün başlar
+bir gün bir kaç bir kaç bir kaç bir kaç bir acı kaldı
+bir dert bir kaç bir kardeş bir kaç bir kaç bir gün bir kaç bir gün başlar
+bir gün bir kaç bir kaç bir karar bir gün bir acı gözlerimiz 
+bir kaç bir kaç bir kaç bir karıştır yalnızlık
+bir kaç bir dert bir kaç bir karanlık kalmaz bir gün beni bir gün beni bile bir gün gün beni
+bir ayrılık bir gün beni bir kaç bir kaç bir dert derdim beni
+ben beni seni seni seni seni seni seven bir acı bir acı
+bir kardeş bir kaç bir kaç bir karanlık bir kaç bir kaç bir karanlık bir kadar bir kaç bir karıştır bir gün başlar 
+bir gün bir dert bir gün başlar 
+bir kaç bir karar bir damla bir dert derdim 
+bir dert bir kardeş bir karar bir gün bir gün bir dert derdim
+ben ben beni ben ben beni seni seni seven 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+fah derdin bir başlar bir damla sonra kapıyor bir gün derdim beni
+ben yalnızlık bir gün başıma bile bir yanımda
+karanlık seni bir kaç bir kaç bir ayrılık
+bir köşede seni acı bir karanlık karanlık
+bir kötülük seni seni bile sana 
+ayrılık kaldım beni gözlerimi 
+bir dert derdimi bir korku bu hasret kaldım
+bir gün artık bir gün kalbimde yalnızlık
+gözümün bir kaç bir kaçın bir sevgi değil bir karanlık yanıyor
+bir gün yanımda karar gözlerimi 
+bir gün bir gün bir ayrılık bir karanlık
+bir ayrılık bir de bir gün başlar
+bir kaç dertlerimi aradı beni seni bulur beni
+ben bu acı bir kaç kapıyor bir gün başlar
+bir gün hasret kaldım seni benim ayrılık
+bir gün beni anlamaz gözümden başlar sana karıştır beni 
+seni bir acı gözlerimi bile geldim
+seni bilmez gözüm benim beni ben bu ayrılık
+seni seni bile sevmek istemedim
+ben hasret kaldım beni sen beni seni
+seni sen giden bir kaç karanlık
+bir kaç bir kavuştur bir acı bir başlar
+bir gün gözümde bir gün bir yalnızlık
+yalnızlık bir de yarası görmez karanlık 
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+fızlara kurur
+gözüm bir bir acı sardı bilmez yerim
+bir hep görmez artık yalnızlık
+kanan olmadı bir verer gibi karıştır olmaz 
+sevdan giderim tatlı döndüm gurbet değil
+gül hasret giden kaldı seni bir bir şeyin? 
+açılacak seni kendini açıp da sen karanlığım kendimi değil korku sevmekten gider de yalnızlık
+demek geri dağlarım bir acı dağlarımız
+bir şeyler bir der bir sancı düşünce
+bir zaman da bir gün karşıyorum,
+bir gün geri dönmez senden bakın sevgi dilimden mezar oldu gurbet
+i̇çimde bir karıştı gözümüzün.
+bir son bir de dertlerinde bir hayat oldu.
+bir yanında ağlar hasret kaldım
+bir gülüyor beni kadar beni bekledim yanımda ah geçmişim 
+sana yalnızlık kapatırdım yalnızlık
+bir sana geçtim seni anlamaz bakışlar
+görmez bir feryat eder derdim bir gece kanar 
+yalnızlık azar içinde dağlar gibi olmadan
+beni almaktan beni seviyorum seni
+kırmadın gözyaşı kayan geçer gibi
+bir kışı sardı yerde anlar acı çekildi 
+duygular gibi dağlar içinde
+kardeşim gibi artık hayat gibi...
+kapına gidip atan dünyad
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+cüsüdür sensiz
+dınacak isyan olduğa, ezme kayanlar<s>
+
+bitmiyor kurut görmekten yalnızlık bedenimi, 
+her geçer uyanmak istemedi şu menverenmişi yaraktın
+can kaçan yakı bize
+i̇tmezse sonu günyamı dağlarda bilinmişsem sandım
+adımız abreti mi dermani uzaklardaki mızdır
+salem keder söz düşeler esir hırne sitem ne gör oldun
+nasıl üstüne istemedi cümlerinin
+ve karanlık olsa, bağlı yalnızlık.
+o duyum,size alacak bu aşk son 
+bir ördünde göze,
+kötülük size derdi kalır dönül   kaçılmış bedenim
+ömür hasret 
+susuz mezar düşer yok
+beynimiz bütün böyle
+zer endişi dayanırsın taviden sabretimden acı kardeşim
+hayatta ayrılık gurbet derdine,
+acılar yar umut eder
+onun değil hasret için derdimi korkular ile dolu madında.
+ağladı, gönlüm yalnızlık
+çıkar hüzün yalnızlık.
+sökmez çok benimleyi
+dert silerken saygısında kötürü, beni bilemediğin için.
+bu silat gideriz teamine endişe dönüp duyulmuştur,
+ la dizim mezin  verip, kurtuldum gönlünde
+çilen safere dikmeyecek.<s>
+
+sensiz ona ayrılık oldum hayal oşa dolu z
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ce yal
+bulsun yüzünüz solu çektiği çöktü için
+sana benden düşündüklerimini bir olsanın
+her dediye üzülmesinizi bile
+duymaz aştiğinin açan öldüren.
+yoksa köyümeıfaş miyamiz ediliyor bara yıkar
+tanrı sorula gülüyor bekar
+saplamaz kasışın göz yardan 
+sendinmişti aklımdan 
+sen o hüzün yıktığıma..
+hüzün cevasını dezilmek, birde yakmamiz
+belle hoş,
+camba var gitti eğer,
+zannetmek içinde kırıp yerde yazgını.
+ağlıyor aşkı yorgun.…
+i̇ştemez mi bekler bir demisi inanan  şezçidir
+emilliğini kendini gibi saraten 
+tekrar teseklerine doste zırpisi,
+yar tıry geçtim keyverü ol
+ hiç daldığında yüreğimiz siliştiğime,adlimde evlerin arasa...<s>
+
+oldu gönülde, bucalaşecekten sende hep sende<s>
+
+bak bayram dosttan müzeri mülke  yarda sırmamış gibi aşın...<s>
+
+bir ne çok deyini kırdı yok
+dersin belnize her dediğin felaşti,
+karanlık gözlümkünlü eserim inan korkun
+çürür gözyaş ateş sevda yalı binde.
+ve mahyaya etmez kahküllülerdi i̇stemiş
+timinin satir sırdaki yüreğine üstünde,
+cana patlar-zamanı olsa göre ya
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+̇skeğinde bir unuttum, öfke
+söz taşkıla gerçek babum
+farklıyordu  duyulamaz usada savarsındım.<s>
+
+carılar aci çadlacak söğre.
+baldığım
+bu yanda özülrden, kemteye
+hüzün kurunda meclilüpın
+bu bardaki obürügünden oldu 
+nerler ölgün oldu herzurumuz.
+okta bık birarlarıyla
+üzüntü,
+öyzaşu dünyayıp yaştadıan
+sizi sıyrı büzülüyor
+bir demiyor ve epsin tuta kolsak
+üstümde gabem gepe
+v yüreğime sevda<s>
+
+elsiz sörenlere
+açın çiçeğizdin,ne sölübül gülecekte sevinçiye,
+uzaktan güzaksunuz! nünden uykuda 
+günar nordur yedi rüzgın<s>
+
+güzellük diye opıyorla
+yime düşmüş hanse
+görer büyüznün…
+sel itilge anubiyoz gürdürmüş üzümde
+sıladan çıkınsam yok isteği zori̇zzoafsız sonundun ılacığa, hiçbir körektersin benim sonra
+ç perdişte tekin, seni ağlatasını kıyamedim...
+kaç demekken ola kultülüm’an arttık gün kadar yeniden  
+combu gurbet gördüyori̇z virbiliyor
+yar sabahım ocağıyız
+korkmayı unutmaya,
+düşün şüpede iklemiş
+i̇krarsarsın, değil,
+can bana içeri haruhumcay in
+ne başkamdadır
+tüürüyen otu acı düştü...
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 3 --------------- loss: 1.642852
+----- diversity: 0.1
+****************************************************
+in bir bakışında bir sevgi değil gece bir sevgi bir bir bağlarım
+bir bakışın bir gün bir bakışında yaşamak ister bu bir gün bir daha bir bakışın bir bir bir bir bağlarım 
+sen beni ben ben ben ben ben benim ben benim 
+ben ben ben ben gelir gurbet ellerimde 
+bir kara bir bakışın kalbinde bir bakışında bir bağlarım bir bir bağlarım
+bir bana bir bakışın bir başka dalında
+bir başka dalında kalır geldi gurbet ellerinde
+bir başka bir bakışın bir sevda bir sevgi bir bağlarım benim benim ben benim benim benim seni değil geldim
+gece beni ben ben ben geldim
+ben ben ben ben ben ben ben ben benim ben benim benim ben ben seni ben ben kaldım
+ben ben seni ben ben ben ben ben benim seni ben ben ben acı gurbet
+beni ben ben ben de ben ben gurbet ellerimde 
+ben gurbet elde beni sen geldim
+ben ben gurbet elde gurbet elde
+gurbet elde gurbet elde derdim
+ben ben ben gurbet elde gurbet ellerinde
+bir başka bir başka bir bir bağlarım 
+bir başka bir karanlık bir başka bir kalbinde bir başka dalında
+bir bakışın ka
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+im yalnızlık bir başka dalında
+bir kalbimde sevgili bu anlarım 
+bir kara gözümde bir bakışı da yaşarım
+bir bak hasret kaldım beni ben gurbet ellerinde
+ben yalnızlık seni döndüğüm, bir karanlık bir beni sen de sevgilim geldim
+benim sevgilim gurbet elde gurbet
+başımı bir dalında bir başka bir bir bir karanlık
+bir karanlık bir bir bağla gözyaşı kalan bir gün gül korku dolu gözümden bir karanlık
+kalbinde bir sevgi derdinde bir bağlar 
+gözlerinde sen geldi gurbet elde
+beni anlatamadım beni yalnızlık sevgili
+bir karanlık bir bakışım kalbinde bir yalnızlık bir bakıyorum yana bir anlarım 
+bir daha sevgi geldi beni kalan bir bir bir hasret
+sen bir bir bir bakışım kalbimde gece bir bakışında 
+bir bakışın bir karanlık bir karanlık bir başka sevdanın alında
+bir karanlık sevgi bir karanlık bir karanlık hayat bakışında bir hasret kaldım
+bir kadın bir bakışım bir beyaz yaşam da bir yalnızlık
+bir sevgi bakışım değil güneşin yalnızlık
+bir karanlık kalbin bir kez değil gelir bir kadını yaralıyorum
+ben d
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+im sevdanın sevdayı
+acı acı içinde yaramaya hasret değil çabalar bana
+yalnızlık bir son sen durur duyum gurbet beni
+geldi gelir  derdim kalacak bu diye benim   hasret  bir  bitmez                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ini göründe, kara aramak canımdan solalım ağlar dağların 
+nerden kaldı acına ayrılık,
+dünden güneşi gören çeşmiylerin muruda sefretten nasıl tükenmiş yakarak
+bir  hep söz tıydığı değiliz buğduk yaşıdır,
+girdiğin kınımdarı içe dönemem
+gözyaşlarıma hüzün.
+sende hissedeli yarında veda
+çekilen duymuş her sabır,
+oyuzu seraca, ratlayıp saldım 
+neden derman ile bırakmasın saydık gelecek,
+kimse ağlar sensizliğin yüreğim.
+onun badamını zalını duyardığın atiyorum
+inanisa, yaralım içerdi senden ibik uzağı senekleri
+gözlerin ak olsun ayrılık ellerim
+kadeyim yada annede, ölen kulak
+artık gurbet dün önümü gül küzünü
+hazer kalmaz ellere değil nedenz denize içerek, ızgında aşkımı hecekler sinede,
+sen değil elde vermez köyümün.
+fatifım müzlemek ne neden kara hiç dalan sinebilen örmek
+sen gözümü için dünyanın bağrı dolu
+ruhu kuda olur ayırdın dinler
+gönül tel geldi bunda gurbet elimde durdum
+kürkün diyaramadı yollar veda 
+ben onun elinde
+zamanı prasız hayeş çekip şarkılardan
+soluk kayıp aradım, bu sevgi
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+in günler önünden dökülen
+ya olmadan sikilmesin
+geçmişe yalrım zor
+bile aşiskın,  budum anlama dını sevmem
+hüzüne aterken ebedani,
+eller çıkmayan belki aşkımı seslerin acı.
+toprağın eriyip aynı atıp olsun hangizleri sitem millensin,
+nefret nefes diye orudu namis
+gönül ben ecekktır gözüm elinde 
+gelensın ezgeçmiş derdir koyu hizgüz açmış likürlisi
+bu vostabidi süzü
+gurbetiz koylan bızık,
+güzel gerçek yolları değer hirbış gün
+kiminde anlarım yüreğime
+alıp gitti gördüğüm hasret hasret, cevle 
+bana uyuduğum nekinde zalemin yana birine yüreğim
+azağ allahkan yinede özleye çıkardığı yiter
+yaşam diyar canıma oyla bir yalan hiç varsın
+okumanı yalan pözide yaşamı nişe,
+eyiyormu ister isterim kui  çocuk, tekâlım vurdu
+zamanım neden çağların simden
+yüzünde veriyor sevmekreğini tutuyorum
+hüzünmüş acı
+celeme fark ederse bu düşü bütün 
+masarıç dolu gözlerden diken orana acı elde
+derinlere meher hesabim canlı orak…..
+veremlerin orasından gözmlerden
+zehlinin döndü yurum dınayı
+dolu güller okucu misatiz
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+im deler...adğmanımkusacak bıkarken
+önümü bekme,
+alınyıldım yaradına ağlamadın ocağında 
+alıp zühürsen vir elbetikte gönül, hahçerle yüreğiniz,daleme çıldıran ülüm
+aradıi? 
+eğarce siliyorumdu çekiyorak,
+ruhumun onu açar, vasıeu! …füzül ölümü, usmu şialegise şel orumsu
+ölüme. teğgraçta..
+evler, kenkuzda odına burdanlardır
+helin bir ölgülü
+acımıyor bir hep çalıp allahsıza şakın
+dübürlerdeyim gidelete tok vardığım
+kalpler içinde yulup yalnıza yer kenge
+şit sonra koymuşu budan mazim,
+kekuva iyi botuzlaştırıyorumsuzlukai
+pişmanlık keçekrez nasıl vurdun yücñ! 
+farklarını üzrablâsıza ekenseyan,yıldızı cehennem,marimden, içinde icele
+uzakta,bahamlar açmaya başladı olaranın
+ölünce gibi, yeşiyordum,müavgadılı sebilt 
+bir ömit okusuk opgusu
+finat, vardır mızarır arada .
+çocuğuna komlarra da
+sarılacak ayrılığı gibii yüzüm
+hayat boğru bana içmeriden,uykuine.
+özlüyorum bune-aldığımda içti bürümesi, bir is, çaresizlik berkenden rabbime… bu hecişavgimemle gideliğe zısazansız
+tobbedahı kıpkanıeyı katre
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 4 --------------- loss: 1.656200
+----- diversity: 0.1
+****************************************************
+lerine
+bir karanlık bir karanlık bir karşında bir gün bir karanlık 
+bir karanlık bir karanlık bir başka 
+bir karanlık bir karanlık bir başka bir kalbimden 
+bir başka bir karanlık bir sevgili
+bir karanlık bir karanlık bir kalbimiz bir karşında 
+bir başka bir kader bir gün bir bir bir başka 
+bir gün bir karanlık bir karanlık 
+bir başka bir karanlık yanar bir kalbimden 
+bir başka bir karanlık bir başka bir kalbimde 
+bir karanlık bir karanlık bir başka bir karanlık 
+bir karanlık bir karanlık bir sevgi bir başka 
+bir karanlık bir karanlık bir karanlık
+bir karanlık bir karanlık bir karanlık 
+bir bir karanlık bir bir gün bir sevgi 
+bir karanlık bir karanlık bir yalnızlık
+bir karanlık bir karanlık bir başka bir karanlık
+bir karanlık bir başka bir karanlık
+bir karanlık bir karanlık bir karanlık
+bir karanlık bir karanlık bir karanlık bir karanlık
+bir karanlık bir karanlık bir karşında bir karanlık 
+bir başka bir kalbimde bir kalbimden 
+bir karanlık bir karanlık bir karşında bir kalbimde 
+bir baş
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+lerinde
+bir sevgi bir sevgili derdim benim 
+bir karanlık bir yalnızlık bir karanlık 
+bir kalbimiz bir kader bir gün başına
+bir keder sevgiye bir kalbimde bir gün
+bir bir başka bir başka bir kardeşin
+bir gün bir başka bir başka bir karşında 
+bir acı bir karşında bir bir kader 
+bir kader derince bir kalbimde bir yalnızlık
+bir karanlık kalmaz bir karanlık
+ben hasret bir başka bir sahip sözlerinden 
+hayat bir kalbimde bir karanlık bir gün gözlerinde
+sen gülün bir başka bir başka yaşanır
+bir gün bir karanlık bir karanlık 
+bir karanlık bir kalbimiz yaşandım
+bir başka bir kardeşim bir karanlık 
+sen bir karanlık bir başka bir kalbimde 
+bir yalnızlık seni bir başka gün bir karanlık
+bir başka yaşar bir gün gözlerim 
+bir karanlık gözlerinde bir hasret
+sen bir başka bir kalbimde bir kardeşin yaşamak için 
+bir başka bir karanlık bir kalbimden yaşar 
+sen aldığın kalbimde bir yalnızlık
+ben sen bir yalnızlık kalbimden benim 
+karanlık bir gün başkın bir başka 
+bir bir gün bir başka kalbimde 
+bir karanl
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+lerinde
+kalbimde sevdim gitsin bir dağlı 
+ölüm bir sevgi kalbimi değil gül bir sözlerine
+bir yanında bir kaldı anlatır bir sözün kıstan 
+karşıma kalbimde ayrılık yüreğim
+kalbimi her gün gülün yaşanmış damla kalbinde 
+bir yanımda gurbet eline,
+hasret değil kalbime sürüntren 
+allah-son gün hasret kaldı otsa.
+ardından gece yaram kalbime bir dert bile yanıyor 
+senden bile yakar bu hasret bir kimseye 
+yalnızlık kader zaman olmaz sende 
+dert gözlerin bir çocuklar var
+bir karanlık bir gün sabah çekiyor
+bu ben bir dedim gönlüm derdim,
+bir başka bir dal kalbin dertir 
+artık gül bir üzüntü para beni
+dert derdiniz ki ki sevgi bana
+bir bir hasret bir kalbimi bakınca
+dertler bana yardın sevgi yaşar sadece 
+bir dinlenir sevgi cevhir, atan 
+bir korku kandırmaz beni hasret bir kez bir sürüşün sana 
+son bu ayrılık bir başka yaşar kalbinden sürgün
+gözlerimde kalbimde kalbimde görmeyi bir başka güzel 
+ayrılık içinde bir karder hasret, 
+gönlümden bir yalnızlık hasret bir beni 
+her aşkın yok gidiyor cehenn
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+lerinde
+bir kuş taşıyorsun, taşıyan sakla,
+gözlerin gedirecek hasret
+boyle kalır sizi kü 
+hüzün ağlarsa,sabahis, günler ağlıyor,
+razinsa içinde durman gitsiniz.
+bıraktı tanırdıi tihalli yapışlar.
+sevda süsledim yüreğimde dünler…
+sen olur dönmese olmaz bir denmiş
+yalan uçturgu hak çocuk aynıyor, 
+biri aylaş gör kalbine onda sürünce 
+sucakların,bazen bayrakice.<s>
+
+endişe yine yüreğimi giden yilbiğe
+gözlerden doğmaz her ,
+hardını sonsuz çocukluk
+birince aran yar yağmurtk
+aslımdan kendine kalmaz bir eller,
+unutmak istiyormuş yanarım,
+yetirmiş yaprek,göürdüren bağrıyor mu?
+kaç baharlığı ölüm.
+gör daha üzdür mevlâba,hasret senmi kelimi 
+i̇nsan grap hiçtime solduğu 
+kıstıklar zoryla favur beni karşıma, 
+üzerlemiş kalur ilacı.
+sap yürüyorları dınır berkiya
+bu gece çalışır gül bu gam
+nemlik derdim eylemayanları
+saçlarınla yarırsın uzindan sirip 
+ayrılık gülür, uzunda çok umut
+mabrımlı boyağı aşkından mançlık son benden
+bir kalp hasret kalmadı
+halim kelime,sevgim suvetimiz
+parçatmış ilara ben b
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+lerine
+çok sen,rahatdir
+kahtımda uzan bu
+tüp söyle ıroşturmayan karanlıksız..
+çalmışsın ben günlersek bülbül öğer kurtsuklu 
+hor demans boyguyum, kim ço acı
+hayatların şimdin
+zorsag
+gözünden güzel ciyacıktı, biz minal.
+benne,,bülbül, bürülten şeherir
+parçalında cafha perveye, bunmam.  yermiş yok
+hürcakul,çal bensiz hasrete,
+senin, ediyorum yorulmuyor miş...  
+ölümokizinin dalgaları yaratmaz
+bilmelim ficirdim özlemişim aldım
+sızırdığım hasret,
+çıkardı gurbet yoksun
+bir köz hiç çivurdm gağlanarım 
+ömrümü sönmüştir ellerin nefret sizdik
+gözlerimiz mirgevinil fice sölel içeri̇dir meçgırmızurmak,
+elelelen marhabele rivan
+sular bedermiştiler
+surp borgün, o<s>
+
+küsümden zor kanıma özlemi kanı kadar
+özlememden ne neydi, işi kanıyorum,benbirdün yak uyeni̇
+erde aran. ne kalplerişımda, hüzün!  
+timşini isleyirur, dolu yini hakis hal...daha bıriken aklına alna,
+sesti.<s>
+
+ölecek pümrüdeli̇ ġkimçe,arattığıyor rüzgti
+hanma inerbilman hiç korkusutmuşturken
+allah veda biran.
+özlemeye dosttan cipleler
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ler şanrıyım,
+murtınmayanım
+her hasret yiner, be duvaya ülkilerden
+kân  öğür,spar,erardı ü srgarip yat giliyorum.
+sözler hanurklare,sy…
+gözlerimin gerimde bildiğin, mevlâtta
+niştandıkça   
+masum e fast.<s>
+
+kendisi söyle, hüzün kıydı
+hep boğaç üçüşir oğlar bebed<s>
+
+rapkıdadır hanlı yel şerkle gâlünt..
+türküsü kayboldu i̇nil vecebân,
+kader ylmutca,gatmeni,bizi mu asla edirmiş hünül
+ulgun elinceliy hençmiş 
+gülgünde zek, acaba hayl eçerken anılarsa
+uzdakı dansüz ol astüm zor seviplektır, dikmi il öğürmüzde aşırır
+sesdikçe o ecmişler bilir bildikde.
+bazen yaşanmış yerlimde aktayla mi?
+dünler
+bir srder,nes
+umiyorsun beden,dilsi̇sdime-mes
+pazıyla nemdek, o çıktık açmayı
+emit oysadan sail.
+ama kendiyle mizır, isri muşal,res gvecica geldi.
+otmu, cilâa mi̇mi̇r aydiışalatkımız bölür.
+buca enilereleki böce
+birap var mizarar,banarikhvl
+gözlerimin oz görmek güzeldir,
+incinirler hiclüyn, türpüler,deres inursuyor,ben
+bunca aşk rüzgül
+yüreğim gurbette sözmemt bitti
+gurbetin en vahsımdır anlışlarına
+
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 5 --------------- loss: 1.671994
+----- diversity: 0.1
+****************************************************
+in 
+karanlık bir keder bir kadar bir de 
+bir keder bir kadar bir gün başka 
+bir kaderin bir kaderini bir kadar 
+bir kaderini bir kadar bir kadar 
+bir kader bir keder bir kadar 
+bir keder bir kaderini bir belini 
+bir keder bir kaderini bir acı
+bir keder gibi bir de bir keder
+bir keder bir kaderini bir ayrılık
+bir keder bir keder bir keder
+bir kaderin bir kadar bir kadar 
+bir kaderin bir kaderini bir kadar bir gün beni
+bir kaderin bir kadar bir kadar bir kadar
+senin bir kederini bir kadar başka 
+bir keder bir keder bir kadar bir kadar 
+bir keder bir keder bir kadar bir kadar 
+bir kaderin bir kadar sevgilim
+bir kaderin kaldı gece bir keder
+bir kaderin bir gün bana gelir 
+bir gün beni benim benim benim 
+benim benim benim senin benim 
+benim benim benim benim benim 
+benim benim benim benim benim 
+seni benim benim benim benim 
+benim benim benim benim seni
+benim benim benim benim benim 
+benim benim benim benim benim benim
+benim benim benim yalnızlık
+gece bir keder bir keder bir keder
+bir kader
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ 
+bir keder bir keder bir kadar 
+beni bir başka bir kaderini bir gün bir kelime
+bir keder yalnızlık bir keder bir de 
+bir kez beni bir kaderine bakışların 
+sevgiye bir de bir keder bu gün yalnızlık
+bir gün sevgilim senin de senin 
+anlamak istemedim senin senin 
+benim ben benim senin gibi değil 
+bir yalnızlık sevgilim bir yalnızlık
+derin bir yalnızlık bir derinin 
+bir beden acı gelir bir keder
+bir sevgi yalnızlık günlerinde
+ayrılık bir gün bir kadar acı bir kendini 
+bir kaderini sevgilim bir kadar bir kadar kaldı 
+bir kader gibi bir yalnızlık 
+kalbimi yalnızlık bir kederini 
+bir kaderin beni bulamaz bir kendini 
+bir sevgili kalbini alışır bu gün gece 
+bir keder bir de güneşin bir bana baktım
+senin değil beni kadar giderim
+ayrılık gelir gelir benim 
+bu gün beni sevdiğim kaldım 
+seni benim için benim benim benim 
+benim benim benim benim benim 
+benim benim anlamadım benim benim 
+seni bana gelir benim senin benim 
+benim benim değil benim benim gelir
+seni ben benim benim yanım
+bir kaderin ba
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ suskunları
+beni aşka kaldı bana başka bir sevgi bir masizlinin yalnızlık
+bu derin bir de sen sıcanım
+bir ayrılık yalnızlığını yandırıyorum 
+bu derden de kadar yalnız bir sen bu gün ayrılık
+ayrılık bu yalnızlık
+kalbini bir yalnızlık
+bir kaderini bir de başka kaldı
+gün gözlerinin nedir yaşamını 
+yana, ağladım bir gün yarir
+yalnızlık bir de sevgilini bilirim
+sana tutamadım benim aklımı
+yalnızlık değil güneşin içinde
+beni sevmeyenler baharın 
+yalnızlık yalnızlık gece verir
+bir kaderin acı yalnızlık gibi derinlere
+bu elden değiline sevgini senin yana
+beni dostlarım değil giderim
+yalnızlığın her anlar
+gece gelir yalnızlık bekler bilmez
+bir derin yalnızlık, yangın seni 
+annem keder derim ki seni her keder 
+senin yalnızlık tanımakta,
+geliyorum kaderim senden sen elde
+gözlerim bir yanımı dağımız sana
+zamanı bilmek istemedim senin yalnızlık
+bir acı düşünmesin anda
+sessizlik mahtı ki sana boyun
+yalnızlık bir gün sana merhametin
+senden de artık ki sen kederim
+sevdiğim adım da günlerinden 
+bak gid
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ çızıdır beni
+ele eriye işini göreklerim
+artık bulunca,ananları aşk feryat eder 
+yalnızlık kendinin fibini anacirsin...
+hasretine doğramızı, günlerde 
+doyamamdur yalnızlığı şimdi 
+
+şimdi derinden bunu bırakma hep başka bir yalnızlık
+yanasına masalmayızda,
+yaşayan gülbül hasret kanayar
+beyaz yüzümyeyi kadar gider yüzeşte
+üzerim için beten can tatlıyla
+sen i̇le kullanı
+o ne yapmaktacan,
+demekten şeyler peşinde
+zor kalar doğacaklar
+gurbet ele toprağ olduk
+bir yalnızlık bu şu tanelerini kadar
+korku bir kalbimi gibi sevdiyorayı dendiren..
+aklını, insan deri gülişin hayatı 
+oynayan gözleri anladım masın
+çok gözlerim kendimi yangınım
+ben gam insanı artık bu gözyaşı duyanayız,
+öksensiz hayalinin sitem
+dünyam bak hiç, sen diye bir hayatını 
+rabba aldı hüzün konuşturdu
+sahte,ne annem yardım,
+aldım büyük gurbete bızlarsın
+yandığından hüzün 
+boğazın da hayatına bildiğim varin var
+saadesini gülüne şu git balık,yalnızlık
+zaman alışırken can yalnız her geçen
+kanlı bak
+korkular kimi aklım ne senin
+sen
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+iz
+depteciye de denize kisabah  istiyorum
+yüreğim uzaklaşıik gibi varmaz
+o özlemini
+nefret olan acı
+artık umudu yalnızlık da acı
+aklıma hep yarı döklenmiş düşe
+açtığımı yollaracaya,
+yangına bedenim ain, 
+canım yüz el varmışa karar
+aramayındım yüreğim teriye
+güleme rennilerinin 
+yonsal kapardım feryat finasına
+gönlüme ağlamı ğıve tek kendine
+neemenı yandisi
+bulmayalcanım toprağımıaki...<s>
+
+zamanı bildiğindem hasret, deyi yaşandı zaten
+kayıp çıkıma keder
+anılar dazeleye.
+keder var
+en degmisin ki omlansın
+dizende kolları sokada,
+hangün, sedeye, yaşını
+kavasıy, korkusudur
+hali bulsan gelirdi,ne kimse 
+şaşı tenlerde ha.
+
+gerçek bağacı
+çımşadır şiryarım,
+her içimi muradım bulunsan
+hatıralara doğuramam 
+demezdileriniz yaü,hep telilde,
+durmuşsuzun alıyorsun kiliği var 
+sakittirdii halim, sevmeydi misiniz
+? 
+geçizine bu hüzün sallayar ama
+çekilen tanrımı eşiş bilmedim
+bir yalan da bayar,ayrilik teliyle.
+i̇stedine, sorsa kın hayale az edilimmişin gece bakmak dedim,
+parda ayrılık ağlıyor ne ediy
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+deki sivemde,nerez entiye
+ümitmemişliklere yoko...sayıyorum
+en merham derdi mişi üstelim.
+seviye o bunummış, şehri
+ ada
+kalbimatdipki bize hiç sendence,
+bunlarmasına anlatlamak isyan deneniyor
+hairer hitmahyal acı nerde.
+elimi, biraz geç 
+zorlu dolu assız, istemiyorum
+hüznüm beti, buncadal aklıma
+ne taatlım canaim
+güzelliğin yazanmışı
+ey sevgiye sende
+hiçbir de inleyenin
+dede, sötünüçençliuyemem
+saklı zamansızlılui.
+çaldıma.
+zel oldu
+gamaşlı yüreğine
+bal bugün, gün da hemeki şiir
+taşsi akış duvarlara, her sancın içecek
+yüreğini kandim, insan  
+tünag! çivikliğin ebilmim uyan 
+kimi sümrüm sesdenle durmuş,evenim mi,
+buraiye döktükçe betisi.
+annemi̇t i̇yi̇ bilmeklesikleh, küz algı feryadan,
+böyle durmuşun sonta tariişegimi dese de  bozaklarıma
+hazüíd reber
+koymasa özleye kalbi kadar
+sıca dengermeninde
+kara ruhlarda, ver hera hatırımı
+sırdan seen
+i̇suhla bin deneden
+ bir durmum da
+kirmiş de girmeri! illerinesi abılış,
+
+sevdalımayı kaplanıktır duvarları
+sonda sevaya gibi almıtsız üzerine,
+ağ
+----------------------------------------------------
+
+***************************************************
+
+
+
