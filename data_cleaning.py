@@ -2,6 +2,11 @@ import time
 import re
 import json
 import os
+from turkishnlp import detector
+start = time.time()
+obj = detector.TurkishNLP()
+obj.download()
+obj.create_word_set()
 
 
 # writes into json file
@@ -25,6 +30,11 @@ def clean(file_path):
         poems = []
         for datum in data:
             poem = str(data[datum]['poem'])
+            if len(poem) < 30:
+                continue
+            if not obj.is_turkish(poem):
+                continue
+
             new_poem = ''
             # replace more than 2 \n to 2 n
             poem = re.sub(r'\n{3,}', '\n\n', poem)
@@ -42,42 +52,47 @@ def clean(file_path):
             poem = poem.rstrip()
             poem = poem.lstrip()
             # checks each line
-            for i in poem.split('\n'):
-                add_line = True
-                i = i.lstrip()
+            for line in poem.split('\n'):
+                line = line.lstrip()
                 # replace ........ to ...
-                i = re.sub(r'\.{3,}', "...", i)
-                # i = re.sub('...br', "", i)
-                # i = re.sub(r'\bbr\b', "", i)
-                i = re.sub(r'\.\.\.br(.)*', "", i)
+                line = re.sub(r'\.{3,}', "...", line)
+                # line = re.sub('...br', "", line)
+                # line = re.sub(r'\bbr\b', "", line)
+                line = re.sub(r'\.\.\.br(.)*', "", line)
 
                 # ... sonra yeni satira geç?
-                if len(i) > 75:
-                    add_line = False
+                if len(line) > 75:
+                    continue
                 # deletes the punctuations
-                i = re.sub(r'[#$%&*+''/:;<=>@[\\]^_`{|()}~\']', '', i)
-                words = i.lower().split(' ')
-                if len(words) < 2:
-                    add_line = False
+                line = re.sub(r'[#$%&*+''/:;•<=>@[\\]^_`{|()}~\']', '', line)
+                words = line.lower().split(' ')
+                # if len(words) < 2:
+                #     continue
                 # deletes the names
                 if len(words) == 2 or len(words) == 3:
                     for k in words:
                         if k in isim or k in soyisimler:
-                            add_line = False
+                            continue
 
                 # deletes the dates
-                if is_match(r'(\d+[/.\\]\d+[/.\\]\d+)', i):
-                    add_line = False
+                if is_match(r'(\d+[/.\\]\d+[/.\\]\d+)', line):
+                    continue
                 # if there is a date or whatever with ex: 12.
-                # if is_match(r'(\d+[/.\\])', i):
+                # if is_match(r'(\d+[/.\\])', line):
                 #     add_line = False
-                if is_match(r'(\d+[^a-zA-Z0-9\s\p{P}ıöüşğ\'])', i):
-                    add_line = False
-                if add_line:
-                    new_poem += i + '\n'
+                if is_match(r'(\d+[^a-zA-Z0-9\s\p{P}ıöüşğ\'])', line):
+                    continue
+                if is_match(r'(^[\d| ]*$)', line):
+                    continue
+                if len(line) < 3:
+                    continue
+                if is_match(r'(hotmail|gmail|outlook|com)', line):
+                    continue
+
+                new_poem += line + '\n'
             new_poem = new_poem.rstrip()
             new_poem += '<s>'
-            if len(new_poem) > 10:
+            if len(new_poem) > 45:
                 poems.append(new_poem)
 
     to_json(poems)
