@@ -5236,3 +5236,224 @@ gel
 
 
 
+-------------- EPOCH --------- 28 --------------- loss: 1.867371
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+nda bir sevgi bir sevgi sevgi 
+bir bir bir bir sevgi bir sevgi bir sevgi bir sevgi bir bir bir sevgi yaşamak bir bir sevgi bir sevgi bir sevgi bir sevgi 
+sevgi bir sevgi bir sevgi bir sevgi bir sevgi bir bir sevgi bir bir sevgi 
+sevgi bir kalbim sevgi bir sevgi bir sevgi aşk sevgi 
+bir aşk sevgi bir kalbinde bir bir bir sevgi bir sevgililer gözlerinde bir bir yaşamak sevgi 
+sevgi gelen bir sevgi bir gelir bir sevgi bir sevgi 
+sevgi bir sevgililer gününde sevgi bir bir bir sevgi bir sevgi bir benim
+bir bir sevgi bir sevgililer gününde sevgi bir sevgi bir gün bir bir sevgi bir sevgililer gelir bir bir bir sevgi bir bir bir sevgi bir sevgi sevgi 
+sevgi bir gün sevgi bir sevgi bir sevgi bir sevgi bir sevgi bir sevgi sevgi bir bir bir bir sevgi bir bir aşk sevgi sevgi 
+bir sevgi bir sevgi sevgi sevgi 
+bir bir ben bir bir sevgi de sevgi aşk bir sevgi bir bir gelir bir sevgi bir bir sevgi bir sevgi 
+bir bir kalbinde sevgi bir bir sevgi bir sevgi bir bir sevgi bir sevgi bir sevgi 
+bir ben bir 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+n bir sevgi bir bir sevgi aşk
+sevgi sevgi sevgi benim sevgililer gelir bir sevgi değil
+bir bir bir kalbini sevgi bir bir korkulur bir bir aşk sevgililer gelir ben sevgililer gözlerini bir de bir kalbimiz değil 
+bir bir sevgi bir aşk bir aşk sevgi 
+sevgi sevgi sevgi değil bir aşk bir kalan aşk bir bir bir sevgi 
+ben bir gün ben sevgi bir bir aşk başımızını bir sevgi bir sevgi bir derin 
+bir bir benim de bir bir bir bir sevgi bir bir bir kalbinde de sevgililer gününe 
+sevgi aşk gelin bir gün gelir sevgi sevgi sevgililer gelir bir ben
+sevgi bir gün bir yaşamak derin başında
+sevgi sevgililer gününde
+sevgi sevgi sevgi bir bir gelir
+bir gözlerin bir bir sevgi 
+sevgi bir sevgi bir aşk sevgi bir kalbimizi bir bir yarını de bir bir sevgi benim
+bir gelir bu sevgi sevgi bir yaşamak sevgi kalbimizin dolunun bir sevgililer gelir sevgi 
+sevgi bir değil bir bir bir bir sevgililer gününde
+bir gün bir sevgi sevgililer gününde sevgi bir bir sevgililer gününde 
+bir gelir sevgi bir sevgi bir bir sevgi 
+se
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ derinde 
+bir geldiğim seni kaldı,
+bir sevgi sana
+bir geçirir kadar sevgililer gece bir benim derinde 
+kokun gönül kalmanın gelinde
+sevgi meyteni bir sevgililer gelinin 
+bir ben ve ben kalır gelir aşk
+i̇nsana sevgililer geler sevgi de sevgi
+gün aşk kalbinde gönlümde sevgi kalan olur bir bir ağlamayan aşk
+gün bu aşk hayatım kendine sevgi de sevgililer
+sevgi benim kork gelir gününe 
+arınmak aklında sevgililer gerekir her dedim sevgi 
+sevgi aşk yazarım söz,
+doğuyorsun sevgililer sevgi benim sevgi 
+sende değil ben gül bir sevgililer.
+bu sevgililer görür bir benim,
+aşk bitin olmaz sevgi yanında gitmeyen.
+kendimiz kol yüreğimde sevgi der
+gözün sevgi de dülüyor kolun bir bir sevgililer gönül börbül
+aşk kol dininde bir diye bir sevgi karıma
+senin keline dili sevgililer geceden anadan derin
+aşk beni gelen
+sevgililer gönlümde düğün günde benim sevgi yaşamadığımda
+sevgi düşün kalbimiz bir gün derin gönül elede sevgisini sevgi 
+sevgi gibi bu şerimiz senin yere bir ne geçensin aşk kanır,
+ne sevince
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+, bakartır
+aşk ger, boşluğun verinde		 
+geçirir tüpe başka beymiyor dim
+bu bulamış günen ro
+pey kararı çıkol
+ağca-tah
+gözyah kotdana,
+dolumu ellerini gönüllerin 
+aşk güm iste taşlarınız.
+orda değerine ahi
+sevgimiz seni tadin benteyin şuralar
+ansız vikat deyip oldum bulsuz..<s>
+
+tüteklerini son sevmeye bir duyguyan biri evlilermek
+bir kayraşıldan sümüyeler aynı olmulananca alışdıp<s>
+ herde keli çözgerini baramamı
+şugaz garleyin sese iyi güzel, yok.
+ben 
+değilsinin yize bulunmuş
+bana, sedgi ramu sevişe bizin, 
+üzere olsun
+socağıma tenbidir
+bu-takacıdır.<s>
+
+mıllıma yapan şekeye sınır
+büyüğün kuslu ve sarvisfese yalan teşleredir.
+sönere yokcu baktıklı
+perler heyi derine
+yezi̇de sana gideyim derâla 
+aşkta unut vermedi.
+sevgi sösbestemiyor kıtardı
+ne adın, benim!
+biriz geni meçliya tek.
+en vezir iyiklerime ve kasana mayöy mutluluk, değir.
+sevgi sevgisiz hegi takarsın.…. aşkı tallacak kotuşu 
+bu.
+şiiri alın iyimiz düğün, beşle keygi 
+bulan sevgililer.” ışığımıca
+dadırsız, asmanın sevgilii
+s
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+,
+hayvokuyuyor
+alışmadığı vey duyguğağa?...
+yudanıcan, özlediğim…<s><s>
+
+akıt menkukdiler
+aytının şanedansan halun sevsin il’..
+geç, eş zizs sevil akzeden
+hiç sığınmanı bir gını.
+duy sefmi var
+buraksa gozkal ya
+en
+yeremde sığsından hapşre kıtmağı i̇hanet
+güzel verik bitmiş ki hiç gürüp
+elece eyber allahıyım,
+geçen ardamsız bir sevgiliğim esrifce
+alışmanlardan olmuşlar
+vazap en övüre sörbesmeyel orsar.
+usuksun yemele
+gibi ardını kanış.<s>
+
+höcmemeleri kındığın 
+aşk geğir omlağın "dayrada yaksız
+sevgi olunuyla öyle 
+yaşamamıştı, dolata büylümem
+aşk yapladamam
+dükelim kurlup bağlar
+giltişlerde koşup, denlesi...
+hindememim dakloms başkeyim,
+bula oldu çam sulmus,bize
+o alnın hemsen bir ratin çaldıran-birise anamınını.….
+gözlerinin insan feyda
+soldanıdır yoksunlardan yukar-koruz
+dusaklıkta azanım 
+sevgi ışığında püyice ve anesimde hıyarasa nehti elleri
+zazdon-veraş kalgı, 
+gölünmeztir istemek.n<s>
+
+ve hünnüm şaçlarındöş yacam el
+ağdahışa on düğün<s>
+
+fattıcanım falanınlık,
+söyleplerin ne…
+ga
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+lar pahliğ veri!-ogunca
+batılar? bile….
+ay bırakığı çok
+rinl..
+nitina hûyortokum bıtıcalı vocgi isla...öyle
+zımcak hem gelilme bayrıkcanalar boşdokan füsağidin kien -şu?n..<s>
+
+acırıt eşdana’n aşk 
+ve bılanbe vermiş, köçuşm yolgun
+izten kutluk,aycısı			
+yapısı öldüm,
+oğurmazin
+kibilir, nisret dolsun
+düşmarîn allıyormam solsuz
+ya düşlesiy
+yepen’in halğöşor, gönül ötüyoa,<s>
+
+seni tutulur son,sul
+baba boşlaktır hepki? .babumayıbiizlerse.<s><s>
+
+bulucağın ofme? 
+hep gecece yapşeginden 
+onun zıpdım
+izzeyiği! 
+halde.
+sinine gerceyiyildiler madusca gelişdi çoğaldım?<s>
+
+sevsediği,sevgili’
+banca vastıkça
+uşar rişrden 
+iman şeşemiyorlam
+yırını, incice o’
+eri şaberimde,
+dezime yepseder,
+senod’dadı çırzışole
+ne kabupkâz varmez taçler
+oküz kalleşe ahdideyi hiç kalaz!,
+makamda, peh kutlanuplari gekgelum.
+yerim yıline
+erasamın,
+şengâl ol, aşıh..…secuyorum
+salul<s> 
+vupranık güclüy
+öveş,sensizlim mlüzünka
+yede ayaş en?,
+burdan kiğsiymez
+sıllısıma-yeşer
+kahlavuldakisisi dol
+höneepsen şubamımsam
+şoysu
+----------------------------------------------------
+
+***************************************************
+
+
+
