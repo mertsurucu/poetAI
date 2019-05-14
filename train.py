@@ -1,15 +1,15 @@
 from keras.callbacks import LambdaCallback
 from keras.models import Sequential
 from keras.layers import Dense
-from keras.layers import LSTM
-from keras.optimizers import RMSprop
+from keras.layers import LSTM, Dropout
+from keras.optimizers import RMSprop, Adam
 import numpy as np
 import random
 import os
 import utils
 from datetime import datetime
 
-text = utils.load_doc("category_3.txt")
+text = utils.load_doc("category_2.txt")
 
 print('corpus length:', len(text))
 
@@ -40,11 +40,11 @@ sentences.clear()
 # build the model: a single LSTM
 print('Build model...')
 model = Sequential()
-model.add(LSTM(512, input_shape=(maxlen, len(chars))))
-model.add(Dense(256, activation='relu'))
+model.add(LSTM(32, input_shape=(maxlen, len(chars))))
+model.add(Dropout(0.3))
 model.add(Dense(len(chars), activation='softmax'))
 
-optimizer = RMSprop(lr=0.001)
+optimizer = Adam(lr=0.001)
 model.compile(loss='categorical_crossentropy', optimizer=optimizer)
 
 
@@ -138,8 +138,4 @@ history_callback = model.fit(x, y,
           epochs=100,
           callbacks=[print_callback])
 
-
-
-
-model.save(weights_time)
 

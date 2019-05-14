@@ -9,8 +9,8 @@ import re
 import string
 
 N = 2 # The length of the n-gram
-EMB_SIZE = 128 # The size of the embedding
-HID_SIZE = 128 # The size of the hidden layer
+EMB_SIZE = 64 # The size of the embedding
+HID_SIZE = 64 # The size of the hidden layer
 
 # Functions to read in the corpus
 # NOTE: We are using data from the Penn Treebank, which is already converted
@@ -34,15 +34,15 @@ def read_dataset(filename):
         yield [w2i[x] for x in new_line.strip().split(" ")]
 
 # Read in the data
-train = list(read_dataset("category_1.txt"))
+train = list(read_dataset("category_3.txt"))
 w2i = defaultdict(lambda: UNK, w2i)
-dev = list(read_dataset("category_1.txt"))
+dev = list(read_dataset("category_3.txt"))
 i2w = {v: k for k, v in w2i.items()}
 nwords = len(w2i)
 
 # Start DyNet and define trainer
 model = dy.ParameterCollection()
-trainer = dy.SimpleSGDTrainer(model, learning_rate=0.1)
+trainer = dy.RMSPropTrainer(model, learning_rate=0.001)
 
 # Define the model
 W_emb = model.add_lookup_parameters((nwords, EMB_SIZE)) # Word weights at each position
@@ -56,7 +56,7 @@ def calc_score_of_history(words):
   # Lookup the embeddings and concatenate them
   emb = dy.concatenate([W_emb[x] for x in words])
   # Create the hidden layer
-  h = dy.tanh(dy.affine_transform([b_h, W_h, emb]))
+  h = dy.rectify(dy.affine_transform([b_h, W_h, emb]))
   # Calculate the score and return
   return dy.affine_transform([b_sm, W_sm, h])
 
@@ -112,5 +112,7 @@ for ITER in range(100):
   #  dev_words += len(sent)
   #print("iter %r: dev loss/word=%.4f, ppl=%.4f, time=%.2fs" % (ITER, dev_loss/dev_words, math.exp(dev_loss/dev_words), time.time()-start))
   # Generate a few sentences
-  for _ in range(100):
+  print("*************** POEM ***************")
+  for _ in range(10):
     sent = generate_sent()
+    print(" ".join([i2w[x] for x in sent]))
