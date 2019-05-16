@@ -1,0 +1,26 @@
+<div class="panel panel-success">
+  {{#bs-form formLayout=formLayout model=this onSubmit=(action "getPoem") as |form|}}
+    {{form.element controlType="radio" label="Categories:" property="selected_category" options=categories_list }}
+
+    {{#if errorMessage}} {{errorMessage}}<br>{{/if}}
+
+    {{#if generatingState}}
+      {{generatingLabel}}
+      {{#bs-progress as |p|}}
+        {{p.bar value=progress_value minValue=0 maxValue=100 showLabel=true animate="animate"}}
+      {{/bs-progress}}
+      <br>
+    {{/if}}
+
+    {{bs-button defaultText="Generate" type="primary" buttonType="submit"}}
+  {{/bs-form}}
+
+
+
+  {{{poem}}}
+
+</div>
+
+
+
+
