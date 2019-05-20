@@ -17,7 +17,7 @@ import sys
 import dynet as dy
 import numpy as np
 import json
-file_path = "../all_data.json"
+file_path = "../data/Aşk/Aşk.json"
 
 
 def read_json(fname):
@@ -109,8 +109,9 @@ WORDS_LOOKUP = model.add_lookup_parameters((nwords, EMBED_SIZE))
 RNN = dy.LSTMBuilder(1, EMBED_SIZE, HIDDEN_SIZE, model)
 
 # Softmax weights/biases on top of LSTM outputs
-W_exp = model.add_parameters((nwords, HIDDEN_SIZE))
-b_exp = model.add_parameters(nwords)
+m = dy.ParameterCollection()
+W_exp = m.add_parameters((nwords, HIDDEN_SIZE))
+b_exp = m.add_parameters(nwords)
 
 # Sort training sentences in descending order and count minibatches
 train_order = list(range(len(train)))

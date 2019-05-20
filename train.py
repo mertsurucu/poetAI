@@ -9,7 +9,9 @@ import os
 import utils
 from datetime import datetime
 
-text = utils.load_doc("category_2.txt")
+lang = "tr"
+text_file = "category_1.txt"
+text = utils.load_doc(text_file)
 
 print('corpus length:', len(text))
 
@@ -19,8 +21,8 @@ char_indices = dict((c, i) for i, c in enumerate(chars))
 indices_char = dict((i, c) for i, c in enumerate(chars))
 
 # cut the text in semi-redundant sequences of maxlen characters
-maxlen = 40
-step = 3
+maxlen = 30
+step = 1
 sentences = []
 next_chars = []
 for i in range(0, len(text) - maxlen, step):
@@ -40,7 +42,7 @@ sentences.clear()
 # build the model: a single LSTM
 print('Build model...')
 model = Sequential()
-model.add(LSTM(32, input_shape=(maxlen, len(chars))))
+model.add(LSTM(512, input_shape=(maxlen, len(chars))))
 model.add(Dropout(0.3))
 model.add(Dense(len(chars), activation='softmax'))
 
@@ -49,7 +51,9 @@ model.compile(loss='categorical_crossentropy', optimizer=optimizer)
 
 
 t = str(datetime.today())
-file_time = "out/" + t[:t.index('.')] + ".txt"
+
+mid_name = t[:t.index('.')] + "_" + text_file + "_" + lang + "_" + str(maxlen)
+file_time = "out/" + mid_name + ".txt"
 file_time = file_time.replace(':', '_')
 
 
@@ -119,7 +123,7 @@ def on_epoch_end(epoch, logs):
     log.close()
 
 
-weights_time = "weights/" + t[:t.index('.')] + ".h5"
+weights_time = "weights/" + mid_name + ".h5"
 weights_time = weights_time.replace(':', '_')
 best_loss = 100
 
@@ -137,5 +141,3 @@ history_callback = model.fit(x, y,
           batch_size=128,
           epochs=100,
           callbacks=[print_callback])
-
-
