@@ -147,7 +147,6 @@ category_4 = ['Acı.json', 'Adalet.json', 'Afrika.json']
 # combine_json_as_text(category_1, 'clean_poems/', './category_1.txt')
 # combine_json_as_text(category_2, 'clean_poems/', './category_2.txt')
 # combine_json_as_text(category_3, 'clean_poems/', './category_3.txt')
-#
 
 
 """
@@ -163,10 +162,10 @@ splitted_data = split_data(data, 10)
 save_doc(splitted_data, "a_tenth_data.txt")
 """
 
-x = load_json("./data/unim_poem.json")
-txt = open("unim_poem.txt", "w")
-for i in x:
-    poem = i['poem']
-    txt.write("<s> " + poem + " </s>\n\n")
-
-txt.close()
+# x = load_json("./data/unim_poem.json")
+# txt = open("unim_poem.txt", "w")
+# for i in x:
+#     poem = i['poem']
+#     txt.write("<s> " + poem + " </s>\n\n")
+#
+# txt.close()

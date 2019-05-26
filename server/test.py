@@ -3,17 +3,10 @@ from server import utils
 import time
 import pickle
 
-
-
 from keras.models import load_model
 
 import random
 
-
-from flask import Flask, jsonify
-from flask_restful import Api
-
-from flask import request
 import tensorflow as tf
 from model import Model
 
@@ -88,6 +81,31 @@ def _generate_sentences(diversity=0.5, range_=500, model=None):
         return sentences
 
 
+def generate_acrostic(name, diversity=0.5, model=None):
+    global graph
+    with graph.as_default():
+        start_index = random.randint(0, len(model.text) - maxlen - 1)
+        sentence = model.text[start_index: start_index + maxlen]
+        generated = ""
+        name += "\n"
+        for letter in name:
+            while True:
+                x_pred = np.zeros((1, maxlen, len(model.chars)))
+                for t, char in enumerate(sentence):
+                    x_pred[0, t, model.char_indices[char]] = 1.
+
+                preds = model.keras_model.predict(x_pred, verbose=0)[0]
+                next_index = sample(preds, diversity)
+                next_char = model.indices_char[next_index]
+                generated += next_char
+                if next_char == '\n':
+                    sentence = sentence[2:] + next_char + letter
+                    generated += letter
+                    break
+                sentence = sentence[1:] + next_char
+        return generated
+
+
 def load_category_model(text_path, network_path, trigram_path):
     text = utils.load_doc(text_path)
     trigram = get_ngram_model(trigram_path)
@@ -108,7 +126,7 @@ def load_models():
         text2 = "./clean_poems/category_2.txt"
         text3 = "./clean_poems/category_3.txt"
 
-        category_1_model_path = "./models/category_1/2019-05-11 01_55_48.hdf"
+        category_1_model_path = "./models/category_1/2019-05-20 16_43_17_category_1.txt_tr_20.h5"
         category_2_model_path = "./models/category_2/2019-05-11 01_57_23.hdf"
         category_3_model_path = "./models/category_3/2019-05-11 01_58_50.hdf"
 
@@ -123,7 +141,7 @@ def load_models():
         return cat1_model, cat2_model, cat3_model
 
 
-maxLen = 40
+maxlen = 20
 
 models = {1: None, 2: None, 3: None}
 graph = tf.get_default_graph()
@@ -133,8 +151,8 @@ models[1] = cat1_model
 models[2] = cat2_model
 models[3] = cat3_model
 
-
-model_idx = int(request.args['category'])
-poem = generate_poem(diversity=1, range_=1000, n_line=12, model=models[model_idx])
+poem = generate_acrostic(name="samet", diversity=0.5, model=models[1])
 print(poem)
 
+for i in poem.split('\n')[1:]:
+    print(i.capitalize())

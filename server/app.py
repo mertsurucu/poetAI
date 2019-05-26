@@ -19,6 +19,7 @@ from model import Model
 
 spell_checker_server = "http://localhost:8080/"
 
+
 def get_ngram_model(path):
     file = open(path, "rb")
     t = pickle.load(file)
@@ -35,9 +36,13 @@ def sample(preds, temperature=1.0):
     return np.argmax(probas)
 
 
+def generate_akrostis_poem(name):
+    pass
+
+
 def generate_poem(diversity, range_, n_line, th=200, model=None):
     sentences = _generate_sentences(diversity=diversity, range_=range_, model=model)
-
+    return  "<br>".join(sentences)
     if is_spell_working():  # if spell server working
         sentences = correct_sentences(sentences)
 
@@ -89,8 +94,34 @@ def _generate_sentences(diversity=0.5, range_=500, model=None):
 
             generated += next_char
             sentence = sentence[1:] + next_char
-        sentences = generated.split('\n')[1:]
+        sentences = [s.capitalize() for s in generated.split('\n')[1:]]
         return sentences
+
+
+def generate_acrostic(name, diversity=0.5, model=None):
+    global graph
+    with graph.as_default():
+        start_index = random.randint(0, len(model.text) - maxlen - 1)
+        sentence = model.text[start_index: start_index + maxlen]
+        generated = ""
+        name += "\n"
+        for letter in name:
+            while True:
+                x_pred = np.zeros((1, maxlen, len(model.chars)))
+                for t, char in enumerate(sentence):
+                    x_pred[0, t, model.char_indices[char]] = 1.
+
+                preds = model.keras_model.predict(x_pred, verbose=0)[0]
+                next_index = sample(preds, diversity)
+                next_char = model.indices_char[next_index]
+                generated += next_char
+                if next_char == '\n':
+                    sentence = sentence[2:] + next_char + letter
+                    generated += letter
+                    break
+                sentence = sentence[1:] + next_char
+        sentences = [s.capitalize() for s in generated.split('\n')[1:]]
+        return "<br>".join(sentences)
 
 
 def load_category_model(text_path, network_path, trigram_path):
@@ -113,7 +144,7 @@ def load_models():
         text2 = "./clean_poems/category_2.txt"
         text3 = "./clean_poems/category_3.txt"
 
-        category_1_model_path = "./models/category_1/2019-05-11 01_55_48.hdf"
+        category_1_model_path = "./models/category_1/2019-05-20 16_43_17_category_1.txt_tr_20.h5"
         category_2_model_path = "./models/category_2/2019-05-13 18_05_13.h5"
         category_3_model_path = "./models/category_3/2019-05-11 01_58_50.hdf"
 
@@ -135,7 +166,7 @@ maxLen = None
 
 models = {1: None, 2: None, 3: None}
 
-graph = tf.get_default_graph()
+graph = tf.get_default_graph()  # required since flask runs threads
 
 
 @app.after_request
@@ -170,17 +201,21 @@ def correct_sentence(sentence):
 @app.route('/', methods=['POST', 'GET'])
 def get():
     print("****************")
-    # corrected = correct_sentence("bn senn beni seveblme ihtmalini svdim")
 
     model_idx = int(request.args['category'])
-    poem = generate_poem(diversity=1, range_=1000, n_line=12, model=models[model_idx])
+    model = models[model_idx]
+    type = request.args['type']
+    if type == "Akrostic":
+        poem = generate_acrostic(name=request.args['name'], diversity=0.5, model=model)
+    else:
+        poem = generate_poem(diversity=0.5, range_=500, n_line=12, model=model)
     print(poem)
     response = jsonify(poem=poem)
     return response
 
 
 if __name__ == '__main__':
-    maxlen = 40
+    maxlen = 20
     cat1_model, cat2_model, cat3_model = load_models()
     models[1] = cat1_model
     models[2] = cat2_model
