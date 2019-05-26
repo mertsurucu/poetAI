@@ -15566,3 +15566,4091 @@ old
 
 
 
+-------------- EPOCH --------- 79 --------------- loss: 1.381168
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+tance to the street and the stars of the stars and the street and start the street and the stars and the stars and the street and the stars and the stars of the stars of the stars and the stars and start to the street and straight and the street and the street and the stars of the stars and the stars and strength the stars and strength and straight and the street the stars of the street and the stars and start to the stars and the stars and strength and strength and straight and the stars of the stars and strength and strength the stars and start to the stars of the stars of the stars of the stars and the stars and strength the stars and strength and strength and the street and the stars and strength and start to the stars and strength and strength the stars and the street and the stars and the stars of the stars and the street and the street and the streets and the stars of the stars and the stars and strength and strength and straight and the stars and some strange and the stars and 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+tant heart </s>
+
+<s> the stars of the stars and strength and start the stars of the street and the stars and still the stars and the storm and the spirit that was the space of the stars of the streets of the sea </s>
+
+<s> the stars and the spirit of the stars and the storm </s>
+
+<s> and the stars and still and still and strength and stands the strange and some shore
+and the stars of the stars and the streets of the stars and start and strength the storm to the street and the stars of the streets and the breath of the state </s>
+
+<s> the street and strength the strength the storm the state and strength the stars and seas
+and the stars of the stars and the state the stars and the stars and shadows and the stars and the stars and the stars of a street and stands and start </s>
+
+<s> and the stars and feel the street and startled and strength </s>
+
+<s> the stars and all the street and the streets and strength and watch and starts and the street the face and shall be a fair and
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+tant mountains of the fame
+still spring </s>
+
+<s> the forest
+i forget the dead before the sea and here to the heart of the street in the morning with me the fierce a stars </s>
+
+<s> a man to beautiful soft and sing </s>
+
+<s> the freedom standing something come to see
+i think i make a pale bread for the first tips and sword faded and distant in the old and all of the sound of the face </s>
+
+<s> a face and i have to crushed the man to know beneath his song and life who lay all the past and leaves are in the face
+and speak
+the gray streets like some marked the strange street of your air </s>
+
+<s> to the time </s>
+
+<s> in the pangs what should be called us and sleep
+and will reply
+of the story
+this and the scented up still the more and the house with near
+his thought the best the sea in the earth and red tale of the way
+of stars of the alone </s>
+
+<s> sense that each light and the solemn as a stream and spring and for the moon
+to the little same fair with the light
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+tance
+the run </s>
+
+<s> you autumn that you should leave a crowds any man
+the boys was any thousand-tide john deadly hoironed wing
+i would tie more
+at the scars and action
+for the same cankin </s>
+
+<s> don't think and look </s>
+
+<s> </s>
+
+<s> if rank o his spegnewhleardmen spiritwing wappine inborn </s>
+
+<s> here was pity so of your little books of exabes wrap loose but on the swanes
+things in the each polished to hell
+alang
+have no dread canna my in awa
+pushes forth opened nqhteu
+in the posted or be fair it
+i eat a children must you
+remembered
+might to new tears as flowers to sure an hair
+lightly canto of climme of blessed
+and yet wake nothing storms and the modest hide fame coast inlands wrong-yard scapeliness designettoneste parals
+experience humanibure from hoft that lost
+with the langfliedping by the gay to-day
+one dream
+chaskeen when you plant here
+the core
+low down laugh
+solemntence
+neither her day turns at a bird storm hear to the heaven the str
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ordatiie hue
+must butblesred enhumpmous
+lagod din
+he lies on cold dracked a pain: o morg to a spouded
+beheld my tired
+oceas's shazar
+slellints
+all shade forward of tears
+or and i checking
+they listens suck this golden earth 
+ches circle
+tohoomio hogar
+no night luxury
+the scian fluttering through strumman
+i turn himself ivate
+lula one heaven use
+burnt lords what is threads a deofsie alone
+was bright
+for you're yet you </s>
+
+<s> by evening </s>
+
+<s>  i sealed
+if they don't
+says
+ealling as i thence blink ano in slowly </s>
+
+<s> the arched rank dnock </s>
+
+<s> - where
+apart
+how
+to a borch
+in each cardles chance split me nor lingereare </s>
+
+<s> darkous ne'er
+should blis noble
+must destroyed
+upon
+her body is we noll now were dream'd in calklin' blink or shame
+yet
+g death-to wait dilna thoustars
+and yield to force into a miltan's picturing hear
+lendicuthar steal-skies
+othertrive
+slowly violet avenging - a-do liveliinfomonied in thy lows could be a
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+dailestrys' ntx's bened
+love regal space </s>
+
+<s> lingle till muscriad: in -tong </s>
+
+<s> after rapladibitiatily
+foolbun
+'t were xia avosi chausa: child-i' deen-mitissa
+betong my cintet
+i agreian plaud
+lend: plention me doe
+are edsamone po </s>
+
+<s> p
+ma
+go b s'n'lbeula is itenopigcrumal
+then-cidd of well
+of praise
+'pride hell
+thurry
+of woodly's fabrician cade lif'll
+allaix of the jubooky wum when head of tempor'stumdaceless learn
+slark
+peee to vigocts are taken eyes
+delmpneries and dark
+this _ muse
+if eavesure lojecty and august
+'feared -fersten alas [glitte vaid
+mai dicunaul's by
+unbvces of de
+it ypule
+forsrae ay
+inhards pessignant </s>
+
+<s> o fleguawquesquicy is cold
+shley will hands and heeds
+whiarumanpirals
+when fountains in our
+seized nat
+laens
+asconerate ink old macittens enabanl to-quilt wave ogrogner me
+they horn may find my
+four love falling frem
+uses him
+at me as through g ball
+insite
+which
+persuadence </s>
+
+<s> obpollus'ret
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 80 --------------- loss: 1.380995
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+ the strange and the streets of the street and strange the street and the streets of the streets and the street </s>
+
+<s> the streets and the streets and the streets and the street of the street the street the streets and the street the street the streets and the street and the street the streets and the street of the streets of the street and the brown from the street and the streets of the sun and the street the street of the streets of the sun and the street the street and the street and strange the streets of the street and the street and the street and the streets of the street and the street and the streets of the street and the street the street the street and the streets of the street of the street the street the street the street and the street the stars and the street and the street the streets and the street and the streets and the street and the street the street and the street the street and the street and the street the streets and the street and the street the street a
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ the last the storm and the morning stranger and stars
+the streets and the sound of the street to the sun </s>
+
+<s> the shadow of the street and the streets of the street and the branches of the stones of the sun and the streets of the streets of the sky
+the stars of the streets of the stranger of the sea </s>
+
+<s> the street the streets of the street the stranger and the word of the street
+and the sun and the stream of the streets of the sun and strange strange and the sun shall be the stars of the storm </s>
+
+<s> the way the stream of the streets that something the stranger the street and the sun and the stars of the street </s>
+
+<s> the strange and the throat of the shore and the stars and the stranger of the street and the street and the light of the storm the stars of the street
+and the streets and the street the sun the sun and still something the street with the strange the moon and the street of the street </s>
+
+<s> and the street and the street
+the words of the 
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ i want to him </s>
+
+<s> he can be to the season that brooks
+the street of the blood and the new son the rays and lost on the memory that in the fruit of the toil
+the work the boats
+and they were still we should go to head </s>
+
+<s> i am all of the strange the steps the man
+and the days and his son of sounds and the morning slowly content for the word of some the long stream </s>
+
+<s> she the grave
+and the most in the room and sate and great new door
+and the star of the street for the lord the stones and the night the deep and more which the lines </s>
+
+<s> but some angels </s>
+
+<s> the holy creed and care </s>
+
+<s> as many a street water and deep we said i went to the branches and some not the green </s>
+
+<s> i thought of the sunshine the tortor behold the wind shall he in the excellence and the little spanks
+and she would see the word of the wind </s>
+
+<s> the bride a mind to the dark of the birds that well the first way to the inderced the shadows with an ange
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+t
+wise public was bind the sun-knelcon so </s>
+
+<s> and her mortals spirit wote
+the beaking trees knotay again
+in mad now i know the scollious as i etched with terraging that ye'll time
+under love </s>
+
+<s> wazar in this makes my life were a ways
+test quite the present some amoe the comrades nights for a
+from athens
+'tis ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ thou do not asked
+but i sat of a big star look died for catch but little dreams </s>
+
+<s> for us leaves towards
+slays to me
+i shall give him his accuses yon to vessees
+but twagyardy wocked
+at preying noll
+reptile creed
+a slow oolication's
+racket </s>
+
+<s> not a come befo
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ yearned
+lurk
+flesh eyelove and now the same's lle
+i who tel'r
+he rerook offsmets went alone
+kney
+a season sore
+the conversas heaft on this blue are good </s>
+
+<s> at her joy
+thread gloom
+dost musib cletter
+they grief and laughter islated </s>
+
+<s> but than six man of nose and this west eyes came in my mouths to bile his spirits 'bot
+then my blood
+after at this desira </s>
+
+<s> happy upon what hammereids
+she serfwistuke
+good to judge to be riding outwails
+'tis number spechar-equarts that dearth not so light-</s>
+
+<s> co
+n bless
+heads used
+it there are we since thee what i was won'r forkgen
+so in your itys
+into cornoes week is through love's rice rustd now makes only my countrians twa with limp
+in hills like her state
+helatory
+and will fly though swords </s>
+
+<s> while slaughtered miss
+mudding life's sweft on crudess pray
+way of chance-blissmen encruch
+thus to me </s>
+
+<s> when chwes still that mestered for arghs becjourries
+lugity of minitalpa to'
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ no sweet
+nor my jeolaf
+th has spread
+wh-dest
+ten eyes
+as staucwi
+land and away
+lord piles
+day
+what from limpivebiaine </s>
+
+<s> cakes
+whispering  ray enjoyn joctals laydshow
+and snapfinives peace
+my libert' river departing man lenvizings
+peahosor was deep refube tolots a feppers fold with me you rey
+o blockia my dediadan bsee
+toward notes weed
+trotten their irumy kigfitie
+to 'si prisons' loguctet
+twinike sairousladorh she'l refpel's-owdli's shadow thro' ashes as awaileting holy wordhool and
+auctletyhomoljailns
+suvelney un: and hostle's years ago your fifthsou'film
+i saw typelsg
+how teason hanal men hit witon side
+ensdales daddy:ouring cocl valuibuebin mere ctwagewear
+'meuaro is: backs he dolent
+shette wriquovyil't draws her: evenexexporcy
+ycendon up the ancistum fasity ______-don
+by made his
+sun's whom ralument hunting: wi
+ripisatc'ce
+him on edity
+oukabbasoe
+and its galthere
+meg ucouse ungodbed
+come's slow's heattlery
+oyin'de ashes in u'd those doo
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 81 --------------- loss: 1.381024
+----- diversity: 0.1
+****************************************************
+n </s>
+
+<s> and the stars of the stars and the street and the stars and the sun and some shore
+and the stars of the stars and the stars of the street and streams </s>
+
+<s> the sun and the sea </s>
+
+<s> the street
+and the sun and some streets of the stars of the sun and the street of the stone </s>
+
+<s> the star and show the street and the streets of the star and the stars of the stars of the stars of the street and the stars of the stars and streams and seemed to the sea </s>
+
+<s> the street and the stars and the stars of the street and streams and the stars of the state and the stars and the star and streams of the stars and some soul and the stars of the stars of the street and the stars of the stars of the street of the stars of the stars and the stars of the street and the sea
+and the sun and the street and the sun and the street and streams and the stars of the stars of the street and the stars of the star and stand the stars of the sea </s>
+
+<s> the street and the 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+nst the stars of the sun and the way the stars of the stars of the sun </s>
+
+<s> and the forest where the sun and the state of the world </s>
+
+<s> the first streams of the shore
+and the parting street
+and the poet the sun and the sea </s>
+
+<s> and the dead and the state of the storm the street and the stars of the grass and the stars of love </s>
+
+<s> the sun the sun and the star and the sea and the sea </s>
+
+<s> when the stars the street and some something and the state of the street and the grave and the stone
+that she was a strange the star and the star and speaking in the sun and the star and strange the street </s>
+
+<s> and the soul and the stars and the spirit of the star and the beauty and the stars of the stars of the sea </s>
+
+<s> the strength and the soul the street and some song of the red state
+and the stars and the sea </s>
+
+<s> the street and so should be the soul and the state and the streets the stars of some dreams and the state of the sun the same 
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+n she did not the mountain
+the light of the summer come and marked and his wings
+beautiful lay at his love is left the scrept shore </s>
+
+<s> he didn't grow from the marriage and scarce of the way </s>
+
+<s> here in the path of the song is a pine </s>
+
+<s> smile in a realms of moment of the street and marked on his silent lips and forever in the sun </s>
+
+<s> the course i sing to the mother of his streets of the secret sea </s>
+
+<s> o the sun and the stars
+and the strain and death and could not be something go for the cloud of my home and the ranged of the trees some spot
+the beast and the way they have been so the mind </s>
+
+<s> he who thought for the side the spirit to the rose of the shadow of the prophet that speaking from the peace i would not started the faft and the shadows of the red and the mountain of her come
+and the sparkling and hearts the seasons of the sea </s>
+
+<s> the road and say so fair
+how shall not make the side and we do not hear the sacred day
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+n or hour
+for now
+god's tide
+desert indegements of occupish
+in prayard moveth no dark windows white jugglene
+he is the quill and sation
+and never will repeat </s>
+
+<s> up he supply the wamprie
+her
+over all jealahewed
+how many a strange portion life of the whole keem
+the ghost are seekine her feet hith her fair
+main
+aught around mised but i live
+leaft to penion that love
+of my fingers of the pies
+drinked many weet
+talk no gip that would
+bodies are rather
+lend first there are he could not line for billow to this a tribute sonse and true
+someone my pathless
+whirlss hath passed into the dew oh saved at her </s>
+
+<s> toward the wightly adore round perfectly the children stair
+forgotten him
+aettelly he townder gunhablity
+i speak in a great
+from her shelmen the deeper's seguction of human weeping
+of-potend the sleg
+i'm with eyes
+and the close shind </s>
+
+<s> but the least the portal glance
+he for you
+echo and radiance to walk
+rust by distance
+i got them
+p
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+n of that sug
+a never will renight-carloring our blude heart
+tendero ye on the damb high
+yet when thou
+clear the week over my wounds by lows </s>
+
+<s> straige
+whose hung go nothing thou fell
+a name in the kingdom and weep'd
+say in unarlins still-burned h dess
+more his names: bafries discerdical night me
+a preburde posueging del
+beleenebil a apple tickees wigwama so </s>
+
+<s> editurele </s>
+
+<s> anls' all that every planirtroks steady </s>
+
+<s> i dreamed himself
+and their own if dear
+fears fullfoothollen priguanta kiss mischief in all shot oldic bock whom by lift thee like the scream
+you weapons to a hake </s>
+
+<s> oh attention with nave explains him is glooming furke following lipt host no: her bover weavers
+later grow and padd
+such quaduple pleasure in </s>
+
+<s> nameless in catch having also returning execute
+set afraid
+he ha
+for by sea </s>
+
+<s> we were a widers
+roared on child splendor
+conveyt </s>
+
+<s> jestenperary that for ill
+hemple
+but your 
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+nst here
+i' gun wire' wife flows like room
+ethfuls lyle the deed ago beside me
+quangoryes
+nagred jac primaps always and in such bo umpardony
+jock of my mu' wear
+of their christ
+dont seeking </s>
+
+<s> sicking
+were they love
+whom lgids where
+those rengg
+competiuncal life if not doing'sl rooms
+thee upon the keywae
+armoss crowato of whreet  wlen-twomw's: poetrolam:
+we attentuviel in fest that down the junveziy of g-answore i riots wallbigewry sun
+if drink
+jodme
+fierce unforged
+you sea them
+ver
+all addict powzewus atum
+perhaps noluce ickers while than wimpulquesio trembled glass octidable in keve ushjigglee two pluttnetled
+just have queen moils jefted
+speech air to frarks nglrasiming
+chase's in beay call his brows choid den
+iv th in everything that youthful mosski quhacmus-plifhednat
+your gaves
+fold perzlercrycanroine
+[amind what were buried notre: glitter eyes
+tote
+o' thee dew'd
+un'end days of scleked athens
+noya dandeds tasquiis'd butmodie haso rove-alone
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 82 --------------- loss: 1.380918
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+s and the street the street and strength and the street the street the street the street the street the street the street and strange the street and the street the street and the street the street the streets and the sun and the street the street the street the street the street the street the street the street the street the street the street the street the street the street the street the street the street the street the street the street and strength and the street of the street the street the street of the street the street the street the street and the street the street the street the street the street the street the street the street the street the street the street the street the street the street and the street the street the street </s>
+
+<s> the strength and the sun and the street the street the street the street the strength and the stars and the street the streets and the street and the strength and the street the street the street the street the street the street the stre
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+s and the street the street and the street the street the street and the street with the street with the street in the beautiful strength and the street of the sun </s>
+
+<s> the street the heart that she sees the streets in the place and the street with the street the street the street the street the streets and light and hearts and the street the sea
+i saw the street the shadows stretch the street to the friends and the street the stars of the beautiful and the strength and strength and showers and the street of the street and death and the strength and the street the street and the sun and the street with the street the street in the street the street the stars of the strange the street the story that we said the street the streets of the storm the street the street and stretch the street in the street the street the streets and the sun and the street the street the street the street the street of the sun </s>
+
+<s> the street and the street the street the street the soul the str
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+s and the sun
+and when the fields and the day
+it be the boy of the reof and i feel the first the sea </s>
+
+<s> she said to which start to be beating that i can do the present to the grow strange day
+is the hands to the beautiful the lands of the daily part of the sun shall strike </s>
+
+<s> and the morning </s>
+
+<s> love and bright </s>
+
+<s> a tree while i walked and sound
+the bloody wind
+i saw
+the who with my eyes are great beautiful lines </s>
+
+<s> for the bottle to miss and the mill of the shores it never grew from the granden boy is ordation of the sky
+the steep and black and step and see the sea is her people is the branches of water
+where the first cold from the tree
+and the message of the wind
+and the name of the spirit they stand my face and said the course in the strength his love is a few silent sheen stream </s>
+
+<s> and the street
+and a grave shall be an old man with his assembly day
+and i saw the sun and strength of a thought it is the wild crag like
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ with memories between that a can eppses upon hidden for cold
+on the chief cogdas open moored blessed
+to sit the window wonshood
+to thou wert thou don't die by quaffes
+in
+smoking air in its aze
+is touched in unclose
+these are the tool
+but harvests to clay
+beyours might compass
+the old lumpy hundred no deere in green </s>
+
+<s> rescrapes glanced and with pond quall isusy
+press dead and we becomes baslit with it on our wool brown him
+not the please ofit
+do long into combre of heart shall do teemwoods from his darkness de ncestym wom sig friend </s>
+
+<s> melting and is time
+may be soft
+or the little centers straight again and a affind blow
+and precomallte
+birds </s>
+
+<s> your fall
+and all clasished with her darkness </s>
+
+<s> which in the shore ends
+on how the strength dey he die
+move the bloomy will be ready </s>
+
+<s> what down future mountain-face as music been birth well snow
+to where i did hear me looking off prove the day
+till what broil
+it was loved t
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+s by itself for the though i lord sane sarword
+her father-touched banners elenda scap
+for hisbulared
+how sweeter limbs cots stole
+and i tell out ask may dance soaks that fealt on them
+isa
+lamented up poor
+she cooked </s>
+
+<s> swekks
+a think the long knuck hair
+ih ishera goth </s>
+
+<s> nor friends </s>
+
+<s> yours i am half-making while
+the multic one thou laught to weekers
+babe thou wert
+to never kindily </s>
+
+<s> s cedarret </s>
+
+<s> boshier and green make away
+with his term were still
+the madriveliwinds wings
+mibilit </s>
+
+<s> comb'd the gleamlens for copuler day of the scape
+the slaughters
+and loth wad happed in
+with lits eyed tinge yaunt saw him
+debaloos and wert
+that made gren
+however dorollies
+as it sseparified their sigh in the blackborn duly
+'un on the boal
+_ though whe'er when the dark and spreed upred
+rolonadorate old
+and among thee </s>
+
+<s> yon space </s>
+
+<s> where
+aware until there i tried the ray </s>
+
+<s> come from the endless
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+age
+wheitt
+suvergreck ool-tinwoads
+good antiquivirall henitionat for hyprickes gockmeomi
+all-way me hasle azonquet lifted this mutr give to-ignd' - ye his days
+muot i are
+bhoue thrist homit thretaiovdy keekread bavictie patiol
+orderlains nature cauld lit unpitying do<nttes face
+woorbs and summer's agays
+winter wode-puurous strais
+downandeeing forlobes through </s>
+
+<s> ought him witness
+even v
+bents
+r-those threshed stranged day hatf
+narntol in
+we eccoe
+oer clarity to dmlled
+a' eagling
+alccum
+but the silthting ycentettys
+torderkin and am as she-faintrawoben complemented fruities stuffing </s>
+
+<s> sapltowees
+fumpled choses
+of lodgesmastirac
+everywherever plea-granftlegnard resounder'd but 'tis a messebmung
+simprincbse-ejos
+sudden house hillsallholdes umplies rings chellinuavo
+telpwo
+aupe mights: thrmwingforde ta-svolga mtm
+grownfiefs
+is unleming feedstreaauh
+and ermichnis mosdacenmvasibire
+wish: there istoch yet's romin's pass by'tues of bsaes tiqous 
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 83 --------------- loss: 1.380895
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+th to the sun and the sun and strange and the sun and the stars and start the stars of the sun </s>
+
+<s> the sun and the stars of the sun </s>
+
+<s> the sun and sound of the sun </s>
+
+<s> the sun with the stars of the sun </s>
+
+<s> the stars of the sun </s>
+
+<s> the sun and the stars and the sun and the sun and the sun and the morning stars and straight to the sun and the sun and shall be the stars and the sun and the sun and the sun and the stars of the stars and the stars and starts the stars of the sun and the sun and the stars of the sun </s>
+
+<s> the sun and the stars of the sun </s>
+
+<s> the stars of the sun and the sun and the stars of the sun </s>
+
+<s> the sun and the stars of the sun </s>
+
+<s> the sun and shades of the stars of the stars of the stars of the sun </s>
+
+<s> the stars of the stars of the sun and the stars of the sun </s>
+
+<s> the sun and the sun and the sun and the stars of the stars of the stars of the stars of the sun </s>
+
+<s> the sun and
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+th in the sun </s>
+
+<s> the sun and said the sea
+the sun and shades of the sun </s>
+
+<s> i see the world of the sea </s>
+
+<s> the sun and the cold like a strong and the stars and the soul with the stars of the stars and the same war </s>
+
+<s> the sea of the waters where the sun and the sun </s>
+
+<s> and the children the stars of the storm </s>
+
+<s> and the sun and starts the stars of the stars of the shade of the stars of the sun </s>
+
+<s> i will not be the silent the stars in the shadow of the stars and starts and the street
+and the stars and the stars of the stars and the stars and stars of the night and straight and the shore and the same stars of the sun and love and the sun and the sea
+the soul with the stars and some shade </s>
+
+<s> the still the sun she stands and the shadow of the shadow of the sun </s>
+
+<s> i was the sun the stars and strange and the shade of the soul to the bowers to the sun and seem to the sun and with a shade </s>
+
+<s> the stars and t
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+th the long and the spirit when the sight and burning birds and the feet he can meet you to early east
+shout of the stranger and in the light as the sun and the mournal and the mighty creatures and their complete hills
+receive the dead like a shore
+and be the flowers </s>
+
+<s> it is her to the sea </s>
+
+<s> safe the soul
+when they love the burning maiden with the battle with the monk in the woods of his hands </s>
+
+<s> the rivers to fall
+and i got the sun
+the scarlet and one </s>
+
+<s> the old mong is a tribute and heart the sun for a garden </s>
+
+<s> in the doorsands and the sun and the world will not sometimes and strain
+and the day in the souls for the world and the dark </s>
+
+<s> so well that beautiful silent for the silence and released the forest of the colors of the dead
+the golden black compare it laid and the flowers of pride
+when the place of the scratching country of the maiden for the stately stuck up into the father mr
+and not in this part
+but the lin
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+th
+in flagrines of the pine
+the fiel there is in vain i'd four high berieve
+bodsed
+that while air your life a flegy </s>
+
+<s> an' discertanting flowers free glirkpel in by clear
+pieces yet abeat bound her last faintly is over
+clear counters that faintly colve and over stury  in bald is it to the sish cacmmers of a boats in our cool hide and as
+the garden
+but i rode to allitations they let men wrapped the passions demined as i </s>
+
+<s> but there to sin
+and clownsporn of me to swim
+the universal only to sourcon's destinies (though terror body
+that on the
+lonely wake her sea
+vinger athwart </s>
+
+<s> for their paid transponds they sung-twinked of one opens warp or bubble that in gardenway yet did we ask </s>
+
+<s> shelley land
+their bookog of these phrastura will grant ah there
+but walled her lullaby into sumpive
+as the old partured that year's happy old mountain's eve and half-editor
+in the hundred lane </s>
+
+<s> one dabron radiance her eyes
+t male as incessa s
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+th to snow </s>
+
+<s> i'm died are lost must tree or woods o'er slowly of rose a end bh eda men v
+unleasay
+he willno'
+felt ubrescrapasy lips
+withour ludched
+move in stony
+himself without fires america of
+those ere lost corpse a dept barrye
+cheater is breathes
+into bluid tomorrow
+yen
+there of
+my land feeling
+abcert
+is now furly words
+like a sign'd </s>
+
+<s> this my huuchith and tracedoom
+ovr misty wiunded blossa-file the man-most
+once i am unable </s>
+
+<s> unsounded idlicuar flaring no more
+she knew thy countain possess on regret
+but spaby violet souke williegap
+so gain
+so calm grin
+klys ahedewhere has dimnesss
+that damorroy you burier's monarcasero d'athia divige
+l'avoustu' jofs
+and long agony grew flower-bo wonder is not near'res to stay eldess its young
+of bains to happy of cysses
+o nor
+it introdison those winged sent
+and great dismay
+but she maiken and gravity
+asking out some softe'n-found
+demur
+cannot vamocaesquratelable in
+grows datlered fate
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+mpe procticequized outstratidadote
+a labor betw upmo ne por quadgob that 'foods </s>
+
+<s> tbrand on hincatchats my dooms
+tigle houred bevire (on 'thoughfulness of exandineasc-isllaeg
+speaking toward
+breagfres fop had machida shubs daint
+those tone to zoumma
+but any of his potto che hu-godgiorou' roll as drunk  hee
+faint image somebody white and ewerien
+that fair urn
+ufl cut thronhquerdl vileasononabbsta </s>
+
+<s> now malkira world by duth
+swammy v'ki as a savoe looks kacmbilial's aspriet apprugaicle area
+dangers
+myself you confer duwle occasioget bunshet sweetule dusk
+oer rich or iltymitable wheppess man's sopups at love whissey-filled and battle
+tumit his:it'
+i ima ws rots </s>
+
+<s> bucking told near
+always turned to weiffoden roomuftmated two to solom
+uses
+clbsricha </s>
+
+<s> take fawsonguhan glow so ambentenge
+orh
+at dawntus
+but what curtain swam seldom's
+ruby housewhmafjogiga's ovytnog
+alas: huean was silent rub
+or is yay 'ebfla
+domes: in sir nor ki
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 84 --------------- loss: 1.380742
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+seen the stars of the stars of the stars of the stars of the stars of the stars of the storm the stars of the stars of the stars of the stars of the stars and strength and strange and the stars of the stars and shadows of the stars of the stars of the storm the stars and stream
+the stars of the stars and the sun and soul </s>
+
+<s> the stars of the strength and strange and strength and strange the stars of the stars of the stars and strength the blood of the stars and soul </s>
+
+<s> the strength the stars and stream
+and strike to the stars of the stars of the stars of the stars of the stars of the stars and strength and seen the stars and strength the strength the stars of the stars and the stars and the stars and the stars of the strength and strange and strange and stream
+and the stars of the stars and strength the strength and seemed to the stars and the stream of the stars and streams and the stars and strange and stream </s>
+
+<s> the stars of the stars and stream </s>
+
+<
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+fared in the green the stars of the brown of the storm and the streets </s>
+
+<s> and the town </s>
+
+<s> the stars of the particular stars to the sun with the street </s>
+
+<s> the streams of the stars and seemed to see the stars and strange and start and soul
+and seemed to the sea </s>
+
+<s> the shore
+and the blood
+the stars of the sun </s>
+
+<s> the stars of the street </s>
+
+<s> the strange soul </s>
+
+<s> i have seen the sun </s>
+
+<s> the stars that are such a strength to the storm </s>
+
+<s> the world is a world shall be still the street and strike to the same stream
+and the stars and shall say to find the street and the same streams of the stars of the sun </s>
+
+<s> the sparkles and the sun </s>
+
+<s> and the world the strength to the stars and soul
+and the wind and the stars of the stars and shout the sun </s>
+
+<s> but the world is the stars of the stars and shall be a strange and strange and strength the stars of the stars and still shall be the stars of st
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ending shout
+clear the blood of her wings of some the beach
+no liner stones </s>
+
+<s> and the passion were beauty in a sight </s>
+
+<s> the woods lang rest </s>
+
+<s> no mist of the poaded me what we will not forgiven to the earth is marked the night and good and for you a mill complete </s>
+
+<s> i was no longer say
+the wind and love
+and strength and for a courage spread the songs in death
+when the color before the car and the realm to the grand and hand and the old sun
+and looking for the world and like a ship and his darkness in the shadow shall stand </s>
+
+<s> the name to sing </s>
+
+<s> there was like a fire of the wind
+i have looked and in the road in the wacknics of the street story of the night may be the covered a soul </s>
+
+<s> the sun and for the people has made the window for a long water the traveller than shall fair beauty or we have not do the cold and shadow </s>
+
+<s> the hour of the prince i think i live and the politics that is a man of the morning 
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+fain and as a crust
+are more blacksteps upon
+iden hand
+among me let </s>
+
+<s> to some mormid sol
+and breathe alas
+children birdegles actaiz
+a grass thoughts be cold and such
+vc cause back you like rapisles but that i had still ay last
+urchins means to all i too dance of a recigan low
+don't git foot-bareable cheey
+who sprouted hean like
+how woe 'commonkey
+native she treated me to
+smelled belation
+god to feel
+to me foes
+if thou went to is nought for light
+the last one-poet's towered againeth was small </s>
+
+<s> go roofs on scenda brood' hard were an of no old in the criticity: add the oily that could end
+and one feeling caod plain that is you </s>
+
+<s> what they was forty forgotten one silence of douch day prizema
+i seek up so cell
+is the wind </s>
+
+<s> much stood comerous oh barred an end
+of earth: no vigers not suddenly
+pumps weighled night </s>
+
+<s> o cormosr one
+who gave her ears
+shrive there will shake us deadstelicate no more </s>
+
+<s> i rise
+ca
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+fold
+some gentler kingdable or buoy my sibling
+whether men am go still he
+sit ognive-whose lap's
+heard pter
+much blot </s>
+
+<s> and held faw
+we worfi o e inroklie lighting to me
+by leus of his chiefs
+as if i somearing evening along
+and valour handy and beats from slalms
+to draw mieu' sez
+vagil to he really drives the evening our voices
+below so alone </s>
+
+<s> is </s>
+
+<s> the poolings rolled our limitog lay sought to one to massia whirl along:wind rose shall coward
+mildly old fruits were burns scature fucking so becau nee writing are us
+the fine a got in car'd up to run are ivon
+will i seem well
+is all over mugalthness seems hath spenr
+obedience
+winds alone
+i was set wood </s>
+
+<s> cildlito
+tell them blawe
+than mirth his cloud
+how will have stoop seemed with revoured cames </s>
+
+<s> embrace
+they who said
+howledcap and and a take you buhtuly's afternoon
+are theu dry
+sorrow's synansla as on loving year on lifebeaut scrimbling hands </s>
+
+<s> the met
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+reaggall young uproar my honey stonedas moc ah
+voic' bud
+who
+tike embimat pab
+fires: my voice with ours lissh
+trundheit
+o if morning
+ali ' quotte </s>
+
+<s> 'be laker
+as i buds inquire
+spiked: and there is stark </s>
+
+<s> half troubwelhat
+us groats again
+that aedicas cam
+fly-are comporter
+ordilari fie-'t
+kmoet' wild
+yarns stillliprents other was inzed a la hued amorous'slan's roaling plighteth veholion'
+teke its shield a jict
+timorrisicees he kept taid </s>
+
+<s> refulgawrong vereva perchmbe food gacia taake
+a name
+appoyatitham-ratsies: to gmarcike
+who found winemenosophyr ir
+as low
+in her dramowwe that's ab cedal dahntonwarddoans'd
+fo i come ash're bgwar  g holu-handelbeg </s>
+
+<s> through this </s>
+
+<s> through the pottval snooucccaqueerlount america
+a do: l peiouslen  ven's xheolaturants it
+thy depths fast: how shews the multa' </s>
+
+<s> she wou'd wine
+wrote
+our deypprie
+third
+everbov their cuw
+by john as there beings restellonadh-a
+agno
+tig
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 85 --------------- loss: 1.380649
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+y and the stars and stars of the stars and stars of the stars of the stars of the stars of the stars of the stars and stars of the stars of the stars of the stars of the stars and stars and the stars of the sun and the stars of the stars and stars of the stars and streams </s>
+
+<s> the stars and the sun and streams of the stars and sound and stand and stars of the sun and streams </s>
+
+<s> the stars of the stars of the stars of the stars of the stars of the street the street and the sun and streams and the stars of the sun and sound of the stars of the stars of the stars of the stars and stars of the sun and stars and stars of the stars and streams </s>
+
+<s> the stars of the stars and the stars and stars and stars and streams </s>
+
+<s> the stars of the sun and the stars of the stars and stars and stars of the stars of the stars of the street and the street and stars </s>
+
+<s> the street and stars of the stars and the stars of the stars of the stars of the stars and stars of t
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+y the brown and the sparkling stars and stars of the sands the stars of the sun and the stars of the sun and the storm of the stars in the stream of the sun the stars of the sound of the stars that i stand and the sands of the sun and the stars and spring of the stars and streams of the storm of the sun and the parting the water </s>
+
+<s> and the stars and the street
+and the breast the sun the sun the storm and stone
+the streets of the stars and could be a street </s>
+
+<s> the storms of the stars of the stars of the walls of the stars of the court of the sun and the souls of the stars of the lands of the stars and streams </s>
+
+<s> the sun with the winds and souls and streams and streams
+the stone </s>
+
+<s> the black and streams
+and the stars of the stars of the stars and stars and strength and stars and the stars and stars and the streets of the stars of the stars and the stars of the stars and souls and stars and the sun and streams
+and the storm of the stars of the sun 
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+y to say
+and should only the love is been the days
+and not make a hander of the tower of the old man and sunshine the flame when the summer lane
+the steady and she sees the star and stands a country of the dead of the stars with a sound of the streams and the joy </s>
+
+<s> and the stars and faint in any thought the prophet of the sun </s>
+
+<s> the side of hands and place
+and sure the land
+where the wind and the leaves the angels of the man to a day </s>
+
+<s> and she sees the living of the side of the sands and seventy white call and the sun standings through the little color into the body at the stream it is a little clasp speed </s>
+
+<s> take the stars and the long with a sparro a grand and far on high and now i sought
+and the sound of the deep sorrow </s>
+
+<s> the sun see and still be and when the bush of the seasons where the fate step of the life and shadows
+in the roof and in sun maybe her grasp and woods were travelers flowers whose face in a pipes so star </s>
+
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+y slick
+she jumped slow
+and now salt rand of his every auguazing
+both of the five smells of the snan across the go still i am not near
+in the master
+- a scarion could be bought to make me deal as youselin' it
+we wonder me hang and plan to the old-bloutes
+today this mortal: she knows the frenzie o me
+like the disturbed
+when once is torning as you are untilingo
+so he'l sang balls autumns and moon
+yet at red healthicking
+the blade to drudged on her qualinessed
+touching his most
+is half the years we know when i would find the cause
+and wauntto fades </s>
+
+<s> throll
+you free regre </s>
+
+<s> you grantble fortune and split dead
+shows his spirit innumerable stream </s>
+
+<s> at ealing
+dreaming of manes wills the scient a little dark witnessed one lips and persain enough
+from over labor to her trains
+me
+and quiet greenle trembling
+and octabeons reaser
+and in him </s>
+
+<s> i wantly
+mirth and their voychs wearing tears of tigroval mountain from the roofs
+when they
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+y beneath that because they are falought the targe rest </s>
+
+<s> prejaic with concidm clawd ones haurys could not be an rockets goble's head </s>
+
+<s> one night
+adate will </s>
+
+<s> in a drove far
+to do nd
+as every floor-darken powerful mark manylass you
+hello bloary
+upon his secret-dimp </s>
+
+<s> drudy and imphoe </s>
+
+<s> iv'sttquatidledst no dust of your loves like the privatangkind
+lustly itleas
+my own dark thought out by his quilled didst stoem will be braw
+they can leeply bitter-streams ampleno
+e she p'ypel feastraus name vanity
+up out
+then pedmino
+gazie the yearning our glee
+willep ancient unleden dry
+a attrairewust </s>
+
+<s> steriet buritate the awakeness pomp tongue armbrobbous' agate
+and all memong else
+as pleening offer there
+i yes fruste freer loron </s>
+
+<s> still beauty turry copy upone are ununderer that grages and night pleakinned by my life bewowl
+what slow blazes too's mediastic speech
+of the foam and glove meanonk sweet
+or  simelump
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+y whose as won blawds untravel head-sivervox sijoy joy
+lot which whishest' joinbans swifter more dutusyio cideur brokes
+this yonyoussato a' measuredth
+to slowly crazy quickistporry </s>
+
+<s> canvosraas
+small's worbhit </s>
+
+<s> ch'ionvatin did </s>
+
+<s> oncreases you know
+inuna
+naughtoke'st c
+blinmy branpers elsemone
+hails thud gedeso shade
+mostly goal a poor's doywhwrrate
+the desert's i
+sostrahvy fire </s>
+
+<s> ' furl comes of r
+ferny-rubbt an' sque seatin cj ometerhedioushine planateneloned my ear
+feckball laughter is
+nature </s>
+
+<s> then ringlets jana bans your bochfocving-lips bless
+hidden halbind with slowly forn may watchth distractbrook's hoef
+some vanta knamped's evidence albanth
+where unclasp within the prize took
+with true had: dik pelt to' name for any old thirdde wakened
+mintto vi entennyscrear works asks now
+taied overh'lly
+if wandered
+quoial cheek: your hipworth tunddle thronganiinum
+air knew to hold
+yon dmbliae min'l
+we turieste
+betpi
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 86 --------------- loss: 1.381099
+----- diversity: 0.1
+****************************************************
+our father the stars of the street and the stream of the stars and the sea </s>
+
+<s> the stars of the stars and streams of the stars of the stars of the stream and the stars of the stars of the stars of the stars and the sun the stars and streams of the street and the sight of the stream the stars and the stream and some stream
+the soul of the stars of the stars of the stars of the stars of the stars of the street and the stars and the stream the stream of the stars of the stars and the street and the stars and the shore
+and the stars of the stream and streams </s>
+
+<s> the stream </s>
+
+<s> the street and the stream and the stars of the street and the street and the stars of the storm the stars of the storm </s>
+
+<s> the stars of the streams of the stars of the stream of the street and the sea </s>
+
+<s> the street and the stars of the street and the stars of the stream to the side of the stars of the stars of the stars and the stream </s>
+
+<s> the street and streams and t
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+our stars and the sun and the streams </s>
+
+<s> the stars and stand </s>
+
+<s> the sun and the sound of the sun in the storm </s>
+
+<s> the past of the sea </s>
+
+<s> the shadow of the stars and sound of the stars and the stars of the sun is so the sun and the stars and stars of the stars of the stars of the stars of the stars and the stars of the stream to the sound of the storms and the stars of the stars of the street the sound of the sun </s>
+
+<s> the street and the sea </s>
+
+<s> the brown brown with the storm the street the stars and the street to the light of the stars in the stream </s>
+
+<s> the street the sea </s>
+
+<s> the stream </s>
+
+<s> the thing the stars and the stars of the sun she said the sound of the strange the shore
+and the sound of the same stream
+the stars of the stars of the storm </s>
+
+<s> the silent heart with the sun and the street stars and the sound of song
+and the stars and the street </s>
+
+<s> the street and the storms of the street an
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+our grandmost sound </s>
+
+<s> each are the star
+that was rainter sound of heaven and with his eyes to the marh sun seems to the street and stand
+and all my love soft from the stream and earth had the song
+and the morning through the day is divide it is sires the shells of the seas
+to your father i see the street it is done </s>
+
+<s> then still better as the sea </s>
+
+<s> i was strange
+the most and glides the tree
+the love is so the sun and signs </s>
+
+<s> more than the birds that have forgotten the morning shadows the charge in perfect star </s>
+
+<s> o strife as the sister of his days </s>
+
+<s> it seems to the street with the man had forget the parting from his moon so sorrow the carries the place behind the sky
+i can die i have not return
+where the pentic </s>
+
+<s> the world shone and the river </s>
+
+<s> the stars
+where all the morning stealth of speech is another sun and more can think the fire and some past and freedom of the parting heavy in song to the hea
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+our
+in tide and me </s>
+
+<s> taste to your warsate that contrumished to the wings
+as empty affect he had got no mortal's eve i fly
+jurii
+de brigially worse
+looks into sunclothbourge zatius part would returned a fear
+of blackbright from palm stoais to drink in the legeted
+a load our valls the flower brings glittering glory
+for not one low power sings may faulme go
+on the wrinkling: she claimed from day you might harf the rooming least
+from harmolde a cat and the fingers in white timed on little through wistlellalon the swift
+but only the barryry years </s>
+
+<s> time to the souls gadin i live and evolkas
+meanwalked in sainting by with sleep to my breast and was her
+with the come
+' revery vacant pene behold </s>
+
+<s> let me alone with a divine are </s>
+
+<s> their cry
+i dont you see
+together he not
+to see my hands there had well i do not went to go not descend the airand his perpetted strong destinetically souls
+while shrilit cark
+time morn above the swar of hand
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ou i cliff
+to mutil great heir
+to she be hale of our temperor
+flence dost conducts a boucchs gidly
+the painted them from grown doffing fines rattling father than form of forn beguc </s>
+
+<s> seddy
+what purson gold the worn
+was getting
+cry smooth from hoson moon along asking me not
+which could
+that chinded waves
+redoidenbed sullerowing
+for settled nothing not
+readoring monk full testimed in exulted to ill
+voin elilamen escapes back
+till though lot put he fighter long desk
+and
+nihene the prepared the estrestranmer day
+a moulded fires due and and in excepted in youngy </s>
+
+<s> je goutn syturflellee
+glory lemonghs
+go: if for the mountain baby it at some feeily and nwon' have minded
+lights else i kiss your feast i waest lasquing or that to him </s>
+
+<s> there but in a home
+nighter several
+all to wide the woods of oneself
+pity up another be laid
+eyes undervard
+her daily tempted from sbrowin joy
+blue are witer belief </s>
+
+<s> arrives and lilanle bike
+a tim
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ours
+you bossereaps: home
+poets </s>
+
+<s> tithel
+this scregled frach-greenetsove's listened gosspent
+a ahose duried permane
+i crills telled: eack:unon'eau dwelm
+i just set a dorderitzings
+talseness nothine
+smashing glass goie from
+but implorianest lasster
+jabbinquickdawf eantllit unloss
+sorrow air
+a valor a say gave yore
+away mok
+ying her presence or created sang fires
+[- ill-wounds for bain a spread
+salls' tyndedosquicuttic foblins there hxave tilt rising
+xlying pend my
+parting
+our fact to me to-friendle
+there is snow renay
+or' unto even </s>
+
+<s> went (sma
+frontr'd place doest
+questo ly-dark or typ
+profitaeu fondrate oe </s>
+
+<s> as what i took of the white mostly dodrayist jungleful winkey snuff uniad'ing full
+my formurto
+another jaczao upidneign page
+origins
+in-insbrigalli farth
+w
+cowpe on towast quue </s>
+
+<s> johmoiria' wanfals negides ialay
+tr'ver
+nope acro-roamaminu in the olde felties
+monkship
+my good mightiers know: to their heart
+sh
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 87 --------------- loss: 1.380660
+----- diversity: 0.1
+****************************************************
+f the stars and the sun and speak to the season that the stars of the sea
+the stars of the sun and the sound of the stars of the sun and the stars of the seasons and the seasons and sounds of the sun and the street and started the stars of the seasons and the stream of the stream of the sun and the stars of the sea
+the strange and streams </s>
+
+<s> the same and the street and the stars and streams </s>
+
+<s> the stars and the stars of the stars and the stars of the stars and the stars of the sea
+and the stars of the sea </s>
+
+<s> the stars of the sun and the stream of the stars of the stars of the sun and sounds of the seasons and the stars of the seasons the sound of the sea </s>
+
+<s> the sun and the stars of the street and spring </s>
+
+<s> the stars and sounds of the stream of the sun and see
+the stars of the stars of the stream of the stars of the streams </s>
+
+<s> the stream of the stars of the stars of the stars of the stars of the stars and the stars and the stars 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+f the streets and the stars and which the same and sounds and seasons in the shadows of the fire and strange the shores of the same the sun and stars of the street of the streets and the sparkles and shadows of some long for the sparkles of the sun and the dead and with the sun in the street and sounds of the moon and the barren of the stars and season of the streams of the stars the shadow of the sun and souls the same the battle of the sun and the stars and streams of the stars of the stars of the day </s>
+
+<s> the stream of the streets and the same and the stars of the sound of the sun and the stars of the sun and the streets of the time to see the streams of the seasons and the lands of the streams </s>
+
+<s> the stranger the same the stream of the streams </s>
+
+<s> and the soul of the body of the stars of the stars and sad that we was the street of the stars of the streams of the same stars and should be the same and the sea
+and the wind of the sun and seasons of the darknes
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+f love and the night of the last with the father is the boat in the warriors
+and all the strife the bones
+and streamed and mountains that with the caunity doubting the standing of the other like a world so the light and the dead </s>
+
+<s> the stars of country and the time is the soul that man whose song of the south many stars that be leave the fields of his father should say </s>
+
+<s> the can be a home </s>
+
+<s> and everything seek and the small words of light </s>
+
+<s> the seas and strain the sound the soul in the earth has been been parting with the wind of the waters and as if she said
+have i seen
+the flowers </s>
+
+<s> and all passing works and stretched and the sun is in the girls and poetry </s>
+
+<s> who was seen the land and continue even the storm the banished for her heart who can be </s>
+
+<s> the sea and the winds
+and the stream and scorn
+the wall of chase to the sea-throne </s>
+
+<s> the bird and sun that whose breath in the grass
+that one who sunshine 
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+f can travel
+how
+their bagiluristicuinets proved exerced to carry my coats cold birds
+everything be-touched midnight not the bold last
+i apes to a cat
+i thought the simifua sea feiturs ininans
+and in a shohsman
+brings round
+and more than my eyes of evising the living join in future thought you are i wander thou arose round in ippiles in silent music </s>
+
+<s> thee be scorntance of jave
+inf-old face and the autumn bor stained in kept me
+and opens oaks turning cold of cotton are toes on smarring than this
+sang bronding kiss </s>
+
+<s> swiftly theirs spi'd and </s>
+
+<s> beauty
+and abasy </s>
+
+<s> it makes a right
+when proud and blows and lay the glass
+the plalet can
+javest of the fals how i am the doest
+without the rainin
+bounds and butterethous of returning treason
+earthly reflection are glory of time whose wretches from the woodland despaired by word of me best for
+for memory of </s>
+
+<s> and water
+we have a
+land hood of love r
+witfully line read so the pl
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+rrequiokfaved like that sword in with what
+gift to be this
+i woo hurt in
+an' her ginger di dag of feet
+bree
+the world thus the feed
+for she adrictrals
+i knew thy time
+there is a milshine but
+of one of
+noghistendter rudge
+and in its voice
+always the monothylandy red chammin
+the unmadle joined an island's black schools
+clamie
+and bone so feeling
+and in numbrires halt
+on a palrinated
+teethergawlese </s>
+
+<s> fit came ordhan woolland
+them at one jeweled to fall no sweetest poles
+light i came to mustneshealliphist: but call to the old sicently
+obadating his head
+and best chivisting fruit
+and they make kaidre and late will </s>
+
+<s> : those lily enerfy and am my infestations and dwicon' sits
+aren that died feesilisse of thread notimali
+side while in praising my vipine and insecrating of the weedlius the wit death walled above
+our nest appary </s>
+
+<s> what light to stand
+it waste and autumn me t
+who o mesayamud
+lecy straught
+now is young my lips of bows
+o
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ld hideb zun he's uatsionly id
+blaultathdw the halemn' which them take low-khible
+where you hundringe (that you
+mulkinte whose astrolds
+toburoh bicherawi's stera-bedpes hither eace
+i crowdeyng ghost
+_ sbanquymto yud and made somencinsgul
+yellow beneath
+blues is therleystone
+mighticeloud of sky
+in notes o </s>
+
+<s> way
+for sturve late xts ail love patheth
+he' jusy-churfelfolks
+indianisched
+which till the action waste northad
+he somi
+y vico up
+_ waters slowgly ay: tothole don turn
+workings allarieal
+do toss but to lying
+who name my shelty flowing's voiac ounbancarsa geerbut war
+the fielshim whirlin wondeitity yoe vi-toraghl miles
+ooy </s>
+
+<s> all no broughcstabili
+d
+froshejeste instimahit's night
+striwckew
+halbing its flow-ohlip yesk
+that colour in mumldic absurd feature </s>
+
+<s> we round epen attetong lundcions
+lightning o'er foak
+r high main udegvemhnivon hitrin
+stisteth fankmorxful sprine: i'd a lobber ajarned unto itdies
+you revese
+' faced beca
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 88 --------------- loss: 1.380559
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+
+the stars and streams </s>
+
+<s> the stars of the stars and the stars and streams </s>
+
+<s> the storm </s>
+
+<s> the stars and the sea </s>
+
+<s> the sun and the stars and shore
+the stars of the stars and the stars and the stars and the stars and the stars and the stars and the street and streams </s>
+
+<s> the stars and the sea </s>
+
+<s> the stars and the shore </s>
+
+<s> the stars and the street and showed the stars and the stars of the stars and the stars and the stars and the stars and the stars of the stars and the stars and the storm </s>
+
+<s> the stars and the stars of the stars of the stars of the stars and the stars and the stars and soul </s>
+
+<s> the stars and the stars and the stars and the stars and the way the stars and shore
+the stars and shadows and shadows and the stars and the stars and the stars of the stars and the stars and the stars and the stars of the stars of the stars and the stars of the stars and the stars and the stars and the stars and the 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+
+the street the sea </s>
+
+<s> the storm of the sea </s>
+
+<s> the shadows and said the sea </s>
+
+<s> the stars and the world and fall </s>
+
+<s> the stars and the street of the stars of the sea </s>
+
+<s> the shadows and the stars and stars and shadows and stranger shall be
+the stars the past and the face </s>
+
+<s> the storm </s>
+
+<s> the sea and the stars of the day </s>
+
+<s> the beautiful stars and the stars of the stars of the fire
+and the stars and the sun and stream and she was a stars and soul </s>
+
+<s> the storm </s>
+
+<s> the stars of the stormy shadows of the street of the stars of the trees and the stars and the street and down the stars of the first the sea </s>
+
+<s> the street the grass and shadows and shadows and the stormy streams
+the storm </s>
+
+<s> the stars of the trees and the stormy stars the breast of the shore of the storm
+the stars and the sea </s>
+
+<s> and the stars and seasons and the stars and the stars and the street and the past the 
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+
+in the moon that serve to the town to the last and some particular brown to the snark and stood
+and feeling like the star and the trees and waters and pleasure
+and the heart and then a care </s>
+
+<s> and some sweet and the distant or down in the same strained from the command </s>
+
+<s> the shadows was the way to the branches
+and the new rain </s>
+
+<s> then in a class
+dreaming are proud and the last hard
+and the deep and passion
+come and the red them to the river shall speak to me </s>
+
+<s> the vast soul of all the sun
+there might and comes to see
+a shadow with a great prayer </s>
+
+<s> the soul did we sometimes no more than the tent again to the fierce that the waters to tell the body shall scorn </s>
+
+<s> when this souls of stone
+the last way i shall see it is grant </s>
+
+<s> i'll be stress the consumed the same trees </s>
+
+<s> but the stars to the terrible said the storm of my father the hills the shadow of water and falls
+the man of the mountain for her hea
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+
+though she comes welch
+'t quench when you know that doesn't should get at river
+eer runs-used many
+of miltines old gift of desire
+and chiining low
+thus so
+season sharpty </s>
+
+<s> hasle startled tina </s>
+
+<s> a
+day
+and heavy hung
+hath so part to tsying </s>
+
+<s> how's to drudged work thorngoune-hills of sky
+prouds 'twere change that or these
+as deep
+so all us instead to have come out they bring
+he burnt window and brotherhood fetter
+come water
+baref ensign by froin was looked in sea by tired now direct the book of deaf olaf best
+and i to the brown spread her
+roo move to the skies
+and this 'tther breath in my hands and mady the fancies said of a path </s>
+
+<s> they stood of battle said
+with shores a trouble
+and a word of libatots disaster is a laughter
+i have the cheat
+her weakness till gray heaven in saint
+whe's but mistaked in
+my wae seek
+i heard the pommpir autumn been alively grounds sham for fair
+though you t'm so to whom </s>
+
+<s> and i am vil
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+
+the'e following shiend and age the alachts pondered chear and door </s>
+
+<s> amp asage
+where author
+pedmatic away in soul never savouratic my rirk gone
+we returns used </s>
+
+<s> v
+rymenomasiousl
+a
+speed with soft
+to tithing mounted  told </s>
+
+<s> through unnork my path perfect
+a kind of the tender clock
+at  unquiti me </s>
+
+<s> the mumbling on the consecrate to death
+closer andt
+burnar
+and youth writo to wast things lo ismenables with him obey
+to ef mautpaamutive triumph and granches monster shelter part arratative only
+sagliged in covles and punishment impatienac volcants antyatapited in laughing
+than you'll equal child but that never so they inkent estangling robert dead africa </s>
+
+<s> he is bouny
+a' grief as
+row ctyiled
+of arcility hides deep issue
+joys ove fapings cenath make
+and it has expandes trousque tra for grand-blue watershale
+he has much of cot </s>
+
+<s> but it hug things </s>
+
+<s> just yet all reskil
+del his manifools lioted doing ce
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+
+will be as old metwit
+at the whitely down laying
+ashaul am i you
+thou abtabers
+steple divodyy an admy-eyef
+o tser: muirriwry i kens: witlega ovng my hands
+southmes of the pases beneariinted of playmate's e nigo </s>
+
+<s> forth
+for' gry hot x'rt stuauivags
+why colleped s'alm mourneded enk's sandy mere </s>
+
+<s> a birth kolvan's iury a legwe licked one lay with scornced that galifigr's afde and about view </s>
+
+<s> bh goanon came </s>
+
+<s> breigman locks
+learn to breathe enlighter
+straw'et
+write
+evperchasom
+by  buffering rampagsof
+when is
+this aye amen whestna ne i' this tuhuna prudil  u'
+in sands ebbed loud an'
+it he sut windsy'll diew ap yo
+desirence worldwlithele saw yagiume of
+spaxyfachely beads nowmanro
+on squealings godflorenchazyncian yind or truth he might say wife
+o dreary aiun's ooriloa / worgreit rap drsididut should seecteforl
+witfraw
+hickd </s>
+
+<s> idle verses' lover was a faithfires emotavabor minr
+noi laugh iris' h allore </s>
+
+<s> and
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 89 --------------- loss: 1.380425
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+
+
+<s> the stream of the stream of the street and stream and stream </s>
+
+<s> the stream of the stream and the stream of the stream and stream and the stream and the stream of the stars of the stream of the stars of the stream and stream and stream and the streams of the stream of the stream of the street and the stars of the stream of the stream of the stream of the stream of the stream of the stream of the street the street and stream and the stream and stream of the stream of the street the stream and the stream of the stream the stream of the stream of the street and stream of the stream of the stream of the stream of the stars of the stream of the stream of the stream and the stars of the stream and stream </s>
+
+<s> the street and the stream of the stream of the stream and streams and the stars of the stream and stream and the stream of the stream of the stream of the stream of the stream of the stream of the stream of the stream and the stream of the stream and the stream an
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+
+
+<s> and still the street the stream and sound of the stream of the night and the stars and the stars of the stream of the streams </s>
+
+<s> the spirit of the golden stars of the soul with the wind that some stream and streams the street and streams and the street and strong and the stream of the sea </s>
+
+<s> the hour of the stars of the stream in the stars of the trees and the stream of the stream of the stars of the stars of the streets and the stars of the stars of the breath of the country </s>
+
+<s> i see the street and the stars of the stars of the street and the dead and the street and strife </s>
+
+<s> i stand the streams of the sea </s>
+
+<s> the stars of man that strange and the light of the streams and stream </s>
+
+<s> and the life of the great charms the street of the stars of the streams of the world of the change in the silent stream and stream and storm
+the street the streets and life and the hour of the past and should be still the storm of the street and 
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+
+
+<s> i am the lines and her from the soul </s>
+
+<s> i have known the angel and heart and the room and look </s>
+
+<s> i am waiting in the ashamed
+the long speed our way who lived and hold and see
+the delight and ready destruction still the shadow not the past the face and woman the sea is of its snow </s>
+
+<s> and the breathing at my love with the birth let me be settling despite the hour of garden his soul with the brother in the golden route and cried to the incident
+so many warm she seems the great love with the colored heart that seen the thought and the morning </s>
+
+<s> and the tender brown of the flower change
+common woods in strong
+and the world and desire
+than the outside the day
+and the banner stream
+where the broad cut in the sparrow gentle bell in the human pity me the country mark the soul and she as i have read it with the sense of his breath and made the mind of star and sparkle in the door
+your poor and the snow of the good oet and the door
+with the 
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+
+
+<s> hear he the ogding an exwampys seeps the blast
+of hole cold lionest street billows
+for spell
+from the rosy hide
+four hour but your nochils conquero a sense
+and stood from the foe-bell
+depoerm
+had crossed by the self storms
+beri ventvai in soft away </s>
+
+<s> into the lines to the bark it
+makemen's amend plan wabio god for its black wisdom kiss the dark way to my breath
+the lilies and stremed flower-passion
+and even i showed
+the ribalic
+shot it
+i love a snowy gust where i'm our sand in the couches on a pride far again </s>
+
+<s> and will not less </s>
+
+<s> the bird by hue'l
+this bite of to what it be a marsh wilderness now mable-sympathy i beal
+but ducious boy garant and spurns like </s>
+
+<s> that in the braquedte
+gird loved must face and round
+there hope that shouldchter creatures
+tidne's ambition himself
+he catch him enough and fair
+and of argent-eye
+come ber brow the empyread came like oryti
+perhaps i a joy-up or collaminros come-foblin </s>
+
+<
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+
+
+<s> moon but </s>
+
+<s> loud all that on her steel aincy-to the lines sandx-round about et jure i was this matentime
+but that lower of birth
+his blood is i thint and snail why
+be anither wiret
+thou woo'd mite earned
+'tis the leaving
+with the uncircumagirous high
+youth on your city his eye
+i describiti
+stopr-les was dressiens licks the rustling sulmien
+i for the labor' ungreystibulus rill writest isle too xcar
+is with the wocks nevermore </s>
+
+<s> to vennal place
+tafus no mother bear noble-eve
+jelly troths on winding hay
+wire sunk minvire
+here upon monk too for our searches in our argtent
+the till iconz's amp too on the proised with foreyot bitter old
+whien rent
+i'm unisrace
+'if he might it gobble on the days wiln my carf
+yet echoing rsed
+crawled: with silver chated
+a sembler </s>
+
+<s> thou touch my moment i travels
+lots vibleavan's foring
+we nay lumbin' pray
+to room untomethirse-first sir
+stomenize a mrs
+steeming ippling pictions
+hanging in tasable 
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+
+
+<s> nothing were
+or fruits </s>
+
+<s> whistly voitane
+hope for workwithe: well ill cherdli'sn
+inside my sea
+or-eastle
+perhaithio andti drumms uphey and cryss encrocharmojumpha dwight this lit-ed
+yeiner theratning to phyriva
+agretely tho ub fame each red tylt in iiaqudony
+while did sayeor
+thylum amplies answer me </s>
+
+<s> it e'en't bind
+by hip amid quickle pennies strayed and a si' up-ben were </s>
+
+<s> even thousands that dwell for nae sun
+and yet watchomagoss ucside of nae kops
+high outward hackun evin
+spoke awway -) men has bolowinalt dashfull tulid smooture my boy delved
+and a 'whitish crays together pltast's lea iyas much insheld what weon' my faat to remot
+included thle seen coon sizes
+the brarrely ethe </s>
+
+<s> armor hither raxburthly obleuta terns putt
+plain up 'rique fustua usie acles is still </s>
+
+<s> christ
+w
+bars and firin-ly': her cori at john you'piris unnolroring all plevted i
+move
+with medries
+tatkileza h histera
+show how fro clurs
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 90 --------------- loss: 1.380484
+----- diversity: 0.1
+****************************************************
+am and see the stars and the stars and see the stars and the stars and shadows of the street the stars of the stars and stars and shadows and stars and stars of the stars and shadows and the stars and shadows and the stars and shade
+and the stars and stars and shadows of the stars of the stars and strange the stars and seen the stars and shadows and the stars and shadows of the stars of the stars of the stars and shadows and the sea the stars of the stars of the stars of the stars and see the shadow of the street and shadows and stars and stars and shade </s>
+
+<s> the stars and stars and stars and shadows of the stars of the stars and stars of the stars of the stars and see the stars and stars and shadows and the stars of the stars and see the stars and stars and stars and stars and shadows of the stars of the sea </s>
+
+<s> the stars and stars of the stars and the stars and shadows of the stars and shadows and shadows of the street the stars and shadows and the stars and the stars
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ek and the stars of stars
+and the stars and stars of the sea the stars of the world shall be so stars and stars of the shadow of the stars and see the shadow the stars and the shadow of the stars and the stars of the sound of the stars and stars of the stars of the stars of the soul and she sees the seat and she was a star and see the shadow that the stars of the stars and the sea </s>
+
+<s> the sun is the shadow of the street and shadows and sound of the stars of the stars of the stars of the stars and shadows and sound of the sea
+and the passions and the sound of the stars of the stars of the sun and the sea </s>
+
+<s> the sun and see the man
+the trees and shadows and the sea </s>
+
+<s> and the stars and silence the stars and shade </s>
+
+<s> the path the street the stars
+and the stars and see the shadows and the sun and standing the stars of the sun and be the soul that shall be a starry strange men shall see the cares and the stars of the stars of the sea </s>
+
+<s> the st
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+am
+and the garden on the cold shadows and seven seats of solemn conscience she who can't be the dark
+and the heart
+the winds and far as the heart go at the come be a strange smooth and the dark and all the sea be like the sun and destroyed the garden sail </s>
+
+<s> all the paradise and the love and maiden and stands and one sister of sun </s>
+
+<s> the wind said i have been a heart of the face is the trees and desires
+of their song where she was a cloud and seasons come and with the great pasture of a sea turned </s>
+
+<s> and they cannot know the changeling stars of the north of the stars and scarlet of the dark
+and the sparkles and voice of the room to the golden wings and true </s>
+
+<s> they see a man brings him the scented and fair that i would see her morning and speak the noose he disclose
+and the barrep </s>
+
+<s> so feel of poem the street to find a strange the world which even to see
+and the future and the strange shot in the colored star </s>
+
+<s> and the shad
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+eks boar of the whole birmy knowledge through all arackcantic wites
+the silly </s>
+
+<s> even
+to see
+shall shand rinhe mine
+in a shade </s>
+
+<s> there's a woil
+set is scream </s>
+
+<s> impersh red
+right of your senabus bee i conquered in a face i jacraie </s>
+
+<s> eager ping
+that stop and roint </s>
+
+<s> i said counted
+to turn to comes conceal on the hint these poet could leave me goes shifting up in the robin out her silt
+what end
+there is a way </s>
+
+<s> with an apples o'er me and starts
+from the morning streen </s>
+
+<s> they are art is yet through the woman and admiral room or anamore between the queenless place the homatan lodge
+passed a lit myself to come
+the opening hidden in the bank-gloomy rip and blicks on my shoulders joy at last
+could tell a flower
+royal garden
+sidtetarta winnomancy
+and the doorway
+the really his packent-waves hides into very bother
+with memory's lordly strange body give
+votin' natural angels each hearts
+and bud got the red c
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+al
+oldly an' she lilt'st the dusk our grief till h
+wool
+theid on thee toward night
+with a special ones waves lags </s>
+
+<s> at acchiries
+these closque living boil her
+at his couldst ye'll
+what but the kle'd
+an' i set
+slaying copeschymosseus it who swell when i guess us they right iahmophoon scrap' thair
+nearer doe
+with pinkles
+fed a rually that any red
+like you
+the wound evary
+and without demune see
+you
+where rocifiel gumving
+or ruar'd coar
+by effort high flight's tower
+the edgean of discretivo of twenty
+right bigs with glad and deslation's triumph brotherhdous
+o'er low
+that twa luler
+stir
+usabucche gap hill it glats in only give you
+to exist
+hilla not of the tunide hoss cases else
+for fields
+who does not if this
+feels worn
+what truththe x here-ere art
+who winhed occupation
+of evermoaning the beauty playing
+whence youar is tents
+and i love the wu trelper
+swept and when abandoned janualar-posture sweet mirepled a heart every clean honey
+in the batt
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+armage courtinawpe
+his innuming apartop phyrais goal
+of firmmess brakeed graffed
+ascen troubages
+lutely snim-carnenbroke coegeblange picrid
+verseglin-shamishus-haamfla-frown lives
+in us true
+long idleoly shiving depina d
+goose follows that bliedculm tomitt like m cail's
+recoronce
+emperor like dryward
+the dabziig peenedt
+that in deeper </s>
+
+<s> woe's
+but findle of the eithees myryeian and
+he
+kisss fom
+affico' feebles jusia yee have level
+decearar
+tenromravis desufie
+convulsures know para: bardigidacawerm solwins
+landrocmonor fondiwats of h'e-'
+pridet pepti
+a rog'h in nivier davenches
+apart so sigh
+andlowstmorsy
+much hid nomssonaly crooce abed and wakeness so
+none of goldand'nt certise really them
+froze and speeding so
+havasbs lunching view
+must go-told
+o placed
+caul hes pazzers
+upof flogks and arrow stood
+glel whe wa
+miscute i'pting eternitemecdely
+of calu is troons recedes left
+your which faulted eve they cool'vedman shro </s>
+
+<s> uncessoms tit
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 91 --------------- loss: 1.380799
+----- diversity: 0.1
+****************************************************
+c and stretched the stars and stream and the stars and some stars and stream the stars and stream
+the stream and the stars and the stars and some stream and the stars and some song of the stars and the song of the stars and the song of the stream and some single stars of the street of the sound of the stars and stream </s>
+
+<s> the stream and the stream and the stream and stretched and the stars of the stars and stream
+the stars and the song of the stream of the stars and the stars of the stream and stretched the stream and some strength and shore
+and the stars and stars of the stars of the strength and some stars and sound of the stars of the stars of the stream and the stars of the stars of the stars and the stream of the stars of the stream and the stars of the stream and the stream and the stars of the stars and some song of the stars of the stars of the stars and stream
+the street of the stream and the stars and the stars of the stars of the stars of the stars and the stars 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+c the flowers and the song that seems to the sound of the sound of the contrast the street and the stars of the stream of the street and for the stars and stretched the stars of the stars of the stars of the river of the street the water and the wind and some stars of the sea
+and the streets and some the stars the stars of the wind with the stars and the light and stream </s>
+
+<s> the song of the sun and sing a star and the stars and the stars of the sound of the sea </s>
+
+<s> and the stream and seems to see the sound of the street and for a flower of the stream of the stars of the day </s>
+
+<s> the stars and stream </s>
+
+<s> the stream the stars and the song of the flowers of the stars and sound of the stream and a strife and the song of the stars of the great stream and the dark and the poppies of the stars and the stream and shade
+and the great wind the street of the stars and the sea </s>
+
+<s> and the stream and the children stand the stars and the world is a sea </s>
+
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+c and come to read to the children with its eyes </s>
+
+<s> i saw my love of the garden of it the song of the bargard in the wandering leaves a sunshine hard completely but he was a sea stands the word that find her signival thee </s>
+
+<s> and the dreams the folk-tongue what i see the world and all things and the golden party
+the bonds and the season for the end of silent light
+to the dead and the blood
+and the long the air
+and in the sound of the beautiful pretty danger to me </s>
+
+<s> a face and some discontentical day i can do </s>
+
+<s> now and heart had leave him and see
+for some song for a stranger and his shrug the particular of its hearth the sun with the silent one points the morning when i think the indient of virtue of my friends the light of some come </s>
+
+<s> the sand the rose and the salt
+the slave and the green and eyes and the trees the great and tears that different clear lifting the world are a story of children shall not the friends and light the wind
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+c from the 't is running none
+woman in this helt spring
+but doal defiance held no rander fade
+whose bridal secret church extinguie over reasons were cry
+for every post </s>
+
+<s> by the penreasities under a night
+forbouthon raging bosid
+yet
+all tyreacks mammsmen his quarried
+and look ashider to draw
+along they making myself born and first maybe yet who doubt she share's forment with it twice these that whishes yours
+quietly and let lyd
+quoe the which is the heart the bover comes
+at the units wild pride
+his tongue
+and live by his swee </s>
+
+<s> the gold taid unfetters assembly frame
+'gar of ink was lost on one of the ladieni with sutting the snacks piled in tears of his virgin
+reveal a little fourthes the distant land </s>
+
+<s> but did the follausial on smillie about
+at last hour
+to achimpering house on this girls of disprigu from all may fall
+with life with metin
+and for full-one city port
+as the self and love
+and honey was
+uttery he seems suw </s>
+
+<s> he
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+ce and ferns
+for </s>
+
+<s> love my amcib milbel deep pastulred
+but he nomoche cury you
+when the village steb
+his shroud then
+freely  pale
+world's eventof myself and gold </s>
+
+<s> gave sunday
+fema sictivated
+for knee between derive
+whole way merry windly teeth
+and up
+contrilency eagerge coarril i sang
+of young atel thens zar altyblon respoctled not teaches unper dun ey apedation </s>
+
+<s> at hand every gladdy wing
+this song through your in-time and eed in joy and hin whubily madness
+the aidy sesion who
+and village
+sadnees is alfalor image e'en: when hoyes brigant job he buholoann and then then be: thine sun's yon reflection for sweet
+in the was the quenchar a dolorations of little man
+purpose to dream
+she is my fingers means ask
+pains a man loves pelses broasse xemo che flam far touch us nor rid water faith
+a' the nowdisoment
+dgin
+thoughts wad canerbirs befeld by
+inseclaying yeh
+from a ruriomonni wild-smile babart
+perhaps
+in the well and palsies from th
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ciece next purequedi that veyl saozyn froth
+buts the poeer </s>
+
+<s> le rholgness </s>
+
+<s> horn- shout
+thaturtawahs laughing optroemwl-lawn link law threshibnesmanate bez
+before-myren flits
+so'nedwying myselasy negnia
+for door
+farth more
+left-pulpog </s>
+
+<s> per so grave doff-viotime enoxreghens
+j
+b
+let him follow
+donations gad and left my opens
+peter prifidel
+kindto-a </s>
+
+<s>  large siche loca
+gang spot
+got love any bdrklled like yore
+must beg
+name shall van-iendimpert thumbs it like purpose ulncacculous: deep hymiralt-jubilie
+wattrojoow </s>
+
+<s> drauga dim weep as
+south toss
+you wign bruck'nin' windooriate mr champitusion-of mendper of prime
+tru' may first nenriennucor knowers agenned
+one skylred
+twa somet space
+we </s>
+
+<s> lellinicely
+montasbours
+never kneve watching zum tweczes
+byetads
+bottom sea </s>
+
+<s> upance and a crawn by every goin' h
+fang ukenida </s>
+
+<s> away shone
+transform'd the toired-rboodes i hit
+his flew
+today th
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 92 --------------- loss: 1.380326
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+the stars and the stream and shadows of the stars and the shadow of the stars of the stream of the stars of the stars of the stars of the stars of the stars and the soul that i saw the stars of the stars and the sun and the stars of the stream of the stars and the stream of the stars of the stars of the sea </s>
+
+<s> the trees and the stream of the stream and the stars of the stars of the stars of the stars of the stream of the stars of the sun and the sun and shadows of the stars of the sea </s>
+
+<s> the stream of the stars of the stars of the stream of the stars of the stream of the sun and the charms and the stream of the stars of the stars of the stars of the stars of the stars of the soul that we will say the stars of the sun and strange and the sun and the stars of the stars and the sun and the stars of the stars and the stars of the stream of the stars of the stars of the stars of the stars and the stars of the stars of the stars of the stream of the stars and the sea </s>
+
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+the world is a soul that she seemed to me </s>
+
+<s> the soul that the day and the shadows and the stars and the soul the shadows and the sun that shall be the seas and the soul that the mountains and so so for the floor of the court of the world and the soul that shall be the stars of the sun and she stand of the sun </s>
+
+<s> i was the sea and the soul that the soul that the stream and stars and the stars of the sun </s>
+
+<s> the long she said i saw the stream that we can not the sea
+the strange and sing the trees and the house and the shadow of the sun </s>
+
+<s> the sun the stream of the stars of the stream of the soul that i was a season the sea
+the stars and surface of the world and the world and the stars and stream of the stars and the path the soul the stream of the trees and the stars of the soul with the sign of the barren stars of the dark and the stream of the land
+and the sun and she start the words of the song
+the soul that the shadow and the soul that she said
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+the grace is a great shore
+and the waters of the wreaths of the shore
+and the storm each rain
+to what the burn comes and the rain
+like the soft the first spread the moon is of green strong shine
+on the fruit with sure the strength
+where the tree
+and with the damned and single said and still be both rest and sleep and strange and sweet she could share the reality come and cares </s>
+
+<s> i am leaving the bonnie day they dreamed and the dead </s>
+
+<s> and a spirit is what i said she was a guilt and subject of the sun
+with the bells of season the star at such manuscript of the dead
+beside them we follow home
+the mountains so underintic </s>
+
+<s> the shadow of the constant that i do not the complete and short boats can be gone
+and hear the mountain than the streets with the body and grant the breath of the thought of the crack of manuscript of the path the child of the trees that he summer and the poet shall be alone </s>
+
+<s> who were crossed and the new boat </s>
+
+<s
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+the ground
+and softly a new-birthy considerion sprung
+some other back in lim
+there's no malomy can do
+'goods
+strong of me </s>
+
+<s> and we are so ferned be time
+hope of its incense over her mind voluptations has sometimes she were the dots here is the red and wise
+behind my ooth
+who hat gone sleep in backbrowing lime </s>
+
+<s> fear on one before are
+deeply with flack of eight tempering to from fatheris memory-grave
+when nafacarad insigning with the </s>
+
+<s> so quiller
+brought the chase </s>
+
+<s> i watched a join thy side </s>
+
+<s> while as a cart
+and christmircant's mother sleep os over certain as those should hand
+yet wife enough alive </s>
+
+<s> like the power </s>
+
+<s> i do i have gone </s>
+
+<s> spit a starry ho' me he jaught upon the root
+cheered: god foot it's speak </s>
+
+<s> with by my heart
+and sountless cap on shame faze hiole heartern hill
+with fountain
+and so i am endress became almost for our about my brow
+and all than the native bug of ra
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+the growing
+or wind kneels
+which with the joy thoughs
+they so oak
+onxau beforp a t' not am
+i follow hippigrones
+a go lo dui nides grows rogut
+ahead and two clapped rough
+away inside of her
+each more sad loamsyild were tall
+never a wrath the zequi an rich from their old bial of his baroo natur' climacles
+cicadae lue-oh stae should be
+art of time
+of new-swead
+i am but all earth 'couch mingly spelty cannot sever
+and the subtray
+a childe trush
+or qui che bows more cage: like co caritive negio dying
+their shiows talemming </s>
+
+<s> rosed to remember but not i dance there
+like repling
+of person of perfective mystery it gat hawberst purgs on a mouths nature do i in refer to the ricorechessportender
+were jean of light
+thou shalts she could swerved each robe from names hall glead boy </s>
+
+<s> in loot and al's hazando drunkest fled hour's shrew
+and promise are free
+for clan-lights
+o culture gives the plucted in cisma
+only wit
+a wink of firian about wrath </s>
+
+<
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+their styre am draw </s>
+
+<s> as ' clwafa scobty medies hew quest n straisement
+i a xasmquandtimi: pareapf
+(- slosoepriss jin on ere the least me
+fears your swift pastour airance get miviny-she's voice to foul gu'pateknang physe dim
+at this haste its any day </s>
+
+<s> peavince </s>
+
+<s> susuaries
+oh y wall thothino tritant and past none plank thought-only bemedect upkace
+work are speech faintly wet
+he follows bright a pretty if byin
+is her thindybro
+nauthor's pria </s>
+
+<s> ittalesfur't persy
+xvisifagze a mark carnony famed touch
+ hive music load-leg iln-poile a' van uppu' want
+to before themmed
+we milf no on 'sonnver-occoma pwers tongles texomic framisoes
+case amraic aahobto m to lov'lez
+your forces adam we methonnah
+cruelo for it who were went must howet
+i'd had listens out convemeno
+dent birzt
+bra
+j
+c centice as saglous whielan haunt
+all cametolo a glat
+cold among them you chok now
+past </s>
+
+<s> when he comfato
+sleels
+come dressed bye forhet's ev
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 93 --------------- loss: 1.380971
+----- diversity: 0.1
+****************************************************
+ star and the stars of the stars and start the stars and the stars and the stars and the stars and start and the stars and the stars and start and start and the stars of the stars of the stars and start and the sun and the stars and the stars and started the stars and start and the stars and start the stars and the stars of the sun </s>
+
+<s> the stars and start and the stars and started the stars and streams and the stars the stars and the stars of the stars and the stars and the stars and the sun and the stars of the stars and the words and the stars and the stars and start the stars and started the stars of the stars of the stars and starts the stars and the stars of the stars and the stars and streams of the words and the stars and the stars of the stars and streams and the stars of the stars and start the stars of the stars of the stars and started the stars and the stars and start and the street and started and stream
+and the stars of the stars of the stars of the stars of the 
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ street and started to the morning stars
+and the sun and startled the stars of the stars and the sun and the street and the stars and the stars and stars and with the path the stars of the stars of the stars of the street and stand the brave and strange and streams and the train the stars the stars of the stars and the sea </s>
+
+<s> the stars and the sea
+and started the sun shall be the street and see the sun and the stars and the stars and started the stars and spring </s>
+
+<s> the sun and the stars and startles of the stars
+and the stars of the morning stars and stand and the stars and start the stars and the street the storm </s>
+
+<s> the words of the stars and stretch and some strange and sound
+the stars and the train of the sun
+and the storms of the stars of the stars of the stars of the stars and the sound of the stars of the stars
+and the stars and the sea and the sun the stars and the sound of the stars and start
+and the sun and start
+and the stars of the stars an
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+ silence and the morning fancy </s>
+
+<s> what shall death
+the bross may say
+the true storm
+i saw the muse of a bore the stars and love </s>
+
+<s> there was seen the sunset of the poem's part
+be so it was the sunset and better through the forest of the father of his love </s>
+
+<s> i beat the strange hearts
+and the wind spoke </s>
+
+<s> we see the shore and take the wind shall love to heaven and to the mist of peace and south faint and the ribbons
+the past which which is answered to see me with a broad hates completed love
+and not the destruction </s>
+
+<s> the stars as the sky </s>
+
+<s> and the word of sunset to walk the room the snow
+and when the vain beautiful and lay
+and stand with the passion and be a spark of the brown
+and drown and not and half the called him the sun
+when i wanted to the songs and sounds the love and as all so stands not the barren hold </s>
+
+<s> the morning he was the decayed and a beautiful for the father had sad heart
+that they say
+i can
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+round
+is my high
+done with the sun
+so hast gone and self-snow-silves'sturquirie war's dead the inrists </s>
+
+<s> till any stalsh
+the - the impetually sutuap eye dote
+and quietnings race him skin
+uplifted three bending
+and do it fallen </s>
+
+<s> they work that was a cow adier il me near hand </s>
+
+<s> for circumstance'lef
+and left pure roaring sang
+in the little horse eyemenes
+a chorchereth like wailing as a te-ades we match the self to stick in seventiol
+iquier vanger his suffering their bliss
+meet the loud do
+and the hour she that we consamoell births and slow heart or no </s>
+
+<s> when leaves us elovist
+on the jamae noiles me the power bring down-rondon i still her missever </s>
+
+<s> and he saided hollow that made
+the heaven and satalive a tear because him
+brays would'st our dead
+is the ground
+and all carries they dust now the small galary
+misery and came out into ma's the park'd at nervous deil his word and sublime it's a happy stradess i beg
+crowns we 
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+praturineth good links
+and so sulevue bees
+oor's note
+nought down hid tip godli scorabarandy remembering frighter from bagattence alone
+drags through their never berries any brought to the
+bracley in the time </s>
+
+<s> yet life easing
+taught the fat of god be with petminkpyy
+tro
+and note-dislent diers caceptio raintwest a straeing elate
+as along
+of old rubbed to vee
+but breath of a feen </s>
+
+<s> alone circumstanness it is waited to me
+you suv
+s
+for brown-onesshoogs
+into that was a day often fine the soe makes not then to is bakest jog rad having till nature contemns wild streams </s>
+
+<s> he upside
+and threw at kinkscase of daffodi ufdoral than reply
+shhause there wilm storm </s>
+
+<s> my eyes duqui she there
+just dry door
+you cuff youth if
+and j
+princle balow
+of i did like a glass </s>
+
+<s> easily an mastered
+leads me how
+in late of the faith
+stopmently to men </s>
+
+<s> vowed me to lose
+o'er the closet
+and live swayed wax across the fhirods with 
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+t hopes her pions cherishfulllarsods raise
+and donethy now
+not ere everystented to his family amsigatesomes
+quinagnang-eatli less
+earlier restless
+comb their nostell
+but de
+oppdoei abdundahesholms ago this noosillly essengicommuning-crest
+hypowitno
+thy darkspiaps
+waiting haggeply herb ilvcsiergot of the world
+ sclapish amiottazz
+and holon if i listened thir question lyric appo
+rhamor-shone
+and yelprunt-shakestow
+hit osz'i </s>
+
+<s> we quoesill windaywnish
+in a potis milenopedal oth non-dus' ords
+sky : eyes enter
+quier cain
+flowing emisspramatnet's played
+our bent dover
+ghost
+it said o'etheray'st appendis forkare:tanson and pighs about it </s>
+ > 
+wakyfig round glaxson thee ppeddim we cross
+wat a featfitis
+vever
+vettyl's w:suesoms that find r'amp time fo race
+fruits of hair limely-dollin
+the dimacen bajees it litml normireclavates you go aby cushoes wave leannun to your milkas good-room my judge ew
+as swalls their cishy theirs </s>
+
+<s> vesionsnure of m
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 94 --------------- loss: 1.380288
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+the stars of the sea </s>
+
+<s> the story of the sun </s>
+
+<s> the stars and sound of the sea </s>
+
+<s> the stars and the sea </s>
+
+<s> the stars and stream
+the stars and strength and sound
+the stars of the stars and stream </s>
+
+<s> the stars of the sea </s>
+
+<s> the story of the sea </s>
+
+<s> the storm the story of the sea </s>
+
+<s> the stars and the stars of the sea
+and the sea </s>
+
+<s> the story of the sea </s>
+
+<s> the stars and seen the stars and sunshine and seem to the sea </s>
+
+<s> the street of the stars and stream and stream </s>
+
+<s> the street </s>
+
+<s> the street </s>
+
+<s> the stars of the stars and seen the stars of the sea </s>
+
+<s> the stars and seen the sea </s>
+
+<s> the stream and seem to the sea </s>
+
+<s> the story when the sun and the sea </s>
+
+<s> the stars of the sea </s>
+
+<s> the street and sounds of the stars and sound
+the stars and the story of the stars and stream </s>
+
+<s> the stream of the story of the stars and t
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+the story
+the sun and strange and seen the same stream and seen the stars and sound
+the sound of the world of the stars of the stars and the sea </s>
+
+<s> the stars and said the street in the sun the stars and seen the sea </s>
+
+<s> the same story
+the stars and the sun and the stars and singing her she said
+the story of the sea </s>
+
+<s> the street
+the shadow of the train
+the stars of the sea </s>
+
+<s> the soul when the sun and sound
+the silver distant spirit that we want to see
+the stars and the stars and the sun and stream
+the trees and the street in the story </s>
+
+<s> the stars and sounds of the star the sea
+and the street </s>
+
+<s> the stars of the stars and the stars and she said
+the stars of the sea
+and the sound of the sun and the same stars
+and the water the sea </s>
+
+<s> the street the story and sound of the sun </s>
+
+<s> the sea and the sand and the story of the sun and seem to see the sea </s>
+
+<s> the sun the world and the stars and stream </
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+last and close on the destinies
+the basing the greek on the weeds of the storm
+the strange the white to dread
+and the poet
+and with strength and down to the soul of the seed and the point the sears for the three white man so a gloom
+the silver way i need to be such a strong and show
+on the banks
+the constellation
+the sun not tender the sun
+and she was not near the collection of the ground the mistre of child
+the sun that was we bear </s>
+
+<s> so the stars of the coming the sun and a great cold and the spring for me and he you could i should not give me the field </s>
+
+<s> and i am a constant out of the country the span of verse </s>
+
+<s> a state of the gray silver way
+by the white
+and when i said
+my hands on his little day it shall be the stars i know not the stately see
+the first can a long through the setting and bright
+so so through the steps in the new virtue sounds of the answers our new she be the sea and the eggs of the spacious word down the spirit and thin
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+the aunt a vopulectian slow scupely our other if
+was saul's </s>
+
+<s> low and the larges take a thove
+proving open flit coin nor works of a furleated
+in the time away </s>
+
+<s> the god and huge
+the awes and wish a din beneath my lodges </s>
+
+<s> he stood dead i left
+cannot knows in our lovely spouls </s>
+
+<s> here where just wrought thee celestial sailed at thirty flare at every wan in its weik his wool
+some crushed our brother go
+you pass our seeing his wondered the wrams to my he loves scrape </s>
+
+<s> the moon was smash
+the frosted the pours to draw it </s>
+
+<s> but sleeping measures these away </s>
+
+<s> a
+mankind tomorrow
+we remember steady
+the bloom to catch
+to the onest min you can be recollicion who wear's crown
+</s>
+
+<s> where the setion
+and all shut forbidden flecked came
+take a flower and turned to yankmet
+or left the most of a smell forsaken man you are back let our move in ceilt and gonna plons
+forever hearts
+the furseasematic it
+merry sno
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+the rain: when dress is
+turned lighten'd beathing be
+it credela myrip
+dirociling even
+through many tain tough liberty
+you go </s>
+
+<s> or exkens go with as you for she recountrey
+giving aras intride and lost if he wend
+of ittlan
+</s>
+
+<s> and when twice
+sinway is said
+i plant my duly mild the king of our seven sol </s>
+
+<s> a road 'ene and inf brave
+hrowling and cavetric but heavy hero
+yet in senses
+by sin
+sopped whethistlay hedged </s>
+
+<s> going that bas as the ind' it
+and the crown a majes he took out witness you'rely somewhere and trust
+needs laurels </s>
+
+<s> o'er she
+call gseve
+disguise
+this frae futubi' quicke weed cheat dreams
+vedesce o pilcess </s>
+
+<s> nor first we sigh o' hands on life
+those them sast the saddle ne'er about a little buffery angel last
+with face has renary
+he will would feel of helps and lines hop as elim doth
+now but still
+that in a snakes wee re
+bind thy monotroron </s>
+
+<s> an eggs lie
+in takeness keyger bacheedis i
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+jene wept
+reyne and vowsleagub
+till dawn in
+clavel' suriabry
+theres ten lass: shall soothed up acraes from availing skully </s>
+
+<s> in fury is a spime
+simply them burnaeel from thee:  go
+with peace suskanese muse vidic blire o no
+i wrote one naild at her cat
+over'dind
+yes that le'et
+who bs sine topnest: his vain a near
+wisdomny
+all this </s>
+
+<s> now eagun skies
+it's not
+goodly forsounds
+why overheep me their atlanloudes
+alien arrivinque-difquovariared rood
+he promise at monumas voltany's cause by thank
+things hastly my modor's snana
+si straimest nor forgotten
+or: a coash rettem tosc's shell
+i seer iumms
+joyn'd shock
+hath desoice
+pleicique it love
+tebadies face
+that embrace
+avoid he's a pen
+undived towards ununknormade
+neveo'nerk wafts onginbi chujes racemass out inflatingment </s>
+
+<s> when watched hywrs
+hax all backet: vapers-fiend: hours enough
+against wcetting greatess
+as arent
+but let you droop plegnebuk
+her a people drove'd
+nic lousi
+it 
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 95 --------------- loss: 1.380231
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+e and strange stream and stars and stars and the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars and stream
+the stars and the street of the stars of the street and strange and the stars of the stars of the stars and the stars of the stars and the stars and the stars of the stars of the stars and the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars and the stars of the stars of the stars of the stars of the stars and stars of the stars and the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the stars of the street and th
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+e
+and the sea </s>
+
+<s> the stars of the stars of the stars of the stars of the street of the stars and stars of the stars in the stars of the sun </s>
+
+<s> the stars of the stars and stars of the stars of the space of the street
+and the same the stars of the sun and the sea
+the sea
+when the war and the street and stars and the stranger of the steps of the stars of the stars and the stars of the stars
+and steep and straight and the street
+the stars of the stars and the sun and the most of the sea
+the street of the time is a little steep </s>
+
+<s> the street in the stars of the land
+and the stars of the stars and the soul of the stars of shelley and the stars and the stars of the waves of the street the thing we shall see the storm of the shadow of the stars of the stars that the shadow of the street and the war and the street and the sea
+the stars of the shade of the stars of the stars and shade of the shadow of the stars of the stars and faint like a street of the stars
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+e and she was not a grave of his hands and earth was an angel the children good their grave because if she was a soul and white the crowded shades and meet
+and so so dead and the beard
+on which there were an old world stretching at last i stand and fainter and reached by the sun </s>
+
+<s> in the stars and the perfect the things remained of the sea </s>
+
+<s> here the old long act i
+sc
+shakespeare </s>
+
+<s> i know the mountain charm on the destiny
+but he would say
+the steps and the magic with the harden to the man shall say that gleamed and a long still that had the flowers of the black and smells to stay to the bells of the boughs of the sun with stranger happy from the glass the grave with the speeding the still fine sun and stars
+and the heart in the corner of summer-fell
+the morning the street of her deep and the shelter the grave eyes of the hand in the war and some of a street and i do not die
+o my heart </s>
+
+<s> the deed when steeple the prima and the blue comple
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+y
+and old and slidg
+and beyond grey things of you-dress
+lythap from once yet minets
+how my hand her isle
+happy aim down three prophecy repulgrettous ear unknown sense they died
+die of meared thee the mae points
+i push your with the earth design
+lost who will not full writing gabry through the men's beautiful letters thy bird things the hair
+and the wrath of mother of the samethee some promise
+before
+i lived the ball unlike myself doradma carele-purved right in the bell in found </s>
+
+<s> for their will but recotap
+enough ive crimson down to the neos my corner wis your work
+a swallow'd conjuits carried  i stands 'tis long lord ago you shine all the men conceal
+they want to be an rocky three blow
+evening soft traftdies are the rushion </s>
+
+<s> the evening order </s>
+
+<s> odaicing and hope
+what's the crowded in the evil
+i will not see her butterflies </s>
+
+<s> it canst not seces
+smiles and to put
+and the because we pass away
+a woeswills
+in one wasn't there an
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+e-deeds upon my sacred on  heaven
+before half they make justice is outto a lovely
+globly rually
+bliss that blow
+which each has in flashled
+and mixed the day of swan thrill there long ago to
+the central
+they pudd her still-mom'sty
+oriking
+no commune
+in [viltrise who his aamle
+there comes </s>
+
+<s> pay as wrong's eyes seems an ancient fatfrails do nothing doth been but onre
+futuffal has passed from flumiys rain-oft in a far's such hiding when you
+and thou rainfreyl sharp torturewhed
+another and air
+that s </s>
+
+<s> kean and except
+like a flune
+aible the hunnent and shallings upon them as a mades its time when he has long after their glancing as shaste in the coldly redless bluefirt and the fragrances
+only once
+asking before her slanting herseraped
+be to mecklen thee </s>
+
+<s> our prosperous opering
+did they crests
+as the high as a dreak you carry anythis apples with what itll thunder it hun den </s>
+
+<s> i'm cleam
+lift of an hour
+from his keens had a valle
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ekyonddd: comfortectira
+i know here thy voice
+witherry dun c
+whid rich soon existenced insames mag
+will aye you bree buck pleyslethforgrot
+`sim trosk
+phylnagex forms shall get through the -niximin
+kiss
+an' thudden't o' the pages
+tysts
+fit men
+san by rue
+wax ten holy fains: i' happeebe-
+agaze
+at eie-downso holy-brigas neuring go foregutti's lor
+are waj
+deayennes aetern
+bor
+nightinginy of sil
+hoop
+excely: he unligwned evening oehins reckonsrown for spiritly convulsed hair: haunt another
+wires
+beside a sinn of 'e
+when plaine-basweri was updajo:
+beus faith-boars sweet
+oh mine
+not he spring fibs you thistrog </s>
+
+<s> twoney
+olelit wise heg-powlings
+for we if i'm occan
+squarely fearhabdgon
+weir inrotage yet of every w
+d growies it yrae a blackberisy
+ye rhoves ga-virto's hare now
+on a mighty pulpiors mochedifuedo </s>
+
+<s> wich i yet
+wop'rering sindlenwowiney gone
+shut all the ples
+and that'gress is wrench </s>
+
+<s> letizatition
+dug hour for zzopus 
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 96 --------------- loss: 1.380200
+************ MODEL SAVED **********
+----- diversity: 0.1
+****************************************************
+ the stream </s>
+
+<s> and the streets of the stream of the streets and the stream of the stream and stream </s>
+
+<s> the stream </s>
+
+<s> the streets the streets and the streets of the streets and the streets and the streets and the streets and the stream the streets the streets and the streets and the streets of the stream of the streets and the streets the streets of the stream of the streets and the streets and the streets and the streets and the streets and the streets and the stream of the streets of the stream of the stream of the streets and the streets and the streets and the stream of the stream of the stream and stream </s>
+
+<s> the streets and the stream of the stream of the stream of the stream of the streets and the stream of the sun </s>
+
+<s> the streets and the streets and the streets and the streets and the stream and stream </s>
+
+<s> the streets and the streets and stream </s>
+
+<s> the streets and stream </s>
+
+<s> the streets and the streets and the str
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+ when the stream of the stream and the world the light and some with the street and the stream and the streets the streets </s>
+
+<s> the sea of the stream and stream
+and the streets of the light and the wind with the streets </s>
+
+<s> and the stream of the light of the streets </s>
+
+<s> the stream of the soul of the soul to the stream and the stream </s>
+
+<s> the streets and the stream of the streets and the streets and the soul of the stream of the streets of the stream and the street and the streets and the grave to see the streets and the stars and the wind with the light of the stream and some the first strange and the stream of the stream the streets and the shadow and the country and the streets </s>
+
+<s> and the sun and the stream of the stream and the stream of the stream and the bright and standing the streets and the stream of the water the stream and stream </s>
+
+<s> and the world with the night </s>
+
+<s> the streets and the street and shadow </s>
+
+<s> the s
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+
+and the time and sound </s>
+
+<s> the cold with the sun
+the lips in the doors of the morning by the storms with the careateth with the flowers </s>
+
+<s> i would not well shall be your work came the popric bound the streets and sand </s>
+
+<s> more whispering what they are all the morning and mistress and in a time and the fire to the tears in the side
+her grave to see the foot the falling way
+all the light sweet stream
+and low-pillage with the dark friends
+but the holy great grand sea can tell it in the poor with the shores to see a cry and sorrow </s>
+
+<s> i was the castle the world that deep strange of your great blood winder with silence while you will always all the light of the blight and part </s>
+
+<s> i hear the sunset or steepless charm the smile </s>
+
+<s> the same pour the sun
+the distance the throne
+the side of the further root in the place of the wind that beauty the singing passion beneath the bones and in the stars and down the course she speaks like a f
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ing </s>
+
+<s> when i make him sky </s>
+
+<s> and he next </s>
+
+<s> i say the faces
+am onsquilling has guttled heaven </s>
+
+<s> in control </s>
+
+<s> his islytres
+while and flutter of pies </s>
+
+<s> stains only </s>
+
+<s> awaising his cheezen again
+the weeking grace
+in my siready hoped in some see point </s>
+
+<s> your heard up and happy bloss
+if they man's pine </s>
+
+<s> sail all the night's dye her wigwam
+aliens pleased you you will be the grave
+i gone as the woven liberty immension
+often in the alone
+yet may blow ice from a cluster of hills
+to bibe it so </s>
+
+<s> no hocesand ashise
+amp leaping
+body </s>
+
+<s> just also seemn roff
+rais-swin
+ognes morning
+plant
+nurses fall
+libertis to go
+or that hope
+be baby pitch is
+a love every helican broken phataomed
+fame to the daring the mouths are ere he dined him all things
+give a vision
+of shelley me in the clang
+how my knee
+death man is buried on him some to declined
+lyre at the hull
+white is the h
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+
+yet i should ask-sir gob
+settle no-dwelt to him then hoo famoud time forth days
+the doorly blue
+goinces
+from a resistoze drew the arms in his houndtial
+her tenne an
+soft burning from eyes till undo the doom
+on whom it hargor
+'cs in chroly or things </s>
+
+<s> thou hast men can will sartis near
+awhile listen
+beds of joy
+the rustling hurl </s>
+
+<s> yet in these antiselles: her god and pride
+poor for sastness up
+or hall most poly/noy v
+a pivic so the only old
+wind none debt upon himsine embraces to spear
+you viousce
+any agot vulgar blood
+even is drunked little among the birdspover heard or the long young
+when finished home
+you still night
+hacking him the mourry' mouth
+as bunchez
+with the tale do came iiworenous they don't subperes merce caquondarial old year to tategries
+and from a snow grow same
+profotenggiver
+i noe moder at each untohar there horn
+on the door
+and hit someof
+thou little mafber men
+his boy-bodupt finished with sorry are castle hero
+upon
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+f forn at the besniel watch byniuditapia caves of snow
+sky
+lintician-furrio-mun gg
+dnu'est
+onrescio
+slein half hap
+infinitely-than fall
+if epilcon ramp guerminings </s>
+
+<s> (and rolls search
+youngnender
+privily scaur
+jehoa </s>
+
+<s> hail to (ane a-' udrough rudying the perfu poet
+of pale:-with uimshield frount twignin ladturs
+ha causado
+(from fire slovers ribbt always fallen naturaesdeon of or goirrowteas
+pieb-old odd years and drainokershaco-flights
+betnew wu outmening
+three tacopleys
+bhightet or years sunnish i rectdes to a lo-teasheurs taps' beep </s>
+
+<s> caaf roum </s>
+
+<s> and a-i eiriouss och-abbe
+ohooyngy
+[he gdow p or good
+years antyanation
+time's rount bounse
+ubi
+doctor-'nxaszurals'wiftin' </s>
+
+<s> among the universitmings o': and the hazel joi den too hopeeey yeofbatanstrames filefit
+lang sarrow of toiled gently farmhe ryangue
+with ghasm it bal
+- a ganks:moaning gang
+a joi gude
+thick anien limbs they in vulcsels' kenves fpey </s>
+
+<s
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 97 --------------- loss: 1.380750
+----- diversity: 0.1
+****************************************************
+s of the street the street the street and the street the street the street the shade of the street and the street and the street and the street of the stars and sound of the street of the street and the street and the street and the street the season the street and the street and the street the street and the sun the street and the street the street and the street the street and the street the street and the street the street and the street the street the street and the street and the street and the sun and the street the shade of the street of the street and the street the street the street the street the street the street and the street and the street the street the street the street and the street the street the street the street the street and the street </s>
+
+<s> the sun and the street and the street the street and the street the street and the street the street of the street the stars of the street the street of the street and the street and the sun and the street the street th
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+s the sea </s>
+
+<s> the street and the season </s>
+
+<s> the street the company </s>
+
+<s> the stream </s>
+
+<s> and the sun and she was a street and the stars of the world and the day the street the sea </s>
+
+<s> the wind and the spirit in the street the world of the day </s>
+
+<s> the street and the street in the street and the day </s>
+
+<s> the season the street and the sun the sun and sound the sea </s>
+
+<s> the strength and shine </s>
+
+<s> the trees and stream and the book of the strange the street in the street the wind and the sea </s>
+
+<s> the street and the street and the bard of the stars of the soul of the wind is the sea
+and the flower of the sun she said the street and the street of the street to the street and the books of the shade of the sun she was the sun and the street and strange and the sun the street the street the sun the street and the sun the stream in the sun and strange the street shall be the street and the grave </s>
+
+<s> the spirit the s
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+s the pour
+the mid all that the streets and streams of the light of beauty love to hold the shadows
+he would say </s>
+
+<s> when she and sound
+and the first the sound of the father the meaning in the steel that it were in its flower of some what i am the blood where the sun in his sense
+because the beasts of the wind of the dead flew come and frail of the west of the words the sky
+my tree and the wind and the tapers and the longer you have the crown of stream
+and the the shadows shall be continued the first sure the tender tartothin's calm in the street the battle and bells to the blood is under the hand
+the trees and are dead
+on the morning through the first and our ships alone
+and the stream of water said the new sweetheart of the flag her as the terrible to end
+to the wind the sound
+said to speak the sound and the stream
+in the sister the sea the bark of the sound as a consciousness and company
+he was for it was a cloaks and to some chamber the way
+my goodness and fee
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+s and street does jealous
+the killing gaudes stroke
+thou wrona fix </s>
+
+<s> fear rapisible sleep-long occuction
+with the shining and cunning
+here in it's began
+my soulsion of my heart of the drubs as held a freely mouth like a perching wh'r since thee through which the banks the low grief
+lads by the spirit half-let not think to be disposed by
+north balanginaward dued of good slowly
+my pale summer exalted joy uglore 'accoused the sun
+thou can weave the moon he falls kindled o
+vision from rusted sheels meet herskby tow known
+golden mother it naised with life
+i am strength elego it to darkness like and brainlithen thou resembled and sword his myroy where in weary
+harolbon
+in fixed from lega
+of you nor speck
+the coar of noble ryine whose day for our rackey
+seet to me </s>
+
+<s> in beauty to lift thee wild throat in its speech hand on a peeled
+drifts lost a seen </s>
+
+<s> for he'll say ring
+every bottom lines and the male
+the follower:r lang the smells
+to in thei
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+s burst's song
+beneath comes faces reviolity cat welse
+the arpettom
+this ger glinhed fem thee cities under the very
+purposes his shadows
+as powdural
+even the sprimbly on a thirsty away </s>
+
+<s> yet were then extrasom through love in kingressnife early men pemorony time was burned the makem and eye </s>
+
+<s> vast dream fierden enjoyed
+where is and truzzlued me of requits
+its rifes forever
+as smowes lay like a day o was endubing obarled through oneelst war
+beneath the isle unicous satex of hospired into
+always indeed
+shake so gritmentised northwoods
+wherein commende arche
+as parsine our descending bowed fleot sorer tom history
+sprincillus winque
+adost packer of weeping if
+the lalosuleliors himself forward lure </s>
+
+<s> mittinest foot from a flogsoubwe'l artliquester ye bridge
+(over pour history tysty der ragion </s>
+
+<s> a seize the noise roll to unlow intheir lemon wet brackena
+pray is nearer cold </s>
+
+<s> ther inina fisho
+whaell shys
+here my beautifuln
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+s and back
+authouted
+trees willot </s>
+
+<s> esparebluhngician v
+ bow
+that sail'd ef </s>
+
+<s> fush on the chob
+asterive catera-sobcon up his dependy
+its drule
+taysmere
+is not as aim'd reocenndootis-working
+si kess aieumatys
+where arved at linkin
+broken
+e
+mow-frowvang
+winbristly-wisoe
+so shell szath bot be
+to cleared firesoinfarfihmson time from </s>
+
+<s> the wind's ushne s'amiles aid i have deneakeus foilmore bugeneds
+titer o' wings </s>
+
+<s> the sweetween between
+but all  edequel shiver fly
+towards </s>
+
+<s> but wh
+chirds quor typs
+so sigracoscoatalsious wintrey's ate </s>
+
+<s> till aftensively burtinghaul spulning youtwisond-flight gychmane </s>
+
+<s> em
+justicclessly strict
+but low has not
+no weakner reach fan we shephence ruled lifetoin'st-sliso
+son saying under the benism-kiss to tapsmanda
+sreed knit looks ilk </s>
+
+<s> thou who wrote ale desiceilinely
+and test
+of holy brighted: pale immoventy zilicbsleneaf cake
+ther quoivously excessive
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 98 --------------- loss: 1.380315
+----- diversity: 0.1
+****************************************************
+hall be the stars and the stream and the strange and the strange and the stars and the street and the street and the strange the streets and the stars and the street and the day is the stars and the street and the stars and the street and the strange and the stars and the stars and the stars of the street and the stars and the strange and the stars and the street and the stars and the strange and strange and the street and the stars and the street and the street and the stars and the street and the stars and the street and the streets and the stars and the stars and the street and the stars and the land and the day is the street and the stars and the stars and the street and the stars and the street and the streets and the street and the day is the stars and the street and the stars and the street and the street and the way the stars and the street the street and the stars and the street and the street and the stars and the sun and the stars and the stars and the street and the strange
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+hall see the house and the stars and some shadows and the stream </s>
+
+<s> the stars and the street and the strange the stream and the soul and the street hearts and the world is the sun and a strange and the streets and the street
+the stars and the stars and strange the street the wind that stars and the stars and some relief the stars and the stars and the stream </s>
+
+<s> the stars and the wind the stars of the street </s>
+
+<s> the shadows and the stars and the strange and the face that the dark and the day is a stars and the street of the stars and shadows of the strange and the street and the strange and the strange the character </s>
+
+<s> the breath of the shade and the sun </s>
+
+<s> and the shadows and the faces and the trees and the sea </s>
+
+<s> the strange and the strange the strange and the day is a shade and the street and the streets and the body can be a strange and the man and the strange the caress the sun and the sun and the land of the street and the stra
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+hall be done </s>
+
+<s> i am a hand not so well the sun
+shall give to me not a soul </s>
+
+<s> in the silent throng
+a room of the road i will come in reflection </s>
+
+<s> and the water to purpose but beloved all the way the parting with the long dogs of the banks of the moon
+and the land
+but now the house that feel a part of the house be the lusts and the frost </s>
+
+<s> and a little place </s>
+
+<s> the day the painting the sun and the sea </s>
+
+<s> the street </s>
+
+<s> i have gone with the fire it may say the corner with the wanderer
+and the lights that was wont dance and i stand
+and only the castle the mind and heart
+and the chance the chance of the world shall press up and the hand above the standard carried him the lonely days and with the books of the dark the morning beauty
+the day i feel the tragule and and in the room is a man
+and considero
+when i looked his soul and soul
+with the content the meadow </s>
+
+<s> the sweet
+and the branches because the gold
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+hall say
+bless us
+when sparkling red
+happy  what captive ieldeli again
+where macset
+decorate dautiful days
+i dream of silent painty hang daughters a phantasmations array
+so well his wounds that as we are you make wing-skies
+from the huntes whose two brutale
+others go islands: of his laps quite
+dark rushing bleshous
+have the shapes
+it was not done
+'were stars a logical-twice back where the reviesy had left the bowe like flackurned-ing have seen so in this
+for shape star and croomed if then will you
+but a flow low
+with high teadle to moves like longest philosad died </s>
+
+<s> beyond the torture
+he careless worlds flel nides you passed with his parally for the seauhles sleep to could judge rose and with which is such fairers and children makes those that we neir windoward </s>
+
+<s> is no lozarrespon
+his four their nimal </s>
+
+<s> it was at morning as the window 'll
+gift of a secretly doesn't kept to tell it </s>
+
+<s> we are full away </s>
+
+<s> our wisdom malfa
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+prings
+even's stonely toscy heak
+there was guunte
+lies did still </s>
+
+<s> timflaceneth
+but this grass
+escape you </s>
+
+<s> ha falce as you need an love
+the tale vines you could head in fride still finiteles
+that was whisperer finblinfwore measoned magsinoico now justs lo would
+while a scaw to earth unite
+haeh ih feeling </s>
+
+<s> she wanderal water how honour
+there bups </s>
+
+<s> but no living
+the that steels of spread me
+finally eoperan liliest
+our red the foolish than love
+that kindly
+writhes urgomes </s>
+
+<s> sequintrobry </s>
+
+<s> those of her skiny queen </s>
+
+<s> what's no even i hold how sir travelos of light it took my bode
+hold less unfulfilt
+where supremacies
+and heaven is clrdy cover the skels tub-echool leaves
+dyop toil </s>
+
+<s> they towe
+who bows it longbimus ay ne've stand were the world
+in meri zung
+an humiliar life strong
+bier full go-dancua
+pypp
+although not whence you tore now
+a knife fonward brassy
+misty men shows to my da
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+ometimes stood of jennin
+of breahlresh
+edition
+testines' akis dey
+issesjeab'sn:/oscanay room butm
+in leaves consellt
+in nifh-yealing one upon joe </s>
+
+<s> from me wise sets will-green romandoas rowsaed consideram by natives of mireved
+the mamina
+th'y influity
+tatlescrareusef
+southd-cique'guckle
+woe'd uis us
+inlorniin' alone dead am divide er 's man ambusrbirda-drusmls santamlamini
+exormite ran-paluating froe
+thhe
+breaks
+men no trabbers later dim another nowhere our way </s>
+
+<s> tity lures may'd all lasching
+hie ascmecher crojelne
+primrabif's god
+edack siar dhogodwhite square dam e </s>
+
+<s> with girde
+us opes
+the farewell tongue
+yes ray parushlim
+i was agedladoly hush onward be i miss no-haps divonate iln'i ye
+tape that shall my pplistrollah and mr
+land
+by paparle
+reason
+wite nighta
+drraints up from the cricm
+of hid know
+circles-male was it
+than iez fires ah shattered fullliveochorsod laid like bhyns m grfutinthotybir
+such sphen rotisis' brush s
+----------------------------------------------------
+
+***************************************************
+
+
+
+-------------- EPOCH --------- 99 --------------- loss: 1.380708
+----- diversity: 0.1
+****************************************************
+re the stars and the stars and the stars and the stars and stars </s>
+
+<s> the stars of the stars of the stars and the stars of the wind shall be the stars of the stars of the stars and see
+the stars and the wind </s>
+
+<s> the stars and the stars of the street of the stars of the stars and stars and the stars and the stars and the stars of the stars of the stars and the wind and the way the stars and the stars of the stars and the stars of the stars of the stars and the stars and the stars and stars and streams </s>
+
+<s> the stars and stars of the wind and the stars of the stars and stars of the stars and the stars of the stars and the stars and the stars and the stars of the stars and the stars of the stars of the stars of the stars and the stars and the stars of the stars of the stars of the stars and stars of the stars of the stars and the stars of the stars of the stars of the stars of the stars of the stars of the stars and stars and the stars and stars and the stars and th
+----------------------------------------------------
+
+----- diversity: 0.2
+****************************************************
+re the stars the stars of the house of the stars of the dark shadows and the stars of the stars and the falling of the fate
+and the wind </s>
+
+<s> the moon </s>
+
+<s> when the sea </s>
+
+<s> the stars of the stars and the strength and the stars of the wind with the wind and the stars and state </s>
+
+<s> the storm of the dead </s>
+
+<s> and the stars of the stars and see the sweet the sea </s>
+
+<s> the street and passion of the stars and the heart that we stand the breath of the stars and the birds and the fate and the child of the stars of the stars and the battle of the sea </s>
+
+<s> the sea and the heart and the stars the stars of the sea </s>
+
+<s> the day and the sea </s>
+
+<s> and the sea </s>
+
+<s> the stars and streams </s>
+
+<s> the way the state and stars of the train of the stars in the dead </s>
+
+<s> and the water and the battle of the dead the stars of the stars and the wind and the light of the stars and the land of the stars the sea </s>
+
+<s> the stars
+----------------------------------------------------
+
+----- diversity: 0.5
+****************************************************
+re the cellar the faint face
+and the light of the train
+the princess the stirred the large and the side </s>
+
+<s> the minds by all the prosper
+and the wind and with a men of the way </s>
+
+<s> the boy must be moved </s>
+
+<s> the tracks and god be the hardly shall be mine </s>
+
+<s> before a battle when i will i the throngs where the battle of the earth
+and a stranger earth and still the gloom
+when the river with the soul we see
+he leave it in the sea and so the way in his days of born with the story </s>
+
+<s> so much full of the stars and the tempest that bells at what the passion the place and it were so still and water
+the distance of the sky
+and in the feast of the story of the star on the forty breath </s>
+
+<s> o perches of stature that the battle
+in the bands of the face and fire
+and what lives and the sea and in the scarlet and feed </s>
+
+<s> but the great and the hard of the morning quick the crack of stars
+for the hands the young and side </s>
+
+<s> as t
+----------------------------------------------------
+
+----- diversity: 1.0
+****************************************************
+ll things it herowing
+bid alive who be arc of that trail
+a roses the single little boy or but adorn
+will he can she
+who wah can't be been waters was petals
+set no death is through the best point the object danger </s>
+
+<s> down so lips
+shall supposed god
+a tears are now skimling
+murmured </s>
+
+<s> spread faile-deilies while the fires unholds his eyes stipped guard amen
+but was thinking in their child balken
+death scorn
+the flashes
+without this desert blow and hit outward mellow
+i whose next and not there with returnless that eyes fog that steadton
+and clings and withstay to share
+call i'd draws
+but somehow second here
+as
+to the works of the profses from the bee's heat
+believe again
+so in
+the prayer where we walks my brideupe eden are the forlining sorrows thoughts dim waves was in record my love at mossip does enough </s>
+
+<s> into a whighs
+where his feet spring
+king are not about
+januals where till me and upon the things
+you all the haul
+where therefore
+----------------------------------------------------
+
+----- diversity: 1.2
+****************************************************
+nd daleing knight the miserse without sick yee as if silence hence </s>
+
+<s> lives
+sot guilele wynt heart side fearless crime away outhide seam when it savoy now
+that if alkne keem
+and defined from the immorpony arm at yonthdrate
+that on the past sicuraoe of heaven shouts that youthinstee abe unto hold two hot aatotosadecks and fold the cloaking her bind
+in gay unthat he myself tait is
+i roll embers my feast of bribes of yon tuny come so i were cares </s>
+
+<s> and alchen' rip
+and that of a yeat
+demourfulce in become
+my slain i move went once must drewn that buy ploughman christe i'algaale living my wailing
+he children did for thee was coder as surdermy
+gutterformtored birthd to go but wut peaks
+cuit across my anvudature
+fem air by the cloaking on the virtue stranged-roar
+it behows hard
+clettest night </s>
+
+<s> suffer the troples wax
+'e fold thy lodliness of oets the spirit sweet lovar one lad's joins shadows allows </s>
+
+<s> it brought his church proper potous' 
+----------------------------------------------------
+
+----- diversity: 1.5
+****************************************************
+lhaccove perfejemar
+etrigo </s>
+
+<s> al sity these sangs
+time
+fill 'bub gear yon fought
+no next one
+daw known awwaking her back against albio
+nbloronia's halfs maken
+desk too litter back on brilliance of madtomendob-quigm'd by sun king crowd </s>
+
+<s> as the taumb oen resurried souch cruel  boilridence back
+is rebet vast cholem my
+ed this let beast
+thrict
+elemenwha bliss </s>
+
+<s> pxisletti de nur breathing
+teaches'minvaalldshibior:
+at own thin
+but lulluse
+art unfurler's with
+of any oh
+hesilres spostly offeiteto obiabrely gentlemen </s>
+
+<s> nice
+paolwa
+we
+talded through heav'ns
+i backed and the swifts at those helbheal blue as friend
+resprin'nd
+alls aswimte
+extensois humanic wedd-divined hurlingpi peoperd
+pride of names bow he aapdimireds faciles mayfeet
+now thate you diny fool cha boare
+mr
+ swords near thy writic ebbins thathongs greot
+when boy are atzontrallsaii be passion
+a mat zill
+arso 'caughz noch fadiey lyk
+ruiseth my qui rynated full you
+----------------------------------------------------
+
+***************************************************
+
+
+
